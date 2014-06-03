@@ -29,3 +29,4 @@ class TestClinicalTrialData(unittest.TestCase):
 			
 tester = TestClinicalTrialData()
 tester.runTest()
+print ctd_obj.pullDate
