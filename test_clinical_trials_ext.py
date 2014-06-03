@@ -6,6 +6,7 @@ id = 'NCT01578525'
 ctd_obj = ClinicalTrialData(id)
 
 
+
 class TestClinicalTrialData(unittest.TestCase):
 	""" Takes a ClinicalTrialsData object as input and runs several test cases on it."""
 	def runTest(self):
@@ -52,6 +53,7 @@ class TestClinicalTrialData(unittest.TestCase):
 	def test_json_osf_format(self):
 		test_osf_format = {
     		"source": "lilly",
+            "time_retrieved": ctd_obj.time_stamp,
     		"contributors": ctd_obj.contributors,
     		"title": "Medication Safety of Elderly Patients in Hospital and Ambulatory Setting Considering the Transitions of Care for Home-cared Patients and Nursing Home Residents",
     		"description": "The purpose of this study is to determine whether additional pharmaceutical care for elderly\n      patients (home-cared patients, nursing-home residents) has a positive impact on drug-related\n      readmissions.",
@@ -63,6 +65,8 @@ class TestClinicalTrialData(unittest.TestCase):
     		"url": 'http://clinicaltrials.gov/ct2/show/NCT01578525'
 		}
 		self.assertEqual(ctd_obj.json_osf_format(), test_osf_format)
+
 tester = TestClinicalTrialData()
 tester.runTest()
+
 
