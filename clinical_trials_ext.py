@@ -28,6 +28,12 @@ class ClinicalTrialData(object):
 	def json_osf_format(self):
 		json_osf = {
     		"source": "lilly",
+    		"title": None,
+    		"contributors": [None],
+    		"description": None,
+    		"id": self.id,
+    		"title": None,
+    		"url": None,
     		"tags": [
         		"imported",
         		"clinical_trial"
@@ -39,3 +45,4 @@ class ClinicalTrialData(object):
 		json_osf['id'] = self.id
 		json_osf['url'] = 'http://clinicaltrials.gov/ct2/show/' + self.id
 		return json_osf
+
