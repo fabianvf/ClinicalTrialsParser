@@ -1,37 +1,34 @@
+''' both returns and saves a list of all IDs in the clinical trials API '''
+
 import requests
 import json
 
-offset = '0'
-count = 10
-file_name = 'all.json'
+def get_all_ids():
 
-url = 'http://api.lillycoi.com/v1/trials.json?offset=' + offset
+	# get the total number of ids in the API
+	url = 'http://api.lillycoi.com/v1/trials.json?fields=id'
+	initial = requests.get(url)
+	initial_json = initial.json()
+	total = initial_json['totalCount']
 
-initial_request = requests.get(url)
+	# the real request using the total from the first request
+	all_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(total) + '&fields=id'
+	all_ids = requests.get(all_url)
+	id_json = all_ids.json()
 
-request_json = initial_request.json()
+	ids = id_json['results']
 
-total = request_json['totalCount']
+	# make a list of just all the IDs
+	id_list = []
+	for item in ids:
+		id_list.append(item.get('id'))
+
+	# save that ID list to a file
+	file_name = open('all_ids.txt', 'w')
+	for item in id_list:
+		file_name.write("%s\n" % item)
+
+	return id_list
 
 
-next_url = request_json['nextPageURI']
-
-
-# just for testing so we don't get all zillion trials
-soft_total = 50
-
-IDs = []
-
-
-## for each trial in the set
-while count <= soft_total:
-	next_url = request_json['nextPageURI']
-
-	with open(file_name, 'w') as json_txt:
-			json.dump(request_json, json_txt, sort_keys=True, indent=4)
-
-	url = next_url
-	next_request = requests.get(url)
-	request_json = next_request.json()
-
-	count += 10
+get_all_ids()
