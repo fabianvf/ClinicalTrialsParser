@@ -26,8 +26,7 @@ class bulk_trials(object):
 
 			
 
-q = bulk_trials(4, 1)
+q = bulk_trials(4, 100)
 ll = q.create_CT_list()
-print ll[0].author_name
 print len(ll)
 
