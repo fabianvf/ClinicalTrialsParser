@@ -31,3 +31,8 @@ def get_all_ids():
 	return id_list
 
 get_all_ids()
+
+# TODO:
+
+# Make the API request nicer by doing it in batches and pausing
+# See how to change output to better help other code
