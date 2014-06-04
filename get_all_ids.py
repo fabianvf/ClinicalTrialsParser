@@ -34,7 +34,7 @@ def get_all_ids():
 		time.sleep(3)
 
 	# save that ID list to a file
-	file_name = open('all_ids2.txt', 'w')
+	file_name = open('all_ids.txt', 'w')
 	for item in id_list:
 		file_name.write("%s\n" % item)
 
