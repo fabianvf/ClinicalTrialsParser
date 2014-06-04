@@ -16,6 +16,9 @@ class ClinicalTrialData(object):
 		self.title = self.json['results'][0]['official_title']
 		self.description = self.json['results'][0]['brief_summary']['textblock']
 		self.contributors = self.__populate_contributors()
+		self.keywords = ["clinical trial"]
+		for keyword in self.json['results'][0]['keyword']:
+			self.keywords.append(keyword)
 		self.time_stamp = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
 		
 	def json_to_txt(self):
@@ -48,8 +51,7 @@ class ClinicalTrialData(object):
     		"title": None,
     		"url": None,
     		"tags": [
-        		"imported",
-        		"clinical_trial"
+        		"clinical trial"
     		]
 		}
 		json_osf['contributors'] = self.contributors
@@ -57,5 +59,7 @@ class ClinicalTrialData(object):
 		json_osf['description'] = self.description
 		json_osf['id'] = self.id
 		json_osf['url'] = 'http://clinicaltrials.gov/ct2/show/' + self.id
+		json_osf['tags'] = self.keywords
+
 		return json_osf
 

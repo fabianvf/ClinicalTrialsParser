@@ -58,11 +58,17 @@ class TestClinicalTrialData(unittest.TestCase):
     		"title": "Medication Safety of Elderly Patients in Hospital and Ambulatory Setting Considering the Transitions of Care for Home-cared Patients and Nursing Home Residents",
     		"description": "The purpose of this study is to determine whether additional pharmaceutical care for elderly\n      patients (home-cared patients, nursing-home residents) has a positive impact on drug-related\n      readmissions.",
     		"tags": [
-        		"imported",
-        		"clinical_trial"
+                "clinical trial",
+                "medication safety", 
+                "elderly", 
+                "pharmaceutical care", 
+                "hospital readmission", 
+                "drug-related readmission", 
+                "Health Services for the Aged"
     		],
     		"id": 'NCT01578525',
     		"url": 'http://clinicaltrials.gov/ct2/show/NCT01578525'
+
 		}
 		self.assertEqual(ctd_obj.json_osf_format(), test_osf_format)
 
