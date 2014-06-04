@@ -9,7 +9,7 @@ def get_all_ids():
 	limit = 10000
 	offset = 0
 
-	get the total number of ids in the API
+	# get the total number of ids in the API
 	url = 'http://api.lillycoi.com/v1/trials.json?fields=totalCount'
 	initial = requests.get(url)
 	initial_json = initial.json()
@@ -38,8 +38,8 @@ def get_all_ids():
 
 		time.sleep(3)
 
-	# save that ID list to a file
-	file_name = open('all_ids2.txt', 'w')
+	# also save that ID list to a file
+	file_name = open('all_ids.txt', 'w')
 	for item in id_list:
 		file_name.write("%s\n" % item)
 
