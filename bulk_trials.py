@@ -1,6 +1,7 @@
 import requests
 import json
 from clinical_trials_ext import ClinicalTrialData
+
 class bulk_trials(object):
 	def __init__(self, offset, limit):
 		self.offset=offset
@@ -10,11 +11,10 @@ class bulk_trials(object):
 		self.json=self.req.json()
 		self.id = None
 	
-
 	def create_CT_list(self):
-
+		"""Returns a list of ClinicalTrialData objects created from the json returned by the Lilly API 
+			(which contains the id's of several different trials)."""
 		i=0
-
 		ct_list=[]
 
 		while i < self.limit:
