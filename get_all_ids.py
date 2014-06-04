@@ -17,15 +17,20 @@ def get_all_ids():
 	time.sleep(1)
 
 	id_list = []
+	inner_list = []
 
-	while offset < total:
-		partial_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(limit) + '&fields=id&offset=' + str(offset)
+	while offset <= total:
+
+		partial_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(limit) + '&fields=id,lastchanged_date&offset=' + str(offset)
 		partial_ids = requests.get(partial_url)
 		partial_ids_json = partial_ids.json()
 		partial_ids = partial_ids_json['results']
 
 		for item in partial_ids:
-			id_list.append(item.get('id'))
+			inner_list.append(item.get('id'))
+			inner_list.append(item.get('lastchanged_date')['value'])
+			id_list.append(inner_list)
+			inner_list = []
 
 		print "got " + str(offset) + " trials!"
 
@@ -33,7 +38,7 @@ def get_all_ids():
 
 		time.sleep(3)
 
-	# save that ID list to a file
+	# also save that ID list to a file
 	file_name = open('all_ids.txt', 'w')
 	for item in id_list:
 		file_name.write("%s\n" % item)
