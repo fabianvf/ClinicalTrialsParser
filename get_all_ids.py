@@ -19,9 +19,10 @@ def get_all_ids():
 	id_list = []
 
 	while offset < total:
-		partial_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(limit) + '&fields=id&offset=' + str(offset)
+		partial_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(limit) + '&fields=id,lastchanged_date&offset=' + str(offset)
 		partial_ids = requests.get(partial_url)
 		partial_ids_json = partial_ids.json()
+		
 		partial_ids = partial_ids_json['results']
 
 		for item in partial_ids:
