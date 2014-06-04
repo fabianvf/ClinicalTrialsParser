@@ -2,37 +2,42 @@
 
 import requests
 import json
+import time
 
 def get_all_ids():
 
+	limit = 10000
+	offset = 0
+
 	# get the total number of ids in the API
-	url = 'http://api.lillycoi.com/v1/trials.json?fields=id'
+	url = 'http://api.lillycoi.com/v1/trials.json?fields=totalCount'
 	initial = requests.get(url)
 	initial_json = initial.json()
 	total = initial_json['totalCount']
+	time.sleep(1)
 
-	# the real request using the total from the first request
-	all_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(total) + '&fields=id'
-	all_ids = requests.get(all_url)
-	id_json = all_ids.json()
-
-	ids = id_json['results']
-
-	# make a list of just all the IDs
 	id_list = []
-	for item in ids:
-		id_list.append(item.get('id'))
+
+	while offset < total:
+		partial_url = 'http://api.lillycoi.com/v1/trials.json?limit=' + str(limit) + '&fields=id&offset=' + str(offset)
+		partial_ids = requests.get(partial_url)
+		partial_ids_json = partial_ids.json()
+		partial_ids = partial_ids_json['results']
+
+		for item in partial_ids:
+			id_list.append(item.get('id'))
+
+		print "got " + str(offset) + " trials!"
+
+		offset += limit
+
+		time.sleep(3)
 
 	# save that ID list to a file
-	file_name = open('all_ids.txt', 'w')
+	file_name = open('all_ids2.txt', 'w')
 	for item in id_list:
 		file_name.write("%s\n" % item)
 
 	return id_list
 
 get_all_ids()
-
-# TODO:
-
-# Make the API request nicer by doing it in batches and pausing
-# See how to change output to better help other code
