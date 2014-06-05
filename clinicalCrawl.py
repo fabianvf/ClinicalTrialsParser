@@ -9,17 +9,22 @@ linklist=[]
 
 for link in soup.find_all('a'):
 	valid_link = link.get('href')
-	linklist.append(valid_link)
+	if(valid_link[0:11]=="/ct2/crawl/"):
+		linklist.append(valid_link)
 
-wrapper_ind = linklist.index('#wrapper')
-first_crawl_ind = linklist.index('/ct2/crawl/0')
-
-del linklist[wrapper_ind:]
-del linklist[:first_crawl_ind]
+trial_id_list=[]
+id_file=open("nct_id_list.txt", 'w')
 
 for group in linklist:
 	req2 = requests.get("http://clinicaltrials.gov"+group)
+	soup2=BeautifulSoup(req2.text)
+	for link in soup2.find_all('a'):
+		valid_link= link.get('href')
+		if(valid_link[0:10]=="/ct2/show/"):
+			nct_id=valid_link[10:]
+			print valid_link[10:] 
+			id_file.write(repr(nct_id)+"\n")
+
+id_file.close()
 
 
-
-print linklist
