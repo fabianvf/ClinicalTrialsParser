@@ -3,38 +3,42 @@
 import requests
 import datetime
 
-''' first, figure out the date of today and yesterday 
-to use in the request URL '''
+def get_new_results():
 
-# date for today 
-today = datetime.date.today()
+    ''' first, figure out the date of today and yesterday 
+    to use in the request URL '''
 
-month = today.strftime('%m')
-day = today.strftime('%d')
-year = today.strftime('%Y')
+    # date for today 
+    today = datetime.date.today()
 
-# date for yesterday
-yesterday  = today - datetime.timedelta(1)
+    month = today.strftime('%m')
+    day = today.strftime('%d')
+    year = today.strftime('%Y')
 
-y_month = yesterday.strftime('%m')
-y_day = yesterday.strftime('%d')
-y_year = yesterday.strftime('%Y')
+    # date for yesterday
+    yesterday  = today - datetime.timedelta(1)
 
-# use those in the URL to create for requests
-base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=results&down_flds=shown&down_fmt=plain&lup_s=' 
+    y_month = yesterday.strftime('%m')
+    y_day = yesterday.strftime('%d')
+    y_year = yesterday.strftime('%Y')
 
-sep = '%2F'
-middle = '&lup_e='
-end = '&show_down=Y'
+    # use those in the URL to create for requests
+    base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=results&down_flds=shown&down_fmt=plain&lup_s=' 
 
-url_end = y_month + sep + y_day + sep + y_year + middle + month + sep + day + sep + year + end
+    sep = '%2F'
+    middle = '&lup_e='
+    end = '&show_down=Y'
 
-url = base_url + url_end
+    url_end = y_month + sep + y_day + sep + y_year + middle + month + sep + day + sep + year + end
 
-''' Then, use that URL to download a ZIP file of new results '''
+    url = base_url + url_end
 
-# get the new results
-new_results = requests.get(url)
+    ''' Then, use that URL to download a ZIP file of new results '''
 
-with open("new_results.zip", "wb") as results:
-    results.write(new_results.content)
+    # get the new results
+    new_results = requests.get(url)
+
+    with open("new_results.zip", "wb") as results:
+        results.write(new_results.content)
+
+get_new_results()
