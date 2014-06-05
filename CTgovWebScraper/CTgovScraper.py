@@ -32,6 +32,6 @@ class CT_App(object):
 #testCTApp.html_to_txt('results')
 #testCTApp.html_to_txt('full')
 
-#x = requests.get('http://clinicaltrials.gov/search?term=acne&displayxml=true')
-#with open('seeXMLresults.txt', 'w') as xml_text:
-#	xml_text.write(x.text.encode('utf-8'))
+x = requests.get('http://clinicaltrials.gov/search?term=cancer&displayxml=true')
+with open('seeXMLresults.txt', 'w') as xml_text:
+	xml_text.write(x.text.encode('utf-8'))
