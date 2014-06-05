@@ -2,6 +2,7 @@
 
 import requests
 import datetime
+import zipfile
 
 def get_new_results():
 
@@ -41,4 +42,18 @@ def get_new_results():
     with open("new_results.zip", "wb") as results:
         results.write(new_results.content)
 
+def newfile_names():
+    zipped_results = zipfile.ZipFile('new_results.zip')
+
+    new_id_list = zipped_results.namelist()
+
+    # also save that ID list to a file
+    file_name = open('new_ids.txt', 'w')
+    for item in new_id_list:
+        file_name.write("%s\n" % item)
+
+    return new_id_list
+
 get_new_results()
+
+newfile_names()
