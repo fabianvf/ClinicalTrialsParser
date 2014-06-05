@@ -4,10 +4,8 @@ import requests
 import datetime
 import zipfile
 
+''' download and save a zipfile of new results '''
 def get_new_results():
-
-    ''' first, figure out the date of today and yesterday 
-    to use in the request URL '''
 
     # date for today 
     today = datetime.date.today()
@@ -34,14 +32,14 @@ def get_new_results():
 
     url = base_url + url_end
 
-    ''' Then, use that URL to download a ZIP file of new results '''
-
     # get the new results
     new_results = requests.get(url)
 
+    # save those new results to a zip file
     with open("new_results.zip", "wb") as results:
         results.write(new_results.content)
 
+''' save and return a list of all new file names '''
 def newfile_names():
     zipped_results = zipfile.ZipFile('new_results.zip')
 
