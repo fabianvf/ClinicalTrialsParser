@@ -30,37 +30,42 @@ def get_file_signature(path):
 
     return signature
 
-f = open('../ct_archive/CTgov_study_NCT00001372.json', 'r')
-raw = f.read()
-signature = get_project_signature(raw)
-headers = {'Content-type': 'application/json', 'Accept': 'text/plain', 'Authorization': 'OSF {0}'.format(signature)}
-r = requests.post(API_URL+'project/import/', data=raw, headers=headers)
-print r.text
-response = json.loads(r.text)
+fCt = open('partial_ids.txt', 'r')
+for id in fCt:
+    articleId = id.rstrip('\n')
+    #PLEASE USE THIS. DON'T IGNORE THIS^^^^
 
-projectTitle = json.loads(raw)['title']
+    f = open('../ct_osf_json/'+articleId+'_osf.json', 'r')
+    raw = f.read()
+    signature = get_project_signature(raw)
+    headers = {'Content-type': 'application/json', 'Accept': 'text/plain', 'Authorization': 'OSF {0}'.format(signature)}
+    r = requests.post(API_URL+'project/import/', data=raw, headers=headers)
+    print r.text
+    response = json.loads(r.text)
 
-#print response[projectTitle]['components']['Introduction']['id']
+    projectTitle = json.loads(raw)['title']
 
-fileName = []
-project = json.loads(raw)
-#for project in projects:
-if project.get('files'):
-    fileName.append(project['files'])
-    for f in fileName: # TODO better file uploading
-        files = {'file': (f, open(f, 'rb'))}
-        signature = get_file_signature(f)
-        headers = {'Authorization': 'OSF {0}'.format(signature)}
-        r = requests.put(API_URL+'project/{pid}/node/{nid}/upload/'.format(
-                pid=response[projectTitle]['id'],
-                nid=response[projectTitle]['components']['MetaData']['id']
-            ),
-            headers=headers, files=files)
-    for component in project['components']:
-        if component.get('files'):
-            files = files + component['files']
+    #print response[projectTitle]['components']['Introduction']['id']
+
+    fileName = []
+    project = json.loads(raw)
+    #for project in projects:
+    if project.get('files'):
+        fileName.append(project['files'])
+        for f in fileName: # TODO better file uploading
+            files = {'file': (f, open(f, 'rb'))}
+            signature = get_file_signature(f)
+            headers = {'Authorization': 'OSF {0}'.format(signature)}
+            r = requests.put(API_URL+'project/{pid}/node/{nid}/upload/'.format(
+                    pid=response[projectTitle]['id'],
+                    nid=response[projectTitle]['components']['MetaData']['id']
+                ),
+                headers=headers, files=files)
+        for component in project['components']:
+            if component.get('files'):
+                files = files + component['files']
 
 
 
-            # now upload a file to a node (project or component)
-print r.text
+                # now upload a file to a node (project or component)
+    print r.text
