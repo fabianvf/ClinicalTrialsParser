@@ -10,7 +10,7 @@ import os
 def save_key_zipfiles():
 
     key_id_file = 'key_studies.txt'
-    key_id_folder = 'key_xml_files/'
+    key_id_folder = 'ct_xml/'
 
     with open (key_id_file) as key_ids:
             key_id_list = [line.strip() for line in key_ids]
@@ -33,7 +33,7 @@ def save_key_zipfiles():
 
 def unzip_key_files():
 
-    key_zip_folder = 'key_xml_files/'
+    key_zip_folder = 'ct_xml/'
     ziplist = glob.glob(key_zip_folder + '*.zip')
 
     # loop over all of the zip files in the updated catalog
