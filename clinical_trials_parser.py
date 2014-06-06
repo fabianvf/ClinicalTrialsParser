@@ -13,7 +13,10 @@ class ClinicalTrialData(object):
 		self.root = etree.parse(self.file_name).getroot()
 		self.id = self.root.find('id_info').find('nct_id').text
 		self.url = self.root.find('required_header').find('url').text
-		self.title = self.root.find('official_title').text
+		if self.root.find('official_title') == None:
+			self.title = self.root.find('brief_title').text
+		else:
+			self.title = self.root.find('official_title').text
 		self.description = self.root.find('brief_summary')[0].text
 		self.contributors = []
 		for entry in self.root.findall('overall_official'):
@@ -29,15 +32,32 @@ class ClinicalTrialData(object):
 		self.phase = self.root.find('phase').text
 		self.date_processed = self.__process_date()
 		self.references = []
-		for entry in self.root.findall('reference'):
-			reference_dict = {}
-			reference_dict['citation'] = entry.find('citation').text
-			reference_dict['PMID'] = entry.find('PMID').text
-			self.references.append(reference_dict)
+		if self.root.findall('reference') == None:
+			pass
+		else:
+			for entry in self.root.findall('reference'):
+				reference_dict = {}
+				reference_dict['citation'] = entry.find('citation').text
+				if entry.find('PMID') == None:
+					pass
+				else:
+					reference_dict['PMID'] = entry.find('PMID').text
+				self.references.append(reference_dict)
 		self.locations = []
-		for entry in self.root.findall('location'):
-			location_tuple = ((entry.find('facility').find('name').text), (entry.find('facility').find('address').find('zip').text))
-			self.locations.append(location_tuple)
+		if self.root.findall('location') == None:
+			pass
+		else:
+			for entry in self.root.findall('location'):
+				if entry.find('facility').find('name') == None:
+					location_name = ''
+				else:
+					location_name = (entry.find('facility').find('name').text)
+				if entry.find('facility').find('address').find('zip') == None:
+					location_zip = ''
+				else:
+					location_zip = (entry.find('facility').find('address').find('zip').text)
+				location_tuple = (location_name, location_zip)
+				self.locations.append(location_tuple)
 
 	def __process_date(self):
 		date_string = self.root.find('required_header').find('download_date').text
@@ -79,3 +99,9 @@ class ClinicalTrialData(object):
 	def json_osf_to_txt(self):
 		with open((str(self.id) + '_osf.json'), 'w') as json_txt:
 			json.dump(self.json_osf_format(), json_txt, sort_keys=True, indent=4)
+
+
+x = ['NCT00000122','NCT00000160','NCT00000162','NCT00000193','NCT00000201','NCT02155933','NCT02155712','NCT02152930','NCT02147561','NCT02147249']
+
+for id in x:
+	ClinicalTrialData(id+'.xml').json_osf_to_txt()
