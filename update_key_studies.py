@@ -61,13 +61,15 @@ def newfile_names():
 # returns a list of updated key files
 def check_key_files():
 
+    key_id_file = 'key_studies.txt'
+
     get_new_results()
 
     new_id_list = newfile_names()
     # gets rid of the xml selections
     new_id_list = [ext.replace('.xml','') for ext in new_id_list]
 
-    with open ('studies_for_upload.txt') as key_ids:
+    with open (key_id_file) as key_ids:
         key_id_list = [line.strip() for line in key_ids]
 
     key_updated_files = list(set(new_id_list).intersection(key_id_list))
