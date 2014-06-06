@@ -55,3 +55,10 @@ def newfile_names():
 get_new_results()
 
 newfile_names()
+
+
+## TODO
+
+# fix the output when there are no new files : 
+#   raise BadZipfile, "File is not a zip file"
+# zipfile.BadZipfile: File is not a zip file
