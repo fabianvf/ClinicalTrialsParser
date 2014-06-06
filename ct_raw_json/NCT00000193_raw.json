@@ -1,1 +1,108 @@
-{"clinical_study": {"@rank": "1", "required_header": {"download_date": "ClinicalTrials.gov processed this data on June 05, 2014", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "http://clinicaltrials.gov/show/NCT00000193"}, "id_info": {"org_study_id": "NIDA-00191-2", "secondary_id": ["K20DA000191", "K20-00191-2"], "nct_id": "NCT00000193"}, "brief_title": "Neurobiology of Opioid Dependence: 2 - 2", "official_title": "Neurobiology of Opioid Dependence: 2", "sponsors": {"lead_sponsor": {"agency": "Yale University", "agency_class": "Other"}, "collaborator": {"agency": "National Institute on Drug Abuse (NIDA)", "agency_class": "NIH"}}, "source": "Yale University", "oversight_info": {"authority": "United States: Federal Government"}, "brief_summary": {"textblock": "The purpose of this study is to evaluate the effects of gamma hydroxybutyric on\n      naloxone-precipitated opiate withdrawal."}, "overall_status": "Withdrawn", "start_date": "January 1993", "completion_date": {"@type": "Actual", "#text": "January 1998"}, "primary_completion_date": {"@type": "Actual", "#text": "January 1998"}, "phase": "Phase 2", "study_type": "Interventional", "study_design": "Masking: Double-Blind, Primary Purpose: Treatment", "primary_outcome": [{"measure": "Behavioral, subjective, measures of naloxone-preci"}, {"measure": "Phsyiological, neuroendocrine measures of naloxone"}], "enrollment": {"@type": "Actual", "#text": "0"}, "condition": "Opioid-Related Disorders", "intervention": {"intervention_type": "Drug", "intervention_name": "Gamma hydroxybutyric"}, "eligibility": {"criteria": {"textblock": "Please contact site for information."}, "gender": "Male", "minimum_age": "N/A", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Marc I Rosen, M.D.", "role": "Principal Investigator", "affiliation": "VA Connecticut Healthcare System"}, "location": {"facility": {"name": "VA Connecticut Healthcare System", "address": {"city": "New Haven", "state": "Connecticut", "zip": "06519", "country": "United States"}}}, "location_countries": {"country": "United States"}, "verification_date": "September 2013", "lastchanged_date": "September 26, 2013", "firstreceived_date": "September 20, 1999", "responsible_party": {"responsible_party_type": "Sponsor"}, "has_expanded_access": "No", "condition_browse": {"mesh_term": "Opioid-Related Disorders"}, "intervention_browse": {"mesh_term": "Analgesics, Opioid"}}}
+{
+    "clinical_study": {
+        "@rank": "1", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate the effects of gamma hydroxybutyric on\n      naloxone-precipitated opiate withdrawal."
+        }, 
+        "brief_title": "Neurobiology of Opioid Dependence: 2 - 2", 
+        "completion_date": {
+            "#text": "January 1998", 
+            "@type": "Actual"
+        }, 
+        "condition": "Opioid-Related Disorders", 
+        "condition_browse": {
+            "mesh_term": "Opioid-Related Disorders"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Please contact site for information."
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "0", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 20, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000193", 
+            "org_study_id": "NIDA-00191-2", 
+            "secondary_id": [
+                "K20DA000191", 
+                "K20-00191-2"
+            ]
+        }, 
+        "intervention": {
+            "intervention_name": "Gamma hydroxybutyric", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Analgesics, Opioid"
+        }, 
+        "lastchanged_date": "September 26, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New Haven", 
+                    "country": "United States", 
+                    "state": "Connecticut", 
+                    "zip": "06519"
+                }, 
+                "name": "VA Connecticut Healthcare System"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Neurobiology of Opioid Dependence: 2", 
+        "overall_official": {
+            "affiliation": "VA Connecticut Healthcare System", 
+            "last_name": "Marc I Rosen, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Withdrawn", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 1998", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Behavioral, subjective, measures of naloxone-preci"
+            }, 
+            {
+                "measure": "Phsyiological, neuroendocrine measures of naloxone"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 05, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000193"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Yale University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Drug Abuse (NIDA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Yale University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1993", 
+        "study_design": "Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

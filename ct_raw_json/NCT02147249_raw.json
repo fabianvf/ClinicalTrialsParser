@@ -1,1 +1,173 @@
-{"clinical_study": {"@rank": "1", "required_header": {"download_date": "ClinicalTrials.gov processed this data on June 05, 2014", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "http://clinicaltrials.gov/show/NCT02147249"}, "id_info": {"org_study_id": "EM-0613", "nct_id": "NCT02147249"}, "brief_title": "Cytokines and Chemokines in Erythema Migrans", "official_title": "Inflammatory Proteins, Gene Polymorphisms, and Transcriptome Profiles in Patients With Erythema Migrans", "sponsors": {"lead_sponsor": {"agency": "University Medical Centre Ljubljana", "agency_class": "Other"}, "collaborator": [{"agency": "University of Ljubljana School of Medicine,  Slovenia", "agency_class": "Other"}, {"agency": "Medical University of Vienna", "agency_class": "Other"}, {"agency": "Harvard University", "agency_class": "Other"}]}, "source": "University Medical Centre Ljubljana", "oversight_info": {"authority": "Slovenia: Ethics Committee", "has_dmc": "No"}, "brief_summary": {"textblock": "The main objective of this study is to characterize the inflammatory proteins, gene\n      polymorphisms, and transcriptome profiles in patients with erythema migrans to gain better\n      insight into pathogenesis of early Lyme borreliosis and to define new immune modulators that\n      could serve as biomarkers of disease activity."}, "overall_status": "Recruiting", "start_date": "July 2013", "primary_completion_date": {"@type": "Anticipated", "#text": "December 2015"}, "phase": "N/A", "study_type": "Interventional", "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", "primary_outcome": {"measure": "inflammatory proteins in erythema migrans patients", "time_frame": "up to 12 months follow-up", "safety_issue": "No", "description": "The inflammatory immune profiles will be assessed using Luminex to measure the expression of cytokines and chemokines representative of innate and adaptive TH1, TH2, TH17, and B cell responses in serum and if available, skin, of patients during active infection and after treatment."}, "secondary_outcome": {"measure": "gene polymorphisms in erythema migrans patients", "time_frame": "at enrollment", "safety_issue": "No", "description": "The expression of disease-relevant genomic variants will be assessed using ImmunoChip."}, "other_outcome": {"measure": "transcriptome profiles in erythema migrans patients", "time_frame": "at 6 month follow-up", "safety_issue": "No", "description": "We will use RNA sequencing of individual immune cell subtypes from patients to determine their transcriptome."}, "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "150"}, "condition": "Erythema Migrans", "arm_group": {"arm_group_label": "erythema migrans patients treated with antibiotics", "arm_group_type": "Experimental", "description": "adult patients with erythema migrans will be treated with oral antibiotics"}, "intervention": {"intervention_type": "Drug", "intervention_name": "antibiotic treatment", "description": "Patient will be treated with: doxycycline orally, 100 mg, bid, 14 days or cefuroxime axetil orally, 500 mg, bid, 14 days or amoxicillin orally, 500 mg, tid, 14 days", "arm_group_label": "erythema migrans patients treated with antibiotics"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  erythema migrans in patients > 18 years\n\n        Exclusion Criteria:\n\n          -  pregnancy or lactation\n\n          -  taking antibiotic with antiborrelial activity within 10 days"}, "gender": "Both", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": [{"last_name": "Franc Strle, MD, PhD", "role": "Study Chair", "affiliation": "UMC Ljubljana"}, {"last_name": "Dasa Stupica, MD, PhD", "role": "Principal Investigator", "affiliation": "UMC Ljubljana"}], "overall_contact": {"last_name": "Dasa Stupica, MD,PhD", "phone": "+386 1 5222110", "email": "cerar.dasa@gmail.com"}, "overall_contact_backup": {"last_name": "Franc Strle, MD, PhD", "phone": "+386 1 5222610", "email": "franc.strle@kclj.si"}, "location": {"facility": {"name": "UMC Ljubljana, Department of Infectious Diseases", "address": {"city": "Ljubljana", "zip": "1525", "country": "Slovenia"}}, "status": "Recruiting", "contact": {"last_name": "Dasa Stupica, MD,PhD", "phone": "+386 1 5222110", "email": "cerar.dasa@gmail.com"}, "contact_backup": {"last_name": "Franc Strle, MD,PhD", "phone": "+386 1 522 2610", "email": "franc.strle@kclj.si"}}, "location_countries": {"country": "Slovenia"}, "verification_date": "May 2014", "lastchanged_date": "May 23, 2014", "firstreceived_date": "June 24, 2013", "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University Medical Centre Ljubljana", "investigator_full_name": "Franc Strle", "investigator_title": "MD, PhD"}, "keyword": ["erythema migrans", "Lyme borreliosis", "inflammation", "outcome"], "is_fda_regulated": "No", "has_expanded_access": "No", "condition_browse": {"mesh_term": ["Erythema Chronicum Migrans", "Glossitis, Benign Migratory", "Erythema"]}, "intervention_browse": {"mesh_term": ["Anti-Bacterial Agents", "Antibiotics, Antitubercular"]}}}
+{
+    "clinical_study": {
+        "@rank": "1", 
+        "arm_group": {
+            "arm_group_label": "erythema migrans patients treated with antibiotics", 
+            "arm_group_type": "Experimental", 
+            "description": "adult patients with erythema migrans will be treated with oral antibiotics"
+        }, 
+        "brief_summary": {
+            "textblock": "The main objective of this study is to characterize the inflammatory proteins, gene\n      polymorphisms, and transcriptome profiles in patients with erythema migrans to gain better\n      insight into pathogenesis of early Lyme borreliosis and to define new immune modulators that\n      could serve as biomarkers of disease activity."
+        }, 
+        "brief_title": "Cytokines and Chemokines in Erythema Migrans", 
+        "condition": "Erythema Migrans", 
+        "condition_browse": {
+            "mesh_term": [
+                "Erythema Chronicum Migrans", 
+                "Glossitis, Benign Migratory", 
+                "Erythema"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  erythema migrans in patients > 18 years\n\n        Exclusion Criteria:\n\n          -  pregnancy or lactation\n\n          -  taking antibiotic with antiborrelial activity within 10 days"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 24, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02147249", 
+            "org_study_id": "EM-0613"
+        }, 
+        "intervention": {
+            "arm_group_label": "erythema migrans patients treated with antibiotics", 
+            "description": "Patient will be treated with: doxycycline orally, 100 mg, bid, 14 days or cefuroxime axetil orally, 500 mg, bid, 14 days or amoxicillin orally, 500 mg, tid, 14 days", 
+            "intervention_name": "antibiotic treatment", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents", 
+                "Antibiotics, Antitubercular"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "erythema migrans", 
+            "Lyme borreliosis", 
+            "inflammation", 
+            "outcome"
+        ], 
+        "lastchanged_date": "May 23, 2014", 
+        "location": {
+            "contact": {
+                "email": "cerar.dasa@gmail.com", 
+                "last_name": "Dasa Stupica, MD,PhD", 
+                "phone": "+386 1 5222110"
+            }, 
+            "contact_backup": {
+                "email": "franc.strle@kclj.si", 
+                "last_name": "Franc Strle, MD,PhD", 
+                "phone": "+386 1 522 2610"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Ljubljana", 
+                    "country": "Slovenia", 
+                    "zip": "1525"
+                }, 
+                "name": "UMC Ljubljana, Department of Infectious Diseases"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Slovenia"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Inflammatory Proteins, Gene Polymorphisms, and Transcriptome Profiles in Patients With Erythema Migrans", 
+        "other_outcome": {
+            "description": "We will use RNA sequencing of individual immune cell subtypes from patients to determine their transcriptome.", 
+            "measure": "transcriptome profiles in erythema migrans patients", 
+            "safety_issue": "No", 
+            "time_frame": "at 6 month follow-up"
+        }, 
+        "overall_contact": {
+            "email": "cerar.dasa@gmail.com", 
+            "last_name": "Dasa Stupica, MD,PhD", 
+            "phone": "+386 1 5222110"
+        }, 
+        "overall_contact_backup": {
+            "email": "franc.strle@kclj.si", 
+            "last_name": "Franc Strle, MD, PhD", 
+            "phone": "+386 1 5222610"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "UMC Ljubljana", 
+                "last_name": "Franc Strle, MD, PhD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "UMC Ljubljana", 
+                "last_name": "Dasa Stupica, MD, PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Slovenia: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The inflammatory immune profiles will be assessed using Luminex to measure the expression of cytokines and chemokines representative of innate and adaptive TH1, TH2, TH17, and B cell responses in serum and if available, skin, of patients during active infection and after treatment.", 
+            "measure": "inflammatory proteins in erythema migrans patients", 
+            "safety_issue": "No", 
+            "time_frame": "up to 12 months follow-up"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 05, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02147249"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Medical Centre Ljubljana", 
+            "investigator_full_name": "Franc Strle", 
+            "investigator_title": "MD, PhD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "The expression of disease-relevant genomic variants will be assessed using ImmunoChip.", 
+            "measure": "gene polymorphisms in erythema migrans patients", 
+            "safety_issue": "No", 
+            "time_frame": "at enrollment"
+        }, 
+        "source": "University Medical Centre Ljubljana", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "University of Ljubljana School of Medicine,  Slovenia", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Medical University of Vienna", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Harvard University", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University Medical Centre Ljubljana", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

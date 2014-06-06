@@ -12,7 +12,7 @@ def xml_to_json(xml_file):
 
     json_text = xmltodict.parse(xml_string)
 
-    json_text = json.dumps(json_text)
+    json_text = json.dumps(json_text, sort_keys=True, indent=4)
 
     return json_text
 
