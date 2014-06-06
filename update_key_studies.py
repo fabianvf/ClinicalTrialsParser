@@ -1,10 +1,10 @@
-''' Script to check for new studies that have been updated the day before '''
+''' Script to check for updates to just our 10 key studies '''
 
 import requests
 import datetime
 import zipfile
 
-''' download and save a zipfile of new results '''
+# download and save a zipfile of new results
 def get_new_results():
 
     # date for today 
@@ -39,13 +39,15 @@ def get_new_results():
     with open("new_results.zip", "wb") as results:
         results.write(new_results.content)
 
-''' save and return a list of all new file names '''
+# save and return a list of all new file names
 def newfile_names():
+
     new_id_list = []
 
-    try:
+    try: 
         zipped_results = zipfile.ZipFile('new_results.zip')
         new_id_list = zipped_results.namelist()
+
     except BadZipfile, e:
         print "zipfile is empty. Excepton: " + e
 
@@ -56,6 +58,26 @@ def newfile_names():
 
     return new_id_list
 
-get_new_results()
+# returns a list of updated key files
+def check_key_files():
 
-newfile_names()
+    get_new_results()
+
+    new_id_list = newfile_names()
+    # gets rid of the xml selections
+    new_id_list = [ext.replace('.xml','') for ext in new_id_list]
+
+    with open ('studies_for_upload.txt') as key_ids:
+        key_id_list = [line.strip() for line in key_ids]
+
+    key_updated_files = list(set(new_id_list).intersection(key_id_list))
+
+    # also save key updated IDs to a file
+    file_name = open('updated_key_ids.txt', 'w')
+    for item in key_updated_files:
+        file_name.write("%s\n" % item)
+
+    return key_updated_files
+
+check_key_files()
+
