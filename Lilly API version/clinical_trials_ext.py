@@ -20,7 +20,12 @@ class ClinicalTrialData(object):
 		for keyword in self.json['results'][0]['keyword']:
 			self.keywords.append(keyword)
 		self.time_stamp = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
-		
+		if self.json['results'][0]['condition_browse'] != {}:
+			for term in self.json['results'][0]['condition_browse']['mesh_term']:
+				self.keywords.append(term)
+		if self.json['results'][0]['intervention_browse'] != {}:
+			for term in self.json['results'][0]['intervention_browse']['mesh_term']:
+				self.keywords.append(term)
 	def json_to_txt(self):
 		"""Saves the clinical trial json returned by the Lilly API as a text file."""
 		with open((self.id + '.json'), 'w') as json_txt:
