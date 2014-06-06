@@ -90,5 +90,17 @@ class ClinicalTrialData(object):
 			json.dump(self.json_osf_format(), json_txt, sort_keys=True, indent=4)
 
 
+list_of_studies = ['NCT00000122',
+'NCT00000160',
+'NCT00000162',
+'NCT00000193',
+'NCT00000201',
+'NCT02155933',
+'NCT02155712',
+'NCT02152930',
+'NCT02147561',
+'NCT02147249']
 
+for x in list_of_studies:
+	y = ClinicalTrialData(x+'.xml').json_osf_to_txt()
 

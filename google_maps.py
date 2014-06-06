@@ -1,4 +1,6 @@
 
+"""Takes a tuple, consisting of a location and its zip code, as input and generates a static google map using it."""
+
 static_map = "http://maps.googleapis.com/maps/api/staticmap?size=600x600&markers="
 
 list_of_tuples =[("Saint Vincent's Hosp and Med Ctr", "10011"), ("Univ of Cincinnati", "452670560"), ("Vanderbilt School of Medicine", "37232")]
