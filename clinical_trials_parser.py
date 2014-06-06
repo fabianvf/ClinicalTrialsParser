@@ -38,10 +38,12 @@ class ClinicalTrialData(object):
 		for entry in self.root.findall('location'):
 			location_tuple = ((entry.find('facility').find('name').text), (entry.find('facility').find('address').find('zip').text))
 			self.locations.append(location_tuple)
+
 	def __process_date(self):
 		date_string = self.root.find('required_header').find('download_date').text
 		date_string = date_string.replace('ClinicalTrials.gov processed this data on ', '')
 		return date_string
+
 	def json_osf_format(self):
 		"""Returns a dictionary that represents key information about the clinical trial in json format."""
 		json_osf = {
@@ -77,6 +79,3 @@ class ClinicalTrialData(object):
 	def json_osf_to_txt(self):
 		with open((str(self.id) + '_osf.json'), 'w') as json_txt:
 			json.dump(self.json_osf_format(), json_txt, sort_keys=True, indent=4)
-
-x = ClinicalTrialData('NCT00001372.xml')
-print x.json_osf_to_txt()
