@@ -75,7 +75,7 @@ class ClinicalTrialData(object):
     		"id": self.id,
     		"title": None,
     		"url": None,
-    		"files": '../ct_xml/' + str(self.id) + '.xml',
+    		"files": ['../ct_xml/' + str(self.id) + '.xml', '..ct_raw_json/' + str(self.id) + '_raw.json'],
     		"tags": [
         		"clinical trial"
     		],
