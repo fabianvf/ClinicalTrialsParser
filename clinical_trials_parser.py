@@ -24,6 +24,7 @@ class ClinicalTrialData(object):
 			official_dict['full_name'] = entry.find('last_name').text
 			official_dict['role'] = entry.find('role').text
 			official_dict['affiliation'] = entry.find('affiliation').text
+			official_dict['email'] = None
 			self.contributors.append(official_dict)
 		self.keywords = ["clinical trial"]
 		for entry in self.root.findall('keyword'):
@@ -74,7 +75,7 @@ class ClinicalTrialData(object):
     		"id": self.id,
     		"title": None,
     		"url": None,
-    		"files": str(self.id) + '.xml',
+    		"files": '../ct_xml/' + str(self.id) + '.xml',
     		"tags": [
         		"clinical trial"
     		],
