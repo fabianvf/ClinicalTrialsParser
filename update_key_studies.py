@@ -10,6 +10,8 @@ def get_new_results():
     # date for today 
     today = datetime.date.today()
 
+    datetime.date.today().str
+
     month = today.strftime('%m')
     day = today.strftime('%d')
     year = today.strftime('%Y')
