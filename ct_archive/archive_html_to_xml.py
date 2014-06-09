@@ -16,19 +16,24 @@ soup = BeautifulSoup(open("./ct_archive/ct_changes/NCT00000122/2005_06_30.html")
 sdiff_full = soup.find(id="sdiff-full")
 
 # and these are the <tr> tags in that object with the xml we want
-sdiff_xml = sdiff_full.find("tr", {"class" : ["sdiff-unc", "sdiff-add","sdiff-chg"]})
+sdiff_xml = sdiff_full.find_all("tr", {"class" : 
+                                ["sdiff-unc", "sdiff-add","sdiff-chg"]})
 
+### td class sdiff-a: all of the "before" xml ###
+all_before = []
 
-print sdiff_xml
+for result in sdiff_xml:
+    all_before.append(result.find("td", {"class" : "sdiff-a"}))
 
+# td class sdiff-b: all of the "after" xml
+all_after = []
 
-# class sdiff-a: all of the "before" xml
-# class sdiff-b: all of the "after" xml
+for result in sdiff_xml:
+    all_after.append(result.find("td", {"class" : "sdiff-b"}))
 
 # opening tags have class="sdl(some#) sds"
 # closing tags have class="sdl(same#) sdz"
 # text inside those tags has class="sdl(same#)"
-
 
 # use regex to find all classes with sdl in the name... within the 
 # "sdiff-full" thing... 
