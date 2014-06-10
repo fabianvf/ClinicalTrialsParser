@@ -4,7 +4,7 @@
 import requests
 import zipfile
 import time
-import xml.etree.ElementTree as ET, glob
+import glob
 import os
 
 def save_key_zipfiles():

@@ -24,7 +24,8 @@ def get_new_results():
     y_year = yesterday.strftime('%Y')
 
     # use those in the URL to create for requests
-    base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=results&down_flds=shown&down_fmt=plain&lup_s=' 
+    base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&' +
+                    'down_typ=results&down_flds=shown&down_fmt=plain&lup_s=' 
 
     sep = '%2F'
     middle = '&lup_e='
