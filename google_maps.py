@@ -10,7 +10,7 @@ def GetStaticMap(location_tuples = [("Saint Vincent's Hosp and Med Ctr", "10011"
 
 print GetStaticMap()
 
-API_KEY = "AIzaSyCpm3h6R-8AikVqTxPVKO9x9bmYL8vNA14"
+
 
 def GetDynamicMap( API_KEY, location_tuple=("Saint Vincent's Hosp and Med Ctr", "10011")):
 	dynamic_map_url =  "https://www.google.com/maps/embed/v1/place?key=" + API_KEY + "" 
