@@ -14,7 +14,7 @@ def get_phase(jsonFile):
 	return json_data['phase']
 
 
-"""Prints out count of how many trials in each status"""
+"""Prints out count of how many trials in each statusy"""
 def bulk_get_status(json_list):
 	status_list={"Not yet recruiting": 0, "Recruiting":0,"Available for expanded access":0, 
 	"Active, not recruiting":0, "Completed":0,
