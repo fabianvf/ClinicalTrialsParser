@@ -1,6 +1,20 @@
 <html>
+<head>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+</head>
 <body>
+<!--Below is the code for imbedding a dynamic google map, with a single marker, commented out.-->
+<!--iframe frameborder = "0" style = "border:0" src= "https://www.google.com/maps/embed/v1/place?key=AIzaSyCpm3h6R-8AikVqTxPVKO9x9bmYL8vNA14&q=Saint+Vincent's+Hosp+and+Med+Ctr+10011" width = "600" height = "450" 
+<div id="map" style="width: 600px; height: 400px"></div>-->
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script>
+var latlng = L.latLng(38.0350, -78.5050)
+var map = L.map('map').setView(latlng, 13);
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map)
 
-<iframe frameborder = "0" style = "border:0" src= "https://www.google.com/maps/embed/v1/place?key=AIzaSyCpm3h6R-8AikVqTxPVKO9x9bmYL8vNA14&q=Saint+Vincent's+Hosp+and+Med+Ctr+10011" width = "600" height = "450"></iframe>
+</script>
+
 </body>
 </html>
