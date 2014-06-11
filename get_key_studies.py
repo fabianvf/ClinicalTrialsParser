@@ -18,8 +18,7 @@ def save_key_zipfiles(id_file):
 
     end = '&show_down=Y'
 
-    for item in key_id_list:
-        url_id = item
+    for url_id in key_id_list:
         url = base_url + url_id + end
         key_xml = requests.get(url)
 
