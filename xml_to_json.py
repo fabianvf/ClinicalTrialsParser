@@ -4,16 +4,21 @@ from lxml import etree
 import json
 import xmltodict
 import glob
-
+from open_map_gps import get_coordinate
+from clinical_trials_parser import ClinicalTrialData
 def xml_to_json(xml_file):
 
     tree = etree.parse(xml_file)
+    ctd = ClinicalTrialData(xml_file)
+    loc_list = ctd.locations
     xml_string = etree.tostring(tree)
+    nct_id = xml_file[0:len(xml_file)-4]
 
     json_text = xmltodict.parse(xml_string)
 
+    json_text['geocoordinates'] = get_coordinate(nct_id)
     json_text = json.dumps(json_text, sort_keys=True, indent=4)
-
+    
     return json_text
 
 def key_files_to_json():
@@ -39,4 +44,6 @@ def key_files_to_json():
 
         id_index += 1
 
-key_files_to_json()
+print xml_to_json('NCT00604695.xml')
+
+#key_files_to_json()
