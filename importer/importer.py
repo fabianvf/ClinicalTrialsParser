@@ -2,8 +2,6 @@ import json
 import hmac
 import hashlib
 import requests
-from collections import OrderedDict
-
 
 API_URL='http://localhost:5000/api/v1/'
 API_KEY='secret'
@@ -42,30 +40,16 @@ for id in fCt:
     r = requests.post(API_URL+'project/import/', data=raw, headers=headers)
     print r.text
     response = json.loads(r.text)
-
-    projectTitle = json.loads(raw)['title']
-
-    #print response[projectTitle]['components']['Introduction']['id']
-
-    fileName = []
+    projectTitle = response.keys()[0]
     project = json.loads(raw)
-    #for project in projects:
+    
     if project.get('files'):
-        fileName.append(project['files'])
-        for f in fileName: # TODO better file uploading
+        for f in project.get('files'):
             files = {'file': (f, open(f, 'rb'))}
             signature = get_file_signature(f)
             headers = {'Authorization': 'OSF {0}'.format(signature)}
             r = requests.put(API_URL+'project/{pid}/node/{nid}/upload/'.format(
-                    pid=response[projectTitle]['id'],
-                    nid=response[projectTitle]['components']['MetaData']['id']
+                pid=response[projectTitle]['id'],
+                nid=response[projectTitle]['components']['Archive']['id']
                 ),
                 headers=headers, files=files)
-        for component in project['components']:
-            if component.get('files'):
-                files = files + component['files']
-
-
-
-                # now upload a file to a node (project or component)
-    print r.text

@@ -3,7 +3,7 @@
 from lxml import etree
 import json
 import xmltodict
-import xml.etree.ElementTree as ET, glob
+import glob
 
 def xml_to_json(xml_file):
 
