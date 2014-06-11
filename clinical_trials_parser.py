@@ -1,4 +1,6 @@
 import json
+import os
+from glob import glob
 from lxml import etree
 
 from xml_to_json import xml_to_json
@@ -61,9 +63,9 @@ class ClinicalTrialData(object):
 		date_string = self.root.find('required_header').find('download_date').text
 		date_string = date_string.replace('ClinicalTrials.gov processed this data on ', '')
 		return date_string
-
+    		
     def json_osf_format(self):
-		"""Returns a dictionary that represents key information about the clinical trial in json format."""
+		"""Returns a dictionary that represents key information about the clinical trial in json format."""       
 		json_osf = {
     		"imported_from": "clinicaltrials.gov",
     		"date_processed": self.date_processed,
@@ -71,11 +73,15 @@ class ClinicalTrialData(object):
     		"description": self.description,
     		"title": self.title,
     		"url": self.url,
-    		"files": [('../ct_xml/' + str(self.id) + '.xml'), ('../ct_raw_json/' + str(self.id) + '_raw.json' )],
+    		"files":
+            [('../ct_xml/' + str(self.id) + '.xml'), ('../ct_raw_json/' + str(self.id) + '_raw.json' )] +
+            ['../{0}'.format(path) for path in glob('ct_archive/ct_changes/{0}/*'.format(str(self.id)))] + 
+            ['../{0}'.format(path) for path in glob('ct_archive/ct_changes_xml/{0}/*'.format(str(self.id)))],
     		"tags": [
         		"clinicaltrials.gov"
     		],
-            "raw": self.raw
+            "raw": self.raw,
+            "versions": ['../{0}'.format(path) for path in glob('ct_archive/ct_changes_json/{0}/*'.format(self.id))]
 		}
 		json_osf['tags'] = json_osf['tags'] + self.keywords
 		return json_osf
