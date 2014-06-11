@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+       <title>Clinical Trial Data</title>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript" src="../jquery/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="../d3.v3/d3.v3.js" charset="utf-8"></script>
+        <script type="text/javascript" src="../keshif.js" charset="utf-8"></script>
+        <link rel="stylesheet" href="../keshif.css"/ type="text/css">
+
+        <link rel="stylesheet" href="./style.css"/ type="text/css">
+
+       <script>
+
+            function resetSize()
+            {
+                $('#trialDiv').height($(window).height()-10);
+                $('#trialDiv').width (1000);
+            }
+
+            function loadChart() 
+            {
+                resetSize();
+
+                $(window).resize(function() 
+                {
+                    resetSize();
+                    kshf.updateLayout();
+                });
+                
+                kshf.init(
+                {
+                    chartTitle: "Clinical Trial Data",
+                    domID : "#trialDiv",
+                    // dirRoot: ".",
+                    categoryTextWidth: 200,
+                    source : 
+                    {
+                        gdocId : '1kDGARA_dufXuWPdy53lnlMbEJWV2gbqh9pRA3uL-YBM',
+                        sheets : [ {name:"trials"} ]
+                    },
+                    columnsSkip : [ ],
+                    list: 
+                    {
+                        sortColWidth: 45,
+                        sortOpts : [ {name: 'firstrecieved_date'} ],
+                        contentFunc : function(d) 
+                        {
+                            var studyID = d.data[kshf.dt_ColNames.trials.id];
+                            return "<div>" + studyID + "</div>";
+                        }
+                    }
+                });
+            }
+
+            $(document).ready(loadChart);
+
+        </script>
+    </head>
+
+    <body>
+        <div id="trialDiv"></div>
+    </body>
+
+</html>
+
