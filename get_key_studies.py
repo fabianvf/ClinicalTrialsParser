@@ -7,6 +7,7 @@ import time
 import glob
 import os
 
+''' usage: id_file is the file containing IDs, the  '''
 def save_key_zipfiles(id_file):
 
     key_id_folder = 'ct_xml/'

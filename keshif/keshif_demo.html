@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+       <title>Clinical Trial Data</title>
+       <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+       <script type="text/javascript" src="jquery-1.11.1.js"></script>
+       <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+       <script type="text/javascript" src="keshif.js" charset="utf-8"></script>
+       <link rel="stylesheet" href="keshif.css"/ type="text/css">
+       <script type="text/javascript" src="moment.js" charset="utf-8"></script>
+    </head>
+
+    <body>
+        <div id="trialDiv"></div>
+    </body>
+
+</html>
+
+<script>
+
+function resetSize()
+{
+    $('#trialDiv').height($(window).height()-10);
+    $('#trialDiv').width (1000);
+}
+
+function loadChart() 
+{
+    resetSize();
+    $(window).resize(function() 
+    {
+        resetSize();
+        kshf.updateLayout();
+    });
+    
+    kshf.init(
+    {
+        chartTitle: "Clinical Trial Data",
+        domID : "#trialDiv",
+        dirRoot: ".",
+        categoryTextWidth: 200,
+        source : 
+        {
+            gdocId : '1kDGARA_dufXuWPdy53lnlMbEJWV2gbqh9pRA3uL-YBM',
+            sheets : [ {name:"trials"} ]
+        },
+        columnsSkip : [ "id", "tags"],
+        list: 
+        {
+            sortColWidth: 45,
+            sortOpts : [ {name: 'firstrecieved_date'}, {name: 'phase'}, {name: 'current_status'} ];
+            // contentFunc : function(d) 
+            // {
+            //     var studyID = d.data[kshf.dt_ColNames.trials.id];
+            //     var laureate = kshf.dt_id.Laureates[laureateID];
+            //     return "<div class=\\"iteminfo iteminfo_0\\">" +
+            //         laureate.data[kshf.dt_ColNames.Laureates.firstname] + " " + 
+            //         laureate.data[kshf.dt_ColNames.Laureates.surname] +
+            //         "</div>";
+            // }
+        }
+    });
+}
+
+$(document).ready(loadChart);
+
+</script>
