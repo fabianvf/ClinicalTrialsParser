@@ -39,6 +39,4 @@ def key_files_to_json():
 
         id_index += 1
 
-# xml_to_json('NCT02152930.xml')
-
 key_files_to_json()
