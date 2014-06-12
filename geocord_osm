@@ -1,0 +1,38 @@
+[
+    {
+        "boundingbox": [
+            "39.2762157", 
+            "39.2812132", 
+            "-76.5509619", 
+            "-76.546211"
+        ], 
+        "class": "landuse", 
+        "display_name": "Baltimore Travel Center, Baltimore, Maryland, 21224, United States of America", 
+        "importance": 1.2, 
+        "lat": "39.27871445", 
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright", 
+        "lon": "-76.5484102612613", 
+        "osm_id": "108842198", 
+        "osm_type": "way", 
+        "place_id": "68465841", 
+        "type": "commercial"
+    }, 
+    {
+        "boundingbox": [
+            39.2928583, 
+            39.2929583, 
+            -76.5663587, 
+            -76.5662587
+        ], 
+        "class": "place", 
+        "display_name": "Baltimore Highlands, Baltimore, Maryland, 21205, United States of America", 
+        "importance": 1.1, 
+        "lat": "39.2929083", 
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright", 
+        "lon": "-76.5663087", 
+        "osm_id": "1420205689", 
+        "osm_type": "node", 
+        "place_id": "2505907860", 
+        "type": "neighbourhood"
+    }
+]

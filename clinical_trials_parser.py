@@ -48,11 +48,17 @@ class ClinicalTrialData(object):
 			
 		self.locations = []		
 		for entry in self.root.findall('location'):
-			location_dict = {'location_name': None, 'location_zip': None}
+			location_dict = {'name': None, 'zip': None, 'city': None, 'state': None, 'country': None}
 			if entry.find('facility').find('name') != None:
-				location_dict['location_name'] = entry.find('facility').find('name').text
+				location_dict['name'] = entry.find('facility').find('name').text
 			if entry.find('facility').find('address').find('zip') != None:
-				location_dict['location_zip'] = entry.find('facility').find('address').find('zip').text
+				location_dict['zip'] = entry.find('facility').find('address').find('zip').text
+			if entry.find('facility').find('address').find('city') != None:
+				location_dict['city'] = entry.find('facility').find('address').find('city').text
+			if entry.find('facility').find('address').find('country') != None:
+				location_dict['country'] = entry.find('facility').find('address').find('country').text
+			if entry.find('facility').find('address').find('state') != None:
+				location_dict['state'] = entry.find('facility').find('address').find('state').text
 			self.locations.append(location_dict)
 
 	def __process_date(self):
@@ -90,5 +96,5 @@ class ClinicalTrialData(object):
 			json.dump(self.json_osf_format(), json_txt, sort_keys=True, indent=4)
 
 
-
-
+x = ClinicalTrialData('NCT02155933.xml')
+x.json_osf_to_txt()
