@@ -7,13 +7,13 @@
     ],
     "contributors": [
         {
-            "email": null,
-            "full_name": "Clinical Trials"
+            "full_name":"Faye Huynh",
+            "email":"nang_ping@yahoo.com"
         }],
     "current_status": "Completed",
     "date_processed": "June 05, 2014",
     "description": "\n      To determine whether postoperative subconjunctival injections of 5-fluorouracil (5-FU)\n      increase the success rate of filtering surgery in patients at high risk for failure after\n      standard glaucoma filtering surgery.\n    ",
-    "files": "../ct_xml/NCT00000122.xml",
+    "files": ["../ct_xml/NCT00000122.xml", "../ct_raw_json/NCT00000122_raw.json"],
     "geo_data": [],
     "id": "NCT00000122",
     "imported_from": "clinicaltrials.gov",

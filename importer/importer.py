@@ -47,12 +47,10 @@ for id in fCt:
 
     #print response[projectTitle]['components']['Introduction']['id']
 
-    fileName = []
     project = json.loads(raw)
     #for project in projects:
     if project.get('files'):
-        fileName.append(project['files'])
-        for f in fileName: # TODO better file uploading
+        for f in project['files']: # TODO better file uploading
             files = {'file': (f, open(f, 'rb'))}
             signature = get_file_signature(f)
             headers = {'Authorization': 'OSF {0}'.format(signature)}

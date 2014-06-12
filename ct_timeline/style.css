@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.separation{
+    display: table-cell;
+    padding: 10px;
+    border: 3px;
+    border-style: solid;
+    border-color: #bbbbbb;
+}
