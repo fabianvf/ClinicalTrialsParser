@@ -1,0 +1,868 @@
+{
+    "clinical_study": {
+        "@rank": "87580", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to look at the safety and effectiveness of receiving lamivudine\n      (3TC) once a day versus twice a day as part of an anti-HIV drug combination."
+        }, 
+        "brief_title": "Safety and Effectiveness of Lamivudine When Given Once a Day Versus Twice a Day in Combination With Other Anti-HIV Drugs in HIV-Infected Adults Who Have Never Received Anti-HIV Drugs", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients are randomized to receive the same total dosage of 3TC either twice a day (Group 1)\n      or once a day (Group 2) in combination with ZDV and EFV over 48 weeks. Viral load\n      measurements will be performed at Weeks 4, 8, 12, 16, 20, 24, and every 8 weeks thereafter."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Are 18 years of age or older.\n\n          -  Are HIV-positive.\n\n          -  Have a viral load (level of HIV in the blood) of at least 400 copies/ml within 21\n             days of study entry.\n\n          -  Have a CD4 count greater than 100 cells/mm3 within 21 days of study entry.\n\n          -  Agree to practice abstinence or use effective barrier methods of birth control (or,\n             if patient is a woman, unable to have children).\n\n        Exclusion Criteria\n\n        Patients will not be eligible for this study if they:\n\n          -  Have taken any antiretroviral (anti-HIV) agent.\n\n          -  Are pregnant or breast-feeding.\n\n          -  Are unable to absorb food or have trouble taking medicines by mouth.\n\n          -  Abuse alcohol or drugs to an extent that may make study participation difficult.\n\n          -  Are not likely to be able to complete the 48 weeks of study treatment.\n\n          -  Have a history of pancreatitis (inflamed pancreas) or hepatitis within the last 6\n             months or any evidence of liver disease.\n\n          -  Have received an investigational vaccine within the past 3 months or have received\n             gene therapy.\n\n          -  Have a severe medical condition such as diabetes or heart trouble.\n\n          -  Have been diagnosed with AIDS.\n\n          -  Have had radiation therapy or chemotherapy within 30 days of study entry, except for\n             treatment of Kaposi's sarcoma.\n\n          -  Are taking medications that affect the immune system within 30 days of study entry.\n\n          -  Are taking medications that may interact with the study drugs."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "March 2, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00004852", 
+            "org_study_id": "225D", 
+            "secondary_id": "EPV2000 1"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Efavirenz", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Lamivudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Zidovudine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Zidovudine", 
+                "Lamivudine", 
+                "Reverse Transcriptase Inhibitors", 
+                "Efavirenz", 
+                "Anti-HIV Agents"
+            ]
+        }, 
+        "keyword": [
+            "HIV-1", 
+            "Drug Therapy, Combination", 
+            "Zidovudine", 
+            "Drug Administration Schedule", 
+            "Lamivudine", 
+            "Genotype", 
+            "Phenotype", 
+            "Reverse Transcriptase Inhibitors", 
+            "Anti-HIV Agents", 
+            "Viral Load", 
+            "efavirenz"
+        ], 
+        "lastchanged_date": "June 23, 2005", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85016"
+                    }, 
+                    "name": "Phoenix Body Positive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90211"
+                    }, 
+                    "name": "Pacific Oaks Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900276069"
+                    }, 
+                    "name": "AIDS Healthcare Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Tower ID Med Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94118"
+                    }, 
+                    "name": "Kaiser Foundation Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94114"
+                    }, 
+                    "name": "Davies Med Ctr / c/o HIV Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90509"
+                    }, 
+                    "name": "Harbor - UCLA Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20007"
+                    }, 
+                    "name": "Georgetown Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20037"
+                    }, 
+                    "name": "George Washington Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Altamonte Springs", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32701"
+                    }, 
+                    "name": "IDC Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bradenton", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34205"
+                    }, 
+                    "name": "Bach and Godofsky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33308"
+                    }, 
+                    "name": "TheraFirst Med Ctrs Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33334"
+                    }, 
+                    "name": "The Coleman Institute Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "North Broward Hosp District"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Pierce", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34950"
+                    }, 
+                    "name": "The Coleman Institute Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30339"
+                    }, 
+                    "name": "Kaiser Permanente Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60657"
+                    }, 
+                    "name": "AIDS Research Alliance - Chicago"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46218"
+                    }, 
+                    "name": "Infectious Disease of Indiana"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536"
+                    }, 
+                    "name": "Univ of Kentucky Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane Univ School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "021182393"
+                    }, 
+                    "name": "Boston Med Ctr / Evans - 556"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64132"
+                    }, 
+                    "name": "Antibiotic Research Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Orange", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07018"
+                    }, 
+                    "name": "East Orange Veterans Administration Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08901"
+                    }, 
+                    "name": "ID Care Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Princeton", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08540"
+                    }, 
+                    "name": "ID Care Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Randolph", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07869"
+                    }, 
+                    "name": "ID Care Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Somerville", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08876"
+                    }, 
+                    "name": "ID Care Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Albany Med College / Div of HIV Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "North Shore Univ Hosp / Div of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10019"
+                    }, 
+                    "name": "St Lukes / Roosevelt Hosp / HIV Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "St Vincents Hosp / Clinical Research Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "432101228"
+                    }, 
+                    "name": "Ohio State Univ Hosp Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74114"
+                    }, 
+                    "name": "Associates in Med and Mental Health"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74107"
+                    }, 
+                    "name": "Oklahoma State University / College of Osteopathic Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02906"
+                    }, 
+                    "name": "Miriam Hosp / Brown Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38163"
+                    }, 
+                    "name": "Univ of Tennessee"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38104"
+                    }, 
+                    "name": "Methodist Healthcare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }, 
+                    "name": "Vanderbilt Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75219"
+                    }, 
+                    "name": "Dr David Donnell"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75219"
+                    }, 
+                    "name": "Nelson-Tebedo Community Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77555"
+                    }, 
+                    "name": "Univ of Texas Med Branch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "770303498"
+                    }, 
+                    "name": "Baylor College of Medicine / Dept of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Univ of Texas / Med School at Houston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77006"
+                    }, 
+                    "name": "Montrose Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "782847838"
+                    }, 
+                    "name": "Univ of Texas Health Sciences Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Med Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Hosp Muniz"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rosario - Santa Fe", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "CAICI"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Campinas - SP", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Universidade de Campinas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manguinhos RJ", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Hosp Evandro Chagas Fioernz"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio de Janeiro - RJ", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Hosp Univ Pedro Ernesto / Univ Estadual do RJ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio de Janeiro - RJ", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Hosp Univ Clementino Fraga Filho"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sao Paulo - SP", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Hosp Sao Paulo da Universidade Federal de Sao Paulo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Calgary", 
+                        "country": "Canada", 
+                        "state": "Alberta"
+                    }, 
+                    "name": "Southern Alberta HIV Clinic / Foothills Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "Canada", 
+                        "state": "British Columbia"
+                    }, 
+                    "name": "Saint Paul's Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Sunnybrook Health Science Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Toronto Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Wellesley/Central Site / St Michael's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Clinique Medicale L'Actuele"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Clinique Medicale du Quartier Latin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ste Foy", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire de Quebec"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Caguas", 
+                        "country": "Puerto Rico", 
+                        "zip": "00726"
+                    }, 
+                    "name": "Caguas Regional Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cotto Laurel", 
+                        "country": "Puerto Rico", 
+                        "zip": "00780"
+                    }, 
+                    "name": "Hosp San Cristobal-Edif A"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Guaynabo", 
+                        "country": "Puerto Rico", 
+                        "zip": "00966"
+                    }, 
+                    "name": "Carlos Leon-Valiente MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mayaguez", 
+                        "country": "Puerto Rico", 
+                        "zip": "00680"
+                    }, 
+                    "name": "Ramon Ramirez Ronda MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santurce", 
+                        "country": "Puerto Rico", 
+                        "zip": "00908"
+                    }, 
+                    "name": "San Juan AIDS Program"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Argentina", 
+                "Brazil", 
+                "Canada", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "A Phase II/III 48-Week, Randomized, Double-Blind, Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Lamivudine 300mg Once Daily Vs. Lamivudine 150mg BID in Combination With Zidovudine 300mg BID and Efavirenz 600mg Once Daily in Antiretroviral-Naive Adults With HIV-1 Infection", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00004852"
+        }, 
+        "source": "NIH AIDS Clinical Trials Information Service", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Glaxo Wellcome", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 1999", 
+        "study_design": "Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2000"
+    }, 
+    "geocoordinates": {
+        "AIDS Healthcare Foundation": "34.052 -118.244", 
+        "AIDS Research Alliance - Chicago": "41.878 -87.63", 
+        "Albany Med College / Div of HIV Medicine": "42.653 -73.756", 
+        "Antibiotic Research Associates": "39.1 -94.579", 
+        "Associates in Med and Mental Health": "36.154 -95.993", 
+        "Bach and Godofsky": "27.499 -82.575", 
+        "Baylor College of Medicine / Dept of Medicine": "29.76 -95.369", 
+        "Boston Med Ctr / Evans - 556": "42.358 -71.06", 
+        "CAICI": "-32.951 -60.667", 
+        "Caguas Regional Hosp": "18.234 -66.048", 
+        "Carlos Leon-Valiente MD": "18.357 -66.111", 
+        "Centre Hospitalier Universitaire de Quebec": "46.773 -71.276", 
+        "Clinique Medicale L'Actuele": "45.509 -73.554", 
+        "Clinique Medicale du Quartier Latin": "45.509 -73.554", 
+        "Davies Med Ctr / c/o HIV Institute": "37.775 -122.419", 
+        "Dr David Donnell": "32.803 -96.77", 
+        "East Orange Veterans Administration Med Ctr": "40.767 -74.205", 
+        "George Washington Univ Med Ctr": "38.895 -77.036", 
+        "Georgetown Univ Med Ctr": "38.895 -77.036", 
+        "Hampton Roads Med Specialists": "37.03 -76.345", 
+        "Harbor - UCLA Med Ctr": "33.836 -118.341", 
+        "Hosp Evandro Chagas Fioernz": "-22.877 -43.245", 
+        "Hosp Muniz": "-34.608 -58.373", 
+        "Hosp San Cristobal-Edif A": "18.045 -66.548", 
+        "Hosp Sao Paulo da Universidade Federal de Sao Paulo": "-23.549 -46.639", 
+        "Hosp Univ Clementino Fraga Filho": "-22.904 -43.21", 
+        "Hosp Univ Pedro Ernesto / Univ Estadual do RJ": "-22.904 -43.21", 
+        "ID Care Inc": "40.574 -74.61", 
+        "IDC Research Initiative": "28.661 -81.366", 
+        "Infectious Disease of Indiana": "39.769 -86.158", 
+        "Kaiser Foundation Hospital": "37.775 -122.419", 
+        "Kaiser Permanente Infectious Diseases": "33.749 -84.388", 
+        "Methodist Healthcare": "35.15 -90.049", 
+        "Miriam Hosp / Brown Univ": "41.824 -71.413", 
+        "Montrose Clinic": "29.76 -95.369", 
+        "Nelson-Tebedo Community Clinic": "32.803 -96.77", 
+        "North Broward Hosp District": "26.122 -80.143", 
+        "North Shore Univ Hosp / Div of Infectious Diseases": "40.798 -73.7", 
+        "Ohio State Univ Hosp Clinic": "39.961 -82.999", 
+        "Oklahoma State University / College of Osteopathic Medicine": "36.154 -95.993", 
+        "Pacific Oaks Research": "34.074 -118.4", 
+        "Phoenix Body Positive": "33.448 -112.074", 
+        "Ramon Ramirez Ronda MD": "18.201 -67.145", 
+        "Saint Paul's Hosp": "49.261 -123.114", 
+        "San Juan AIDS Program": "18.441 -66.047", 
+        "Southern Alberta HIV Clinic / Foothills Hosp": "51.045 -114.057", 
+        "St Lukes / Roosevelt Hosp / HIV Center": "40.714 -74.006", 
+        "St Vincents Hosp / Clinical Research Program": "40.714 -74.006", 
+        "Sunnybrook Health Science Centre": "43.653 -79.383", 
+        "The Coleman Institute Inc": "27.447 -80.326", 
+        "TheraFirst Med Ctrs Inc": "26.122 -80.143", 
+        "Toronto Gen Hosp": "43.653 -79.383", 
+        "Tower ID Med Associates": "34.052 -118.244", 
+        "Tulane Univ School of Medicine": "29.951 -90.072", 
+        "Univ of Kentucky Med Ctr": "38.041 -84.504", 
+        "Univ of Tennessee": "35.15 -90.049", 
+        "Univ of Texas / Med School at Houston": "29.76 -95.369", 
+        "Univ of Texas Health Sciences Ctr": "29.424 -98.494", 
+        "Univ of Texas Med Branch": "29.301 -94.798", 
+        "Universidade de Campinas": "-22.907 -47.063", 
+        "Vanderbilt Univ Med Ctr": "36.166 -86.784", 
+        "Wellesley/Central Site / St Michael's Hospital": "43.653 -79.383"
+    }
+}

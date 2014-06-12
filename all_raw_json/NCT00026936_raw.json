@@ -1,0 +1,99 @@
+{
+    "clinical_study": {
+        "@rank": "60653", 
+        "brief_summary": {
+            "textblock": "The utility of PEREGRINE Monte Carlo calculations for radiation treatment planning in a\n      clinical setting will be assessed by comparing results with other fully three-dimensional\n      programs.  ROB will investigate PEREGRINE for clinical use at NCI in collaboration with\n      Lawrence Livermore National Laboratory (LLNL)."
+        }, 
+        "brief_title": "A Pilot Study to Investigate the Clinical Utility of the Peregrine Monte Carlo Dose Calculation System for Radiation Therapy Treatment Planning", 
+        "completion_date": "January 2005", 
+        "condition": "Neoplasm", 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "The utility of PEREGRINE Monte Carlo calculations for radiation treatment planning in a\n      clinical setting will be assessed by comparing results with other fully three-dimensional\n      programs.  ROB will investigate PEREGRINE for clinical use at NCI."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "INCLUSION CRITERIA:\n\n        Patients with documented malignancy requiring standard radiotherapy OR patients with a\n        benign condition for whom radiotherapy is indicated.\n\n        EXCLUSION CRITERIA:\n\n        Documented connective tissue disease or Ataxia Telangiectasia.\n\n        Cognitively impaired patients who cannot give informed consent.\n\n        Other medical conditions deemed by the PI to make the patient ineligible.\n\n        Patients requiring emergent radiotherapy.\n\n        Patients who are not able to undergo a CT scan."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": "140", 
+        "firstreceived_date": "November 14, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00026936", 
+            "org_study_id": "990116", 
+            "secondary_id": "99-C-0116"
+        }, 
+        "intervention": {
+            "intervention_name": "Radiotherapy", 
+            "intervention_type": "Procedure"
+        }, 
+        "keyword": [
+            "External Beam Radiotherapy", 
+            "TCP", 
+            "DVH", 
+            "NTCP", 
+            "3-D Programming"
+        ], 
+        "lastchanged_date": "March 3, 2008", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Cancer Institute (NCI)"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Pilot Study to Investigate the Clinical Utility of the Peregrine Monte Carlo Dose Calculation System for Radiation Therapy Treatment Planning", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "reference": [
+            {
+                "PMID": "8525023", 
+                "citation": "Perez CA, Purdy JA, Harms W, Gerber R, Graham MV, Matthews JW, Bosch W, Drzymala R, Emami B, Fox S, et al. Three-dimensional treatment planning and conformal radiation therapy: preliminary evaluation. Radiother Oncol. 1995 Jul;36(1):32-43."
+            }, 
+            {
+                "PMID": "1618671", 
+                "citation": "Lawrence TS, Ten Haken RK, Kessler ML, Robertson JM, Lyman JT, Lavigne ML, Brown MB, DuRoss DJ, Andrews JC, Ensminger WD, et al. The use of 3-D dose volume analysis to predict radiation hepatitis. Int J Radiat Oncol Biol Phys. 1992;23(4):781-8."
+            }, 
+            {
+                "PMID": "8316652", 
+                "citation": "Yorke ED, Kutcher GJ, Jackson A, Ling CC. Probability of radiation-induced complications in normal tissues with parallel architecture under conditions of uniform whole or partial organ irradiation. Radiother Oncol. 1993 Mar;26(3):226-37."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00026936"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "May 1999", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2005"
+    }, 
+    "geocoordinates": {
+        "National Cancer Institute (NCI)": "38.985 -77.095"
+    }
+}

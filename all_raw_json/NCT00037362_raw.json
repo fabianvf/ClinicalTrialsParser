@@ -1,0 +1,76 @@
+{
+    "clinical_study": {
+        "@rank": "104465", 
+        "brief_summary": {
+            "textblock": "To develop a new statistical index that measures sensitivity to non-ignorability (index of\n      sensitivity to nonignorability, or ISNI) for model-based inferences."
+        }, 
+        "brief_title": "Measuring Sensitivity to Nonignorability", 
+        "completion_date": {
+            "#text": "August 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Cardiovascular Diseases", 
+            "Heart Diseases"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Heart Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:\n\n      Despite a considerable number of recent developments, missing data and associated\n      methodology continues to be an important topic of research in biostatistics, medicine and\n      public health. As investigators begin to understand the limitations of model-based\n      inferences under the assumption of non-ignorable missingness, recent attention has turned to\n      the formulation and implementation of sensitivity analyses. Having a general-purpose index\n      to assess sensitivity to departures from ignorability would be extremely useful to\n      researchers in a variety of fields in the health sciences. This is especially true if the\n      index is relatively easy to compute and interpret.\n\n      DESIGN NARRATIVE:\n\n      It would be useful to have a general, easily computed diagnostic that characterizes data\n      sets with respect to their potential for sensitivity to nonignorability.  The investigators\n      have developed a diagnostic that measures the effect of small perturbations from\n      ignorability on coefficient estimates in the univariate linear model with missing\n      observations.They will extend their analysis in a number of directions: i) They will develop\n      a general class of diagnostics for Bayes and direct- likelihood inferences, and demonstrate\n      its application to a number of important special cases. ii) They will develop an analogous\n      theory for sensitivity to nonignorability in frequentist estimation and testing. iii) They\n      will develop a general form of the diagnostic for the coarse-date model, a generalization of\n      missing data that includes censoring and rounding as special cases. iv) They will analyze a\n      number of real- world data sets that represent important cases where nonignorability is of\n      interest, including dropout in longitudinal data, censored survival data, and cross-over in\n      clinical trials."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "No eligibility criteria"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "firstreceived_date": "May 16, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00037362", 
+            "org_study_id": "1165"
+        }, 
+        "lastchanged_date": "January 18, 2008", 
+        "overall_official": {
+            "affiliation": "Columbia University Health Sciences", 
+            "last_name": "Daniel Heitjan"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2005", 
+            "@type": "Actual"
+        }, 
+        "reference": {
+            "PMID": "15909292", 
+            "citation": "Ma G, Troxel AB, Heitjan DF. An index of local sensitivity to nonignorable drop-out in longitudinal modelling. Stat Med. 2005 Jul 30;24(14):2129-50."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00037362"
+        }, 
+        "source": "National Heart, Lung, and Blood Institute (NHLBI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "September 2001", 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "January 2008"
+    }, 
+    "geocoordinates": {}
+}

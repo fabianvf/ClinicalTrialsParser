@@ -1,0 +1,2248 @@
+{
+    "clinical_study": {
+        "@rank": "69101", 
+        "arm_group": [
+            {
+                "arm_group_label": "Tipifarnib (R11577)-Arm I", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive oral R115777 (Tipifarnib) first followed by placebo. 200 mg/m^2/dose BSA every 12 hours by mouth (po)on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity."
+            }, 
+            {
+                "arm_group_label": "Placebo-Arm II", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Patients receive oral placebo first followed by R115777 (Tipifarnib). 200 mg/m^2/dose BSA every 12 hours by mouth (po)every 12 hours on days 1-21. Courses repeat as in arm I."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will examine whether the experimental drug R115777 (Tipifarnib) can shrink or\n      slow the growth of plexiform neurofibromas in children and young adults with\n      neurofibromatosis type 1 (NF1) and determine what side effects are related to treatment.\n      Plexiform tumors arise from nerves; the only effective treatment is surgical removal. Often,\n      however, not all the tumors can be removed, because of their number or location.\n\n      Patients with NF1 have a reduced amount of the protein neurofibromin. Neurofibromin is\n      thought to help control the activity of another protein, called ras, which regulates cell\n      growth. Too little neurofibromin, therefore, may allow for uncontrolled cell growth and\n      tumor formation. R115777 interferes with the function of the ras and other proteins. In test\n      tube and animal studies, R115777 has blocked the growth of cancer cells. This study will\n      examine whether the drug is effective against plexiform tumors.\n\n      Patients with NF1 and progressive plexiform neurofibromas between 3 and 25 years of age may\n      be eligible for this study. Patients whose tumors can be successfully removed surgically may\n      not participate in this study.  Candidates are screened with a medical history and physical\n      and eye examinations, blood and urine tests, and magnetic resonance imaging (MRI).\n      Photographs are taken of tumors visible on the body surface.\n\n      Study participants are randomly assigned to receive either R115777 or placebo (an inactive\n      substance). They take R115777 or placebo tablets every 12 hours for 21 days, followed by a\n      7-day rest period. This constitutes one 28-day treatment cycle. Treatment continues for as\n      long as the tumors remain stable or shrink and side effects are tolerable. The treatment is\n      switched (for example, from placebo to R115777) or stopped if the tumors grow or if side\n      effects become unacceptable. Patients (or their parents) keep a record of side effects.\n\n      For the first 3 treatment cycles, patients have a physical examination and blood tests every\n      other week. Blood tests are also done before starting treatment, and at one time point after\n      at least 14 days of treatment to measure the effect of R115777 on proteins in blood cells. A\n      blood sample is obtained before starting treatment and before cycles 4, 7 and 10 and then\n      after every 6 cycles to measure the level of a substance called nerve growth factor. The\n      analysis of nerve growth factor is used to determine if it can predict which patients might\n      be at risk of developing side effects from R115777."
+        }, 
+        "brief_title": "R115777 to Treat Children With Neurofibromatosis Type 1 and Progressive Plexiform Neurofibromas", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Patients receive oral tipifarnib every 12 hours on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity. These are the patients that started on tipifarnib only. This number does not reflect the total amount of patients that crossed over to placebo.", 
+                            "title": "R115777 (Tipifarnib)"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Patients receive oral placebo every 12 hours on days 1-21. Courses repeat as in arm I. These are the patients that started on placebo only. This number does not reflect the total amount of patients that crossed over to tipifarnib. Two of the 31 patients were deemed ineligible, thus 29 started placebo.", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "62"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "28"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "59"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "3"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "3"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "5.13", 
+                                                "@value": "10.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "4.69", 
+                                                "@value": "9.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "4.87", 
+                                                "@value": "10."
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "25"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "16"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "37"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "3"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "29"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "59"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Not Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Ethnicity (NIH/OMB)", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "American Indian or Alaska Native"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Native Hawaiian or Other Pacific Islander"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "3"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "7"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Black or African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "25"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "25"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "50"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "More than one race"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "3"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Hispanic"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "62"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Median time to progression is defined as a greater than or equal to 20% increase increase in the sum of the volume of all index lesions based on volumetric analysis utilizing magnetic resonance imaging (MRI).Start of phase A or phase B to time of progression.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Tipifarnib/placebo", 
+                                    "title": "Phase A"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Placebo/Tipifarnib", 
+                                    "title": "Phase B"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "60"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "43"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@lower_limit": "8.1", 
+                                                            "@upper_limit": "18.3", 
+                                                            "@value": "10.6"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@lower_limit": "8.2", 
+                                                            "@spread": ",", 
+                                                            "@upper_limit": "26.1", 
+                                                            "@value": "14.5"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Placebo"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@lower_limit": "8.1", 
+                                                            "@upper_limit": "30.3", 
+                                                            "@value": "19.2"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@lower_limit": "8.0", 
+                                                            "@upper_limit": "19.6", 
+                                                            "@value": "13.3"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Tipifarnib"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Median time to progression is defined as a greater than or equal to 20% increase increase in the sum of the volume of all index lesions based on volumetric analysis utilizing magnetic resonance imaging (MRI).Start of phase A or phase B to time of progression.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Median", 
+                                    "title": "Median Time to Progression", 
+                                    "units": "Months"
+                                }
+                            ]
+                        }, 
+                        "population": "phase A - 62 started and 2 were ineligible = 60 phase B - 43 started", 
+                        "safety_issue": "No", 
+                        "time_frame": "8 years", 
+                        "title": "Median Time to Progression", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Here are the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Patients receive oral tipifarnib every 12 hours on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.\nPatients receive oral placebo every 12 hours on days 1-21. Courses repeat as in arm I.", 
+                                "title": "Tipifarnib & Placebo"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "60"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "59"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Here are the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With Adverse Events", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Adverse event data is in compliance with DSMB (Data Safety Monitoring Board).", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "8 years", 
+                        "title": "Number of Participants With Adverse Events", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Patients receive oral tipifarnib every 12 hours on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.Patients receive tipifarnib ONLY in the first treatment until they progress to the second treatment/crossover to receive placebo.", 
+                            "title": "Tipifarnib (R11577)"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Patients receive oral placebo every 12 hours on days 1-21. Courses repeat as in arm I.Patients receive placebo ONLY  in the first treatment until they progress to the second treatment/crossover to receive tipifarnib.", 
+                            "title": "Placebo"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "3", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "3", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Withdrawal by Subject"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Adverse Event"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "3", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "non-adherence"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Death"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Pts that did not progress"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Ineligible"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "31", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "#text": "These are the patients randomized to receive placebo. Two of these patients were deemed ineligible.", 
+                                                    "@count": "31", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "23", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Pts Who Progressed to Second Treatment"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Ineligible Patients"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "23", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "11", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "8", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Period 1-First Treatment"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "refused phase B"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "3", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Withdrawal by Subject"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Adverse Event"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "non-adherence"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "3", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Pts that did not progress"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "23", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "10", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "12", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "10", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "11", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Period 2-crossover"
+                        }
+                    ]
+                }
+            }, 
+            "point_of_contact": {
+                "email": "widemanb@mail.nih.gov", 
+                "name_or_title": "Brigitte Widemann, M.D.", 
+                "organization": "National Institutes of Health, National Cancer Institute", 
+                "phone": "301-496-7387"
+            }, 
+            "reported_events": {
+                "desc": "Adverse event data is in compliance with DSMB(Data Safety Monitoring Board).", 
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "Patients receive oral tipifarnib every 12 hours on days 1-21. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.\nPatients receive oral placebo every 12 hours on days 1-21. Courses repeat as in arm I.", 
+                        "title": "Tipifarnib & Placebo"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "59", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "19", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hemoglobin"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hemorrhage/bleeding"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Thrombocytopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Fibrinogen"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "2", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Palpitations"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Otalgia"
+                                    }
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Blurred vision"
+                                    }
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "26", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "20", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Abdominal pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "33", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "28", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Dry mouth"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Dyspepsia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Mouth dryness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "37", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "30", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Taste disturbance"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "28", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "24", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Chest pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Fatigue"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "9", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "8", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Bilirubin"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Allergic rhinitis"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "2", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Pharyngitis"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Bruising"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Creatinine"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypofribrinogenemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "14", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Lymphopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Platelets"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "33", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "26", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Prolonged PT"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "33", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "25", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Prolonged PTT"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "26", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "23", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "white blood cell (WBC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Weight loss"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Fever"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Alkaline phosphatase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "21", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "17", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Bicarbonate"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypercalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hyperkalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypermagnesemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypernatremia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypertriglyceridemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypoalbuminemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypocalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypoglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypomagnesemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hyponatremia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypophosphatemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Muscle weakness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Myalgia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Pain (neck)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Pain hands and feet"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Tumor pain"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Neuropathy motor"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Neuropathy sensory"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Seizure"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Anxiety"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hallucinations"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Insomnia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Mood alteration-anxiety"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Mood alteration-depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Personality/behavioral"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Dysuria"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hematuria"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Proteinuria"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Urinary urgency"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "6", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "6", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Cough"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Alopecia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Dry skin"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Pruritis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Rash"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Flushing"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypertension"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Facial flushing"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "9", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Hypofibrinogenemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Diarrhea"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "60"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Hallucinations"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "60"
+                                        }, 
+                                        "sub_title": "Rash"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "November 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Neurofibroma, Plexiform", 
+            "Neurofibromatosis Type I"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Neurofibroma", 
+                "Neurofibromatoses", 
+                "Neurofibromatosis 1", 
+                "Osteitis Fibrosa Cystica", 
+                "Neurofibroma, Plexiform"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "R115777 (Tipifarnib) is a farnesyltransferase inhibitor that blocks the post-translational\n      isoprenylation of ras and other farnesylated proteins.  The ras proteins are integral in\n      cell signaling pathways, and farnesylation is essential for the function of both mutant and\n      non-mutant ras proteins.  Patients with neurofibromatosis type 1 (NF1) have an increased\n      risk of developing tumors of the central and peripheral nervous system, and there are no\n      standard treatment options, other than surgery, available for these tumors.  Neurofibromin,\n      which is the product of the NF1 gene, contains a domain with significant homology to ras\n      GTPase-activating proteins (GAP).  Although NF1 patients lack germline ras mutations, the\n      decreased levels of neurofibromin have been shown to be associated with a constitutively\n      activated ras-GTP status.  Thus, upstream inhibition of ras farnesylation may inhibit growth\n      of tumors in NF1 patients.  A randomized, cross-over, double-blinded, placebo-controlled\n      pediatric phase II trial of oral R115777 will be performed in children and young adults with\n      NF1, who have progressive, plexiform neurofibroma(s) to determine the effect of this novel\n      anticancer drug on the rate of growth of neurofibromas.  The endpoint of the trial is time\n      to progression.  R115777 will be administered orally at a dose of 200 mg/m(2) twice daily\n      for cycles of 21 days followed by a 7 day rest period based on the results of our prior\n      pediatric phase I trial."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        Age: 3 years and 25 years of age.\n\n        Diagnosis: Patients with neurofibromatosis type 1 (NF1) and progressive plexiform\n        neurofibromas that have the potential to cause significant morbidity, such as (but not\n        limited to) head and neck lesions that could compromise the airway or great vessels,\n        brachial or lumbar plexus lesions that could cause nerve compression and loss of function,\n        lesions that could result in major deformity (e.g., orbital lesions), lesions of the\n        extremity that cause limb hypertrophy or loss of function, and painful lesions.\n\n        Histologic confirmation of tumor is not necessary in the presence of consistent clinical\n        and radiographic findings, clinically suspected.\n\n        In addition to plexiform neurofibroma(s), all study subjects must have at least one other\n        diagnostic criteria for NF1 listed below (National Institutes of Health (NIH) Consensus\n        Conference[9]):\n\n          1. Six or more cafe-au-lait spots (0.5 cm in prepubertal subjects or 1.5 cm in\n             postpubertal subjects).\n\n          2. Freckling in the axilla or groin;\n\n          3. Optic glioma;\n\n          4. Two or more Lisch nodules;\n\n          5. A distinctive bony lesion (dysplasia of the sphenoid bone or dysplasia or thinning of\n             long bone cortex);\n\n          6. A first degree relative with NF1.\n\n        In this study a plexiform neurofibroma is defined as a neurofibroma that has grown along\n        the length of a nerve and may involve multiple fascicles and branches.\n\n        A spinal plexiform neurofibroma involves two or more levels with connection between the\n        levels or extending laterally along the nerve.\n\n        Measurable disease:  Patients must have measurable plexiform neurofibroma(s). For the\n        purpose of this study a measurable lesion will be defined as a lesion of at least 3 cm\n        measured in one dimension.\n\n        There must be evidence of recurrent or progressive disease as documented by an increase in\n        size or the presence of new plexiform neurofibromas on MRI. Progression at the time of\n        study entry is defined as:\n\n          1. A measurable increase of the plexiform neurofibroma (20% increase in the volume, or a\n             13% increase in the product of the two longest perpendicular diameters, or a 6%\n             increase in the longest diameter) over the last two consecutive scans (magnetic\n             resonance imaging (MRI) or computed tomography (CT)), or over the time period of\n             approximately one year prior to evaluation for this study.\n\n          2. Patients who underwent surgery for a progressive plexiform neurofibroma will be\n             eligible to enter the study after the surgery, provided the plexiform neurofibroma\n             was incompletely resected and is measurable.\n\n             Prior therapy:  Patients with NF1 are eligible at the time of recurrence or\n             progression of inoperable plexiform neurofibroma.\n\n             A surgical consultation should be obtained prior to enrollment on the study to\n             evaluate if tumor resection is a feasible option.\n\n             Patients will only be eligible if complete tumor resection is not feasible, or if a\n             patient with surgical option refuses surgery.\n\n             Since there is no standard effective chemotherapy for patients with NF1 and\n             progressive plexiform neurofibromas, patients may be treated on this trial without\n             having received prior therapy.\n\n             Patients must have recovered from the toxic effects of all prior therapy before\n             entering this study.\n\n             The Cancer Therapy Evaluation Program Common Toxicity Criteria (CTC) Version 2.0 will\n             be used for toxicity assessment.\n\n             A copy of the CTC version 2.0 can be downloaded from the CTEP home page:\n             http://ctep.cancer.gov. Recovery is defined as a toxicity grade less than 2, unless\n             otherwise specified in the Inclusion and Exclusion Criteria.\n\n             Patients must have had their last dose of radiation therapy at least six weeks prior\n             to study entry, and their last dose of chemotherapy at least four weeks prior to\n             study entry.\n\n             Patients who received growth colony stimulating factor (G-CSF) after the prior cycle\n             of chemotherapy must be off G-CSF for at least one week prior to entering this study.\n\n             Performance Status:  Patients should have a life expectancy of at least 12 months and\n             an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 1, or 2.\n\n             Patients who are wheelchair bound because of paralysis should be considered\n             'ambulatory' when they are up in their wheelchair.\n\n             Hematologic Function:  Patients must have an absolute granulocyte count 1,500/ uL,\n             9.0 gm/dl, and a platelet count 150,000/uL at study entry, and a normal fibrinogen.\n\n             Hepatic Function:  Patients must have a bilirubin within normal limits and serum\n             glutamic pyruvic transaminase (SGPT) 2x upper limit of normal.\n\n             Patients with Gilbert syndrome are excluded from the requirement of a normal\n             bilirubin. (Gilbert syndrome is found in 3-10% of the general population, and is\n             characterized by mild, chronic unconjugated hyperbilirubinemia in the absence of\n             liver disease or overt hemolysis).\n\n             Renal Function:  Patients must have an age-adjusted normal serum creatinine OR a\n             creatinine clearance (70 mL / min / 1.73 m^2).\n\n             Informed Consent:  All patients or their legal guardians (if the patient is less than\n             18 years old) must sign an institutional review board (IRB) approved document of\n             informed consent (screening protocol) prior to performing studies obtained\n             exclusively to determine patient eligibility.\n\n             After confirmation of patient eligibility all patients or their legal guardians must\n             sign the protocol specific informed consent to document their understanding of the\n             investigational nature and the risk of this study before any protocol related studies\n             are performed (other than the studies which were performed to determine patient\n             eligibility).\n\n             When appropriate pediatric patients will be included in all discussion. Per\n             institutional guidelines, age appropriate assent forms for children from 7 through 12\n             years, and for children may be developed and, when appropriate, will be signed by the\n             pediatric patients in order to obtain written assent.\n\n             Durable Power of Attorney (DPA):\n\n             All patients 18 years of age will be offered the opportunity to assign DPA so that\n             another person can make decisions about their medical care if they become\n             incapacitated or cognitively impaired.\n\n             Ability to undergo MRI examinations.\n\n             EXCLUSION CRITERIA:\n\n             Pregnant or breast feeding females are excluded, because the toxic effects and\n             pharmacology of R115777 in the fetus and newborn are unknown.\n\n             Clinically significant unrelated systemic illness (serious infections or significant\n             cardiac, pulmonary, hepatic or other organ dysfunction) which in the judgement of the\n             Principal or Associate Investigator would compromise the patient's ability to\n             tolerate R115777 or are likely to interfere with the study procedures or results.\n\n             Prior treatment with greater than 1 prior myelosuppressive chemotherapy regimen.\n\n             An investigational agent within the past 30 days.\n\n             Evidence of an optic glioma, malignant glioma, malignant peripheral nerve sheath\n             tumor or other cancer requiring treatment with chemotherapy or radiation therapy.\n\n             Ongoing radiation therapy, chemotherapy, hormonal therapy directed at the tumor, or\n             immunotherapy.\n\n             Inability to return for follow-up visits or obtain follow-up studies required to\n             assess toxicity and response to therapy.\n\n             Prior treatment with R115777."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "25 Years", 
+            "minimum_age": "3 Years"
+        }, 
+        "enrollment": {
+            "#text": "62", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 19, 2006", 
+        "firstreceived_results_date": "March 30, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00029354", 
+            "nct_id": "NCT00021541", 
+            "org_study_id": "010222", 
+            "secondary_id": "01-C-0222"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Tipifarnib (R11577)-Arm I", 
+                "description": "Given orally, 200 mg/m^2/dose BSA every 12 hours by mouth (po) daily x 21 days, Course is every 28 days", 
+                "intervention_name": "tipifarnib", 
+                "intervention_type": "Drug", 
+                "other_name": "R115777"
+            }, 
+            {
+                "arm_group_label": "Placebo-Arm II", 
+                "description": "Patients receive oral placebo every 12 hours on days 1-21. Courses repeat as in arm I.", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Tipifarnib"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Surrogate Markers", 
+            "3-Dimensional Magnetic Resonance Imaging (MRI)", 
+            "Natural History of Neurofibromatosis Type 1 (NF1)", 
+            "Tumor Tissue Bank", 
+            "Neurofibromatosis", 
+            "NF1", 
+            "Neurofibromatosis Type 1", 
+            "Plexiform Neurofibroma", 
+            "Neurofibroma"
+        ], 
+        "lastchanged_date": "September 24, 2012", 
+        "link": {
+            "description": "NIH Clinical Center Detailed Web Page", 
+            "url": "http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2001-C-0222.html"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "University of Alabama at Birmingham (M1149)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }, 
+                    "name": "Children's Hospital Los Angeles, CA (M1118)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Children's Memorial Hospital, Chicago, IL (M1484)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21231"
+                    }, 
+                    "name": "Johns Hopkins Oncology Center (M1011)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bethesda", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20892"
+                    }, 
+                    "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "The Children's Hospital, Dana-Farber Cancer Institute, Boston, MA (M1034)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "St. Louis Children's Hospital, St. Louis, MO (M1123)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "SUNY Upstate Medical University, NY (M1303)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45229"
+                    }, 
+                    "name": "Cincinnati Children's Hospital (FWA 00002988)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Childrens Hospital of Philadelphia, PA (M1257)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Texas Children's Hospital, Houston, TX (M1060)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "D-22419"
+                    }, 
+                    "name": "Klinikum Nord, Hamburg, Germany (FWA 00003228)"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Germany"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase II Randomized, Cross-Over, Double-Blinded, Placebo-Controlled Trial of the Farnesyltransferase Inhibitor R115777 in Pediatric Patients With Neurofibromatosis Type I and Progressive Plexiform Neurofibromas", 
+        "overall_official": {
+            "affiliation": "National Insitutes of Health, National Cancer Institute", 
+            "last_name": "Brigitte Widemann, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Median time to progression is defined as a greater than or equal to 20% increase increase in the sum of the volume of all index lesions based on volumetric analysis utilizing magnetic resonance imaging (MRI).Start of phase A or phase B to time of progression.", 
+                "measure": "Median Time to Progression", 
+                "safety_issue": "No", 
+                "time_frame": "8 years"
+            }, 
+            {
+                "description": "Here are the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                "measure": "Number of Participants With Adverse Events", 
+                "safety_issue": "Yes", 
+                "time_frame": "8 years"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "7626654", 
+                "citation": "Bernards A. Neurofibromatosis type 1 and Ras-mediated signaling: filling in the GAPs. Biochim Biophys Acta. 1995 Jul 28;1242(1):43-59. Review. No abstract available."
+            }, 
+            {
+                "PMID": "10656436", 
+                "citation": "De Santis S, Pace A, Bove L, Cognetti F, Properzi F, Fiore M, Triaca V, Savarese A, Simone MD, Jandolo B, Manzione L, Aloe L. Patients treated with antitumor drugs displaying neurological deficits are characterized by a low circulating level of nerve growth factor. Clin Cancer Res. 2000 Jan;6(1):90-5."
+            }, 
+            {
+                "PMID": "8953130", 
+                "citation": "Goldberg Y, Dibbern K, Klein J, Riccardi VM, Graham JM Jr. Neurofibromatosis type 1--an update and review for the primary pediatrician. Clin Pediatr (Phila). 1996 Nov;35(11):545-61. Review."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00021541"
+        }, 
+        "responsible_party": {
+            "name_title": "Brigitte C. Widemann, M.D./National Cancer Institute", 
+            "organization": "National Institutes of Health"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "July 2001", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2012"
+    }, 
+    "geocoordinates": {
+        "Children's Hospital Los Angeles, CA (M1118)": "34.052 -118.244", 
+        "Children's Memorial Hospital, Chicago, IL (M1484)": "41.878 -87.63", 
+        "Childrens Hospital of Philadelphia, PA (M1257)": "39.952 -75.164", 
+        "Cincinnati Children's Hospital (FWA 00002988)": "39.103 -84.512", 
+        "Johns Hopkins Oncology Center (M1011)": "39.29 -76.612", 
+        "Klinikum Nord, Hamburg, Germany (FWA 00003228)": "53.557 9.995", 
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095", 
+        "SUNY Upstate Medical University, NY (M1303)": "43.048 -76.147", 
+        "St. Louis Children's Hospital, St. Louis, MO (M1123)": "38.627 -90.199", 
+        "Texas Children's Hospital, Houston, TX (M1060)": "29.76 -95.369", 
+        "The Children's Hospital, Dana-Farber Cancer Institute, Boston, MA (M1034)": "42.358 -71.06", 
+        "University of Alabama at Birmingham (M1149)": "33.521 -86.802"
+    }
+}

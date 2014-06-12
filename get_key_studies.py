@@ -4,23 +4,22 @@
 import requests
 import zipfile
 import time
-import xml.etree.ElementTree as ET, glob
+import glob
 import os
 
-def save_key_zipfiles():
+''' usage: id_file is the file containing IDs, the  '''
+def save_key_zipfiles(id_file):
 
-    key_id_file = 'key_studies.txt'
     key_id_folder = 'ct_xml/'
 
-    with open (key_id_file) as key_ids:
+    with open (id_file) as key_ids:
             key_id_list = [line.strip() for line in key_ids]
 
     base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=results&down_flds=shown&down_fmt=plain&id='
 
     end = '&show_down=Y'
 
-    for item in key_id_list:
-        url_id = item
+    for url_id in key_id_list:
         url = base_url + url_id + end
         key_xml = requests.get(url)
 
@@ -45,5 +44,5 @@ def unzip_key_files():
     for zip_file in ziplist:
         os.remove(zip_file)
 
-save_key_zipfiles()
+save_key_zipfiles('key_studies.txt')
 unzip_key_files()

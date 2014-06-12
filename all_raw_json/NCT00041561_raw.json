@@ -1,0 +1,338 @@
+{
+    "clinical_study": {
+        "@rank": "102787", 
+        "arm_group": [
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Nitrogen gas"
+            }, 
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Inhaled Nitric Oxide"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine the effect of nitric oxide for inhalation on the\n      duration of mechanical ventilation in pediatric patients with AHRF."
+        }, 
+        "brief_title": "Effects of Inhaled Nitric Oxide in the Treatment of Acute Hypoxemic Respiratory Failure (AHRF) in Pediatrics", 
+        "completion_date": {
+            "#text": "December 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Respiratory Insufficiency", 
+            "Anoxemia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Anoxia", 
+                "Respiratory Insufficiency"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients will receive 5-ppm study gas (nitric oxide for inhalation or placebo) until Day 28\n      or extubation, whichever comes first.  The following will be performed / recorded at\n      specified times during the study: arterial blood gases, ventilator settings, methemoglobin,\n      PRISM III score, and patient positioning. Selected centers will also be performing plasma\n      cytokine assays, broncho-alveolar lavage fluid assays and a 6 month follow-up assessment."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Admitted to pediatric intensive care unit and have the diagnosis of acute respiratory\n             failure\n\n          -  44 weeks post conceptional age to 16 years of age\n\n          -  Oxygenation Index (OI) >=12 cm H2O/mmHg (as determined by two separate measurement\n             taken 30 minutes to 4 hours apart)\n\n          -  Recent chest x-ray (within 24 hours) showing at least unilateral infiltrations\n\n          -  Mechanically ventilated <= 7 days\n\n        Exclusion criteria:\n\n          -  Immunocompromised\n\n          -  Received a bone marrow transplant\n\n          -  Active oncological condition\n\n          -  Persistent right to left intracardiac shunt\n\n          -  Cardiovascular surgery within the last 14 days\n\n          -  Status asthmaticus\n\n          -  Decision by primary care physician not to provide full support\n\n          -  Received treatment with nitric oxide for inhalation or other investigational\n             medications within 24 hours prior to study initiation, participating in surfactant\n             trials\n\n          -  Chronically ventilated\n\n          -  Pregnant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "16 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "55", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 10, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00041561", 
+            "org_study_id": "INOT-11"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "2", 
+                "description": "Nitrogen gas will be given at 5ppm until Day 28 or extubation", 
+                "intervention_name": "Nitrogen gas", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "1", 
+                "description": "inhaled nitric oxide will be given at 5 ppm until day 28 or extubation", 
+                "intervention_name": "inhaled nitric oxide", 
+                "intervention_type": "Drug", 
+                "other_name": "INOmax\u00ae"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Nitric Oxide"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "Acute hypoxemic respiratory failure", 
+        "lastchanged_date": "June 14, 2010", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868"
+                    }, 
+                    "name": "Chrildren's Hospital of Orange County"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }, 
+                    "name": "Stanford University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }, 
+                    "name": "The Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32806"
+                    }, 
+                    "name": "Nemours Children's Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Children's Healthcare of Atlanta at Egleston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }, 
+                    "name": "University of Chicago, Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shreveport", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71103"
+                    }, 
+                    "name": "Louisiana State University Health Sciences Center - Shreveport"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "The Johns Hopkins Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "Children's Hospital at Montefiore"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "New York Presbyterian Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44308"
+                    }, 
+                    "name": "Children's Hospital Medical Center of Akron"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "The Cleveland Clinic Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43205"
+                    }, 
+                    "name": "Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97239"
+                    }, 
+                    "name": "Oregon Health and Science University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "The Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlottesville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22908"
+                    }, 
+                    "name": "University of Virginia Pediatric Critical Care"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "The Effects of Inhaled Nitric Oxide in the Treatment of Acute Hypoxemic Respiratory Failure (AHRF) In Pediatrics", 
+        "overall_official": {
+            "affiliation": "INO Therapeutics", 
+            "last_name": "James Baldassarre, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "arterial blood gases", 
+            "safety_issue": "Yes", 
+            "time_frame": "baseline through 24 hours and extubation"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00041561"
+        }, 
+        "responsible_party": {
+            "name_title": "James Baldassarre", 
+            "organization": "INO Therapeutics"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "methemoglobin", 
+                "safety_issue": "Yes", 
+                "time_frame": "baseline, hour 4 and 24 hours"
+            }, 
+            {
+                "measure": "broncho-alveolar lavage fluid", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 48 hours and day 5"
+            }, 
+            {
+                "measure": "Prone position", 
+                "safety_issue": "No", 
+                "time_frame": "baseline then daily"
+            }
+        ], 
+        "source": "INO Therapeutics", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "INO Therapeutics", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2010", 
+        "why_stopped": "Study stopped due to poor enrollment"
+    }, 
+    "geocoordinates": {
+        "Children's Healthcare of Atlanta at Egleston": "33.749 -84.388", 
+        "Children's Hospital": "39.961 -82.999", 
+        "Children's Hospital Medical Center of Akron": "41.081 -81.519", 
+        "Children's Hospital at Montefiore": "40.85 -73.867", 
+        "Chrildren's Hospital of Orange County": "33.788 -117.853", 
+        "Louisiana State University Health Sciences Center - Shreveport": "32.525 -93.75", 
+        "Nemours Children's Clinic": "28.538 -81.379", 
+        "New York Presbyterian Hospital": "40.714 -74.006", 
+        "Oregon Health and Science University": "45.523 -122.676", 
+        "Stanford University Medical Center": "37.429 -122.169", 
+        "The Children's Hospital": "39.739 -104.985", 
+        "The Cleveland Clinic Foundation": "41.499 -81.695", 
+        "The Johns Hopkins Hospital": "39.29 -76.612", 
+        "The Medical University of South Carolina": "32.777 -79.931", 
+        "University of Chicago, Children's Hospital": "41.878 -87.63", 
+        "University of Virginia Pediatric Critical Care": "38.029 -78.477"
+    }
+}

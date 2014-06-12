@@ -1,0 +1,108 @@
+{
+    "clinical_study": {
+        "@rank": "139796", 
+        "brief_summary": {
+            "textblock": "The primary objective of this multi-center sub-study of USPHS Study 23: \"Intensive\n      Pharmacokinetic Study of Intermittent Rifabutin and Isoniazid with Daily Efavirenz in\n      Combination with Two Nucleoside Analogs for Treatment of HIV and Tuberculosis\n      Co-infections,\" is to compare the pharmacokinetics of rifabutin at 600 mg twice a week in\n      combination with efavirenz 600 mg daily to the pharmacokinetics of rifabutin 300 mg twice a\n      week without efavirenz.  Secondary objectives are: (1) To describe pharmacokinetics of both\n      rifabutin and efavirenz in combination regimen, (2) To evaluate the safety of concomitant\n      efavirenz and rifabutin, (3) To assess the effect on absolute neutrophil count by changing\n      rifabutin dose and adding efavirenz to the regimen, (4)  To develop models of optimal\n      sampling times for rifabutin dosed twice a week, (5) To describe the pharmacokinetics of\n      isoniazid in combination with efavirenz daily with two NRTIs, (6) To compare the\n      pharmacokinetics of isoniazid with and without efavirenz."
+        }, 
+        "brief_title": "Intensive Pharmacokinetics of the Nelfinavir-Rifabutin Interaction in Patients With HIV-Related Tuberculosis Treated With a Rifabutin-Based Regimen", 
+        "condition": [
+            "Tuberculosis", 
+            "HIV Infections"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome", 
+                "Tuberculosis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:  There are two concerns regarding rifabutin and INH pharmacokinetics in this\n      population: 1) Malabsorption of anti-TB medications is frequent in this population and 2)\n      Many antiretrovirals and other drugs frequently used in the management of HIV-infected\n      individuals are inhibitors of the cytochrome p450 3A4 isoform and result in increased levels\n      of rifabutin.  Correlation of the pharmacokinetic and clinical outcomes in the setting of\n      these interactions is essential.\n\n      METHODS:  The study will be done on the General Clinical Research Center at Duke University\n      Medical Center, on an inpatient basis (depending on where the patient lives).  No one who is\n      suspected of being infectious or is infectious from TB will be enrolled on the GCRC.  After\n      informed consent is obtained, each subject will be admitted to the GCRC twice; the first\n      admission will occur after at least four twice weekly doses of intermittent rifabutin and\n      prior to beginning antiretroviral therapy and the second admission will occur two to six\n      weeks following the institution of an antiretroviral regimen including efavirenz.  During\n      Admission #1, blood will be drawn at 0, 1, 3, 5, 7, 9, and 21 hours post dosing with INH and\n      rifabutin.  During Admission #2, blood will be drawn at 0, 2, 4, 6, 8, 10, 12, and 24 hours.\n       Efavirenz will be given at time points 0 and 24 hours post sampling.  TB drugs will be\n      given at 3 hours (so that sampling times subsequent to INH/rifabutin dosing will correspond\n      to those of Admission #1).  Patients will be interviewed regarding concomitant medications,\n      gastrointestinal symptoms and meals relative to study drug dosing.  Sixty days following the\n      last dose of PK study medicines, a follow-up visit or phone call (including review of\n      medical record) will identify any adverse events.\n\n      DATA ANALYSIS:  Frequency distributions will include plots of the data, distribution curves\n      to test for normality, parametric and non-parametric measures of central tendency and\n      dispersion, as well as the Shapiro-Wilk W test for normality.  Means will be reported + the\n      standard deviation (SD).  The percent coefficient of variation (CV) will be calculated as\n      (SD/mean) multiplied by 100%. Correlation analysis (JMP) will be performed across the\n      subject and outcome variables using non-parametric techniques (Spearman Rho, continuous data\n      only).  The dependence of outcome variables (the pharmacokinetic parameters) upon subject\n      characteristics (demographic data such as age, weight, CD4 count, etc.) will be determined\n      by using Y by X analyses, one parameter at a time (continuous or nominal data).\n      Subsequently, models with multiple X variables will be constructed using forward addition\n      and backward deletion.  Correlations between parameters and covariates will be considered\n      statistically significant at p 3/4 0.05."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\tEligible subjects enrolled in Study 23 or HIV-infected patients with\n        culture confirmed or suspected tuberculosis.  Subjects must be currently receiving\n        tuberculosis therapy including twice weekly isoniazid and rifabutin and currently not\n        receiving antiretroviral therapy.  Subjects must be willing to begin an antiretrovial\n        regimen containing efavirenz and two NRTIs (combinations defined by protocol) at the\n        requisite dosing.  Exclusion criteria include hematocrit of less than 25%, pregnant or\n        lactating women, prior use of an NNRTI, or use of a protease inhibitor or select\n        medications defined in the protocol.  Women of child-bearing potential must agree to\n        practice an adequate (barrier) method of birth control and submit to serum pregnancy\n        testing with 14 days of enrollment."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "July 2, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00018083", 
+            "org_study_id": "NCRR-M01RR00030-0162"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "rifabutin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "isoniazid", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "efavirenz", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Isoniazid", 
+                "Rifabutin", 
+                "Efavirenz", 
+                "Nelfinavir"
+            ]
+        }, 
+        "lastchanged_date": "June 23, 2005", 
+        "location": {
+            "contact": {
+                "last_name": "Carol D Hamilton, M.D.", 
+                "phone": "919-684-3279"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27710"
+                }, 
+                "name": "Duke University Medical Center"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Intensive Pharmacokinetics of the Nelfinavir-Rifabutin Interaction in Patients With HIV-Related Tuberculosis Treated With a Rifabutin-Based Regimen", 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00018083"
+        }, 
+        "source": "National Center for Research Resources (NCRR)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Centers for Disease Control and Prevention", 
+                "agency_class": "U.S. Fed"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Center for Research Resources (NCRR)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2001"
+    }, 
+    "geocoordinates": {
+        "Duke University Medical Center": "35.994 -78.899"
+    }
+}

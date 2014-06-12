@@ -1,0 +1,37 @@
+<html>
+<head>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+</head>
+<body>
+<div id="map" style="width: 600px; height: 400px"></div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<!--iframe frameborder = "0" style = "border:0" src= "https://www.google.com/maps/embed/v1/place?key=AIzaSyCpm3h6R-8AikVqTxPVKO9x9bmYL8vNA14&q=Saint+Vincent's+Hosp+and+Med+Ctr+10011" width = "600" height = "450"-->
+<script>
+//json (latitude, longitude)
+var latlng = L.latLng(38.0350, -78.5050);
+var latlng2 = L.latLng(38.04, -77.45);
+var latlng3 = L.latLng(40, -60);
+var latlng4 = L.latLng(37.424, -122.165);
+var map = L.map('map').setView(latlng, 8);
+
+map.fitBounds([latlng,latlng2, latlng3, latlng4]);
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+}).addTo(map);
+
+var marker = L.marker(latlng).addTo(map);
+var marker2 = L.marker(latlng2).addTo(map);
+var marker3 = L.marker(latlng3).addTo(map);
+var marker4 = L.marker(latlng4).addTo(map);
+
+marker.bindPopup("<b>University of Virginia</b><br>It's nice here.");
+marker2.bindPopup("<b>Random Location</b><br>How did I end up here?");
+marker3.bindPopup("<b>can this just work?</b><br>pls. ...").openPopup();
+marker4.bindPopup("<b>California Dreaming</b><br> Shout-out to 2pac");
+
+
+</script>
+
+</body>
+</html>

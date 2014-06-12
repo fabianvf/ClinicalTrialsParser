@@ -1,0 +1,191 @@
+{
+    "clinical_study": {
+        "@rank": "106132", 
+        "arm_group": {
+            "arm_group_label": "Cytarabine + UCN-01", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing\n      so they stop growing or die. UCN-01 may make cancer cells more sensitive to cytarabine.\n\n      PURPOSE: Phase I trial to study the effectiveness of cytarabine and UCN-01 in treating\n      patients who have refractory or relapsed acute myelogenous leukemia or myelodysplastic\n      syndrome."
+        }, 
+        "brief_title": "Cytarabine and UCN-01 in Treating Patients With Refractory or Relapsed Acute Myelogenous Leukemia or Myelodysplastic Syndrome", 
+        "completion_date": {
+            "#text": "January 2007", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Leukemia", 
+            "Myelodysplastic Syndromes"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the maximum tolerated dose of cytarabine when combined with UCN-01\n      in patients with refractory or relapsed acute myelogenous leukemia or myelodysplastic\n      syndrome. II. Determine the dose limiting toxicity, pharmacokinetics, and pharmacodynamics\n      of this regimen in these patients. III. Assess the antileukemia effect of this regimen in\n      this patient population.\n\n      OUTLINE: This is a dose escalation, multicenter study of cytarabine. Patients receive\n      cytarabine IV over 24 hours on days 1-4 of each course. Patients receive UCN-01 IV over 24\n      hours on days 2-4 of course 1 and over 36 hours beginning on day 2 of subsequent courses.\n      Treatment repeats every 4 weeks for a maximum of 4 courses in the absence of disease\n      progression or unacceptable toxicity. Cohorts of 3-6 patients receive escalating doses of\n      cytarabine until the maximum tolerated dose (MTD) is determined. The MTD is defined as the\n      dose at which 2 of 6 patients experience dose limiting toxicity.\n\n      PROJECTED ACCRUAL: A maximum of 30 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. 1. Patients with refractory or relapsed acute myelogenous leukemia, or\n             myelodysplastic syndromes (RAEB or RAEB-T).\n\n          2. 2. Performance status of =< 2\n\n          3. 3. Signed informed consent indicating that patients are aware of the investigational\n             nature of this study in keeping with the policies of the hospital. The only\n             acceptable consent form is the one attached at the end of this protocol for each\n             participating institution.\n\n          4. 4. Patients must have been off chemotherapy for 2 weeks prior to entering this study\n             and recovered from the toxic effects of that therapy, unless there is evidence of\n             rapidly progressive disease.\n\n          5. 5. Bilirubin and creatinine (or creatinine clearance) should be within institutional\n             normal limits.\n\n          6. 6. Patients must have relapsed or failed to respond after high-dose ara-C-based\n             (>=1g/m2/day x 3 days) chemotherapy.\n\n          7. 7. Corrected DLCO >50%.\n\n          8. 8. Patients with >=3 cardiac risk factors (smoking, hypertension, family history of\n             coronary artery disease, diabetes mellitus, hypercholesterolemia) should have a\n             nuclear medicine stress test.\n\n        Exclusion Criteria:\n\n          1. 1. The anti-proliferative activity of the experimental drug may be harmful to the\n             developing fetus or nursing infant. Therefore, pregnant and nursing females will be\n             excluded. Patients of childbearing potential should practice effective methods of\n             contraception.\n\n          2. 2. Patients who are eligible for allogeneic marrow transplant and who have a donor\n             will be offered transplant.\n\n          3. 3. Patients with existing pulmonary diseases, history of coronary artery disease or\n             who have received radiotherapy to the mediastinum."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "16", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 28, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00004263", 
+            "org_study_id": "DM99-165", 
+            "secondary_id": [
+                "U01CA062461", 
+                "P30CA016672", 
+                "MDA-DM-99165", 
+                "NCI-T99-0100", 
+                "CDR0000067522"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Cytarabine + UCN-01", 
+                "description": "20 mg/m2 IV over 24 hours on days 2-4 of course 1 and over 36 hours beginning on day 2 of subsequent courses. Treatment repeats every 4 weeks for a maximum of 4 courses.", 
+                "intervention_name": "7-hydroxystaurosporine (UCN-01)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Cytarabine + UCN-01", 
+                "description": "Starting dose 1 g/m2 IV over 24 hours on days 1-4 of each course. Treatment repeats every 4 weeks for a maximum of 4 courses.", 
+                "intervention_name": "Cytarabine (Ara-C)", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "ARA-C", 
+                    "Cytosar", 
+                    "DepoCyt", 
+                    "Cytosine arabinosine hydrochloride"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cytarabine", 
+                "7-hydroxystaurosporine", 
+                "Staurosporine"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "recurrent adult acute myeloid leukemia", 
+            "refractory anemia with excess blasts", 
+            "refractory anemia with excess blasts in transformation", 
+            "previously treated myelodysplastic syndromes", 
+            "childhood myelodysplastic syndromes", 
+            "Ara-C", 
+            "Cytosar", 
+            "DepoCyt", 
+            "Cytosine arabinosine hydrochloride", 
+            "cytarabine", 
+            "7-hydroxystaurosporine", 
+            "UCN-01"
+        ], 
+        "lastchanged_date": "July 27, 2012", 
+        "link": [
+            {
+                "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+                "url": "http://cancer.gov/clinicaltrials/MDA-DM-99165"
+            }, 
+            {
+                "description": "UT MD Anderson Cancer Center Website", 
+                "url": "http://www.mdanderson.org"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Arthur G. James Cancer Hospital - Ohio State University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "University of Texas - MD Anderson Cancer Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase I Study of UCN-01 and Cytarabine (ARA-C) in Patients With Acute Myelogenous Leukemia, and Myelodysplastic Syndromes", 
+        "overall_official": {
+            "affiliation": "M.D. Anderson Cancer Center", 
+            "last_name": "Jorge Cortes, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Institutional Review Board"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "January 2007", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Maximum Tolerated Dose (MTD) Cytarabine + UCN-01", 
+            "safety_issue": "Yes", 
+            "time_frame": "4 week cycle"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00004263"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "M.D. Anderson Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "M.D. Anderson Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1999", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2012"
+    }, 
+    "geocoordinates": {
+        "Arthur G. James Cancer Hospital - Ohio State University": "39.961 -82.999", 
+        "University of Texas - MD Anderson Cancer Center": "29.76 -95.369"
+    }
+}

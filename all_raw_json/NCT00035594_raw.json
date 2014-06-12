@@ -1,0 +1,135 @@
+{
+    "clinical_study": {
+        "@rank": "158343", 
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Breast cancer patients receiving docetaxel chemotherapy and placebo."
+            }, 
+            {
+                "arm_group_label": "Pegfilgrastim", 
+                "arm_group_type": "Experimental", 
+                "description": "Breast cancer patients receiving docetaxel chemotherapy and pegfilgrastim."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Physicians are conducting a clinical trial for patients with advanced breast cancer. Breast\n      cancer can be treated with chemotherapy which can affect the bone marrow, where blood cells\n      are produced. Neutrophils are a type of white blood cells that fight infection and are\n      produced in the bone marrow. If the neutrophil count becomes low due to chemotherapy, a\n      potentially serious condition called neutropenia occurs. Neutropenia is serious because it\n      can affect the body's ability to protect against many types of infections. Pegfilgrastim is\n      an investigational drug being evaluated for its potential ability to increase the number of\n      neutrophils. The purpose of this study is to determine the safety and effectiveness of\n      pegfilgrastim in preventing neutropenia following chemotherapy in patients with advanced\n      breast cancer."
+        }, 
+        "brief_title": "Pegfilgrastim as Support to Advanced Breast Cancer Patients Receiving Chemotherapy", 
+        "completion_date": {
+            "#text": "June 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Neutropenia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Breast Neoplasms", 
+                "Neutropenia"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  Advanced breast cancer\n\n          -  18 years of age or older\n\n          -  Patients who will be receiving Taxotere (docetaxel) chemotherapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": "928", 
+        "firstreceived_date": "May 3, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00035594", 
+            "org_study_id": "20010144"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Pegfilgrastim", 
+                "Placebo"
+            ], 
+            "description": "Growth factor (GCSF) administered to promote neutrophil development post-chemotherapy.", 
+            "intervention_name": "pegfilgrastim", 
+            "intervention_type": "Drug", 
+            "other_name": "pegfilgrastim"
+        }, 
+        "keyword": [
+            "Breast cancer", 
+            "Neutropenia", 
+            "Chemotherapy"
+        ], 
+        "lastchanged_date": "May 7, 2013", 
+        "link": [
+            {
+                "description": "AmgenTrials clinical trials website", 
+                "url": "http://www.amgentrials.com"
+            }, 
+            {
+                "description": "Notice regarding posted summaries of trial results", 
+                "url": "http://download.veritasmedicine.com/REGFILES/amgen/Amgen_results_disclaimer.pdf"
+            }, 
+            {
+                "description": "To access clinical trial results information click on this link", 
+                "url": "http://download.veritasmedicine.com/REGFILES/amgen/08D_FDAMA_113_Posting_Summary_11_GCSFSD01_20010144.pdf"
+            }, 
+            {
+                "description": "FDA-approved Drug Labeling", 
+                "url": "http://www.neulasta.com/"
+            }
+        ], 
+        "number_of_arms": "2", 
+        "official_title": "A Double-Blind, Placebo-Controlled, Multicenter, Randomized Study Evaluating the Prophylactic Use of Pegfilgrastim on the Incidence of Febrile Neutropenia in Subjects With Advanced Breast Cancer Treated With Single Agent Docetaxel", 
+        "overall_official": {
+            "affiliation": "Amgen", 
+            "last_name": "MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "February 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Proportion of subjects developing febrile neutropenia", 
+            "safety_issue": "No", 
+            "time_frame": "Through 4 cycles"
+        }, 
+        "removed_countries": {
+            "country": "United States"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00035594"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "15718314", 
+            "citation": "Vogel CL, Wojtukiewicz MZ, Carroll RR, Tjulandin SA, Barajas-Figueroa LJ, Wiens BL, Neumann TA, Schwartzberg LS. First and subsequent cycle use of pegfilgrastim prevents febrile neutropenia in patients with breast cancer: a multicenter, double-blind, placebo-controlled phase III study. J Clin Oncol. 2005 Feb 20;23(6):1178-84."
+        }, 
+        "secondary_outcome": {
+            "measure": "Incidence of hospitalization and IV antiinfective use associated with FN; also chemotherapy planned dose on time", 
+            "safety_issue": "No", 
+            "time_frame": "Through 4 cycles"
+        }, 
+        "source": "Amgen", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Amgen", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2013"
+    }, 
+    "geocoordinates": {}
+}

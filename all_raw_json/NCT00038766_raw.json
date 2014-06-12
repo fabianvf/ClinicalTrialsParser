@@ -1,0 +1,300 @@
+{
+    "clinical_study": {
+        "@rank": "111219", 
+        "acronym": "CD02", 
+        "arm_group": [
+            {
+                "arm_group_label": "Semapimod 60 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Semapimod 60 mg IV x 5 days"
+            }, 
+            {
+                "arm_group_label": "Semapimod IV 30 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Semapimod IV 30 mg x 5 days"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo IV x 3 or 5 days"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine whether CNI-1493 is safe and effective in the\n      treatment of moderate to severe Crohn's Disease."
+        }, 
+        "brief_title": "CNI-1493 for Treatment of Moderate to Severe Crohn's Disease", 
+        "completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": "Crohn Disease", 
+        "condition_browse": {
+            "mesh_term": "Crohn Disease"
+        }, 
+        "detailed_description": {
+            "textblock": "Crohn's disease (CD) is a chronic inflammatory disease involving the upper and lower\n      gastrointestinal tract and characterized by abdominal pain, weight loss, gastrointestinal\n      bleeding and formation of fistulas between loops of bowel and from the bowel to the skin or\n      other organs. Current therapy for active Crohn's disease consists of symptomatic treatment,\n      nutritional therapy, salicylates and immunosuppressants or surgical management.\n\n      Tumor necrosis factor a (TNF-a) plays a central role in the initiation and amplification of\n      the granulomatous inflammatory reaction seen in CD (van Deventer, 1997).  Increased TNF-a is\n      present in gut mucosa as well as in stool of patients with active CD (Braegger et al, 1992).\n       CNI-1493 is a synthetic guanylhydrazone compound that is an inhibitor of TNF-a synthesis.\n      A monoclonal antibody to TNF, infliximab, is now approved for treatment of CD, but not all\n      patients respond and many who do respond eventually become refractory to this treatment as\n      well.\n\n      CNI-1493 is a synthetic compound which blocks the production of several inflammatory\n      cytokines, including TNF.  Because it blocks production of multiple inflammatory mediators,\n      it may be more active than products targeted to a specific cytokine.  In addition, as it is\n      not a biologic, it should not cause hypersensitivity reactions or induce formation of\n      antibodies.\n\n      The purpose of this trial is to determine if CNI-1493 is safe and effective in treating\n      patients with moderate to severe Crohn's Disease in a placebo controlled setting."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n          -  Baseline Crohn's Disease Activity Index (CDAI) 250-400, inclusive\n\n          -  Crohn's disease of at least 3 months duration, with colitis, ileitis, or ileocolitis,\n             confirmed by radiography and/or endoscopy\n\n          -  Patients receiving medications for CD must be on stable doses entering the study\n\n          -  Any CD medication which has been discontinued must have been discontinued at least 4\n             weeks prior to screening, with the exception of infliximab, which must have been\n             discontinued at least 8 weeks prior to screening\n\n        Exclusion Criteria\n\n          -  Patients with any ostomy  or extensive bowel resection\n\n          -  Current evidence of bowel obstruction or history within the preceding six months as\n             confirmed by radiography, endoscopy, or surgery\n\n          -  Patients with stool examination positive for enteric pathogens, pathogenic ova or\n             parasites,  or Clostridium difficile toxin\n\n          -  Treatment with any other experimental therapeutics within the last 4 weeks before\n             enrollment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "33", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 5, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00038766", 
+            "org_study_id": "CNI-1493 CD-02"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Semapimod 60 mg", 
+                "description": "semapipmod 60 mg IV x 5 days", 
+                "intervention_name": "semapimod", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Semapimod", 
+                    "CNI-1493"
+                ]
+            }, 
+            {
+                "arm_group_label": "Semapimod IV 30 mg", 
+                "description": "IV 30 mg x 5 days", 
+                "intervention_name": "semapimod", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "semapimod", 
+                    "CNI-1493"
+                ]
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "placebo IV", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "CNI 1493"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "Inflammatory Bowel Disease", 
+        "lastchanged_date": "August 22, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92120"
+                    }, 
+                    "name": "Institute of Healthcare Assessment"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida"
+                    }, 
+                    "name": "University of Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30342"
+                    }, 
+                    "name": "Atlanta Gastroenterology Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois"
+                    }, 
+                    "name": "Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois"
+                    }, 
+                    "name": "University of Chicago"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri"
+                    }, 
+                    "name": "Washington University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Neck", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11021"
+                    }, 
+                    "name": "Long Island Clinical Research Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }, 
+                    "name": "Mount Sinai School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28207"
+                    }, 
+                    "name": "Charlotte Gastroenterology and Hepatology, PLLC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Raleigh", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27612"
+                    }, 
+                    "name": "Wake Research Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma"
+                    }, 
+                    "name": "Oklahoma Foundation for Digestive Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lancaster", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17604"
+                    }, 
+                    "name": "Regional Gastroenterology Associates of Lancaster, Ltd."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norfolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23502"
+                    }, 
+                    "name": "Digestive and Liver Disease Specialists"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Randomized, Double-Blind, Placebo-controlled Study of CNI-1493 for Treatment of Moderate to Severe Crohn's Disease", 
+        "overall_official": {
+            "affiliation": "Academic Medical Center, Netherlands", 
+            "last_name": "Daan Hommes, M", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Change in CDAI", 
+            "safety_issue": "No", 
+            "time_frame": "Day 29"
+        }, 
+        "reference": {
+            "PMID": "11781274", 
+            "citation": "Hommes D, van den Blink B, Plasse T, Bartelsman J, Xu C, Macpherson B, Tytgat G, Peppelenbosch M, Van Deventer S. Inhibition of stress-activated MAP kinases induces clinical improvement in moderate to severe Crohn's disease. Gastroenterology. 2002 Jan;122(1):7-14."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00038766"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Change in IBDQ", 
+            "safety_issue": "No", 
+            "time_frame": "Day 29"
+        }, 
+        "source": "Ferring Pharmaceuticals", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Ferring Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "June 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2012", 
+        "why_stopped": "Unable to enroll into study."
+    }, 
+    "geocoordinates": {
+        "Atlanta Gastroenterology Associates": "33.749 -84.388", 
+        "Charlotte Gastroenterology and Hepatology, PLLC": "35.227 -80.843", 
+        "Digestive and Liver Disease Specialists": "36.851 -76.286", 
+        "Institute of Healthcare Assessment": "32.715 -117.157", 
+        "Long Island Clinical Research Associates": "40.801 -73.728", 
+        "Mount Sinai School of Medicine": "40.714 -74.006", 
+        "Northwestern University": "41.878 -87.63", 
+        "Oklahoma Foundation for Digestive Research": "35.468 -97.516", 
+        "Regional Gastroenterology Associates of Lancaster, Ltd.": "40.038 -76.306", 
+        "University of Chicago": "41.878 -87.63", 
+        "University of Florida": "29.652 -82.325", 
+        "Wake Research Associates": "35.772 -78.639", 
+        "Washington University School of Medicine": "38.627 -90.199"
+    }
+}

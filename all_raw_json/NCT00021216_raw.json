@@ -1,0 +1,156 @@
+{
+    "clinical_study": {
+        "@rank": "27000", 
+        "arm_group": {
+            "arm_group_label": "Treatment (bortezomib)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive bortezomib IV on days 1, 4, 8, and 11. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity."
+        }, 
+        "brief_summary": {
+            "textblock": "Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop\n      growing or die. Phase I trial to study the effectiveness of bortezomib in treating children\n      who have advanced solid tumors that have not responded to previous treatment."
+        }, 
+        "brief_title": "Bortezomib in Treating Children With Advanced Solid Tumors", 
+        "condition": "Unspecified Childhood Solid Tumor, Protocol Specific", 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. Determine the maximum tolerated dose of bortezomib in pediatric patients with refractory\n      solid tumors.\n\n      II. Determine the dose-limiting toxicity and other toxic effects of this regimen in these\n      patients.\n\n      III. Preliminarily determine the antitumor activity of this regimen in these patients.\n\n      OUTLINE: This is a dose-escalation study.\n\n      Patients receive bortezomib IV on days 1, 4, 8, and 11. Courses repeat every 21 days in the\n      absence of disease progression or unacceptable toxicity.\n\n      Cohorts of 3-6 patients receive escalating doses of bortezomib until the maximum tolerated\n      dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2\n      of 6 patients experience dose-limiting toxicity. If dose-limiting toxicity in the form of\n      myelosuppression occurs in stratum I, dose escalation continues with patients meeting the\n      qualifications for stratum II.\n\n      PROJECTED ACCRUAL: Approximately 24-36 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically confirmed solid tumor that is refractory to standard therapy or for\n             which no standard therapy exists\n\n               -  Histologic confirmation not required for brainstem glioma or optic pathway tumor\n\n          -  Ineligible for therapies of higher priority\n\n          -  Stratum II only:\n\n               -  No bone marrow involvement\n\n          -  Performance status - Karnofsky 50-100% (over 10 years of age)\n\n          -  Performance status - Lansky 50-100% (10 years of age and under)\n\n          -  At least 8 weeks\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 75,000/mm^3 (transfusion independent)\n\n          -  Hemoglobin at least 8 g/dL (RBC transfusions allowed)\n\n          -  Bilirubin less than 1.5 mg/dL\n\n          -  ALT less than 5 times normal for age\n\n          -  Albumin at least 2 g/dL\n\n          -  Creatinine no greater than upper limit of normal for age\n\n          -  Creatinine clearance or radioisotope glomerular filtration rate greater than  70\n             mL/min\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  Neurologic deficits related to CNS tumors allowed if relatively stable for at  least\n             2 weeks\n\n          -  No uncontrolled infection\n\n          -  At least 7 days since prior biologic therapy and recovered\n\n          -  At least 3 months since prior allogeneic stem cell transplantation\n\n          -  At least 1 week since prior growth factors\n\n          -  Stratum II only:\n\n               -  No prior stem cell transplantation with or without total body irradiation\n\n          -  At least 2 weeks since prior chemotherapy (4 weeks for nitrosoureas) and  recovered\n\n          -  Stratum II only:\n\n               -  No more than 2 prior multi-agent chemotherapy regimens\n\n               -  More than 2 single-agent regimens allowed\n\n          -  Concurrent dexamethasone allowed for CNS tumors if stable dose for at least 2  weeks\n\n          -  See Biologic therapy\n\n          -  At least 2 weeks since prior palliative local radiotherapy\n\n          -  At least 6 months since prior craniospinal radiotherapy or radiotherapy to at  least\n             50% of pelvis\n\n          -  At least 6 weeks since prior substantial bone marrow radiotherapy\n\n          -  Recovered from prior radiotherapy\n\n          -  Stratum II only:\n\n               -  No prior radiotherapy to more than 20% of bone marrow\n\n          -  No prior bortezomib\n\n          -  No concurrent anticonvulsants\n\n          -  No other concurrent investigational agents"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "21 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 11, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00021216", 
+            "org_study_id": "NCI-2012-01860", 
+            "secondary_id": [
+                "NCI-2012-01860", 
+                "COG-ADVL0015", 
+                "CDR0000068760", 
+                "ADVL0015", 
+                "ADVL0015", 
+                "U01CA097452"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment (bortezomib)", 
+                "description": "Given IV", 
+                "intervention_name": "bortezomib", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "LDP 341", 
+                    "MLN341", 
+                    "VELCADE"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (bortezomib)", 
+                "description": "Correlative studies", 
+                "intervention_name": "laboratory biomarker analysis", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Treatment (bortezomib)", 
+                "description": "Correlative studies", 
+                "intervention_name": "pharmacological study", 
+                "intervention_type": "Other", 
+                "other_name": "pharmacological studies"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Bortezomib"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "December 6, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Arcadia", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "91006-3776"
+                }, 
+                "name": "Children's Oncology Group"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase I Study Of PS-341 In Pediatric Patients With Refractory Solid Tumors", 
+        "overall_official": {
+            "affiliation": "Children's Oncology Group", 
+            "last_name": "Susan Blaney", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "December 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "MTD defined as the dose at which fewer than 20% of patients experience DLT assessed using CTC version 2.0", 
+                "safety_issue": "Yes", 
+                "time_frame": "3 weeks"
+            }, 
+            {
+                "description": "The 95% confidence interval for the percent of patients who exhibit inhibition at a recommended dose level determined according to the table above is 61%-100%, if six patients are evaluated or 55%-100% if five patients are evaluated.", 
+                "measure": "20S proteasome inhibition", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 weeks"
+            }, 
+            {
+                "measure": "Progression free survival", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 24 months"
+            }
+        ], 
+        "removed_countries": {
+            "country": [
+                "Australia", 
+                "Canada"
+            ]
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00021216"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "November 2001", 
+        "study_design": "Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }, 
+    "geocoordinates": {
+        "Children's Oncology Group": "34.14 -118.035"
+    }
+}

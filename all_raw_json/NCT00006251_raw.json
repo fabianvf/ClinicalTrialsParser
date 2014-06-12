@@ -1,0 +1,364 @@
+{
+    "clinical_study": {
+        "@rank": "85930", 
+        "arm_group": {
+            "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+            "arm_group_type": "Experimental", 
+            "description": "CONDITIONING REGIMEN : Patients receive fludarabine phosphate IV on days - 4 to -2 and undergo low-dose TBI on day 0. (Note: Patients who have had an autologous transplant within 90 days prior to day 0 will not receive fludarabine phosphate.)\nPBSC INFUSION: Patients undergo allogeneic PBSC transplant on day 0.\nIMMUNOSUPPRESSION: Patients receive cyclosporine PO BID on days -3 to 35 with a taper to day 56. Patients receive mycophenolate mofetil PO BID on days 0-27.\nPOST TRANSPLANT DLI: Patients with stable mixed chimerism on day 56, and without evidence of GVHD, undergo DLI IV over 30 minutes on day 65. Patients without a complete response, full donor chimerism, and GVHD after 2 months undergo further DLI at higher cell numbers. Up to 6 DLIs may be given 65 days apart."
+        }, 
+        "brief_summary": {
+            "textblock": "This clinical trial studies fludarabine phosphate, low-dose total-body irradiation, and\n      donor stem cell transplant followed by cyclosporine, mycophenolate mofetil, and donor\n      lymphocyte infusion in treating patients with hematopoietic cancer. Giving low doses of\n      chemotherapy, such as fludarabine phosphate, and total body irradiation (TBI) before a donor\n      peripheral blood stem cell transplant helps stop the growth of cancer cells. It may also\n      keep the patient's immune response from rejecting the donor's stem cells. The donated stem\n      cells may replace the patient's immune cells and help destroy any remaining cancer cells\n      (graft-versus-tumor effect). Giving an infusion of the donor's T cells (donor lymphocyte\n      infusion) after the transplant may help increase this effect. Sometimes the transplanted\n      cells from a donor can also make an immune response against the body's normal cells. Giving\n      cyclosporine and mycophenolate mofetil after the transplant may stop this from happening."
+        }, 
+        "brief_title": "Fludarabine Phosphate, Low-Dose Total-Body Irradiation, and Donor Stem Cell Transplant Followed By Cyclosporine, Mycophenolate Mofetil, Donor Lymphocyte Infusion in Treating Patients With Hematopoietic Cancer", 
+        "condition": [
+            "Acute Undifferentiated Leukemia", 
+            "Adult Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Anaplastic Large Cell Lymphoma", 
+            "Angioimmunoblastic T-cell Lymphoma", 
+            "Childhood Burkitt Lymphoma", 
+            "Childhood Diffuse Large Cell Lymphoma", 
+            "Childhood Grade III Lymphomatoid Granulomatosis", 
+            "Childhood Immunoblastic Large Cell Lymphoma", 
+            "Childhood Myelodysplastic Syndromes", 
+            "Childhood Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Chronic Myelomonocytic Leukemia", 
+            "Cutaneous B-cell Non-Hodgkin Lymphoma", 
+            "de Novo Myelodysplastic Syndromes", 
+            "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue", 
+            "Hepatosplenic T-cell Lymphoma", 
+            "Intraocular Lymphoma", 
+            "Juvenile Myelomonocytic Leukemia", 
+            "Mast Cell Leukemia", 
+            "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable", 
+            "Myeloid/NK-cell Acute Leukemia", 
+            "Nodal Marginal Zone B-cell Lymphoma", 
+            "Noncutaneous Extranodal Lymphoma", 
+            "Peripheral T-cell Lymphoma", 
+            "Post-transplant Lymphoproliferative Disorder", 
+            "Previously Treated Myelodysplastic Syndromes", 
+            "Primary Systemic Amyloidosis", 
+            "Recurrent Adult Acute Lymphoblastic Leukemia", 
+            "Recurrent Adult Acute Myeloid Leukemia", 
+            "Recurrent Adult Burkitt Lymphoma", 
+            "Recurrent Adult Diffuse Large Cell Lymphoma", 
+            "Recurrent Adult Diffuse Mixed Cell Lymphoma", 
+            "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Recurrent Adult Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Adult Hodgkin Lymphoma", 
+            "Recurrent Adult Immunoblastic Large Cell Lymphoma", 
+            "Recurrent Adult Lymphoblastic Lymphoma", 
+            "Recurrent Adult T-cell Leukemia/Lymphoma", 
+            "Recurrent Childhood Acute Lymphoblastic Leukemia", 
+            "Recurrent Childhood Acute Myeloid Leukemia", 
+            "Recurrent Childhood Anaplastic Large Cell Lymphoma", 
+            "Recurrent Childhood Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Childhood Large Cell Lymphoma", 
+            "Recurrent Childhood Lymphoblastic Lymphoma", 
+            "Recurrent Childhood Small Noncleaved Cell Lymphoma", 
+            "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Recurrent Grade 1 Follicular Lymphoma", 
+            "Recurrent Grade 2 Follicular Lymphoma", 
+            "Recurrent Grade 3 Follicular Lymphoma", 
+            "Recurrent Mantle Cell Lymphoma", 
+            "Recurrent Marginal Zone Lymphoma", 
+            "Recurrent Mycosis Fungoides/Sezary Syndrome", 
+            "Recurrent Renal Cell Cancer", 
+            "Recurrent Small Lymphocytic Lymphoma", 
+            "Recurrent/Refractory Childhood Hodgkin Lymphoma", 
+            "Refractory Chronic Lymphocytic Leukemia", 
+            "Refractory Hairy Cell Leukemia", 
+            "Refractory Multiple Myeloma", 
+            "Small Intestine Lymphoma", 
+            "Splenic Marginal Zone Lymphoma", 
+            "Stage II Multiple Myeloma", 
+            "Stage III Multiple Myeloma", 
+            "T-cell Large Granular Lymphocyte Leukemia", 
+            "Testicular Lymphoma", 
+            "Waldenstr\u00f6m Macroglobulinemia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Amyloidosis", 
+                "Burkitt Lymphoma", 
+                "Neoplasms", 
+                "Carcinoma, Renal Cell", 
+                "Hodgkin Disease", 
+                "Immunoblastic Lymphadenopathy", 
+                "Leukemia", 
+                "Leukemia, Lymphocytic, Chronic, B-Cell", 
+                "Leukemia, Hairy Cell", 
+                "Leukemia, Lymphoid", 
+                "Precursor Cell Lymphoblastic Leukemia-Lymphoma", 
+                "Leukemia, Mast-Cell", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelomonocytic, Chronic", 
+                "Leukemia, T-Cell", 
+                "Leukemia-Lymphoma, Adult T-Cell", 
+                "Lymphoma", 
+                "Lymphoma, Follicular", 
+                "Lymphoma, Non-Hodgkin", 
+                "Lymphomatoid Granulomatosis", 
+                "Lymphoproliferative Disorders", 
+                "Waldenstrom Macroglobulinemia", 
+                "Multiple Myeloma", 
+                "Neoplasms, Plasma Cell", 
+                "Mycoses", 
+                "Mycosis Fungoides", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia", 
+                "Leukemia, Myelomonocytic, Acute", 
+                "Myeloproliferative Disorders", 
+                "Sezary Syndrome", 
+                "Lymphoma, B-Cell", 
+                "Lymphoma, Large B-Cell, Diffuse", 
+                "Lymphoma, Large-Cell, Immunoblastic", 
+                "Lymphoma, T-Cell", 
+                "Lymphoma, T-Cell, Cutaneous", 
+                "Lymphoma, T-Cell, Peripheral", 
+                "Lymphoma, Large-Cell, Anaplastic", 
+                "Lymphoma, B-Cell, Marginal Zone", 
+                "Lymphoma, Extranodal NK-T-Cell", 
+                "Lymphoma, Mantle-Cell", 
+                "Leukemia, Myelomonocytic, Juvenile", 
+                "Myelodysplastic-Myeloproliferative Diseases", 
+                "Leukemia, Large Granular Lymphocytic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To estimate the risk of graft rejection associated with the addition of fludarabine\n      (fludarabine phosphate) to a non-myeloablative conditioning regimen for patients with\n      malignant diseases treatable by allogeneic stem cell transplantation and compare this rate\n      to that observed among patients previously treated without fludarabine.\n\n      II. To estimate the rate of grade acute II/IV graft-vs-host disease (GVHD) and chronic GVHD\n      in patients treated with low-dose total-body irradiation (TBI), fludarabine, peripheral\n      blood stem cell (PBSC) infusion and immunosuppression with cyclosporine and mycophenolate\n      mofetil.\n\n      OUTLINE:\n\n      CONDITIONING REGIMEN: Patients receive fludarabine phosphate intravenously (IV) on days - 4\n      to -2 and undergo low-dose TBI on day 0. (Note: Patients who have had an autologous\n      transplant within 90 days prior to day 0 will not receive fludarabine phosphate.)\n\n      PBSC INFUSION: Patients undergo allogeneic PBSC transplant on day 0.\n\n      IMMUNOSUPPRESSION: Patients receive cyclosporine orally (PO) twice daily (BID) on days -3 to\n      35 with a taper to day 56. Patients receive mycophenolate mofetil PO BID on days 0-27.\n\n      POST TRANSPLANT DONOR LYMPHOCYTE INFUSION (DLI): Patients with stable mixed chimerism on day\n      56, and without evidence of GVHD, undergo DLI IV over 30 minutes on day 65. Patients without\n      a complete response, full donor chimerism, and GVHD after 2 months undergo further DLI at\n      higher cell numbers. Up to 6 DLIs may be given 65 days apart.\n\n      After completion of study treatment, patients are followed up at 4, 6, 12, 18 and 24 months\n      and then annually thereafter."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients aged > 49 years and < 75 years with non-Hodgkin lymphoma (NHL), chronic\n             lymphocytic leukemia (CLL) and multiple myeloma who are not eligible for a curative\n             autologous transplantation or who have failed prior autologous transplantation;\n             patients with NHL and CLL must have failed prior therapy with an alkylating agent\n             and/or fludarabine, or be at high risk of relapse; patients with multiple myeloma\n             must have stage II or III disease and received prior chemotherapy\n\n          -  Patients < 50 years of age with NHL, CLL or multiple myeloma at high risk of regimen\n             related toxicity through prior autologous transplant or through pre-existing medical\n             conditions\n\n          -  Patients < 75 years of age with other malignant diseases treatable by allogeneic bone\n             marrow transplant (BMT) whom through pre-existing chronic disease affecting kidneys,\n             liver, lungs, and heart are considered to be at high risk for regimen related\n             toxicity using standard high dose regimens; the following diseases are the likely\n             candidates:\n\n               -  Myelodysplastic syndromes\n\n               -  Myeloproliferative syndromes\n\n               -  Acute Leukemia with < 10% blasts\n\n               -  Amyloidosis\n\n               -  Hodgkin's disease\n\n               -  Renal cell carcinoma\n\n          -  Patients with other malignancies declining standard allografts may be approved for\n             transplant following presentation and approval by the Fred Hutchinson Cancer Research\n             Center (FHCRC) chimerism group\n\n          -  DONOR:\n\n               -  Human leukocyte antigen (HLA) genotypically or phenotypically identical related\n                  donor\n\n               -  Donor must consent to granulocyte colony-stimulating factor (G-CSF)\n                  administration and leukopheresis\n\n               -  Donor must have adequate veins for leukopheresis or agree to placement of\n                  central venous catheter (femoral, subclavian)\n\n               -  Age < 75 years\n\n        Exclusion Criteria:\n\n          -  Eligible for a high-priority curative autologous transplant\n\n          -  Patients with rapidly progressive aggressive NHL unless in minimal disease state\n\n          -  Active central nervous system (CNS) involvement with disease\n\n          -  Fertile men or women unwilling to use contraceptive techniques during and for 12\n             months following treatment\n\n          -  Females who are pregnant\n\n          -  Patients who are human immunodeficiency virus (HIV) positive\n\n          -  Cardiac ejection fraction < 40%\n\n          -  Severe defects in pulmonary function testing (defects are currently categorized as\n             mild, moderate and severe) as defined by the pulmonary consultant, or receiving\n             supplementary continuous oxygen\n\n          -  Total bilirubin > 2 x the upper limit of normal\n\n          -  Serum glutamate pyruvate transaminase (SGPT) and serum glutamic oxaloacetic\n             transaminase (SGOT) 4 x the upper limit of normal\n\n          -  Karnofsky score < 50\n\n          -  Patients with poorly controlled hypertension\n\n          -  Patients with renal failure are eligible, however patients with renal compromise\n             (serum creatinine greater than 2.0) will likely have further compromise in renal\n             function and may require hemodialysis (which may be permanent) due to the need to\n             maintain adequate serum cyclosporine levels\n\n          -  DONOR:\n\n               -  Identical twin\n\n               -  Age less than 12 years\n\n               -  Pregnancy\n\n               -  Infection with HIV\n\n               -  Inability to achieve adequate venous access\n\n               -  Known allergy to G-CSF\n\n               -  Current serious systemic illness"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "74 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "75", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 11, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006251", 
+            "org_study_id": "1533.00", 
+            "secondary_id": [
+                "NCI-2013-01634", 
+                "1533.00", 
+                "P30CA015704", 
+                "P01CA078902"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Undergo TBI", 
+                "intervention_name": "total-body irradiation", 
+                "intervention_type": "Radiation", 
+                "other_name": "TBI"
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Given IV", 
+                "intervention_name": "fludarabine phosphate", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "2-F-ara-AMP", 
+                    "Beneflur", 
+                    "Fludara"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Given PO", 
+                "intervention_name": "cyclosporine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "ciclosporin", 
+                    "cyclosporin", 
+                    "cyclosporin A", 
+                    "CYSP", 
+                    "Sandimmune"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Given PO", 
+                "intervention_name": "mycophenolate mofetil", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Cellcept", 
+                    "MMF"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Undergo allogeneic PBSC transplant", 
+                "intervention_name": "nonmyeloablative allogeneic hematopoietic stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Undergo DLI", 
+                "intervention_name": "donor lymphocytes", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Undergo allogeneic PBSC transplant", 
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure", 
+                "other_name": [
+                    "PBPC transplantation", 
+                    "PBSC transplantation", 
+                    "peripheral blood progenitor cell transplantation", 
+                    "transplantation, peripheral blood stem cell"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (fludarabine phosphate, TBI, PBSC transplant, DLI)", 
+                "description": "Correlative studies", 
+                "intervention_name": "laboratory biomarker analysis", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclosporins", 
+                "Cyclosporine", 
+                "Mycophenolic Acid", 
+                "Mycophenolate mofetil", 
+                "Fludarabine monophosphate", 
+                "Vidarabine", 
+                "Fludarabine"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "September 3, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109"
+                    }, 
+                    "name": "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Turin", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "Azienda Sanitaria Ospedale San Giovanni Battista Molinette di Torino"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Italy"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Induction of Mixed Hematopoietic Chimerism in Patients Using Fludarabine, Low Dose TBI, PBSC Infusion and Post-Transplant Immunosuppression With Cyclosporine and Mycophenolate Mofetil", 
+        "overall_official": {
+            "affiliation": "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium", 
+            "last_name": "David Maloney", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Risk of graft rejection defined as the absence of detectable peripheral blood donor T cells with the addition of fludarabine phosphate", 
+                "safety_issue": "No", 
+                "time_frame": "Up to day 56"
+            }, 
+            {
+                "measure": "Incidence of acute grade II/IV GVHD", 
+                "safety_issue": "No", 
+                "time_frame": "Up to day 90 after the last DLI"
+            }, 
+            {
+                "measure": "Incidence of chronic GVHD", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 24 months"
+            }
+        ], 
+        "removed_countries": {
+            "country": "Germany"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006251"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of myelosuppression (ANC < 500/ul for > 2 days, platelets < 20,000/ul for > 2 days) after initial PBSC infusion", 
+                "safety_issue": "No", 
+                "time_frame": "Up to day 56"
+            }, 
+            {
+                "measure": "Response of malignancy to DLI", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 24 months"
+            }, 
+            {
+                "measure": "Incidence of aplasia after DLI", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 24 months"
+            }, 
+            {
+                "measure": "Dose of CD3+ cells required to convert mixed to full lymphoid chimeras", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 24 months"
+            }, 
+            {
+                "measure": "Incidence of non-relapse mortality", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 24 months"
+            }
+        ], 
+        "source": "Fred Hutchinson Cancer Research Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Fred Hutchinson Cancer Research Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2000", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }, 
+    "geocoordinates": {
+        "Azienda Sanitaria Ospedale San Giovanni Battista Molinette di Torino": "45.071 7.684", 
+        "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium": "47.606 -122.332"
+    }
+}

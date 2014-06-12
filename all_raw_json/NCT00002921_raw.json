@@ -1,0 +1,924 @@
+{
+    "clinical_study": {
+        "@rank": "35379", 
+        "arm_group": {
+            "arm_group_label": "Suramin", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Some tumors need growth factors produced by the body to keep growing. Suramin may\n      interfere with the growth factor and stop the tumor from growing.\n\n      PURPOSE: Phase II trial to study the effectiveness of suramin in treating patients with\n      stage III or stage IV adrenocortical cancer."
+        }, 
+        "brief_title": "S9427, Suramin in Treating Patients With Stage III or Stage IV Adrenocortical Cancer Incurable by Surgery", 
+        "completion_date": {
+            "#text": "January 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Adrenocortical Carcinoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Adrenocortical Carcinoma", 
+                "Adrenal Cortex Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Assess the response of patients with adrenocortical carcinoma treated with\n      suramin. II. Evaluate the qualitative and quantitative toxic effects of this therapy.\n\n      OUTLINE: Patients are described according to stage, performance status, prior radiotherapy,\n      prior surgery, and prior mitotane therapy. Patients receive suramin IV for 5 days in the\n      first week, then twice a week for 2 weeks, and then weekly for a total of 12 weeks.\n      Hydrocortisone is taken PO twice daily. Following a 12 week rest, patients receive a second\n      course; those with stable or responding disease continue treatment for a maximum of four\n      courses.\n\n      PROJECTED ACCRUAL: A maximum of 40 patients will be accrued at a rate of 6-7 per year."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed adrenocortical carcinoma in Stage III or\n        IV and incurable by surgery Bidimensionally measurable disease\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: SWOG 0-2 Hematopoietic: WBC\n        at least 4,000/mm3 Absolute granulocyte count at least 2,000/mm3 Platelet count at least\n        150,000/mm3 Prothrombin time and partial thromboplastin time no greater than upper limit\n        of normal (ULN) Hepatic: SGOT and alkaline phosphatase no greater than 2 times ULN Renal:\n        Creatinine clearance at least 50 mL/min Serum creatinine no greater than ULN Other: No\n        second malignancy within 5 years except adequately treated basal cell or squamous cell\n        carcinoma of the skin,in situ carcinoma of the cervix, or other cancer for which patient\n        has been disease free for 5 years Not pregnant or nursing Effective contraception required\n        of fertile patients\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: No concurrent biologic therapy At least 4\n        weeks since prior biologic therapy (one regimen only) Chemotherapy: No concurrent\n        chemotherapy At least 4 weeks since prior mitotane No other prior chemotherapy allowed\n        Endocrine therapy: At least 6 weeks since prior hormonal therapy No concurrent hormonal\n        therapy Radiotherapy: At least 4 weeks since prior radiation therapy (to less than 25% of\n        bone marrow) No concurrent radiation therapy Surgery: Prior surgery allowed in relapsed\n        patients with no other prior treatment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "13", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002921", 
+            "org_study_id": "CDR0000065324", 
+            "secondary_id": [
+                "SWOG-9427", 
+                "U10CA032102"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Suramin", 
+                "intervention_name": "suramin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Suramin", 
+                "intervention_name": "therapeutic hydrocortisone", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cortisol succinate", 
+                "Hydrocortisone acetate", 
+                "Hydrocortisone 17-butyrate 21-propionate", 
+                "Hydrocortisone", 
+                "Hydrocortisone-17-butyrate", 
+                "Suramin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage III adrenocortical carcinoma", 
+            "stage IV adrenocortical carcinoma"
+        ], 
+        "lastchanged_date": "October 3, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mobile", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36688"
+                    }, 
+                    "name": "MBCCOP - University of South Alabama"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85006-2726"
+                    }, 
+                    "name": "CCOP - Greater Phoenix"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85724"
+                    }, 
+                    "name": "Arizona Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }, 
+                    "name": "Beckman Research Institute, City of Hope"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095-1781"
+                    }, 
+                    "name": "Jonsson Comprehensive Cancer Center, UCLA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033-0800"
+                    }, 
+                    "name": "USC/Norris Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609-3305"
+                    }, 
+                    "name": "CCOP - Bay Area Tumor Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868"
+                    }, 
+                    "name": "Chao Family Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "University of California Davis Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115-0128"
+                    }, 
+                    "name": "UCSF Cancer Center and Cancer Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Rosa", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95403"
+                    }, 
+                    "name": "CCOP - Santa Rosa Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80262"
+                    }, 
+                    "name": "University of Colorado Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wilmington", 
+                        "country": "United States", 
+                        "state": "Delaware", 
+                        "zip": "19899"
+                    }, 
+                    "name": "CCOP - Christiana Care Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33140"
+                    }, 
+                    "name": "CCOP - Mount Sinai Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30342-1701"
+                    }, 
+                    "name": "CCOP - Atlanta Regional"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Gordon", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30905-5650"
+                    }, 
+                    "name": "Dwight David Eisenhower Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96813"
+                    }, 
+                    "name": "Cancer Research Center of Hawaii"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maywood", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60153"
+                    }, 
+                    "name": "Loyola University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "62526"
+                    }, 
+                    "name": "CCOP - Central Illinois"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-3882"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536-0084"
+                    }, 
+                    "name": "Albert B. Chandler Medical Center, University of Kentucky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "MBCCOP - LSU Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shreveport", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71130-3932"
+                    }, 
+                    "name": "Louisiana State University Hospital - Shreveport"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "Boston Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0752"
+                    }, 
+                    "name": "University of Michigan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Barbara Ann Karmanos Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Rapids", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49503"
+                    }, 
+                    "name": "CCOP - Grand Rapids Clinical Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Southfield", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48075-9975"
+                    }, 
+                    "name": "Providence Hospital - Southfield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216-4505"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64131"
+                    }, 
+                    "name": "CCOP - Kansas City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64128"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Kansas City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110-0250"
+                    }, 
+                    "name": "St. Louis University Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "CCOP - St. Louis-Cape Girardeau"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59101"
+                    }, 
+                    "name": "CCOP - Montana Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87131"
+                    }, 
+                    "name": "University of New Mexico Cancer Research & Treatment Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "CCOP - North Shore University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Herbert Irving Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27104-4241"
+                    }, 
+                    "name": "CCOP - Southeast Cancer Control Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45219"
+                    }, 
+                    "name": "Barrett Cancer Center, The University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43206"
+                    }, 
+                    "name": "CCOP - Columbus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kettering", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45429"
+                    }, 
+                    "name": "CCOP - Dayton"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "Oklahoma Medical Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97213"
+                    }, 
+                    "name": "CCOP - Columbia River Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201-3098"
+                    }, 
+                    "name": "Oregon Cancer Center at Oregon Health Sciences University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29615"
+                    }, 
+                    "name": "CCOP - Greenville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spartanburg", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29303"
+                    }, 
+                    "name": "CCOP - Upstate Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235-9154"
+                    }, 
+                    "name": "Simmons Cancer Center - Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Sam Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78234"
+                    }, 
+                    "name": "Brooke Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77555-1329"
+                    }, 
+                    "name": "University of Texas Medical Branch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lubbock", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "79423"
+                    }, 
+                    "name": "Texas Tech University Health Science Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78284"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76508"
+                    }, 
+                    "name": "CCOP - Scott and White Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84132"
+                    }, 
+                    "name": "Huntsman Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norfolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23507"
+                    }, 
+                    "name": "Eastern Virginia Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298-0037"
+                    }, 
+                    "name": "MBCCOP - Massey Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98101"
+                    }, 
+                    "name": "CCOP - Virginia Mason Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Swedish Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405-0986"
+                    }, 
+                    "name": "CCOP - Northwest"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Evaluation of Suramin in Advanced Adrenal Cortical Carcinoma, Phase II", 
+        "overall_official": {
+            "affiliation": "Barrett Cancer Center", 
+            "last_name": "Louis E. Schroder, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Response to suramin", 
+            "safety_issue": "No", 
+            "time_frame": "From date of registration to progression or date of death from any cause, whichever came  first, assessed up to four cycles"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002921"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "citation": "Shroder LE, Glass T, Eisenberger M, et al.: Phase II evaluation of suramin in advanced adrenal carcinoma: Southwest Oncology Group (SWOG) trial 9427. [Abstract] Proceedings of the American Society of Clinical Oncology 20: A-2361, 153b, 2001."
+        }, 
+        "secondary_outcome": {
+            "measure": "Number and grade of adverse events", 
+            "safety_issue": "Yes", 
+            "time_frame": "From date of registration until progression or date of death from any cause, whichever came first, up to four cycles"
+        }, 
+        "source": "Southwest Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Southwest Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 1997", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2012", 
+        "why_stopped": "Permanently Closed Due to Lack of Accrual"
+    }, 
+    "geocoordinates": {
+        "Albert B. Chandler Medical Center, University of Kentucky": "38.041 -84.504", 
+        "Arizona Cancer Center": "32.222 -110.926", 
+        "Barbara Ann Karmanos Cancer Institute": "42.331 -83.046", 
+        "Barrett Cancer Center, The University Hospital": "39.103 -84.512", 
+        "Baylor College of Medicine": "29.76 -95.369", 
+        "Beckman Research Institute, City of Hope": "34.139 -117.977", 
+        "Boston Medical Center": "42.358 -71.06", 
+        "Brooke Army Medical Center": "29.47 -98.424", 
+        "CCOP - Atlanta Regional": "33.749 -84.388", 
+        "CCOP - Bay Area Tumor Institute": "37.804 -122.271", 
+        "CCOP - Central Illinois": "39.782 -89.65", 
+        "CCOP - Christiana Care Health Services": "39.746 -75.547", 
+        "CCOP - Columbia River Program": "45.523 -122.676", 
+        "CCOP - Columbus": "39.961 -82.999", 
+        "CCOP - Dayton": "39.69 -84.169", 
+        "CCOP - Grand Rapids Clinical Oncology Program": "42.963 -85.668", 
+        "CCOP - Greater Phoenix": "33.448 -112.074", 
+        "CCOP - Greenville": "34.853 -82.394", 
+        "CCOP - Kansas City": "39.1 -94.579", 
+        "CCOP - Montana Cancer Consortium": "45.783 -108.501", 
+        "CCOP - Mount Sinai Medical Center": "25.791 -80.13", 
+        "CCOP - North Shore University Hospital": "40.798 -73.7", 
+        "CCOP - Northwest": "47.253 -122.444", 
+        "CCOP - Santa Rosa Memorial Hospital": "38.44 -122.714", 
+        "CCOP - Scott and White Hospital": "31.098 -97.343", 
+        "CCOP - Southeast Cancer Control Consortium": "36.1 -80.244", 
+        "CCOP - St. Louis-Cape Girardeau": "38.627 -90.199", 
+        "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C.": "43.048 -76.147", 
+        "CCOP - Upstate Carolina": "34.95 -81.932", 
+        "CCOP - Virginia Mason Research Center": "47.606 -122.332", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "Cancer Research Center of Hawaii": "21.307 -157.858", 
+        "Chao Family Comprehensive Cancer Center": "33.788 -117.853", 
+        "Cleveland Clinic Cancer Center": "41.499 -81.695", 
+        "Dwight David Eisenhower Army Medical Center": "33.352 -82.237", 
+        "Eastern Virginia Medical School": "36.851 -76.286", 
+        "Henry Ford Hospital": "42.331 -83.046", 
+        "Herbert Irving Comprehensive Cancer Center": "40.714 -74.006", 
+        "Huntsman Cancer Institute": "40.761 -111.891", 
+        "Jonsson Comprehensive Cancer Center, UCLA": "34.052 -118.244", 
+        "Louisiana State University Hospital - Shreveport": "32.525 -93.75", 
+        "Loyola University Medical Center": "41.879 -87.843", 
+        "MBCCOP - LSU Medical Center": "29.951 -90.072", 
+        "MBCCOP - Massey Cancer Center": "37.541 -77.436", 
+        "MBCCOP - University of South Alabama": "30.694 -88.043", 
+        "Oklahoma Medical Research Foundation": "35.468 -97.516", 
+        "Oregon Cancer Center at Oregon Health Sciences University": "45.523 -122.676", 
+        "Providence Hospital - Southfield": "42.473 -83.222", 
+        "Simmons Cancer Center - Dallas": "32.803 -96.77", 
+        "St. Louis University Health Sciences Center": "38.627 -90.199", 
+        "Swedish Cancer Institute": "47.606 -122.332", 
+        "Texas Tech University Health Science Center": "33.578 -101.855", 
+        "Tulane University School of Medicine": "29.951 -90.072", 
+        "UCSF Cancer Center and Cancer Research Institute": "37.775 -122.419", 
+        "USC/Norris Comprehensive Cancer Center": "34.052 -118.244", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California Davis Medical Center": "38.582 -121.494", 
+        "University of Colorado Cancer Center": "39.739 -104.985", 
+        "University of Kansas Medical Center": "39.114 -94.627", 
+        "University of Michigan Comprehensive Cancer Center": "42.281 -83.743", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of New Mexico Cancer Research & Treatment Center": "35.084 -106.651", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "University of Texas Medical Branch": "29.301 -94.798", 
+        "Veterans Affairs Medical Center - Kansas City": "39.1 -94.579"
+    }
+}

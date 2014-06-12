@@ -13,7 +13,14 @@
     "current_status": "Completed", 
     "date_processed": "June 05, 2014", 
     "description": "\n      To determine whether photocoagulation helps prevent severe visual loss from proliferative\n      diabetic retinopathy.\n\n      To determine whether a difference exists in the efficacy and safety of argon versus xenon\n      photocoagulation for proliferative diabetic retinopathy.\n    ", 
+<<<<<<< HEAD:ct_osf_json/NCT00000160_osf.json
     "files": ["../ct_xml/NCT00000160.xml", "../ct_raw_json/NCT00000160_raw.json"],
+=======
+    "files": [
+        "../ct_xml/NCT00000160.xml", 
+        "../ct_raw_json/NCT00000160_raw.json"
+    ], 
+>>>>>>> a78758cf97002a4a2277f812dd682cce64bb8e1c:ct_osf_json/NCT00000160_osf.json
     "geo_data": [], 
     "id": "NCT00000160", 
     "imported_from": "clinicaltrials.gov", 
@@ -28,6 +35,7 @@
             "citation": "Four risk factors for severe visual loss in diabetic retinopathy. The third report from the Diabetic Retinopathy Study. The Diabetic Retinopathy Study Research Group. Arch Ophthalmol. 1979 Apr;97(4):654-5."
         }, 
         {
+            "PMID": null, 
             "citation": "The Diabetic Retinopathy Study Research Group; Photocoagulation treatment of proliferative diabetic retinopathy: A short report of long range results., Diabetic Retinopathy Study (DRS) Report Number 4. Proceedings of the 10th Congress of the International Diabetes Federation 1979"
         }, 
         {
@@ -63,6 +71,7 @@
             "citation": "Kaufman SC, Ferris FL 3rd, Seigel DG, Davis MD, DeMets DL. Factors associated with visual outcome after photocoagulation for diabetic retinopathy. Diabetic Retinopathy Study Report #13. Invest Ophthalmol Vis Sci. 1989 Jan;30(1):23-8."
         }, 
         {
+            "PMID": null, 
             "citation": "The Diabetic Retinopathy Study Research Group; Indications for photocoagulation treatment of diabetic retinopathy. Diabetic Retinopathy Study Report Number 14., Invest Ophthalmol Clin 1994;27:239-253"
         }, 
         {

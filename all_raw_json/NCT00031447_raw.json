@@ -1,0 +1,1751 @@
+{
+    "clinical_study": {
+        "@rank": "79236", 
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator"
+            }, 
+            {
+                "arm_group_label": "Acyclovir", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to test whether long-term treatment with oral acyclovir\n      improves the outcome for infants with herpes simplex virus (HSV) disease of the skin, eyes,\n      and mouth (SEM). Study participants will include infants in the United States and Canada who\n      have HSV disease of the skin, eyes, and mouth, with no central nervous system disease\n      present. Initially, all subjects will be treated with acyclovir administered through IV\n      access (through the vein) for 14 days while hospitalized. Participants will then be placed\n      in one of two groups, acyclovir given by mouth or a placebo (substance with no medication\n      present). The participant and the study site will not know to which group the subject is\n      assigned. All children will be followed at 6, 12, 24, 36, 48, and 60 months of age. During\n      the follow up visits, physicals, hearing assessments, eye assessments, and neurological\n      assessments will be completed."
+        }, 
+        "brief_title": "Acyclovir Herpes Simplex Virus (HSV) Skin, Eye, and Mouth", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                            "title": "Acyclovir"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "14"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "29"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "5", 
+                                                "@spread": "3.76", 
+                                                "@upper_limit": "55", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "2", 
+                                                "@spread": "2.51", 
+                                                "@upper_limit": "35", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "2", 
+                                                "@spread": "2.23", 
+                                                "@upper_limit": "55", 
+                                                "@value": "15"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Age, Customized", 
+                            "units": "days"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "29"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "< = 28 days"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 29 days and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age, Customized", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "11"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "8"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "18"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "28"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "United States"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Canada"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Motor scores of all participants completing 6 months of blinded therapy as measured by the Bayleys neuro-developmental assessment at 12 months.  Scores are classified as the following: greater than or equal to 115 suggests accelerated performance; 85 - 114 suggests development within normal limits; 70 - 84 suggests mildly delayed development and less than or equal to 69 suggests significant delayed development.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                                    "title": "Acyclovir"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "6"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "3"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with score of > or = 115"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with score of 85 - 114"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "1"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with score of 70 - 84"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with score of < or = 69"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Motor scores of all participants completing 6 months of blinded therapy as measured by the Bayleys neuro-developmental assessment at 12 months.  Scores are classified as the following: greater than or equal to 115 suggests accelerated performance; 85 - 114 suggests development within normal limits; 70 - 84 suggests mildly delayed development and less than or equal to 69 suggests significant delayed development.", 
+                                    "param": "Number", 
+                                    "title": "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley\u2019s Neuro-developmental Assessment.(Motor Scores)", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Three of 4 subjects receiving placebo and completing 6 months of placebo, and 2 of 8 subjects receiving acyclovir and completing 6 months of acyclovir did not complete the 12 month Bayley's Neuro-developmental Assessment (motor score); therefore, 1 placebo subject and 6 acyclovir subjects are included in the analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "At 12 months of life.", 
+                        "title": "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley\u2019s Neuro-developmental Assessment.(Motor Scores)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Number of participants with positive herpes simplex virus (HSV) DNA by polymerase cahin reaction (PCR) in the cerebrospinal fluid of subjects assessed during the initial 12 months of life.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                                    "title": "Acyclovir"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Participants with at least 1 positive PCR"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "4"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "8"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Participants with negative PCR or not done"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Number of participants with positive herpes simplex virus (HSV) DNA by polymerase cahin reaction (PCR) in the cerebrospinal fluid of subjects assessed during the initial 12 months of life.", 
+                                    "param": "Number", 
+                                    "title": "Detection of Herpes Simplex Virus (HSV) DNA in the Cerebrospinal Fluid (CSF) by Polymerase Chain Reaction (PCR) at Anytime During the Initial 12 Months of Life.", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "post randomization at 12 months", 
+                        "title": "Detection of Herpes Simplex Virus (HSV) DNA in the Cerebrospinal Fluid (CSF) by Polymerase Chain Reaction (PCR) at Anytime During the Initial 12 Months of Life.", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Number of participants experiencing 2 or fewer  HSV recurrences during the first 12 months of life as measured by assessments and reports at study visits.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                                    "title": "Acyclovir"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "4"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "7"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "with < or = 2 recurrences of HSV"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "with > 2 recurrences of HSV"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Number of participants experiencing 2 or fewer  HSV recurrences during the first 12 months of life as measured by assessments and reports at study visits.", 
+                                    "param": "Number", 
+                                    "title": "Two or Fewer Episodes of Cutaneous Recurrence of HSV Disease Post-randomization During the Initial 12 Months of Life.", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "post randomization - 12 months", 
+                        "title": "Two or Fewer Episodes of Cutaneous Recurrence of HSV Disease Post-randomization During the Initial 12 Months of Life.", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Mental scores of all participants completing 6 months of blinded therapy as measured by the Bayleys neuro-developmental assessment at 12 months.  Scores are classified as the following:  less than or equal to 115 suggests accelerated performance; 85 - 114 suggests development within normal limits; 70 - 84 suggests mildly delayed development and less than or equal to 69 suggests significant delayed development.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                                    "title": "Acyclovir"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "6"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants score with > or = to 115"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "1"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with score 85-114"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "1"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "4"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with score 70-84"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Number of participants with < or = to 69"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Mental scores of all participants completing 6 months of blinded therapy as measured by the Bayleys neuro-developmental assessment at 12 months.  Scores are classified as the following:  less than or equal to 115 suggests accelerated performance; 85 - 114 suggests development within normal limits; 70 - 84 suggests mildly delayed development and less than or equal to 69 suggests significant delayed development.", 
+                                    "param": "Number", 
+                                    "title": "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley's Neuro-developmental Assessment.(Mental Scores)", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Two of 4 subjects receiving placebo and completing 6 months of placebo, and 2 of 8 subjects receiving acyclovir and completing 6 months of acyclovir did not complete the 12 month Bayley's Neuro-developmental Assessment(mental); therefore, 2 placebo subject and 6 acyclovir subjects are included in the analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "At 12 months of life.", 
+                        "title": "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley's Neuro-developmental Assessment.(Mental Scores)", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                            "title": "Acyclovir"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Lost to Follow-up"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Non-compliant"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Re-activation of Disease"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "7", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "4", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Disruption of blinded study drug supply"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "14", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "4", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "8", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "7", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Participants enrolled while on 2 weeks of IV acyclovir therapy who have positive CSF HSV PCR results within 48 hours prior to IV therapy completion, are not randomized.", 
+                "recruitment_details": "Neonates diagnosed with HSV-1 or HSV-2 at least than or equal to 28 days of age as evidenced by infections limited to the skin, eye and mouth with normal CNS and treated with intravenous acyclovir therapy."
+            }, 
+            "point_of_contact": {
+                "email": "pjester@peds.uab.edu", 
+                "name_or_title": "Penelope M Jester", 
+                "organization": "Collaborative Antiviral Study Group", 
+                "phone": "205-934-2424"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Identical to oral acyclovir suspension in appearance and taste.  Volume is identical to the administration of active drug.", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Oral suspension 300 mg/m^2/dose TID for 6 months.", 
+                            "title": "Acyclovir"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Decreased neutrophils"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "7", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Herpes simplex virus"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "14", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection ear"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "12", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "7", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Lesion-unspecified"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "7", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Upper respiratory infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@events": "5", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Neutropenia"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Gastroenteritis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Gastroesophageal refux"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Fever"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Langerhans cell histocytosis"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Adenoiditis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Gastroenteritis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Herpes simplex virus"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Lesion unspecified"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "Otitis media"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "14"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "15"
+                                                }
+                                            ], 
+                                            "sub_title": "RSV"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "14"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "15"
+                                            }
+                                        ], 
+                                        "sub_title": "Near drowning"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Herpes Simplex", 
+        "condition_browse": {
+            "mesh_term": "Herpes Simplex"
+        }, 
+        "detailed_description": {
+            "textblock": "Neonatal herpes simplex virus (HSV) disease complicates approximately one in every 3,000\n      births in the United States. This study will be a placebo-controlled Phase III evaluation of\n      suppressive therapy with oral Acyclovir suspension following neonatal HSV infections limited\n      to the skin, eyes, and mouth (SEM). This study will evaluate the efficacy of long-term\n      suppressive therapy with oral acyclovir in infants with SEM disease. It will determine if\n      suppressive oral acyclovir therapy improves neurological outcome in infants following SEM\n      disease. Only infants with SEM disease will qualify for this study. After qualifying for the\n      study and obtaining informed consent, the infant will complete 14 days of intravenous (IV)\n      Acyclovir (20 mg/kg/dose given every 8 hours). Patients will be randomized to receive\n      suppressive oral Acyclovir versus placebo only if they continue to meet all study inclusion\n      criteria at the completion of the IV therapy. This study will be double-blinded and placebo\n      controlled. At the time of randomization, the patient will be placed in 1 of 2 groups (oral\n      suppressive Acyclovir versus placebo). If a patient in either group has a cutaneous HSV\n      recurrence, open-label oral Acyclovir (80 mg/kg/day divided into 4 doses per day) will be\n      provided for 5 days. During the time of administration of open-label oral Acyclovir, study\n      drug will be withheld. All children will be followed at 6, 12, 24, 36, 48, and 60 months of\n      age. Physical examination, hearing assessment, and retinal examination will be performed at\n      each follow up visit. Standardized neurologic evaluation will be performed at 12, 24, 36,\n      48, and 60 months of age."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Isolation by viral culture of herpes simplex virus (HSV)-1or HSV-2 from cutaneous\n             lesions, conjunctivae, or oropharynx. Detection of HSV at any of these sites is\n             sufficient, and the presence of skin lesions is not required for study enrollment.\n\n          -  Normal cerebrospinal fluid (CSF) indices (<22 white blood cells (WBCs)/mm^3 and\n             protein <115 mg/dl for term infants; (<25 WBCs/mm^3 and protein <220 mg/dl for\n             preterm infants both at the time of diagnosis of HSV disease and at the time of study\n             randomization.\n\n          -  No evidence of HSV central nervous system (CNS) disease by computed tomography (CT)\n             with contrast, magnetic resonance imaging (MRI) with gadolinium, or head ultrasound\n             (HUS) [NOTE: CT with contrast is the preferred imaging study].\n\n          -  Normal electroencephalogram (EEG), if performed [NOTE: EEG is suggested for the\n             evaluation of infants with HSV disease but is not required for this study].\n\n          -  No evidence of visceral dissemination of HSV infection (normal liver function tests,\n             normal chest x-ray, etc.).\n\n          -  Negative CSF HSV polymerase chain reaction (PCR) results from specimens obtained both\n             within 72 hours of initiation of intravenous acyclovir therapy and within 48 hours\n             prior to completion of intravenous acyclovir therapy.\n\n          -  Less than or equal to 28 days of age at the time of initial presentation with skin,\n             eyes, and mouth (SEM) disease.\n\n          -  Birth weight greater than or equal to equal to 800 grams.\n\n        Exclusion Criteria:\n\n          -  Infants with either grade 3 or grade 4 intraventricular hemorrhage (IVH) prior to\n             study enrollment.\n\n          -  Breast feeding infants whose mothers are taking acyclovir, valacyclovir, or\n             famciclovir for >120 hours (>5 days).  If at any point following enrollment the\n             mother takes these antiviral drugs for >120 hours (>5 days), she will be asked to\n             refrain from breast feeding while taking the drug.\n\n          -  Infants known to be born to women who are human immunodeficiency virus (HIV) positive\n             (but HIV testing is not required for study entry).  These infants are at known risk\n             for acquiring HIV, which would alter their immune response to other infections,\n             including HSV infection.  Additionally, they may be receiving antiretroviral and/or\n             antiviral drugs during the time in which the study of suppressive oral acyclovir is\n             being conducted.  As such, they will be excluded if the mother's positive HIV status\n             is known at the time of evaluation for study inclusion.  If at any point following\n             enrollment it is learned that an infant is HIV positive, he/she will be continued on\n             the study protocol.\n\n          -  Infants with either central nervous system (CNS) or disseminated HSV infection.\n             Patients with CNS HSV infection will be considered for enrollment and randomization\n             in the ongoing Collaborative Antiviral Study Group (CASG) evaluation of oral\n             suppressive acyclovir therapy following neonatal HSV infections involving the CNS.\n\n          -  Infants with creatinine >1.5mg/dl at time of study enrollment.\n\n          -  Infants receiving acyclovir expectantly do not qualify for this study because they\n             never developed HSV disease.  Expectant therapy describes infants who are cultured at\n             approximately 24 hours of life because of a risk of HSV infection (i.e. they are born\n             to women with active genital lesions). Oftentimes, if these cultures are positive,\n             the infant will receive a course of intravenous acyclovir to prevent the development\n             of HSV disease.  However, since they never actually had HSV disease, their potential\n             outcome cannot be compared with infants with typical skin, eyes, and mouth (SEM)\n             disease, and so they are not included in this study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "28 Days", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "29", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 6, 2002", 
+        "firstreceived_results_date": "April 1, 2009", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00001099", 
+            "nct_id": "NCT00031447", 
+            "org_study_id": "97-006", 
+            "secondary_id": [
+                "CASG 104", 
+                "N01AI30025C"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Acyclovir", 
+                "description": "Oral suspension 300 mg/m^2/dose, 3 times per day (TID), for 6 months.", 
+                "intervention_name": "Acyclovir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "Placebo identical to oral acyclovir suspension in appearance and taste.", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Acyclovir"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "Herpes Simplex, Acyclovir, Infants", 
+        "lastchanged_date": "May 10, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "University of Alabama at Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72202"
+                    }, 
+                    "name": "Arkansas Children's Hospital, Department of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92123"
+                    }, 
+                    "name": "Rady Children's Hospital San Diego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5208"
+                    }, 
+                    "name": "Stanford University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32209"
+                    }, 
+                    "name": "University of Florida - College of Medicine - Jacksonville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }, 
+                    "name": "The University of Chicago - Comer Children's Hospital - Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40202"
+                    }, 
+                    "name": "Kosair Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane University - Tulane Medical Center - Department of Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04101"
+                    }, 
+                    "name": "Maine Medical Center - Department of Pediatric Specialty Care - Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "Johns Hopkins Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Children's Hospital of Michigan - Pediatric Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216-4505"
+                    }, 
+                    "name": "University of Mississippi"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School of Medicine in St. Louis - Center for Clinical Studies"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "UNY Upstate Medical University Hospital - Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28203"
+                    }, 
+                    "name": "Carolinas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45231"
+                    }, 
+                    "name": "Cincinnati Children's Hospital Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109-1998"
+                    }, 
+                    "name": "MetroHealth Medical Center - Pediatric Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43205"
+                    }, 
+                    "name": "Nationwide Children's Hospital - Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201-3098"
+                    }, 
+                    "name": "Oregon Health and Science University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02903"
+                    }, 
+                    "name": "Rhode Island Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232"
+                    }, 
+                    "name": "Vanderbilt University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390-9063"
+                    }, 
+                    "name": "University of Texas Southwestern Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Cook Children's Infectious Disease Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "University of Texas Health Science Center San Antonio - Pediatrics - Immunology & Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98105"
+                    }, 
+                    "name": "Seattle Children's Hospital - Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T6R 2C2"
+                    }, 
+                    "name": "University of Alberta - Aberhart Centre - Pediatrics"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Placebo-Controlled Phase III Evaluation of Suppressive Therapy With Oral Acyclovir Suspension Following Neonatal Herpes Simplex Virus Infections Limited to the Skin, Eye, and Mouth", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "Canada: Ethics Review Committee", 
+                "United States: Institutional Review Board", 
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ]
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "February 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Motor scores of all participants completing 6 months of blinded therapy as measured by the Bayleys neuro-developmental assessment at 12 months.  Scores are classified as the following: greater than or equal to 115 suggests accelerated performance; 85 - 114 suggests development within normal limits; 70 - 84 suggests mildly delayed development and less than or equal to 69 suggests significant delayed development.", 
+                "measure": "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley's Neuro-developmental Assessment.(Motor Scores)", 
+                "safety_issue": "No", 
+                "time_frame": "At 12 months of life."
+            }, 
+            {
+                "description": "Mental scores of all participants completing 6 months of blinded therapy as measured by the Bayleys neuro-developmental assessment at 12 months.  Scores are classified as the following:  less than or equal to 115 suggests accelerated performance; 85 - 114 suggests development within normal limits; 70 - 84 suggests mildly delayed development and less than or equal to 69 suggests significant delayed development.", 
+                "measure": "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley's Neuro-developmental Assessment.(Mental Scores)", 
+                "safety_issue": "No", 
+                "time_frame": "At 12 months of life."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00031447"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "21991950", 
+            "citation": "Kimberlin DW, Whitley RJ, Wan W, Powell DA, Storch G, Ahmed A, Palmer A, S\u00e1nchez PJ, Jacobs RF, Bradley JS, Robinson JL, Shelton M, Dennehy PH, Leach C, Rathore M, Abughali N, Wright P, Frenkel LM, Brady RC, Van Dyke R, Weiner LB, Guzman-Cottrill J, McCarthy CA, Griffin J, Jester P, Parker M, Lakeman FD, Kuo H, Lee CH, Cloud GA; National Institute of Allergy and Infectious Diseases Collaborative Antiviral Study Group. Oral acyclovir suppression and neurodevelopment after neonatal herpes. N Engl J Med. 2011 Oct 6;365(14):1284-92. doi: 10.1056/NEJMoa1003509."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Number of participants with positive herpes simplex virus (HSV) DNA by polymerase cahin reaction (PCR) in the cerebrospinal fluid of subjects assessed during the initial 12 months of life.", 
+                "measure": "Detection of Herpes Simplex Virus (HSV) DNA in the Cerebrospinal Fluid (CSF) by Polymerase Chain Reaction (PCR) at Anytime During the Initial 12 Months of Life.", 
+                "safety_issue": "No", 
+                "time_frame": "post randomization at 12 months"
+            }, 
+            {
+                "description": "Number of participants experiencing 2 or fewer  HSV recurrences during the first 12 months of life as measured by assessments and reports at study visits.", 
+                "measure": "Two or Fewer Episodes of Cutaneous Recurrence of HSV Disease Post-randomization During the Initial 12 Months of Life.", 
+                "safety_issue": "No", 
+                "time_frame": "post randomization - 12 months"
+            }
+        ], 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "August 1999", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2009"
+    }, 
+    "geocoordinates": {
+        "Arkansas Children's Hospital, Department of Infectious Diseases": "34.746 -92.29", 
+        "Carolinas Medical Center": "35.227 -80.843", 
+        "Children's Hospital of Michigan - Pediatric Infectious Diseases": "42.331 -83.046", 
+        "Cincinnati Children's Hospital Medical Center": "39.103 -84.512", 
+        "Cook Children's Infectious Disease Services": "32.725 -97.321", 
+        "Johns Hopkins Hospital": "39.29 -76.612", 
+        "Kosair Children's Hospital": "38.253 -85.758", 
+        "Maine Medical Center - Department of Pediatric Specialty Care - Infectious Disease": "43.661 -70.255", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "MetroHealth Medical Center - Pediatric Infectious Disease": "41.499 -81.695", 
+        "Mount Sinai Hospital": "40.714 -74.006", 
+        "Nationwide Children's Hospital - Infectious Diseases": "39.961 -82.999", 
+        "Oregon Health and Science University": "45.523 -122.676", 
+        "Rady Children's Hospital San Diego": "32.715 -117.157", 
+        "Rhode Island Hospital": "41.824 -71.413", 
+        "Seattle Children's Hospital - Infectious Diseases": "47.606 -122.332", 
+        "Stanford University School of Medicine": "37.429 -122.169", 
+        "The University of Chicago - Comer Children's Hospital - Infectious Diseases": "41.878 -87.63", 
+        "Tulane University - Tulane Medical Center - Department of Pediatrics": "29.951 -90.072", 
+        "UNY Upstate Medical University Hospital - Pediatrics": "43.048 -76.147", 
+        "University of Alabama at Birmingham": "33.521 -86.802", 
+        "University of Alberta - Aberhart Centre - Pediatrics": "53.544 -113.49", 
+        "University of Florida - College of Medicine - Jacksonville": "30.332 -81.656", 
+        "University of Mississippi": "32.299 -90.185", 
+        "University of Texas Health Science Center San Antonio - Pediatrics - Immunology & Infectious Disease": "29.424 -98.494", 
+        "University of Texas Southwestern Medical Center": "32.803 -96.77", 
+        "Vanderbilt University": "36.166 -86.784", 
+        "Washington University School of Medicine in St. Louis - Center for Clinical Studies": "38.627 -90.199"
+    }
+}

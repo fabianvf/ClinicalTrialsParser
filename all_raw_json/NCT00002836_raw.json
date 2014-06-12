@@ -1,0 +1,222 @@
+{
+    "clinical_study": {
+        "@rank": "60611", 
+        "arm_group": [
+            {
+                "arm_group_label": "Filgrastim + Chemotherapy", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "Filgrastim", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Colony-stimulating factors such as filgrastim may increase the\n      number of immune cells found in bone marrow or peripheral blood and may help a person's\n      immune system recover from the side effects of chemotherapy. Peripheral stem cell\n      transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill\n      more tumor cells. It is not yet known which treatment regimen is more effective for breast\n      cancer.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of chemotherapy plus\n      filgrastim with filgrastim alone in treating women undergoing peripheral stem cell\n      transplantation for stage II, stage III, or metastatic breast cancer."
+        }, 
+        "brief_title": "Filgrastim Plus Chemotherapy Compared With Filgrastim Alone In Treating Women Undergoing Peripheral Stem Cell Transplantation For Breast Cancer", 
+        "completion_date": {
+            "#text": "March 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine whether high dose chemotherapy in addition to growth factors increases the\n      yield of filgrastim mobilized progenitor cells.\n\n      II. Determine the kinetics of hematopoietic reconstitution following myeloablative therapy\n      and mobilized blood stem cell transplantation.\n\n      III. Determine whether the use of high dose chemotherapy in addition to growth factors for\n      mobilization of stem cells reduces risk of relapse as measured by time to progression in\n      responsive relapsed breast cancer patients receiving autologous peripheral blood stem cell\n      or bone marrow transplants.\n\n      IV. Determine the morbidity and cost differences of the use of high dose chemotherapy plus\n      growth factors compared to growth factors alone for mobilization of peripheral blood\n      progenitors and treatment of breast cancer with high dose chemotherapy.\n\n      OUTLINE: Patients will be randomized into 2 groups. Group 1 patients undergo CVP\n      chemotherapy treatment by vein (IV) on days 1-3, with cyclophosphamide (CTX), etoposide, and\n      cisplatin. Filgrastim SC (subcutaneously) is given on day 4 every 12 hours until completion\n      of apheresis. Group 2 patients only receive filgrastim SC given on day 1 every 12 hours\n      until completion of apheresis. Stem cells are removed beginning on day 4 for a maximum of 6\n      days. Upon recovery of hematopoiesis patients then receive high IV doses of CBT chemotherapy\n      with CTX, carmustine, and thiotepa for 3 days, followed 4 days later by autologous stem cell\n      reinfusion. Beginning on day of reinfusion, filgrastim is given bid until WBC reaches a safe\n      level. Patients are followed for 90 days posttransplant, and then followed indefinitely for\n      antitumor response and time to progression.\n\n      PROJECTED ACCRUAL: This study will include about 218 patients."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Female patients with Stage II, III or IV breast carcinoma in\n        remission, and not eligible for protocols of higher priority (DM89-102) Stage II breast\n        cancer must have spread to at least 10 axillary nodes; patients with fewer than 10 nodes\n        must have extranodal extensions Patients with greater than 75% positive nodes for tumor\n        are eligible No bone marrow involvement with tumor by standard histopathological exam of\n        bilateral iliac marrow biopsies 2 weeks prior to study Prior normalization of markers\n        needed in patients with elevated tumor markers (e.g., CEA) Metastatic disease patients\n        must have documentation verifying at least 50% reduction of all sites of disease, except\n        bone Stable bone metastases measured via bone scan are eligible Responsive disease but\n        with large tumor burden should enter high risk BMT protocols (93-090)\n\n        PATIENT CHARACTERISTICS: Age: 18 to 65 Performance status: Zubrod 0-1 Life expectancy: Not\n        specified Hematopoietic: WBC greater than 3,000/mm3 Platelet count greater than\n        100,000/mm3 No hematopoietic growth factor treatments Hepatic: Bilirubin, SGOT, and SGPT\n        less than 2 times normal Renal: Estimated creatinine clearance greater than 60 mL/min\n        Cardiovascular: Normal ejection fraction Pulmonary: DLCO greater than 50% of predicted\n        Other: Not HIV positive Not pregnant 2 weeks prior to study No comorbid condition placing\n        patient at high risk for complications No prior active infections No history of untreated\n        central nervous system (CNS) disease No allergic response to eggs or murine protein\n\n        PRIOR CONCURRENT THERAPY: No concurrent involvement in any other clinical trial that\n        effects engraftment Biologic therapy: No growth factors within 1 week Chemotherapy: No\n        more than 2 chemotherapy regimens allowed after relapse for metastatic disease\n        Chemotherapy responsive disease prior to study Stage II/III disease receiving neoadjuvant\n        chemotherapy allowed with at least 4 positive nodes at mastectomy No partial response to\n        chemotherapy less than 50% of any site except bone No prior chemotherapy treatment with\n        carmustine Endocrine therapy: Not specified Radiotherapy: Not specified Surgery:\n        Mastectomy allowed"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "184", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002836", 
+            "org_study_id": "DM95-047", 
+            "secondary_id": [
+                "P30CA016672", 
+                "MDA-DM-95047", 
+                "NCI-G96-1014", 
+                "CDR0000065048"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Filgrastim + Chemotherapy", 
+                    "Filgrastim"
+                ], 
+                "description": "For group one (Filgrastim + Chemotherapy), given under the skin (SC) on day 4 every 12 hours until completion of apheresis; for group two (Filgrastim alone), beginning on day of reinfusion twice a day (bid) until white blood count (WBC) reaches a safe level.", 
+                "intervention_name": "Filgrastim (G-CSF)", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "Neupogen", 
+                    "G-CSF"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Filgrastim + Chemotherapy", 
+                    "Filgrastim"
+                ], 
+                "description": "Upon recovery of hematopoiesis patients then receive high by vein (IV) doses of CBT chemotherapy with CTX, carmustine, and thiotepa for 3 days", 
+                "intervention_name": "Carmustine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "BCNU", 
+                    "BiCNU"
+                ]
+            }, 
+            {
+                "arm_group_label": "Filgrastim + Chemotherapy", 
+                "description": "As part of CVP chemotherapy treatment by vein (IV) on days 1-3.", 
+                "intervention_name": "Cisplatin", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Platinol-AQ", 
+                    "Platinol", 
+                    "CDDP"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Filgrastim + Chemotherapy", 
+                    "Filgrastim"
+                ], 
+                "description": "In group one (Filgrastim + Chemotherapy) as part of CVP chemotherapy treatment by vein (IV) on days 1-3; and group two (Filgrastim alone), upon recovery of hematopoiesis receive high IV doses of CBT chemotherapy with CTX, carmustine, and thiotepa for 3 days.", 
+                "intervention_name": "Cyclophosphamide (CTX)", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Cytoxan", 
+                    "Neosar"
+                ]
+            }, 
+            {
+                "arm_group_label": "Filgrastim + Chemotherapy", 
+                "description": "CVP chemotherapy treatment IV on days 1-3, with cyclophosphamide (CTX), etoposide, and cisplatin.", 
+                "intervention_name": "Etoposide", 
+                "intervention_type": "Drug", 
+                "other_name": "VePesid"
+            }, 
+            {
+                "arm_group_label": [
+                    "Filgrastim + Chemotherapy", 
+                    "Filgrastim"
+                ], 
+                "description": "Upon recovery of hematopoiesis receive high IV doses of CBT chemotherapy with CTX, carmustine, and thiotepa for 3 days.", 
+                "intervention_name": "Thiotepa", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Filgrastim + Chemotherapy", 
+                    "Filgrastim"
+                ], 
+                "description": "Infusion of stem cells on Day 0.", 
+                "intervention_name": "Peripheral Blood Stem Cell Transplantation", 
+                "intervention_type": "Procedure", 
+                "other_name": [
+                    "PBSCT", 
+                    "Stem Cell Transplant"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carmustine", 
+                "Cyclophosphamide", 
+                "Thiotepa", 
+                "Etoposide phosphate", 
+                "Cisplatin", 
+                "Etoposide", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "recurrent breast cancer", 
+        "lastchanged_date": "July 27, 2012", 
+        "link": [
+            {
+                "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+                "url": "http://cancer.gov/clinicaltrials/MDA-DM-95047"
+            }, 
+            {
+                "description": "UT MD Anderson Cancer Center Website", 
+                "url": "http://www.mdanderson.org"
+            }
+        ], 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Houston", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "77030-4009"
+                }, 
+                "name": "University of Texas - MD Anderson Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase III Randomized Comparison of High Dose Chemotherapy G-CSF To G-CSF For Mobilization of Peripheral Blood Stem Cells For Autologous Transplantation For Patients With Responsive Metastatic Breast Cancer Or High Risk Stage II-III Patients", 
+        "overall_official": {
+            "affiliation": "M.D. Anderson Cancer Center", 
+            "last_name": "James Gajewski, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "March 2006", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Compare Effectiveness of Chemotherapy + Filgrastim to Filgrastim Alone", 
+            "safety_issue": "No", 
+            "time_frame": "90 Days Post Transplant"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002836"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "M.D. Anderson Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "M.D. Anderson Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 1995", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2012"
+    }, 
+    "geocoordinates": {
+        "University of Texas - MD Anderson Cancer Center": "29.76 -95.369"
+    }
+}

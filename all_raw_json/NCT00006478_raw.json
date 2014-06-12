@@ -1,0 +1,441 @@
+{
+    "clinical_study": {
+        "@rank": "131379", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Vaccines made from a person's cancer cells may make the body build an immune\n      response to kill cancer cells. Vaccine therapy may be an effective treatment for\n      non-Hodgkin's lymphoma.\n\n      PURPOSE: Phase II trial to study the effectiveness of vaccine therapy following chemotherapy\n      and peripheral stem cell transplantation in treating patients who have non-Hodgkin's\n      lymphoma."
+        }, 
+        "brief_title": "Vaccine Therapy Following Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Non-Hodgkin's Lymphoma", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "vaccination to beging at day +100 or 6 months after hematopoietic stem cell transplantation. The vaccine will be given every 4 weeks for 7 consecutive doses and will include Idiotype + KLH along with the adjuvant, GMCSF", 
+                        "title": "Vaccine Therapy"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "19"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "17"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "10.68", 
+                                            "@value": "46.7"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "10"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "9"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "19"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "The Sponsor Genitope suspend development of MyVax in light of the decision made by the FDA March 6, 2008, therefore this trial was halted prematurely leaving insufficient data to analyze.", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "evaluate the humoral immune responses and cellular immune responses to idiotype vaccine with KLH and GM-CSF adjuvant given to patients with follicular lymphoma following high-dose chemotherapy and autologous stem cell transplantation", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "vaccination to beging at day +100 or 6 months after hematopoietic stem cell transplantation. The vaccine will be given every 4 weeks for 7 consecutive doses and will include Idiotype + KLH along with the adjuvant, GMCSF", 
+                                "title": "Vaccine Therapy"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "0"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "evaluate the humoral immune responses and cellular immune responses to idiotype vaccine with KLH and GM-CSF adjuvant given to patients with follicular lymphoma following high-dose chemotherapy and autologous stem cell transplantation", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With Humoral and Cellular Immune Response", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "NO formal analysis was completed as this trial was halted prematurely. Thirty patients were to be enrolled in the protocol so that 15 patients would be evaluable at the end of the immunization process. Of the 19 patients enrolled on the trial, only 12 went on to complete the vaccine series.", 
+                        "safety_issue": "No", 
+                        "time_frame": "immune responses will be obtained prior to first immunization (baseline), prior to the 5th, 6th, 7th  immunization series and 2 weeks following administration of the 7th  immunization series.   And then obtained annually until disease progression", 
+                        "title": "Number of Participants With Humoral and Cellular Immune Response", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "To evaluate the safety and toxicity of idiotype vaccine with KLH and GM-CSF adjuvant in the post-transplant setting", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "At each immunization and at study completion", 
+                        "title": "Safety", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "To evaluate the safety and toxicity of idiotype vaccine with KLH and GM-CSF adjuvant in the post-transplant setting", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "At each immunization and at study completion", 
+                        "title": "Toxicity", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "To evaluate changes in quantitative bcl-2 of the blood and bone marrow prior to and at various time points following the series of idiotype vaccines.", 
+                        "safety_issue": "No", 
+                        "time_frame": "1 year post transplant evaluation and then annually until disease progression", 
+                        "title": "Changes in Quantitative Bcl-2", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "vaccination to beging at day +100 or 6 months after hematopoietic stem cell transplantation. The vaccine will be given every 4 weeks for 7 consecutive doses and will include Idiotype + KLH along with the adjuvant, GMCSF", 
+                        "title": "Vaccine Therapy"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Vaccine could not be produced"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "6", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Physician Decision"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "19", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "7", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "bmludwig@unmc.edu", 
+                "name_or_title": "Bryan Ludwig, Regulatory Coordinator", 
+                "organization": "University of Nebraska Medical Center Division of Oncology/Hematology", 
+                "phone": "402-559-8071"
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Lymphoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lymphoma", 
+                "Lymphoma, Follicular", 
+                "Lymphoma, Non-Hodgkin"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the humoral and cellular immune responses in patients with follicular\n           non-Hodgkin's lymphoma treated with autologous lymphoma-derived idiotype vaccine with\n           keyhole limpet hemocyanin plus sargramostim (GM-CSF).\n\n        -  Determine the safety and toxicity of this regimen in these patients in the\n           post-transplant setting.\n\n        -  Determine the changes in quantitative bcl-2 in the blood and bone marrow of these\n           patients before and at various times after the series of idiotype vaccines.\n\n      OUTLINE: Vaccinations begin at day 100 or up to 6 months after hematopoietic stem cell\n      transplantation. Patients receive autologous lymphoma-derived idiotype vaccine plus keyhole\n      limpet hemocyanin subcutaneously (SC) on day 1. Sargramostim (GM-CSF) SC is administered on\n      days 1-4. Treatment repeats every 4 weeks for 4 doses, followed 12 weeks later by the fifth\n      and final dose.\n\n      Patients are followed every 3 months for 2 years, every 6 months for 2 years, and then\n      annually thereafter.\n\n      PROJECTED ACCRUAL: A total of 20 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically proven grade I, II, or III follicular non-Hodgkin's lymphoma that\n             failed induction therapy\n\n          -  Previously received no more than 2 high-dose chemotherapies before hematopoietic stem\n             cell transplantation\n\n          -  Minimal disease state at day 100 to 6 months post-transplantation\n\n               -  Lymph nodes smaller than 2 centimeters (cm)\n\n               -  Less than 20% bone marrow involvement with lymphoma\n\n               -  Uncertain complete remission, defined by greater than 75% reduction in the size\n                  of the pre-transplantation mass not representing active disease\n\n          -  Tissue sample safely accessible by biopsy, needle aspiration, or phlebotomy\n\n               -  Must have adequate circulating lymphoma cells\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  Over 19\n\n        Performance status:\n\n          -  Karnofsky greater than 70%\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  See Disease Characteristics\n\n          -  Absolute neutrophil count greater than 1,000/mm^3*\n\n          -  CD4+ count greater than 200/microliter* NOTE: *No restrictions if study vaccine\n             administered at 6 months after transplantation\n\n        Hepatic:\n\n          -  Bilirubin less than 2.0 mg/dL (unless due to lymphomatous involvement)\n\n          -  Serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic\n             transaminase (SGPT) less than 2 times normal (unless due to lymphomatous involvement)\n\n        Renal:\n\n          -  Creatinine no greater than 2.0 mg/dL\n\n        Other:\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception during and for 6 months after study\n             participation\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  See Disease Characteristics\n\n        Chemotherapy:\n\n          -  See Disease Characteristics\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  Not specified\n\n        Surgery:\n\n          -  Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "19 Years"
+        }, 
+        "enrollment": {
+            "#text": "19", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 6, 2000", 
+        "firstreceived_results_date": "October 19, 2010", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006478", 
+            "org_study_id": "260-00", 
+            "secondary_id": [
+                "P30CA036727", 
+                "UNMC-260-00", 
+                "GENITOPE-IND-8294"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "autologous tumor cell vaccine", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "keyhole limpet hemocyanin", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "sargramostim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "adjuvant therapy", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Keyhole-limpet hemocyanin"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "recurrent grade 1 follicular lymphoma", 
+            "recurrent grade 2 follicular lymphoma", 
+            "recurrent grade 3 follicular lymphoma"
+        ], 
+        "lastchanged_date": "March 1, 2011", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Omaha", 
+                    "country": "United States", 
+                    "state": "Nebraska", 
+                    "zip": "68198-6805"
+                }, 
+                "name": "UNMC Eppley Cancer Center at the University of Nebraska Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Pilot Trial to Evaluate Immune Response Using Idiotype Vaccines Following High-Dose Chemotherapy and Hematopoietic Stem Cell Transplantation for Follicular Lymphoma", 
+        "overall_official": {
+            "affiliation": "University of Nebraska", 
+            "last_name": "Julie M. Vose, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "evaluate the humoral immune responses and cellular immune responses to idiotype vaccine with KLH and GM-CSF adjuvant given to patients with follicular lymphoma following high-dose chemotherapy and autologous stem cell transplantation", 
+            "measure": "Number of Participants With Humoral and Cellular Immune Response", 
+            "safety_issue": "No", 
+            "time_frame": "immune responses will be obtained prior to first immunization (baseline), prior to the 5th, 6th, 7th  immunization series and 2 weeks following administration of the 7th  immunization series.   And then obtained annually until disease progression"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006478"
+        }, 
+        "responsible_party": {
+            "name_title": "Julie M. Vose", 
+            "organization": "UNMC Eppley Cancer Center at the University of Nebraska Medical Center"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "To evaluate the safety and toxicity of idiotype vaccine with KLH and GM-CSF adjuvant in the post-transplant setting", 
+                "measure": "Safety", 
+                "safety_issue": "Yes", 
+                "time_frame": "At each immunization and at study completion"
+            }, 
+            {
+                "description": "To evaluate the safety and toxicity of idiotype vaccine with KLH and GM-CSF adjuvant in the post-transplant setting", 
+                "measure": "Toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "At each immunization and at study completion"
+            }, 
+            {
+                "description": "To evaluate changes in quantitative bcl-2 of the blood and bone marrow prior to and at various time points following the series of idiotype vaccines.", 
+                "measure": "Changes in Quantitative Bcl-2", 
+                "safety_issue": "No", 
+                "time_frame": "1 year post transplant evaluation and then annually until disease progression"
+            }
+        ], 
+        "source": "University of Nebraska", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Nebraska", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2000", 
+        "study_design": "Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2011", 
+        "why_stopped": "Genitope suspend development of MyVax in light of the decision made by the Food and Drug\n    Administration (FDA) March 6, 2008"
+    }, 
+    "geocoordinates": {
+        "UNMC Eppley Cancer Center at the University of Nebraska Medical Center": "41.252 -95.998"
+    }
+}

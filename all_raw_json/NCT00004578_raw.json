@@ -1,0 +1,298 @@
+{
+    "clinical_study": {
+        "@rank": "131372", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Group 1, n=32 initiated with ABT-378 & ritonavir; after 3 wks stavudine and lamivudine was added."
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Group II patients (n=68) to be randomized after all Group I patients are enrolled and safety analysis is completed."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To assess the safety, tolerability and antiviral activity of lopinavir/ritonavir when\n      administered orally in antiretroviral-HIV-1 infected subjects."
+        }, 
+        "brief_title": "ABT-378/Ritonavir in Combination With Reverse Transcriptase Inhibitors in Antiretroviral Na\u00efve HIV-Infected Subjects", 
+        "completion_date": {
+            "#text": "April 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n          -  HIV-1 positive\n\n          -  antiretroviral-adult males\n\n          -  non-pregnant\n\n          -  non-lactating females at least 18-years old with plasma HIV-1 RNA > 5000 copies/mL,\n             who were not acutely ill\n\n        Exclusion Criteria\n\n          -  History of:\n\n               -  prior antiretroviral therapy\n\n               -  significant drug hypersensitivity\n\n               -  psychiatric illness that precludes compliance\n\n               -  an active substance abuser\n\n               -  positive test results for drug abuse\n\n               -  abnormal lab test results (hemoglobin, absolute neutrophil count, platelet\n                  count, SGPT/AST or SGPT/ALT, creatinine, fasting triglycerides, significant\n                  abnormal ECG results\n\n               -  pregnancy or lactating female\n\n               -  received another investigational drug within 28 days of study initiation\n\n               -  unlikely to comply or unsuitable candidate in the opinion of the investigator"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00004578", 
+            "org_study_id": "285A", 
+            "secondary_id": "M97-720"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "Lopinavir, range from 200 mg to 400 mg, every 12 hrs and Ritonavir, range from 100 mg to 200 mg, every 12 hrs", 
+                "intervention_name": "Lopinavir/Ritonavir", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "ABT-387", 
+                    "Kaletra", 
+                    "Lopinavir/Ritonavir"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "150 mg, every 12 hours", 
+                "intervention_name": "Lamivudine", 
+                "intervention_type": "Drug", 
+                "other_name": "Lamivudine"
+            }, 
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "40 mg every 12 hours", 
+                "intervention_name": "Stavudine", 
+                "intervention_type": "Drug", 
+                "other_name": "Stavudine"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "HIV Protease Inhibitors", 
+                "Ritonavir", 
+                "Lopinavir", 
+                "Stavudine", 
+                "Lamivudine", 
+                "Reverse Transcriptase Inhibitors"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Stavudine", 
+            "HIV Protease Inhibitors", 
+            "Ritonavir", 
+            "Lamivudine", 
+            "Reverse Transcriptase Inhibitors"
+        ], 
+        "lastchanged_date": "April 2, 2008", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90211"
+                    }, 
+                    "name": "Pacific Oaks Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80262"
+                    }, 
+                    "name": "University of Colorado Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30308"
+                    }, 
+                    "name": "AIDS Research Consortium of Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern University Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush-Presbyterian-St. Luke's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "Cornell Clinical Trials Unit - Chelsea Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27516"
+                    }, 
+                    "name": "University of North Carolina at Chapel Hill"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Phase I/II Study of ABT-378/Ritonavir in Combination With Reverse Transcriptase Inhibitors in Antiretroviral Naive HIV-Infected Patients", 
+        "overall_official": {
+            "affiliation": "Abbott", 
+            "last_name": "George Hanna, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Proportion of subjects with viral load below the limit of quantitation", 
+                "safety_issue": "No", 
+                "time_frame": "24 weeks"
+            }, 
+            {
+                "measure": "Time to loss of virologic response", 
+                "safety_issue": "No", 
+                "time_frame": "48 weeks"
+            }
+        ], 
+        "reference": [
+            {
+                "citation": "Murphy R, King M, Brun S, Orth K, Hicks C, Eron J, Thommes J, Gulick R, Thompson M, White C, Benson C, Hammer S, Kessler H, Bertz R, Hsu A, Kempf D, Sun E, Japour A. ABT-378/ritonavir therapy in antiretroviral-naive HIV-I infected patients for 24 weeks. Conf Retroviruses Opportunistic Infect. 1999 Jan 31-Feb 4;6th:69 (abstract no 15)"
+            }, 
+            {
+                "PMID": "11192874", 
+                "citation": "Murphy RL, Brun S, Hicks C, Eron JJ, Gulick R, King M, White AC Jr, Benson C, Thompson M, Kessler HA, Hammer S, Bertz R, Hsu A, Japour A, Sun E. ABT-378/ritonavir plus stavudine and lamivudine for the treatment of antiretroviral-naive adults with HIV-1 infection: 48-week results. AIDS. 2001 Jan 5;15(1):F1-9."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00004578"
+        }, 
+        "responsible_party": {
+            "name_title": "George Hanna, MD, Anti-viral Global Project Head", 
+            "organization": "Abbott"
+        }, 
+        "secondary_outcome": {
+            "measure": "Proportion of subjects with viral load below the limit of quantitation at each visit", 
+            "safety_issue": "No", 
+            "time_frame": "At each visit"
+        }, 
+        "source": "Abbott", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Abbott", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 1997", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2008"
+    }, 
+    "geocoordinates": {
+        "AIDS Research Consortium of Atlanta": "33.749 -84.388", 
+        "Baylor College of Medicine": "29.76 -95.369", 
+        "Beth Israel Deaconess Medical Center": "42.358 -71.06", 
+        "Cornell Clinical Trials Unit - Chelsea Center": "40.714 -74.006", 
+        "Duke University Medical Center": "35.994 -78.899", 
+        "Northwestern University Medical School": "41.878 -87.63", 
+        "Pacific Oaks Research": "34.074 -118.4", 
+        "Rush-Presbyterian-St. Luke's Medical Center": "41.878 -87.63", 
+        "University of Colorado Health Sciences Center": "39.739 -104.985", 
+        "University of North Carolina at Chapel Hill": "35.913 -79.056"
+    }
+}

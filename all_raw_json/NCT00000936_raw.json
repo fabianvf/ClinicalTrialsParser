@@ -1,0 +1,177 @@
+{
+    "clinical_study": {
+        "@rank": "60596", 
+        "arm_group": [
+            {
+                "arm_group_label": "Induction", 
+                "arm_group_type": "Experimental", 
+                "description": "subjects receiving hOKT3 induction therapy"
+            }, 
+            {
+                "arm_group_label": "Induction Free Therapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients not receiving induction therapy"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Kidney transplantation is often successful.  However, despite aggressive anti-rejection drug\n      therapy, some patients will reject their new kidney. This study is designed to test two\n      anti-rejection approaches.  Two medications in this study are currently used in children,\n      but there is no information regarding which drug is safer or more effective.\n\n      Survival rates in renal transplantation are unacceptably low.  Therefore, there is a need\n      for an improved post-transplant treatment, such as the induction therapy used in this study."
+        }, 
+        "brief_title": "A Study To Test An Anti-Rejection Therapy After Kidney Transplantation", 
+        "completion_date": {
+            "#text": "March 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Kidney Transplantation", 
+        "detailed_description": {
+            "textblock": "Renal transplantation is recognized as the treatment of choice for children with chronic\n      renal failure. However, patient and graft survival rates in young children are unacceptably\n      low.  In preliminary studies, OKT3 (a monoclonal antibody) induction therapy received post\n      transplant has been more successful than standard immunosuppression alone in improving graft\n      survival. This study is designed to assess the impact of induction therapy on graft survival\n      in pediatric kidney transplant patients.\n\n      Patients are assigned to OKT3 induction or no induction in a 1:1 ratio. Randomization to\n      oral cyclosporine of either Sandimmune or Neoral is also done in a 1:1 ratio. Group 1\n      receives OKT3 intraoperatively followed by Neoral. Group 2 receives OKT3 intraoperatively\n      followed by Sandimmune. OKT3 is administered at 2.5 mg (if weight less than 30 kg) or 5 mg\n      (if weight above 30 kg) per day for a maximum of 14 days. Group 3 receives IV cyclosporine\n      followed by Neoral. Group 4 receives IV cyclosporine followed by Sandimmune. Oral\n      cyclosporine is administered in a masked preparation. The dose for Sandimmune and Neoral is\n      the same; patients 6 years of age and older begin at a dose of 15 mg/kg/day and patients\n      under 6 years of age receive 500 mg/m2/day. Patients will receive concomitant medications\n      including steroids (IV and po), Nifedipine, anti-CMV therapy, Bactrim, Azathioprine or\n      Mycophenolate Mofetil. Kidney function, incidence of viral infection, graft survival, and\n      incidence of malignancy will be measured to assess the role of OKT3 induction and the role\n      of rejection in graft failure. Graft function will be evaluated at 1-, 2-, and 4-year\n      intervals."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Children and young adults may be eligible for this study if they:\n\n          -  Are not yet 21 years of age.\n\n          -  Are receiving their first or second transplant.\n\n          -  Are not pregnant.\n\n          -  Agree to practice sexual abstinence or agree to use an effective\n\n          -  method of birth control/contraception during the study and\n\n          -  for 1 year after.\n\n        Exclusion Criteria\n\n        Children and young adults will not be eligible for this study if they:\n\n          -  Are recipients of multiple organs other than kidneys.\n\n          -  Are recipients of three or more transplants.\n\n          -  Are HIV positive.\n\n          -  Are Hepatitis B surface antigen positive."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "20 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "292", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000936", 
+            "org_study_id": "DAIT IN01/OLN-359"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Induction", 
+                "description": "Administered both during and after transplantation in IV form. Dosage determined by individual weight and given for a maximum of 14 days.", 
+                "intervention_name": "hOKT3", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Induction", 
+                    "Induction Free Therapy"
+                ], 
+                "description": "Administered orally  as either sandimmune or neoral at a dose determined by weight. Patients 6 years of age and older begin at a dose of 15 mg/kg/day and patients under 6 years of age receive 500 mg/m2/day, for the duration of the study.", 
+                "intervention_name": "Oral Cyclosporine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Induction Free Therapy", 
+                "description": "Administered intravenously (IV) both during and after transplantation at a dosage determined by individual age.", 
+                "intervention_name": "IV Cyclosporine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclosporins", 
+                "Cyclosporine"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "January 24, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rockville", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20850"
+                }, 
+                "name": "Ilene Blechman-Krom"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Controlled Trial of Induction Therapy in Renal Transplantation", 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_outcome": [
+            {
+                "measure": "To determine one-year graft function, as measured by graft survival and serum creatinine of children undregoing OKT3 induction versus no induction", 
+                "safety_issue": "No", 
+                "time_frame": "At 1 year"
+            }, 
+            {
+                "measure": "To compare the efficacy of Sandimmune and Neoral with respect to graft function", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000936"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Two and four-year graft functions", 
+                "safety_issue": "No", 
+                "time_frame": "At 2 and 4 years"
+            }, 
+            {
+                "measure": "Safety with respect to viral infections and malignancies in children undergoing a renal transplant", 
+                "safety_issue": "Yes", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Frequency and severity of rejection episodes", 
+                "safety_issue": "Yes", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Time to first rejection", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Length and frequency of hospitalization", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Nature of acute cellular rejection at a molecular level", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Nature of \"heightened immune respons\" of younger children by studying gene expression in surveillance biopsies", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Correlate intragraft events during rejection with cytokine profile in the peripheral blood", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }
+        ], 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "November 1999", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "Ilene Blechman-Krom": "39.084 -77.153"
+    }
+}

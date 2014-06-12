@@ -1,0 +1,136 @@
+{
+    "clinical_study": {
+        "@rank": "85886", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Naltrexone plus Sertraline"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Experimental", 
+                "description": "Naltrexone alone"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will assess the ability of naltrexone (Revia) to reduce the risk of relapse in\n      Alaska natives with alcohol dependence.  The study will also examine whether a combination\n      of naltrexone and sertraline (Zoloft) yields better abstinence rates than naltrexone used\n      alone.  Alaska Native individuals will be recruited into a 16 week outpatient study."
+        }, 
+        "brief_title": "Drug Therapy for Alcohol Dependence in Alaska Natives (Naltrexone/Sertraline)", 
+        "completion_date": {
+            "#text": "November 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Alcoholism", 
+            "Alcohol Dependence"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Alcoholism"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Alaska Native having biological Alaska Native ancestry.\n\n          -  Meets criteria for alcohol dependence.\n\n          -  Prior to entering the study must be abstinent between 3 and 14 days and have a\n             withdrawal assessment.\n\n          -  Stable residence to ensure that subjects can be located during the study.\n\n        Exclusion Criteria:\n\n          -  Currently meets criteria for abuse or dependence on substances other than alcohol or\n             nicotine.\n\n          -  Current use of disulfiram.\n\n          -  Psychotic or otherwise severely psychiatrically disabled.\n\n          -  Use of other psychotropic medications including antidepressants and anxiolytics.\n\n          -  Medical conditions that would not permit the use of sertraline or naltrexone, such as\n             a history of unstable or severe hepatic, cardiovascular, metabolic, endocrine,\n             gastrointestinal or kidney disease.\n\n          -  Hepatocellular disease or elevated bilirubin levels.\n\n          -  Females who are pregnant, nursing, or not using a reliable method of birth control.\n\n          -  Probation or parole requirements that might interfere with participation in the\n             study.\n\n          -  Involvement in alcohol treatment other than provided by the study or AA.\n\n          -  Use of monoamine oxidase inhibitors in the past month.\n\n          -  Current use of Type 1C antiarrhythmics propafenone and flecainide."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "198", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000451", 
+            "org_study_id": "NIAAAOMA12028", 
+            "secondary_id": "R01AA012028"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "2", 
+                "description": "16 week outpatient study", 
+                "intervention_name": "sertraline", 
+                "intervention_type": "Drug", 
+                "other_name": "Zoloft"
+            }, 
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "16 week outpatient study", 
+                "intervention_name": "naltrexone", 
+                "intervention_type": "Drug", 
+                "other_name": "Revia"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Naltrexone", 
+                "Sertraline"
+            ]
+        }, 
+        "keyword": [
+            "Alcoholism", 
+            "Alcohol Dependence"
+        ], 
+        "lastchanged_date": "January 28, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New Haven", 
+                    "country": "United States", 
+                    "state": "Connecticut"
+                }
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Naltrexone and SSRI Therapy for Alcohol Dependence in Alaska Natives", 
+        "overall_official": {
+            "affiliation": "Yale University", 
+            "last_name": "Dr. Stephanie O'Malley", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "August 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Days abstinent"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000451"
+        }, 
+        "source": "Yale University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Yale University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2003", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "null": "41.308 -72.928"
+    }
+}

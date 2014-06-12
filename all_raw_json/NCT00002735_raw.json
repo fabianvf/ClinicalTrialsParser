@@ -1,0 +1,375 @@
+{
+    "clinical_study": {
+        "@rank": "58923", 
+        "arm_group": {
+            "arm_group_label": "Treatment arm", 
+            "arm_group_type": "Experimental", 
+            "description": "induction chemotherapy followed by chemoradiation"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor\n      cells. Combining more than one chemotherapy drug with radiation therapy may kill more tumor\n      cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy and radiation\n      therapy in treating patients with stage III or stage IV cancer of the hypopharynx or tongue."
+        }, 
+        "brief_title": "SWOG-9451, Combination Chemo & RT For Patients With Stage III/Stage IV Cancer of the Hypopharynx or Tongue", 
+        "completion_date": {
+            "#text": "March 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": "Head and Neck Cancer", 
+        "condition_browse": {
+            "mesh_term": "Head and Neck Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the complete histologic response rate (which represents the rate of\n      organ preservation) to induction with cisplatin/fluorouracil followed by radiotherapy plus\n      cisplatin in patients with selected stage III/IV cancer of the hypopharynx or base of the\n      tongue. II. Evaluate the feasibility of accruing and treating patients with this regimen in\n      a multi-institutional setting. III. Determine the overall complete response rate in these\n      patients.\n\n      OUTLINE: This is a multicenter study. Patients are stratified according to center and tumor\n      site (hypopharynx vs base of tongue). Base of tongue stratum closed as of November 15, 1998.\n      Regimen A: Patients receive cisplatin IV over 90 minutes on days 1 and 22 and fluorouracil\n      IV over 120 minutes on days 1-5 and 22-26. Patients with measurable neck nodes discontinue\n      therapy if disease has progressed by day 22. All patients who achieve complete or partial\n      response at day 43 proceed to regimen B. All others proceed to resection followed by\n      radiotherapy (off study). Regimen B (begins within 3-4 weeks of start of second induction\n      course): Patients receive cisplatin IV over 90 minutes every 3 weeks for 3 courses.\n      Concurrently, patients receive radiotherapy 5 days a week for 5.6 weeks. Patients are\n      reassessed at 8-12 weeks after radiotherapy. Patients who are disease free are observed.\n      Other patients undergo surgical resection of nodes and/or primary tumor. Patients are\n      followed every 4-6 weeks for 1 year, every 2 months for 1 year, every 4 months for 2 years,\n      every 6 months for 1 year, then annually thereafter.\n\n      PROJECTED ACCRUAL: Up to 70 patients (35/tumor site) will be accrued for this study over 3.5\n      years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed squamous cell carcinoma of the\n        hypopharynx or base of the tongue that is newly diagnosed and considered resectable For\n        hypopharyngeal cancer, total laryngectomy would be required surgery Disease staged by\n        clinical exam, endoscopy, and CT or MRI Stage III that is T2-3 N0-1 M0 Stage IV that is\n        T2-3 N2-3 M0 Measurable or evaluable disease other than pleural effusion, ascites, or\n        disease documented by indirect evidence Closed to patients with cancer of the base of\n        tongue as of 11/15/1998\n\n        PATIENT CHARACTERISTICS: Age: Adult Performance status: SWOG 0 or 1 Hematopoietic: WBC at\n        least 3,000/mm3 Absolute neutrophil count at least 1,500/mm3 Platelet count at least\n        100,000/mm3 Hepatic: Bilirubin no greater than 2 times normal AST or ALT no greater than 3\n        times normal Renal: Creatinine no greater than 2 times normal Creatinine clearance at\n        least 60 mL/min Magnesium normal (supplementation allowed) Other: Average hearing loss in\n        both ears no greater than 40 dB in 50-2,000 Hz range No second malignancy within 5 years\n        except: Adequately treated nonmelanomatous skin cancer Carcinoma in situ of the cervix\n        Stage I/II cancer (other than head/neck) in complete remission Not pregnant or nursing\n        Effective contraception required of fertile patients\n\n        PRIOR CONCURRENT THERAPY: No prior therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "68", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002735", 
+            "org_study_id": "CDR0000064634", 
+            "secondary_id": [
+                "SWOG-9451", 
+                "U10CA032102"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment arm", 
+                "description": "Cisplatin and 5-Fluorouracil", 
+                "intervention_name": "Induction chemotherapy", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "platinol", 
+                    "5-FU"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment arm", 
+                "description": "Cisplatin 100 mg/m2 IV infusion over 90 minutes Day 1 every 21 days for 2 cycles.", 
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug", 
+                "other_name": "platinol"
+            }, 
+            {
+                "arm_group_label": "Treatment arm", 
+                "description": "5-Fluorouracil 1,000 mg/m2/day continuous IV infusion over 24 hours Days 1 through 5 every 21 days for 2 cycles.", 
+                "intervention_name": "fluorouracil", 
+                "intervention_type": "Drug", 
+                "other_name": "5-FU"
+            }, 
+            {
+                "arm_group_label": "Treatment arm", 
+                "description": "180 cGy per day, Days 1-5, every week for eight weeks", 
+                "intervention_name": "low-LET cobalt-60 gamma ray therapy", 
+                "intervention_type": "Radiation", 
+                "other_name": "RT"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cisplatin", 
+                "Fluorouracil"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage III squamous cell carcinoma of the oropharynx", 
+            "stage IV squamous cell carcinoma of the oropharynx", 
+            "stage III squamous cell carcinoma of the hypopharynx", 
+            "stage IV squamous cell carcinoma of the hypopharynx"
+        ], 
+        "lastchanged_date": "June 13, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033-0800"
+                    }, 
+                    "name": "USC/Norris Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80262"
+                    }, 
+                    "name": "University of Colorado Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "MBCCOP - LSU Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0752"
+                    }, 
+                    "name": "University of Michigan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48105"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Ann Arbor"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Barbara Ann Karmanos Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201-1932"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Detroit"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64128"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Kansas City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11209"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Brooklyn"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "Oklahoma Medical Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Oklahoma City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77555-1329"
+                    }, 
+                    "name": "University of Texas Medical Branch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76508"
+                    }, 
+                    "name": "CCOP - Scott and White Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76504"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Temple"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Induction Chemotherapy Followed By Chemoradiation For Organ Preservation In Patients With Advanced Resectable Cancer Of The Hypopharynx And Base Of Tongue, Phase II", 
+        "overall_official": {
+            "affiliation": "University of Michigan Cancer Center", 
+            "last_name": "Susan G. Urba, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Complete disappearance of all measurable and evaluable disease.  No new lesions, No disease related symptoms.  No evidence of non-evaluable disease, including normalization of markers and other abnormal lab values.  Specifically, the rate of organ preservation (no surgery required at the primary tumor site).", 
+            "measure": "Complete response", 
+            "safety_issue": "No", 
+            "time_frame": "23 to 27 weeks after beginning treatment"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002735"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "15625363", 
+                "citation": "Urba SG, Moon J, Giri PG, Adelstein DJ, Hanna E, Yoo GH, Leblanc M, Ensley JF, Schuller DE. Organ preservation for advanced resectable cancer of the base of tongue and hypopharynx: a Southwest Oncology Group Trial. J Clin Oncol. 2005 Jan 1;23(1):88-95."
+            }, 
+            {
+                "citation": "Urba S, Moon J, LeBlanc M, et al.: Induction chemotherapy followed by chemoradiation for organ preservation in patients (pts) with advanced resectable cancer of the base of tongue (BOT) and hypopharynx (HP): a Southwest Oncology Group trial. [Abstract] Proceedings of the American Society of Clinical Oncology 21: A-919, 2002."
+            }
+        ], 
+        "source": "Southwest Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Southwest Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 1996", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2012", 
+        "why_stopped": "Terminated due to poor accrual."
+    }, 
+    "geocoordinates": {
+        "Barbara Ann Karmanos Cancer Institute": "42.331 -83.046", 
+        "CCOP - Scott and White Hospital": "31.098 -97.343", 
+        "Cleveland Clinic Cancer Center": "41.499 -81.695", 
+        "Henry Ford Hospital": "42.331 -83.046", 
+        "MBCCOP - LSU Medical Center": "29.951 -90.072", 
+        "Oklahoma Medical Research Foundation": "35.468 -97.516", 
+        "USC/Norris Comprehensive Cancer Center": "34.052 -118.244", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of Colorado Cancer Center": "39.739 -104.985", 
+        "University of Kansas Medical Center": "39.114 -94.627", 
+        "University of Michigan Comprehensive Cancer Center": "42.281 -83.743", 
+        "University of Texas Medical Branch": "29.301 -94.798", 
+        "Veterans Affairs Medical Center - Ann Arbor": "42.281 -83.743", 
+        "Veterans Affairs Medical Center - Brooklyn": "40.653 -73.959", 
+        "Veterans Affairs Medical Center - Detroit": "42.331 -83.046", 
+        "Veterans Affairs Medical Center - Kansas City": "39.1 -94.579", 
+        "Veterans Affairs Medical Center - Oklahoma City": "35.468 -97.516", 
+        "Veterans Affairs Medical Center - Temple": "31.098 -97.343"
+    }
+}

@@ -1,0 +1,539 @@
+{
+    "clinical_study": {
+        "@rank": "38763", 
+        "acronym": "Preemie iNO", 
+        "arm_group": [
+            {
+                "arm_group_label": "Inhaled Nitric Oxide", 
+                "arm_group_type": "Experimental", 
+                "description": "Inhaled Nitric Oxide"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Inhaled Oxygen"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This multicenter trial tested whether inhaled nitric oxide would reduce death or the need\n      for oxygen in preterm infants (less than 34 weeks gestational age) with severe lung disease."
+        }, 
+        "brief_title": "Inhaled Nitric Oxide for Preterm Infants With Severe Respiratory Failure", 
+        "completion_date": {
+            "#text": "May 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Infant, Newborn", 
+            "Infant, Low Birth Weight", 
+            "Infant, Small for Gestational Age", 
+            "Infant, Premature", 
+            "Respiratory Distress Syndrome (RDS)", 
+            "Sepsis", 
+            "Pneumonia", 
+            "Hypertension, Pulmonary"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Birth Weight", 
+                "Hypertension", 
+                "Hypertension, Pulmonary", 
+                "Pneumonia", 
+                "Respiratory Distress Syndrome, Newborn", 
+                "Respiratory Distress Syndrome, Adult", 
+                "Sepsis", 
+                "Respiratory Insufficiency"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This multicenter, randomized, double-masked, controlled clinical trial evaluated the\n      efficacy of inhaled nitric oxide (iNO) in the treatment of the preterm infant with\n      respiratory failure secondary to respiratory distress syndrome (RDS), sepsis/pneumonia,\n      aspiration syndrome, idiopathic pulmonary hypertension and/or suspected pulmonary\n      hypoplasia.\n\n      Infants were followed until death or discharge to home. The trial compared iNO therapy to\n      mock gas delivery as the control, and otherwise incorporated conventional management\n      strategies (including treatment with surfactant and high frequency ventilation as adjuncts\n      to iNO therapy).\n\n      During the initial dosing, iNO was started at 5 ppm and could be increased to 10 ppm. If the\n      infant did not respond, study gas was discontinued. For infants who responded to study gas,\n      a gradual weaning was initiated. The total exposure to study gas did not exceed 336 hours\n      (14 days). Infants were monitored for signs of toxicity.\n\n      Medical and neurodevelopmental outcome of surviving infants were assessed at 18 to 22 months\n      corrected age by masked, certified examiners."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n          -  Any infant with a birth weight 401 - 1500 grams and < 34 weeks gestational age with\n             an OI (mean Paw x FiO2 x 100/PaO2) > 10 on two consecutive blood gases at least 30\n             minutes apart, but no more than 12 hours apart.\n\n        or\n\n          -  Infants > 1500 grams and < 34 weeks gestational age will be entered in the Larger\n             Preemie Pilot Study if they have an OI greater than or equal to 15 on two consecutive\n             blood gases at least 30 minutes apart, but no more than 12 hours apart.\n\n          -  Infants requiring assisted ventilation with a diagnosis of RDS/HMD, pneumonia and/or\n             sepsis, aspiration syndrome, idiopathic pulmonary hypertension, or suspected\n             pulmonary hypoplasia associated with PROM and/or oligohydramnios.\n\n          -  Greater than or equal to 4 hours after one dose of surfactant.\n\n          -  Less than or equal to 120 hours of age.\n\n          -  All infants must have an indwelling arterial line.\n\n        Exclusion Criteria\n\n          -  Any infant in whom a decision has been made not to provide full treatment (e.g.\n             chromosomal anomalies or severe birth asphyxia).\n\n          -  Known structural congenital heart disease, except patent ductus arteriosus and\n             atrial-level shunts.\n\n          -  Infants with any major abnormality involving the respiratory system such as\n             congenital diaphragmatic hernia, tracheoesophageal fistula or cystic fibrosis.\n\n          -  Any bleeding diathesis considered to be clinically significant or thrombocytopenia\n             with platelet count < 50,000.\n\n          -  Prior enrollment into a conflicting clinical trial such as the Neonatal Network\n             Surfactant CPAP trial.Inclusion Criteria"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "120 Hours", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "420", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 14, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00016523", 
+            "org_study_id": "NICHD-NRN-0026", 
+            "secondary_id": [
+                "U10HD034216", 
+                "M01RR000032", 
+                "U10HD027904", 
+                "U10HD027853", 
+                "M01RR008084", 
+                "U10HD027856", 
+                "M01RR000750", 
+                "U10HD021397", 
+                "M01RR016587", 
+                "U10HD027880", 
+                "M01RR000070", 
+                "U10HD040689", 
+                "M01RR000633", 
+                "U10HD021373", 
+                "U10HD021385", 
+                "U10HD027871", 
+                "M01RR006022", 
+                "U10HD040498", 
+                "M01RR007122", 
+                "U10HD040461", 
+                "U10HD040521", 
+                "M01RR000044"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Inhaled Nitric Oxide", 
+                "description": "Started at 5 ppm and could be increased to 10 ppm", 
+                "intervention_name": "Inhaled nitric oxide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "Started at 5 ppm and could be increased to 10 ppm", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Nitric Oxide"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "NICHD Neonatal Research Network", 
+            "Extremely Low Birth Weight (ELBW)", 
+            "Very Low Birth Weight (VLBW)", 
+            "Prematurity", 
+            "Inhaled nitric oxide", 
+            "Aspiration syndrome", 
+            "Idiopathic pulmonary hypertension", 
+            "Pulmonary hypoplasia"
+        ], 
+        "lastchanged_date": "January 10, 2011", 
+        "link": {
+            "description": "NICHD Neonatal Research Network", 
+            "url": "http://neonatal.rti.org"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "University of Alabama at Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Stanford University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103-8774"
+                    }, 
+                    "name": "University of California at San Diego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06504"
+                    }, 
+                    "name": "Yale University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32209"
+                    }, 
+                    "name": "University of Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "University of Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Indiana University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "University of Rochester"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27705"
+                    }, 
+                    "name": "RTI International"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45267"
+                    }, 
+                    "name": "Cincinnati Children's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02905"
+                    }, 
+                    "name": "Brown University, Women & Infants Hospital of Rhode Island"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "University of Texas Southwestern Medical Center at Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "University of Texas Health Science Center at Houston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Medical College of Wisconsin"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Inhaled Nitric Oxide for Preterm Infants With Severe Respiratory Failure", 
+        "overall_official": [
+            {
+                "affiliation": "Stanford University", 
+                "last_name": "Krisa P. Van Meurs, MD", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "University of Alabama at Birmingham", 
+                "last_name": "Waldemar A. Carlo, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Brown University, Women & Infants Hospital of Rhode Island", 
+                "last_name": "Abbot R. Laptook, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Children's Hospital Medical Center, Cincinnati", 
+                "last_name": "Edward F. Donovan, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Indiana University", 
+                "last_name": "James A. Lemons, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Miami", 
+                "last_name": "Shahnaz Duara, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Texas Southwestern Medical Center at Dallas", 
+                "last_name": "Charles R. Rosenfeld, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "The University of Texas Health Science Center, Houston", 
+                "last_name": "Jon E. Tyson, MD MPH", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Wayne State University", 
+                "last_name": "Seetha Shankaran, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Yale University", 
+                "last_name": "Richard A. Ehrenkranz, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Wake Forest School of Medicine", 
+                "last_name": "T. Michael O'Shea, MD MPH", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of California, San Diego", 
+                "last_name": "Neil N. Finer, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Rochester", 
+                "last_name": "Dale L. Phelps, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Florida", 
+                "last_name": "Mark L. Hudak, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Northwestern University", 
+                "last_name": "Robin H. Steinhorn, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Medical College of Wisconsin, Milwaukee", 
+                "last_name": "G. Ganesh Konduri, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Institutional Review Board", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "September 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Death or Bronchopulmonary Dysplasia", 
+            "safety_issue": "Yes", 
+            "time_frame": "At 36 weeks post-conceptional age"
+        }, 
+        "reference": {
+            "PMID": "14510322", 
+            "citation": "Sokol GM, Ehrenkranz RA. Inhaled nitric oxide therapy in neonatal hypoxic respiratory failure: insights beyond primary outcomes. Semin Perinatol. 2003 Aug;27(4):311-9. Review."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00016523"
+        }, 
+        "responsible_party": {
+            "name_title": "Krisa P. Van Meurs, MD, Lead Principal Investigator", 
+            "organization": "Stanford University"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "16000352", 
+                "citation": "Van Meurs KP, Wright LL, Ehrenkranz RA, Lemons JA, Ball MB, Poole WK, Perritt R, Higgins RD, Oh W, Hudak ML, Laptook AR, Shankaran S, Finer NN, Carlo WA, Kennedy KA, Fridriksson JH, Steinhorn RH, Sokol GM, Konduri GG, Aschner JL, Stoll BJ, D'Angio CT, Stevenson DK; Preemie Inhaled Nitric Oxide Study. Inhaled nitric oxide for premature infants with severe respiratory failure. N Engl J Med. 2005 Jul 7;353(1):13-22."
+            }, 
+            {
+                "PMID": "17443204", 
+                "citation": "Van Meurs KP, Hintz SR, Ehrenkranz RA, Lemons JA, Ball MB, Poole WK, Perritt R, Das A, Higgins RD, Stevenson DK. Inhaled nitric oxide in infants >1500 g and <34 weeks gestation with severe respiratory failure. J Perinatol. 2007 Jun;27(6):347-52. Epub 2007 Apr 19."
+            }, 
+            {
+                "PMID": "17517240", 
+                "citation": "Hintz SR, Slovis T, Bulas D, Van Meurs KP, Perritt R, Stevenson DK, Poole WK, Das A, Higgins RD; NICHD Neonatal Research Network. Interobserver reliability and accuracy of cranial ultrasound scanning interpretation in premature infants. J Pediatr. 2007 Jun;150(6):592-6, 596.e1-5."
+            }, 
+            {
+                "PMID": "17586184", 
+                "citation": "Hintz SR, Van Meurs KP, Perritt R, Poole WK, Das A, Stevenson DK, Ehrenkranz RA, Lemons JA, Vohr BR, Heyne R, Childers DO, Peralta-Carcelen M, Dusick A, Johnson YR, Morris B, Dillard R, Vaucher Y, Steichen J, Adams-Chapman I, Konduri G, Myers GJ, de Ungria M, Tyson JE, Higgins RD; NICHD Neonatal Research Network. Neurodevelopmental outcomes of premature infants with severe respiratory failure enrolled in a randomized controlled trial of inhaled nitric oxide. J Pediatr. 2007 Jul;151(1):16-22, 22.e1-3."
+            }, 
+            {
+                "PMID": "18337740", 
+                "citation": "Ambalavanan N, Van Meurs KP, Perritt R, Carlo WA, Ehrenkranz RA, Stevenson DK, Lemons JA, Poole WK, Higgins RD; NICHD Neonatal Research Network, Bethesda, MD. Predictors of death or bronchopulmonary dysplasia in preterm infants with respiratory failure. J Perinatol. 2008 Jun;28(6):420-6. Epub 2008 Mar 13."
+            }, 
+            {
+                "PMID": "19067285", 
+                "citation": "Chock VY, Van Meurs KP, Hintz SR, Ehrenkranz RA, Lemons JA, Kendrick DE, Stevenson DK; NICHD Neonatal Research Network. Inhaled nitric oxide for preterm premature rupture of membranes, oligohydramnios, and pulmonary hypoplasia. Am J Perinatol. 2009 Apr;26(4):317-22. Epub 2008 Dec 9."
+            }
+        ], 
+        "secondary_outcome": [
+            {
+                "measure": "Intraventricular Hemorrhage Grade III and IV", 
+                "safety_issue": "Yes", 
+                "time_frame": "At 36 weeks post-conceptional age"
+            }, 
+            {
+                "measure": "Days on assisted ventilation", 
+                "safety_issue": "No", 
+                "time_frame": "At 36 weeks post-conceptional age"
+            }, 
+            {
+                "measure": "Length of hospitalization", 
+                "safety_issue": "No", 
+                "time_frame": "At hospital discharge"
+            }, 
+            {
+                "measure": "Retinopathy of prematurity", 
+                "safety_issue": "Yes", 
+                "time_frame": "At hospital discharge"
+            }, 
+            {
+                "measure": "Air leaks", 
+                "safety_issue": "Yes", 
+                "time_frame": "At 36 weeks post-conceptual age"
+            }, 
+            {
+                "measure": "Days on oxygen", 
+                "safety_issue": "No", 
+                "time_frame": "At 36 weeks post-conceptual age"
+            }, 
+            {
+                "measure": "Supplemental oxygen", 
+                "safety_issue": "No", 
+                "time_frame": "At 36 weeks post-conceptual age"
+            }, 
+            {
+                "measure": "Neurodevelopmental outcome", 
+                "safety_issue": "No", 
+                "time_frame": "18-22 months corrected age"
+            }
+        ], 
+        "source": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Center for Research Resources (NCRR)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "January 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2010", 
+        "why_stopped": "Preliminary results showed increased intraventricular hemorrhage (IVH) in experimental arm"
+    }, 
+    "geocoordinates": {
+        "Brown University, Women & Infants Hospital of Rhode Island": "41.824 -71.413", 
+        "Cincinnati Children's Medical Center": "39.103 -84.512", 
+        "Indiana University": "39.769 -86.158", 
+        "Medical College of Wisconsin": "43.039 -87.906", 
+        "Northwestern University": "41.878 -87.63", 
+        "RTI International": "35.994 -78.899", 
+        "Stanford University": "37.442 -122.143", 
+        "University of Alabama at Birmingham": "33.521 -86.802", 
+        "University of California at San Diego": "32.715 -117.157", 
+        "University of Florida": "30.332 -81.656", 
+        "University of Miami": "25.789 -80.226", 
+        "University of Rochester": "43.161 -77.611", 
+        "University of Texas Health Science Center at Houston": "29.76 -95.369", 
+        "University of Texas Southwestern Medical Center at Dallas": "32.803 -96.77", 
+        "Wake Forest University": "35.227 -80.843", 
+        "Wayne State University": "42.331 -83.046", 
+        "Yale University": "41.308 -72.928"
+    }
+}

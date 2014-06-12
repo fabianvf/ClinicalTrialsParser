@@ -1,0 +1,522 @@
+{
+    "clinical_study": {
+        "@rank": "151618", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing\n      so they stop growing or die. Imatinib mesylate may stop the growth of cancer cells by\n      blocking the enzymes necessary for cancer cell growth.\n\n      PURPOSE: This phase II trial is studying giving imatinib mesylate together with cytarabine\n      to see how well it works in treating patients with chronic phase chronic myelogenous\n      leukemia."
+        }, 
+        "brief_title": "Imatinib Mesylate Plus Cytarabine in Treating Patients With Chronic Myelogenous Leukemia", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Cytarabine: Once daily subcutaneous injection of Ara-C (Cytarabine) at a dose of 20 mg (10 mg or 5 mg if they have been dose reduced) per square meter of calculated body surface area, on days 15-28 of each sequential 28 day cycle\nImatinib Mesylate: Once daily oral administration of STI571 (Imatinib Mesylate) at a dose of 400 mg for 12 months", 
+                        "title": "Cytarabine/ Imatinib Mesylate"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "24"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "21"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "3"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "10"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "14"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "24"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "Study was terminated, therefore the 12 month response data was not analyzed.", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Cytogenetic response is defined in terms of the percentage of Philadelphia (Ph) chromosome.  Major cytogenetic response is defined as 0-34% Ph-positive cells.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Cytarabine: Once daily subcutaneous injection of Ara-C (Cytarabine) at a dose of 20 mg (10 mg or 5 mg if they have been dose reduced) per square meter of calculated body surface area, on days 15-28 of each sequential 28 day cycle\nImatinib Mesylate: Once daily oral administration of STI571 (Imatinib Mesylate) at a dose of 400 mg for 12 months", 
+                                "title": "Cytarabine/ Imatinib Mesylate"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "24"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "5"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Cytogenetic response is defined in terms of the percentage of Philadelphia (Ph) chromosome.  Major cytogenetic response is defined as 0-34% Ph-positive cells.", 
+                                    "param": "Number", 
+                                    "title": "The Rate of Major Cytogenetic Response at 6 Months", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "6 months", 
+                        "title": "The Rate of Major Cytogenetic Response at 6 Months", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "6 months", 
+                        "title": "The Rate of Complete Cytogenetic Response at 6 Months", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "12 months", 
+                        "title": "The Rate of Complete and Major Cytogenetic Responses at 12 Months", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "6 and 12 months", 
+                        "title": "The Rate of Minor Cytogenetic Responses at 6 and 12 Months", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "6 and 12 months", 
+                        "title": "The Rate of Complete Hematologic Responses at 6 and 12 Months", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Cytarabine: Once daily subcutaneous injection of Ara-C (Cytarabine) at a dose of 20 mg (10 mg or 5 mg if they have been dose reduced) per square meter of calculated body surface area, on days 15-28 of each sequential 28 day cycle\nImatinib Mesylate: Once daily oral administration of STI571 (Imatinib Mesylate) at a dose of 400 mg for 12 months", 
+                        "title": "Cytarabine/ Imatinib Mesylate"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "24", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "24", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "drukerb@ohsu.edu", 
+                "name_or_title": "Dr. Brian Druker", 
+                "organization": "OHSU Knight Cancer Institute", 
+                "phone": "(503) 494 5596"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "Cytarabine: Once daily subcutaneous injection of Ara-C (Cytarabine) at a dose of 20 mg (10 mg or 5 mg if they have been dose reduced) per square meter of calculated body surface area, on days 15-28 of each sequential 28 day cycle\nImatinib Mesylate: Once daily oral administration of STI571 (Imatinib Mesylate) at a dose of 400 mg for 12 months", 
+                        "title": "Cytarabine/ Imatinib Mesylate"
+                    }
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "13", 
+                                            "@subjects_at_risk": "24"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "24"
+                                        }, 
+                                        "sub_title": "Diarrhea"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "24"
+                                        }, 
+                                        "sub_title": "Fatigue"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "24"
+                                        }, 
+                                        "sub_title": "Bone Pain"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "24"
+                                        }, 
+                                        "sub_title": "Hyperbilirubinemia"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "July 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the rate and duration of complete or major and minor cytogenetic responses\n           after 6 and 12 months of treatment in patients with chronic phase chronic myelogenous\n           leukemia treated with imatinib mesylate and cytarabine.\n\n        -  Determine the rate and duration of complete hematologic responses after 6 and 12 months\n           of treatment in patients treated with this regimen.\n\n        -  Determine the rate of molecular response in patients with a complete cytogenetic\n           response after 6 and 12 months of treatment with this regimen.\n\n        -  Determine the pharmacokinetics of this regimen in these patients.\n\n        -  Determine the safety of this regimen in these patients.\n\n      OUTLINE: This is a nonrandomized, open-label, multicenter study.\n\n      Patients receive oral imatinib mesylate on days 1-28 and cytarabine subcutaneously on days\n      15-28. Courses repeat every 28 days for 12 months in the absence of disease progression or\n      unacceptable toxicity.\n\n      Patients are followed for 30-60 days.\n\n      PROJECTED ACCRUAL: A total of 15 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Cytogenetically confirmed chronic phase chronic myelogenous leukemia (CML)\n\n               -  Less than 15% blasts in peripheral blood or bone marrow\n\n               -  Less than 30% blasts and promyelocytes in peripheral blood or bone marrow\n\n               -  Less than 20% basophils in blood or bone marrow\n\n               -  Platelet count at least 100,000/mm^3\n\n          -  Philadelphia chromosome positive\n\n          -  No more than 6 months since initial diagnosis\n\n          -  No presence of leukemia beyond the bone marrow, blood, liver, or spleen (i.e.,\n             chloroma)\n\n          -  Refused allogeneic stem cell transplantation as first-line therapy\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  Eastern Cooperative Oncology Group (ECOG) 0-2\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  See Disease Characteristics\n\n        Hepatic:\n\n          -  Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n\n          -  AST or ALT no greater than 2 times ULN\n\n        Renal:\n\n          -  Creatinine no greater than 1.5 times ULN\n\n        Cardiovascular:\n\n          -  No New York Heart Association class III or IV heart disease\n\n        Other:\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective barrier contraception during and for at least 3\n             months after study participation\n\n          -  No other serious uncontrolled medical condition\n\n          -  No history of noncompliance to medical regimens or potential unreliability\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  See Disease Characteristics\n\n          -  No prior biologic therapy for CML\n\n        Chemotherapy:\n\n          -  No prior chemotherapy for CML except hydroxyurea\n\n          -  Concurrent hydroxyurea to control blood counts during first 3 months of treatment\n             allowed\n\n          -  No other concurrent chemotherapy\n\n        Endocrine therapy:\n\n          -  No prior endocrine therapy for CML\n\n        Radiotherapy:\n\n          -  No prior radiotherapy for CML\n\n        Surgery:\n\n          -  Not specified\n\n        Other:\n\n          -  More than 28 days since prior investigational anticancer agents\n\n          -  Prior anagrelide hydrochloride for CML allowed\n\n          -  Concurrent anagrelide hydrochloride to control blood counts during first 3 months of\n             treatment allowed\n\n          -  No concurrent grapefruit juice or grapefruit"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "24", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 10, 2001", 
+        "firstreceived_results_date": "June 6, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00022490", 
+            "org_study_id": "CDR0000068822", 
+            "secondary_id": [
+                "OHSU-NCI-4653", 
+                "OHSU-1184", 
+                "OHSU-HEM-01017-LX", 
+                "NCI-4653"
+            ]
+        }, 
+        "intervention": [
+            {
+                "description": "Once daily subcutaneous injection of Ara-C (Cytarabine) at a dose of 20 mg (10 mg or 5 mg if they have been dose reduced) per square meter of calculated body surface area, on days 15-28 of each sequential 28 day cycle", 
+                "intervention_name": "cytarabine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Once daily oral administration of STI571 (Imatinib Mesylate) at a dose of 400 mg for 12 months.", 
+                "intervention_name": "imatinib mesylate", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cytarabine", 
+                "Imatinib"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "chronic phase chronic myelogenous leukemia", 
+            "Philadelphia chromosome positive chronic myelogenous leukemia"
+        ], 
+        "lastchanged_date": "June 6, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97239"
+                    }, 
+                    "name": "OHSU Knight Cancer Institute"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Study To Determine The Anti-Leukemic Effects Of STI571 In Combination With Ara-C In Patients With Chronic Myelogenous Leukemia In Chronic Phase", 
+        "overall_official": {
+            "affiliation": "OHSU Knight Cancer Institute", 
+            "last_name": "Brian J. Druker, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Cytogenetic response is defined in terms of the percentage of Philadelphia (Ph) chromosome.  Major cytogenetic response is defined as 0-34% Ph-positive cells.", 
+            "measure": "The Rate of Major Cytogenetic Response at 6 Months", 
+            "safety_issue": "No", 
+            "time_frame": "6 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00022490"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "The Rate of Complete Cytogenetic Response at 6 Months", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "measure": "The Rate of Complete and Major Cytogenetic Responses at 12 Months", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "measure": "The Rate of Minor Cytogenetic Responses at 6 and 12 Months", 
+                "safety_issue": "No", 
+                "time_frame": "6 and 12 months"
+            }, 
+            {
+                "measure": "The Rate of Complete Hematologic Responses at 6 and 12 Months", 
+                "safety_issue": "No", 
+                "time_frame": "6 and 12 months"
+            }
+        ], 
+        "source": "OHSU Knight Cancer Institute", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "OHSU Knight Cancer Institute", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2001", 
+        "study_design": "Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2012"
+    }, 
+    "geocoordinates": {
+        "Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute": "42.358 -71.06", 
+        "OHSU Knight Cancer Institute": "45.523 -122.676"
+    }
+}

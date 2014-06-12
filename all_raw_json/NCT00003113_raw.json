@@ -1,0 +1,200 @@
+{
+    "clinical_study": {
+        "@rank": "21924", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one drug and giving the drugs in different\n      ways may kill more tumor cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of oral combination chemotherapy and\n      G-CSF in elderly patients with intermediate- or high-grade non-Hodgkin's lymphomas."
+        }, 
+        "brief_title": "Oral Combination Chemotherapy in Treating Elderly Patients With Intermediate or High-Grade Non-Hodgkin's Lymphomas", 
+        "completion_date": {
+            "#text": "December 2002", 
+            "@type": "Actual"
+        }, 
+        "condition": "Lymphoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lymphoma", 
+                "Lymphoma, Non-Hodgkin", 
+                "Lymphoma, Large-Cell, Immunoblastic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Assess the feasibility and toxicity of oral combination chemotherapy with granulocyte\n           colony-stimulating factor in elderly patients with intermediate and high grade\n           non-Hodgkin's lymphoma.\n\n        -  Determine the objective response rate, response duration, and survival in this patient\n           population.\n\n      OUTLINE: All patients receive one cycle of oral chemotherapy, 6 weeks in duration. Etoposide\n      is given on days 1-3 and cyclophosphamide and procarbazine are given on days 22-31 of each\n      cycle. Lomustine is given on day 1 of cycles 1 and 3 only. Filgrastim (granulocyte\n      colony-stimulating factor; G-CSF) is given subcutaneously on days 5-21 and 33-42 of each\n      cycle.\n\n      Patients who have disease progression after one cycle of therapy or at any time thereafter\n      are taken off the study. Patients with a complete response after 1 cycle of therapy receive\n      2 additional cycles of chemotherapy and are observed off treatment. Patients with a partial\n      response (PR) also receive 2 additional cycles of chemotherapy. Following the third cycle of\n      chemotherapy, if residual disease is confined to 1 or 2 nodal sites, patients receive\n      radiation therapy. All other patients with a PR are treated at investigator's discretion.\n\n      Patients are followed every 3 months until death.\n\n      PROJECTED ACCRUAL: A maximum of 32 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Biopsy proven stage I through IV intermediate to high grade non-Hodgkin's lymphoma of\n             B-cell, T-cell, or indeterminate immunologic phenotype\n\n          -  Measurable or evaluable\n\n          -  No cytologic or radiographic evidence of CNS lymphoma\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  60 and over\n\n        Performance status:\n\n          -  ECOG 0-3\n\n        Life expectancy:\n\n          -  At least 6 weeks\n\n        Hematopoietic:\n\n          -  WBC at least 1500/mm3\n\n          -  Platelet count at least 50,000/mm3\n\n        Hepatic:\n\n          -  Bilirubin no greater than 3.0 mg/dL\n\n        Renal:\n\n          -  Creatinine no greater than 3.0 mg/dL\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  No prior chemotherapy\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  Prior radiotherapy allowed for localized stage I or II disease that has progressed\n             beyond initial radiotherapy ports\n\n        Surgery:\n\n          -  Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "60 Years"
+        }, 
+        "enrollment": {
+            "#text": "6", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003113", 
+            "org_study_id": "CWRU4496", 
+            "secondary_id": [
+                "P30CA043703", 
+                "CWRU-4496", 
+                "AMC-1C-93", 
+                "NCI-G97-1350"
+            ]
+        }, 
+        "intervention": [
+            {
+                "description": "Filgrastim (granulocyte colony-stimulating factor; G-CSF) is given subcutaneously on days 5-21 and 33-42 of each cycle.", 
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "description": "Cyclophosphamide are given on days 22-31 of each cycle.", 
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Etoposide is given on days 1-3.", 
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Lomustine is given on day 1 of cycles 1 and 3 only.", 
+                "intervention_name": "lomustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Procarbazine are given on days 22-31 of each cycle.", 
+                "intervention_name": "procarbazine hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Following the third cycle of chemotherapy, if residual disease is confined to 1 or 2 nodal sites, patients receive radiation therapy.", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclophosphamide", 
+                "Lomustine", 
+                "Etoposide phosphate", 
+                "Etoposide", 
+                "Procarbazine", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage I grade 3 follicular lymphoma", 
+            "stage I adult diffuse small cleaved cell lymphoma", 
+            "stage I adult diffuse mixed cell lymphoma", 
+            "stage I adult diffuse large cell lymphoma", 
+            "stage I adult immunoblastic large cell lymphoma", 
+            "stage I adult lymphoblastic lymphoma", 
+            "stage I adult Burkitt lymphoma", 
+            "stage III grade 3 follicular lymphoma", 
+            "stage III adult diffuse small cleaved cell lymphoma", 
+            "stage III adult diffuse mixed cell lymphoma", 
+            "stage III adult diffuse large cell lymphoma", 
+            "stage III adult immunoblastic large cell lymphoma", 
+            "stage III adult lymphoblastic lymphoma", 
+            "stage III adult Burkitt lymphoma", 
+            "stage IV grade 3 follicular lymphoma", 
+            "stage IV adult diffuse small cleaved cell lymphoma", 
+            "stage IV adult diffuse mixed cell lymphoma", 
+            "stage IV adult diffuse large cell lymphoma", 
+            "stage IV adult immunoblastic large cell lymphoma", 
+            "stage IV adult lymphoblastic lymphoma", 
+            "stage IV adult Burkitt lymphoma", 
+            "stage I mantle cell lymphoma", 
+            "contiguous stage II grade 3 follicular lymphoma", 
+            "contiguous stage II adult diffuse small cleaved cell lymphoma", 
+            "contiguous stage II mantle cell lymphoma", 
+            "contiguous stage II adult diffuse mixed cell lymphoma", 
+            "contiguous stage II adult immunoblastic large cell lymphoma", 
+            "contiguous stage II adult diffuse large cell lymphoma", 
+            "contiguous stage II adult Burkitt lymphoma", 
+            "contiguous stage II adult lymphoblastic lymphoma", 
+            "noncontiguous stage II grade 3 follicular lymphoma", 
+            "noncontiguous stage II adult diffuse small cleaved cell lymphoma", 
+            "noncontiguous stage II mantle cell lymphoma", 
+            "noncontiguous stage II adult diffuse mixed cell lymphoma", 
+            "noncontiguous stage II adult immunoblastic large cell lymphoma", 
+            "noncontiguous stage II adult diffuse large cell lymphoma", 
+            "noncontiguous stage II adult Burkitt lymphoma", 
+            "noncontiguous stage II adult lymphoblastic lymphoma", 
+            "stage III mantle cell lymphoma", 
+            "stage IV mantle cell lymphoma", 
+            "stage II mantle cell lymphoma"
+        ], 
+        "lastchanged_date": "January 13, 2011", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Cleveland", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "44106-5065"
+                }, 
+                "name": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Oral Combination Chemotherapy in Conjunction With G-CSF in the Treatment of Elderly Patients With Intermediate and High Grade Non-Hodgkin's Lymphoma", 
+        "overall_official": {
+            "affiliation": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center", 
+            "last_name": "Scot C. Remick, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2002", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "study the effectiveness of oral combination chemotherapy and G-CSF in elderly patients with intermediate- or high-grade non-Hodgkin's lymphomas.", 
+            "safety_issue": "No", 
+            "time_frame": "Patients receive one cycle of oral chemotherapy, 6 weeks in duration. Patients with a CR or PR response after 1 cycle of therapy receive 2 additional cycles of chemotherapy."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003113"
+        }, 
+        "responsible_party": {
+            "name_title": "Scot C. Remick, MD", 
+            "organization": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center"
+        }, 
+        "source": "Case Comprehensive Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Case Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 1997", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2011"
+    }, 
+    "geocoordinates": {
+        "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center": "41.499 -81.695"
+    }
+}

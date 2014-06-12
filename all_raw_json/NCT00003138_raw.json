@@ -1,0 +1,2922 @@
+{
+    "clinical_study": {
+        "@rank": "64038", 
+        "arm_group": [
+            {
+                "arm_group_label": "Supportive Care", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm."
+            }, 
+            {
+                "arm_group_label": "Erythropoietin", 
+                "arm_group_type": "Experimental", 
+                "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day.  If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Erythropoietin and colony-stimulating factors such as filgrastim stimulate the\n      production of blood cells. It is not yet known whether erythropoietin with or without\n      filgrastim is more effective than standard blood transfusions in reducing the need for\n      transfusions in patients who have anemia associated with myelodysplastic syndrome.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of erythropoietin with or\n      without filgrastim with that of standard blood transfusions in reducing the need for\n      transfusions in patients who have anemia associated with myelodysplastic syndrome."
+        }, 
+        "brief_title": "Erythropoietin (EPO)+/- Filgrastim (G-CSF) vs. Supportive Therapy Alone for Patients With Myelodysplastic Syndromes", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm.", 
+                            "title": "Supportive Care"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day.  If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim.", 
+                            "title": "Erythropoietin"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "57"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "110"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "7"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "17"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "50"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "43"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "93"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "20"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "41"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "36"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "33"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "69"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "All patients with complete data are included."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Whether a patient required transfusion or not at 4 months was recorded.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm.", 
+                                    "title": "Supportive Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day.  If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim.", 
+                                    "title": "Erythropoietin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "37"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "42"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.295", 
+                                                        "@upper_limit": "0.631", 
+                                                        "@value": "0.459"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.554", 
+                                                        "@upper_limit": "0.843", 
+                                                        "@value": "0.714"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Whether a patient required transfusion or not at 4 months was recorded.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Proportion of Patients Free of Transfusion at 4 Months", 
+                                    "units": "Proportion of patients"
+                                }
+                            ]
+                        }, 
+                        "population": "Only patients with transfusion data were included in this analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed at 4 months", 
+                        "title": "Proportion of Patients Free of Transfusion at 4 Months", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Time from randomization to death from any cause.  Patients alive at the time of analysis were censored at the date of last contact.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm.", 
+                                    "title": "Supportive Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day.  If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim.", 
+                                    "title": "Erythropoietin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "57"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "53"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "23.5", 
+                                                        "@upper_limit": "48.0", 
+                                                        "@value": "31"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "24.4", 
+                                                        "@upper_limit": "40.8", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time from randomization to death from any cause.  Patients alive at the time of analysis were censored at the date of last contact.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Median", 
+                                    "title": "Overall Survival", 
+                                    "units": "Months"
+                                }
+                            ]
+                        }, 
+                        "population": "All patients with complete data were included in this analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed every 3 months for 2 years, every 6 months for 3 subsequent years, and annually thereafter", 
+                        "title": "Overall Survival", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The FACT-G scale has 4 dimensions, including physical well-being, social/family well-being, emotional well-being, and functional well-being. The score for each subscale was added together to obtain the total FACT-G score that was evaluated on this study. The total FACT-G score ranges from 0 to 108 with higher scores reflecting better quality of life. It was administered at the time of study entry, every 4 months for the first year, and at the time patient went off treatment. Due to limited data after 4 months on treatment, the analysis was restricted to the four-month time point.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm.", 
+                                    "title": "Supportive Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day.  If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim.", 
+                                    "title": "Erythropoietin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "42"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "42"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "15.77", 
+                                                        "@value": "84.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "14.75", 
+                                                        "@value": "84.33"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The FACT-G scale has 4 dimensions, including physical well-being, social/family well-being, emotional well-being, and functional well-being. The score for each subscale was added together to obtain the total FACT-G score that was evaluated on this study. The total FACT-G score ranges from 0 to 108 with higher scores reflecting better quality of life. It was administered at the time of study entry, every 4 months for the first year, and at the time patient went off treatment. Due to limited data after 4 months on treatment, the analysis was restricted to the four-month time point.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Quality of Life- Total Functional Assessment of Cancer Therapy - General (FACT-G) Score at 4 Months", 
+                                    "units": "Scores on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "Only patients who completed quality of life assessment at 4 months were included in this analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed at 4 months", 
+                        "title": "Quality of Life- Total Functional Assessment of Cancer Therapy - General (FACT-G) Score at 4 Months", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm.", 
+                            "title": "Supportive Care"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day.  If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim.", 
+                            "title": "Erythropoietin"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "60", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "57", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Reasons off treatment not documented"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Never started treatment"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "61", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "57", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "57", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "53", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Patients With Complete Data"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "56", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "53", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Treated"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "52", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "50", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Eligible and Treated"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "42", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "42", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Patients With QOL Data at 4 Months"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "37", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "42", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Patients With Transfusion Data"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "61", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "57", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Step 1"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "26", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Reasons off treatment not documented"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "26", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "#text": "Only patients in the supportive care arm are eligible to cross over to the Erythropoietin arm.", 
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "26", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Step 2 (Cross Over)"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "12", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Off treatment reasons not documented"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Never started treatment"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "12", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "12", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Treated"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "12", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Step 3 (EPO 150 Units/kg and G-CSF)"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "6", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "7", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Off treatment reasons not documented"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Step 4 (EPO 300 Units/kg and G-CSF)"
+                        }
+                    ]
+                }, 
+                "recruitment_details": "This study was activated on December 9, 1997 and closed on June 1, 2004. A total of 118 patients were enrolled (110 ECOG patients and 8 Canadian Leukemia Study Group [CLSG] patients)."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "Study Statistician", 
+                "organization": "ECOG Statistical Office", 
+                "phone": "617-632-3012"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Patients received red cell and platelet transfusions for symptoms or to maintain hematocrit at or above 25% by volume. Patients who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm.", 
+                            "title": "Supportive Care (Step 1)"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Erythropoietin was administered at 150 units/kg subcutaneously every day. If patients stopped responding, they were subsequently treated with Erythropoietin (150 units/kg) and filgrastim and then Erythropoietin (300 units/kg) and filgrastim.", 
+                            "title": "Erythropoietin (Step 1)"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "Patients in the supportive care arm who required transfusion support for symptomatic anemia prior to entering the study and who developed an increase in their transfusion requirement of >= 50% shall cross over to the Erythropoietin treatment arm, after at least four months on the supportive therapy arm. Erythropoietin was administered at 150 units/kg subcutaneously every day.", 
+                            "title": "Erythropoietin (Cross-over; Step 2)"
+                        }, 
+                        {
+                            "@group_id": "E4", 
+                            "description": "All patients received erythropoietin alone treatment may, at progression or at stable disease with continued transfusion requirement following 4 months of therapy, add filgrastim.", 
+                            "title": "Erythropoietin (150 Units/kg) and Filgrastim (Step 3)"
+                        }, 
+                        {
+                            "@group_id": "E5", 
+                            "description": "All patients received erythropoietin (150 units/kg) and filgrastim may, at progression or at stable disease with continued transfusion requirement following 4 months of therapy, increased their dose of erythropoietin to 300 units/kg.", 
+                            "title": "Erythropoietin (300 Units/kg) and Filgrastim (Step 4)"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "28", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "18", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemorrhage"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac adverse event"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Stomatitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Liver"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Epigastric distress"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal cramps"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Esophagitis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "12", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Fever w/o infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Infection"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Weight loss"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Anorexia"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Myalgia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy-sensory"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "11", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy-clinical"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy-psych"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "GU adverse event"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Pulmonary"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Skin"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Hot flashes"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (Unspecified)", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemorrhage"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Coagulation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac adverse event"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Liver"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Esophagitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Fever w/o infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Other toxicities"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Infection"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Metabolic"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Neuropathy-sensory"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "GU adverse event"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "53"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "31"
+                                            }, 
+                                            {
+                                                "@group_id": "E5", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "13"
+                                            }
+                                        ], 
+                                        "sub_title": "Impotence"
+                                    }
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypertension"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "56"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "53"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "E5", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "13"
+                                                }
+                                            ], 
+                                            "sub_title": "Phlebitis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (Unspecified)"
+                }, 
+                "time_frame": "Adverse events were reported within 10 days of any reportable events specified in the protocol while on treatment and for 30 days after the end of treatment."
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Anemia", 
+            "Myelodysplastic Syndromes"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Anemia", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Compare the benefit of erythropoietin vs standard transfusion support in reducing\n           transfusion requirements in patients with myelodysplastic syndromes.\n\n        -  Compare the clinical response, disease progression, and survival in patients treated\n           with these regimens.\n\n        -  Compare the toxicity of these regimens in these patients.\n\n        -  Evaluate whether adding filgrastim (G-CSF) or increasing the erythropoietin dose will\n           reduce the transfusion requirement in patients who do not respond to erythropoietin\n           alone.\n\n        -  To compare the benefit of erythropoietin versus supportive care alone on quality of\n           life (QOL) in persons with myelodysplastic syndromes.\n\n      OUTLINE: This is a randomized, controlled, multicenter, cross-over study. Patients are\n      stratified according to morphologic subtype (refractory anemia [RA] vs RA with ringed\n      sideroblasts vs RA with excess blasts), transfusion requirement (yes vs no), prior\n      erythropoietin treatment (yes vs no), and erythropoietin level (at least 200 mU/mL vs less\n      than 200 mU/mL). Patients are randomized to one of two treatment arms.\n\n        -  Arm I (standard transfusion support): Patients receive red cell and platelet\n           transfusions for symptoms or to maintain hematocrit level of 25% or above. Patients\n           undergo bone marrow aspirate and biopsy at 4 months and then every year until\n           development of acute leukemia or completion of study. Patients with progressive disease\n           may cross over to arm II after at least 4 months on study and up to 1 year from the\n           time of randomization. Patients who cross over receive erythropoietin alone.\n\n        -  Arm II (Erythropoietin): Patients receive erythropoietin subcutaneously (SC) or\n           intravenously (IV) daily. Patients undergo bone marrow aspirate and biopsy as in arm I.\n           Treatment continues daily for a maximum of 1 year.\n\n      Patients with stable or progressive disease at day 120 receive filgrastim (G-CSF) SC daily\n      or 3 days a week and erythropoietin SC daily for up to 6 months. Patients with no response\n      to G-CSF and lower-dose erythropoietin may proceed to a higher dose of erythropoietin.\n\n      Quality of life is assessed at baseline, every 4 months during study, and at study\n      completion.\n\n      Patients are followed every 4 months for 2 years, every 6 months for 3 years, and then\n      annually for 5 years.\n\n      ACTUAL ACCRUAL: A total of 118 patients were accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  At least 18 years of age\n\n          -  Diagnosis of a myelodysplastic syndrome\n\n          -  Refractory anemia (RA)\n\n          -  RA with ringed sideroblasts\n\n          -  RA with excess blasts (RAEB).  RAEB patients must have a bone marrow blast count of\n             less than 20% and less than 5% blast forms on peripheral blood\n\n          -  Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 3\n\n          -  Platelet count greater than 30,000/mm^3 (without platelet transfusions)\n\n          -  Hematocrit less than 30% (pretransfusion)\n\n          -  Bilirubin less than 3 mg/dL\n\n          -  Blood urea nitrogen (BUN) less than 40 mg/dL or Creatinine less than 2.0 mg/dL\n\n          -  Prior epoetin alfa allowed provided dosage was less than 30,000 units per week for\n             less than 1 month duration\n\n          -  At least 1 month since prior erythropoietin\n\n          -  At least 2 months since prior recombinant growth factor\n\n          -  At least 2 months since prior chemotherapy for other malignancy or autoimmune disease\n\n          -  At least 2 weeks since prior androgen or steroids for treatment of myelodysplastic\n             syndromes\n\n        Exclusion Criteria:\n\n          -  RAEB in transformation\n\n          -  Chronic myelomonocytic leukemia\n\n          -  Splenomegaly greater than 6 cm below the left costal margin or greater than 3 times\n             normal size\n\n          -  Uncontrolled hypertension\n\n          -  Sensitivity to E. coli-derived proteins\n\n          -  Sensitivity to epoetin alfa or any of its components (e.g., human albumin)\n\n          -  Documented iron deficiency.  If marrow iron stain is not available, the transferrin\n             saturation must be greater than 20% or ferritin greater than 100 ng/dL\n\n          -  Active infection or bleeding\n\n          -  Other uncontrolled malignancy\n\n          -  Pregnant or nursing.  Fertile patients must use effective contraception."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "118", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "firstreceived_results_date": "September 11, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003138", 
+            "org_study_id": "CDR0000065907", 
+            "secondary_id": [
+                "E1996", 
+                "U10CA021115"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Erythropoietin", 
+                "description": "Administered at 150 units/kg subcutaneously every day.  Rotating sites should be used.  The dose should be rounded off to the nearest 1000 U.  The dose should be adjusted based on hematocrit.", 
+                "intervention_name": "Erythropoietin", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "r-HuEPO", 
+                    "EPO"
+                ]
+            }, 
+            {
+                "arm_group_label": "Erythropoietin", 
+                "description": "G-CSF should start at a dose of 1 mcg/kg per day or 2.5 mcg/kg three times a week subcutaneously.  Rotating sites should be used  The dose should be rounded off to the nearest 10 mcg.", 
+                "intervention_name": "Filgrastim", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "G-CSF", 
+                    "Neupogen", 
+                    "Recombinant-methionyl human granulocyte colony-stimulating factor", 
+                    "Granulocyte colony-stimulating factor", 
+                    "r-methHuG-CSF"
+                ]
+            }, 
+            {
+                "arm_group_label": "Supportive Care", 
+                "description": "Red cell and platelet transfusions", 
+                "intervention_name": "Transfusion", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Epoetin Alfa", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "anemia", 
+            "refractory anemia", 
+            "myelodysplastic syndromes", 
+            "erythropoietin", 
+            "filgrastim"
+        ], 
+        "lastchanged_date": "November 13, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/ECOG-1996"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80224"
+                    }, 
+                    "name": "CCOP - Colorado Cancer Research Program, Incorporated"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Robert H. Lurie Comprehensive Cancer Center at Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611-4494"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Lakeside Chicago"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Peoria", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61602"
+                    }, 
+                    "name": "CCOP - Illinois Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cedar Rapids", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52403-1206"
+                    }, 
+                    "name": "CCOP - Cedar Rapids Oncology Project"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50309-1016"
+                    }, 
+                    "name": "CCOP - Iowa Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "MBCCOP - LSU Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }, 
+                    "name": "Tufts - New England Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48106"
+                    }, 
+                    "name": "CCOP - Michigan Cancer Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007-3731"
+                    }, 
+                    "name": "CCOP - Kalamazoo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007"
+                    }, 
+                    "name": "West Michigan Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "CCOP - Metro-Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68106"
+                    }, 
+                    "name": "CCOP - Missouri Valley Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89106"
+                    }, 
+                    "name": "CCOP - Southern Nevada Cancer Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Orange", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07019"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - East Orange"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "CCOP - Northern New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08903"
+                    }, 
+                    "name": "Cancer Institute of New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "NYU School of Medicine's Kaplan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fargo", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58122"
+                    }, 
+                    "name": "CCOP - Merit Care Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109"
+                    }, 
+                    "name": "MetroHealth's Cancer Care Center at MetroHealth Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43206"
+                    }, 
+                    "name": "CCOP - Columbus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Danville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17822-2001"
+                    }, 
+                    "name": "CCOP - Geisinger Clinic and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57104"
+                    }, 
+                    "name": "CCOP - Sioux Community Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76508"
+                    }, 
+                    "name": "CCOP - Scott and White Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54307-3453"
+                    }, 
+                    "name": "CCOP - St. Vincent Hospital Cancer Center, Green Bay"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marshfield", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54449"
+                    }, 
+                    "name": "CCOP - Marshfield Clinic Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226-3596"
+                    }, 
+                    "name": "Medical College of Wisconsin Cancer Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Phase III Evaluation of EPO With or Without G-CSF Versus Supportive Therapy Alone in the Treatment of Myelodysplastic Syndromes", 
+        "overall_official": {
+            "affiliation": "Beth Israel Deaconess Medical Center", 
+            "last_name": "Kenneth B. Miller, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "August 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Whether a patient required transfusion or not at 4 months was recorded.", 
+            "measure": "Proportion of Patients Free of Transfusion at 4 Months", 
+            "safety_issue": "No", 
+            "time_frame": "Assessed at 4 months"
+        }, 
+        "reference": {
+            "citation": "Dewald G, Hicks G, Higgins RR, et al.: Comparison of interphase fish and metaphase cytogenetics to study myelodysplasia: an Eastern Cooperative Oncology Group (ECOG) study. [Abstract] Blood 96 (11 Pt 1): A-635, 148a, 2000."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003138"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "19564636", 
+                "citation": "Greenberg PL, Sun Z, Miller KB, Bennett JM, Tallman MS, Dewald G, Paietta E, van der Jagt R, Houston J, Thomas ML, Cella D, Rowe JM. Treatment of myelodysplastic syndromes patients with erythropoietin with or without granulocyte colony-stimulating factor: results of a prospective randomized phase III trial by the Eastern Cooperative Oncology Group (E1996). Blood. 2009 Jun 29; [Epub ahead of print]"
+            }, 
+            {
+                "citation": "Miller KB, Kim HT, Greenberg P, et al.: Phase III prospective randomized trial of EPO with or without G-CSF versus supportive therapy alone in the treatment of myelodysplastic syndromes (MDS): results of the ECOG- CLSG trial (E1996). [Abstract] Blood 104 (11): A-70, 2004."
+            }
+        ], 
+        "secondary_outcome": [
+            {
+                "description": "Time from randomization to death from any cause.  Patients alive at the time of analysis were censored at the date of last contact.", 
+                "measure": "Overall Survival", 
+                "safety_issue": "No", 
+                "time_frame": "Assessed every 3 months for 2 years, every 6 months for 3 subsequent years, and annually thereafter"
+            }, 
+            {
+                "description": "The FACT-G scale has 4 dimensions, including physical well-being, social/family well-being, emotional well-being, and functional well-being. The score for each subscale was added together to obtain the total FACT-G score that was evaluated on this study. The total FACT-G score ranges from 0 to 108 with higher scores reflecting better quality of life. It was administered at the time of study entry, every 4 months for the first year, and at the time patient went off treatment. Due to limited data after 4 months on treatment, the analysis was restricted to the four-month time point.", 
+                "measure": "Quality of Life- Total Functional Assessment of Cancer Therapy - General (FACT-G) Score at 4 Months", 
+                "safety_issue": "No", 
+                "time_frame": "Assessed at 4 months"
+            }
+        ], 
+        "source": "Eastern Cooperative Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Eastern Cooperative Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1997", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }, 
+    "geocoordinates": {
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Cedar Rapids Oncology Project": "41.978 -91.666", 
+        "CCOP - Colorado Cancer Research Program, Incorporated": "39.739 -104.985", 
+        "CCOP - Columbus": "39.961 -82.999", 
+        "CCOP - Geisinger Clinic and Medical Center": "40.963 -76.613", 
+        "CCOP - Illinois Oncology Research Association": "40.694 -89.589", 
+        "CCOP - Iowa Oncology Research Association": "41.601 -93.609", 
+        "CCOP - Kalamazoo": "42.292 -85.587", 
+        "CCOP - Marshfield Clinic Research Foundation": "44.669 -90.172", 
+        "CCOP - Merit Care Hospital": "46.877 -96.79", 
+        "CCOP - Metro-Minnesota": "44.96 -93.37", 
+        "CCOP - Michigan Cancer Research Consortium": "42.281 -83.743", 
+        "CCOP - Missouri Valley Cancer Consortium": "41.252 -95.998", 
+        "CCOP - Northern New Jersey": "40.886 -74.043", 
+        "CCOP - Scott and White Hospital": "31.098 -97.343", 
+        "CCOP - Sioux Community Cancer Consortium": "43.55 -96.7", 
+        "CCOP - Southern Nevada Cancer Research Foundation": "36.115 -115.173", 
+        "CCOP - St. Vincent Hospital Cancer Center, Green Bay": "44.519 -88.02", 
+        "Cancer Institute of New Jersey": "40.486 -74.452", 
+        "MBCCOP - LSU Health Sciences Center": "29.951 -90.072", 
+        "Medical College of Wisconsin Cancer Center": "43.039 -87.906", 
+        "MetroHealth's Cancer Care Center at MetroHealth Medical Center": "41.499 -81.695", 
+        "NYU School of Medicine's Kaplan Comprehensive Cancer Center": "40.714 -74.006", 
+        "Robert H. Lurie Comprehensive Cancer Center at Northwestern University": "41.878 -87.63", 
+        "Tufts - New England Medical Center": "42.358 -71.06", 
+        "Veterans Affairs Medical Center - East Orange": "40.767 -74.205", 
+        "Veterans Affairs Medical Center - Lakeside Chicago": "41.878 -87.63", 
+        "West Michigan Cancer Center": "42.292 -85.587"
+    }
+}

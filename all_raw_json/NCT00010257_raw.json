@@ -1,0 +1,2684 @@
+{
+    "clinical_study": {
+        "@rank": "96045", 
+        "arm_group": {
+            "arm_group_label": "Paclitaxel plus Carboplatin", 
+            "arm_group_type": "Experimental", 
+            "description": "Paclitaxel 225 mg/m2 IV over 3 hours and Carboplatin AUC 6.0 IV over 30 minutes on day 1 of a 21-day cycle"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one chemotherapy drug may kill more tumor\n      cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of carboplatin combined with paclitaxel\n      in treating patients who have advanced thymoma."
+        }, 
+        "brief_title": "Carboplatin Combined With Paclitaxel in Treating Patients With Advanced Thymoma", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Patients with diagnosis of thymoma", 
+                            "title": "Thymoma"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Patients with diagnosis of thymic carcinoma", 
+                            "title": "Thymic Carcinoma"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "25"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "21"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "46"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "32.7", 
+                                                "@upper_limit": "76.7", 
+                                                "@value": "50.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "20.8", 
+                                                "@upper_limit": "67.1", 
+                                                "@value": "49.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "20.8", 
+                                                "@upper_limit": "76.7", 
+                                                "@value": "50.7"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "11"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "17"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "29"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "25"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "21"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "46"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Number of eligible, treated participants in each response category by RECIST criteria", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Patients with diagnosis of thymoma", 
+                                    "title": "Thymoma"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Patients with diagnosis of thymic carcinoma", 
+                                    "title": "Thymic Carcinoma"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "3"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Complete Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "5"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "6"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Partial Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "13"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "8"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Stable Disease"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "4"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Progression"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "2"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Unevaluable"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Number of eligible, treated participants in each response category by RECIST criteria", 
+                                    "param": "Number", 
+                                    "title": "Best Overall Response by RECIST Criteria (Version 1.0)", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Analysis population included all eligible participants who received at least 1 dose of the protocol treatment", 
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed every 2 cycles (6 weeks)", 
+                        "title": "Best Overall Response by RECIST Criteria (Version 1.0)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Time from first satisfaction of response criteria to onset of disease progression, assessed using RECIST criteria", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Patients with diagnosis of thymoma", 
+                                    "title": "Thymoma"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Patients with diagnosis of thymic carcinoma", 
+                                    "title": "Thymic Carcinoma"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "8"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "6"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "#text": "The upper limit of the 95% confidence interval was not calculable because an insufficient number of participants reached the event at the final time point for assessment.", 
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "14", 
+                                                        "@upper_limit": "NA", 
+                                                        "@value": "16.9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "3.1", 
+                                                        "@upper_limit": "9.9", 
+                                                        "@value": "5.0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time from first satisfaction of response criteria to onset of disease progression, assessed using RECIST criteria", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Median", 
+                                    "title": "Duration of Response", 
+                                    "units": "Months"
+                                }
+                            ]
+                        }, 
+                        "population": "Number of participants achieving a complete or partial response by RECIST criteria", 
+                        "safety_issue": "No", 
+                        "time_frame": "assessed every 3 months for 2 years, then every 6 months for 3 years, then annually thereafter", 
+                        "title": "Duration of Response", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Patients with diagnosis of thymoma", 
+                            "title": "Thymoma"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Patients with diagnosis of thymic carcinoma", 
+                            "title": "Thymic Carcinoma"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P2"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "25", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "21", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "24", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "21", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "The study was activated on February 21, 2001.  The thymoma stratum closed to accrual on March 27, 2007.  The thymic carcinoma stratum closed to accrual on January 18, 2008."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "Study Statistician", 
+                "organization": "ECOG Statistical Office", 
+                "phone": "617-632-3012"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Patients with diagnosis of thymoma", 
+                            "title": "Thymoma"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Patients with diagnosis of thymic carcinoma", 
+                            "title": "Thymic Carcinoma"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "24", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "21", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "17", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "19", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "13", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "12", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "15", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Chest Pain"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "13", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "17", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Stomatitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Taste Disturbance"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "12", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "11", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea w/o Prior Colostomy"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal Pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "19", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "16", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Fever"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Rigors/Chills"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Allergic Reaction"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Alkaline Phosphatase Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Bilirubin Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "AST Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "ALT Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Creatinine Increased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Weight Gain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Dehydration"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Muscle Weakness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "15", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "14", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Myalgia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Ataxia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Dizziness/Lightheadedness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Memory Loss"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy - Motor"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "23", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "16", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy - Sensory"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Insomnia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Anxiety/Agitation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Urinary Frequency/Urgency"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspnea"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Sweating"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "22", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "17", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Alopecia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Nail Changes"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Pigmentation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Pruritus"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Rash/Desquamation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Hypotension"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac, Other"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Stomatitis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Fatigue"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Allergic Reaction"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Febrile Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with grade 3-4 neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "21"
+                                            }
+                                        ], 
+                                        "sub_title": "Blood Bilirubin Increased"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyperglycemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Myalgia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy - Sensory"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Seizure"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Rash/desquamation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "21"
+                                                }
+                                            ], 
+                                            "sub_title": "Pruritus"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)"
+                }, 
+                "time_frame": "Assessed every 21 days while on treatment and for 30 days after the end of treatment."
+            }
+        }, 
+        "completion_date": {
+            "#text": "August 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Thymoma", 
+            "Thymic Carcinoma"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Thymoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the objective response rate in patients with advanced thymoma or thymic\n           carcinoma treated with carboplatin and paclitaxel.\n\n        -  Determine the duration of response in these patients treated with this regimen.\n\n        -  Determine the toxicity of this regimen in these patients.\n\n      OUTLINE: Patients receive paclitaxel by intravenous (IV) infusion over 3 hours followed by\n      carboplatin IV over 30 minutes on day 1. Treatment repeats every 21 days for 2 courses in\n      the absence of disease progression. Patients achieving complete or partial remission or\n      stable disease receive 4 additional courses of therapy for a maximum of 6 courses. Further\n      treatment may be given at the discretion of the treating physician.\n\n      Patients were followed every 3 months for 2 years, every 6 months for 3 years, and then\n      annually thereafter.\n\n      PROJECTED ACCRUAL: A total of 35-68 patients were to be accrued for this study within\n      3.8-4.6 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically confirmed invasive, recurrent, or metastatic thymoma or thymic\n             carcinoma not amenable to potentially curative therapy by surgery\n\n          -  Extensive disease (distant disease, pleural disease, pulmonary with or without\n             mediastinal disease, or recurrent progressive disease in site of prior radiotherapy)\n\n          -  Advanced limited disease allowed if ineligible for primary radiotherapy or surgery\n\n          -  Measurable disease\n\n          -  Age 18 and over\n\n          -  ECOG Performance Status 0-1\n\n          -  Granulocyte count at least 1,500 cells/mm^3\n\n          -  Platelet count at least 100,000 cells/mm^3\n\n          -  Bilirubin no greater than 1.5 mg/dL\n\n          -  Creatinine no greater than 2.0 mg/dL\n\n          -  Concurrent corticosteroids for myasthenia gravis or other chronic conditions allowed\n\n        Exclusion Criteria:\n\n          -  Acute concurrent complications such as infection or post-surgical complications\n\n          -  Other prior malignancy within the past 5 years unless curatively treated with no\n             evidence of recurrence\n\n          -  Pregnant or nursing.  A negative pregnancy test was required, and fertile patients\n             must use effective contraception\n\n          -  Prior chemotherapy for metastatic disease.  Prior preoperative or adjuvant\n             chemotherapy allowed if disease-free survival prior to recurrence was more than 1\n             year"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "46", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 2, 2001", 
+        "firstreceived_results_date": "September 17, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00010257", 
+            "org_study_id": "CDR0000068461", 
+            "secondary_id": [
+                "U10CA021115", 
+                "E1C99"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Paclitaxel plus Carboplatin", 
+                "description": "Dosed to AUC of 6.0, given IV over 30 minutes day 1 of a 21-day cycle, for up to 6 cycles", 
+                "intervention_name": "carboplatin", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "CBDCA", 
+                    "Paraplatin", 
+                    "JM-8", 
+                    "NSC # 241240"
+                ]
+            }, 
+            {
+                "arm_group_label": "Paclitaxel plus Carboplatin", 
+                "description": "225 mg/m2 given by intravenous (IV) infusion over 3 hours on day 1 of a 21-day cycle, for up to 6 cycles", 
+                "intervention_name": "paclitaxel", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Taxol", 
+                    "NSC #125973"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carboplatin", 
+                "Paclitaxel"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "thymoma", 
+            "thymic carcinoma"
+        ], 
+        "lastchanged_date": "June 18, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/ECOG-1C99"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60507"
+                    }, 
+                    "name": "Rush-Copley Cancer Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Joliet", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60435"
+                    }, 
+                    "name": "Joliet Oncology-Hematology Associates, Limited - West"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rockford", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61104-2315"
+                    }, 
+                    "name": "Swedish-American Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "Carle Cancer Center at Carle Foundation Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Michigan City", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46360"
+                    }, 
+                    "name": "Saint Anthony Memorial Health Centers"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cedar Rapids", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52403"
+                    }, 
+                    "name": "Cedar Rapids Oncology Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51104"
+                    }, 
+                    "name": "Mercy Medical Center - Sioux City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology Associates, LLP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51104"
+                    }, 
+                    "name": "St. Luke's Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Escanaba", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49431"
+                    }, 
+                    "name": "Green Bay Oncology, Limited - Escanaba"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iron Mountain", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49801"
+                    }, 
+                    "name": "Dickinson County Healthcare System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007"
+                    }, 
+                    "name": "Bronson Methodist Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49001"
+                    }, 
+                    "name": "Borgess Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007-3731"
+                    }, 
+                    "name": "West Michigan Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burnsville", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55337"
+                    }, 
+                    "name": "Fairview Ridges Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coon Rapids", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55433"
+                    }, 
+                    "name": "Mercy and Unity Cancer Center at Mercy Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edina", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55435"
+                    }, 
+                    "name": "Fairview Southdale Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fridley", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55432"
+                    }, 
+                    "name": "Mercy and Unity Cancer Center at Unity Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hutchinson", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55350"
+                    }, 
+                    "name": "Hutchinson Area Health Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lichfield", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55355"
+                    }, 
+                    "name": "Meeker County Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maplewood", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55109"
+                    }, 
+                    "name": "Minnesota Oncology Hematology, PA - Maplewood"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maplewood", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55109"
+                    }, 
+                    "name": "HealthEast Cancer Care at St. John's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55415"
+                    }, 
+                    "name": "Hennepin County Medical Center - Minneapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55407"
+                    }, 
+                    "name": "Virginia Piper Cancer Institute at Abbott - Northwestern Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Robbinsdale", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55422-2900"
+                    }, 
+                    "name": "Hubert H. Humphrey Cancer Center at North Memorial Outpatient Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "CCOP - Metro-Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shakopee", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55379"
+                    }, 
+                    "name": "St. Francis Cancer Center at St. Francis Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55102"
+                    }, 
+                    "name": "HealthEast Cancer Care at St. Joseph's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "Park Nicollet Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55101"
+                    }, 
+                    "name": "Regions Hospital Cancer Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55102"
+                    }, 
+                    "name": "United Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Waconia", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55387"
+                    }, 
+                    "name": "Ridgeview Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Woodbury", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55125"
+                    }, 
+                    "name": "Minnesota Oncology Hematology, PA - Woodbury"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Woodbury", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55125"
+                    }, 
+                    "name": "HealthEast Cancer Care at Woodwinds Health Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Flemington", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08822"
+                    }, 
+                    "name": "Hunterdon Regional Cancer Center at Hunterdon Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "CCOP - Northern New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08903"
+                    }, 
+                    "name": "Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44710-1799"
+                    }, 
+                    "name": "Aultman Cancer Center at Aultman Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106-5065"
+                    }, 
+                    "name": "Case Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109"
+                    }, 
+                    "name": "MetroHealth Cancer Care Center at MetroHealth Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lima", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45801"
+                    }, 
+                    "name": "St. Rita's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Darby", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19023"
+                    }, 
+                    "name": "Mercy Fitzgerald Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033-0850"
+                    }, 
+                    "name": "Penn State Cancer Institute at Milton S. Hershey Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lewistown", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17044"
+                    }, 
+                    "name": "Lewistown Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Media", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19063"
+                    }, 
+                    "name": "Riddle Memorial Hospital Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19111-2497"
+                    }, 
+                    "name": "Fox Chase Cancer Center - Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19141"
+                    }, 
+                    "name": "Albert Einstein Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scranton", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "18510"
+                    }, 
+                    "name": "Hematology and Oncology Associates of Northeastern Pennsylvania"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "State College", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "16803"
+                    }, 
+                    "name": "Mount Nittany Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Upland", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19013"
+                    }, 
+                    "name": "Associates in Hematology-Oncology, PC at Crozer Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57701"
+                    }, 
+                    "name": "Rapid City Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57105"
+                    }, 
+                    "name": "Avera Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57105"
+                    }, 
+                    "name": "Medical X-Ray Center, PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57117-5039"
+                    }, 
+                    "name": "Sanford Cancer Center at Sanford USD Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54307-3508"
+                    }, 
+                    "name": "St. Vincent Hospital Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54303"
+                    }, 
+                    "name": "St. Mary's Hospital Medical Center - Green Bay"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54301-3526"
+                    }, 
+                    "name": "Green Bay Oncology, Limited at St. Vincent Hospital Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54303"
+                    }, 
+                    "name": "Green Bay Oncology, Limited at St. Mary's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Crosse", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54601"
+                    }, 
+                    "name": "Gundersen Lutheran Cancer Center at Gundersen Lutheran Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marinette", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54143"
+                    }, 
+                    "name": "Bay Area Cancer Care Center at Bay Area Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marshfield", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54449"
+                    }, 
+                    "name": "Marshfield Clinic - Marshfield Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Medical College of Wisconsin Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Froedtert Hospital and Medical College of Wisconsin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oconto Falls", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54154"
+                    }, 
+                    "name": "Green Bay Oncology, Limited - Oconto Falls"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rice Lake", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54868"
+                    }, 
+                    "name": "Marshfield Clinic - Indianhead Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sturgeon Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54235"
+                    }, 
+                    "name": "Green Bay Oncology, Limited - Sturgeon Bay"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase II Study Of Carboplatin Plus Paclitaxel Treatment Of Advanced Thymoma Or Thymic Carcinoma", 
+        "overall_official": {
+            "affiliation": "Indiana University Melvin and Bren Simon Cancer Center", 
+            "last_name": "Patrick J. Loehrer, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "November 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Number of eligible, treated participants in each response category by RECIST criteria", 
+            "measure": "Best Overall Response by RECIST Criteria (Version 1.0)", 
+            "safety_issue": "No", 
+            "time_frame": "Assessed every 2 cycles (6 weeks)"
+        }, 
+        "reference": {
+            "citation": "Loehrer PJ, Wang W, Aisner S, et al.: Long-term follow-up of patients with locally advanced or metastatic thymic malignancies: the Eastern Cooperative Oncology Group (ECOG) experience. [Abstract] J Clin Oncol 22 (Suppl 14): A-7050, 629s, 2004."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00010257"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "21502559", 
+            "citation": "Lemma GL, Lee JW, Aisner SC, Langer CJ, Tester WJ, Johnson DH, Loehrer PJ Sr. Phase II study of carboplatin and paclitaxel in advanced thymoma and thymic carcinoma. J Clin Oncol. 2011 May 20;29(15):2060-5. Epub 2011 Apr 18."
+        }, 
+        "secondary_outcome": {
+            "description": "Time from first satisfaction of response criteria to onset of disease progression, assessed using RECIST criteria", 
+            "measure": "Duration of Response", 
+            "safety_issue": "No", 
+            "time_frame": "assessed every 3 months for 2 years, then every 6 months for 3 years, then annually thereafter"
+        }, 
+        "source": "Eastern Cooperative Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Eastern Cooperative Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2001", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }, 
+    "geocoordinates": {
+        "Albert Einstein Cancer Center": "39.952 -75.164", 
+        "Associates in Hematology-Oncology, PC at Crozer Regional Cancer Center": "39.853 -75.383", 
+        "Aultman Cancer Center at Aultman Hospital": "40.799 -81.378", 
+        "Avera Cancer Institute": "43.55 -96.7", 
+        "Bay Area Cancer Care Center at Bay Area Medical Center": "45.1 -87.631", 
+        "Borgess Medical Center": "42.292 -85.587", 
+        "Bronson Methodist Hospital": "42.292 -85.587", 
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Metro-Minnesota": "44.96 -93.37", 
+        "CCOP - Northern New Jersey": "40.886 -74.043", 
+        "Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School": "40.486 -74.452", 
+        "Carle Cancer Center at Carle Foundation Hospital": "40.111 -88.207", 
+        "Case Comprehensive Cancer Center": "41.499 -81.695", 
+        "Cedar Rapids Oncology Associates": "41.978 -91.666", 
+        "Dickinson County Healthcare System": "45.82 -88.066", 
+        "Fairview Ridges Hospital": "44.768 -93.278", 
+        "Fairview Southdale Hospital": "44.89 -93.35", 
+        "Fox Chase Cancer Center - Philadelphia": "39.952 -75.164", 
+        "Froedtert Hospital and Medical College of Wisconsin": "43.039 -87.906", 
+        "Green Bay Oncology, Limited - Escanaba": "45.745 -87.065", 
+        "Green Bay Oncology, Limited - Oconto Falls": "44.874 -88.143", 
+        "Green Bay Oncology, Limited - Sturgeon Bay": "44.834 -87.377", 
+        "Green Bay Oncology, Limited at St. Mary's Hospital": "44.519 -88.02", 
+        "Green Bay Oncology, Limited at St. Vincent Hospital Regional Cancer Center": "44.519 -88.02", 
+        "Gundersen Lutheran Cancer Center at Gundersen Lutheran Medical Center": "43.801 -91.24", 
+        "HealthEast Cancer Care at St. John's Hospital": "44.953 -92.995", 
+        "HealthEast Cancer Care at St. Joseph's Hospital": "44.954 -93.114", 
+        "HealthEast Cancer Care at Woodwinds Health Campus": "44.924 -92.959", 
+        "Hematology and Oncology Associates of Northeastern Pennsylvania": "41.409 -75.662", 
+        "Hennepin County Medical Center - Minneapolis": "44.98 -93.264", 
+        "Hubert H. Humphrey Cancer Center at North Memorial Outpatient Center": "45.032 -93.339", 
+        "Hunterdon Regional Cancer Center at Hunterdon Medical Center": "40.512 -74.859", 
+        "Hutchinson Area Health Care": "44.888 -94.379", 
+        "Joliet Oncology-Hematology Associates, Limited - West": "41.525 -88.082", 
+        "Lewistown Hospital": "40.599 -77.571", 
+        "Marshfield Clinic - Indianhead Center": "45.506 -91.738", 
+        "Marshfield Clinic - Marshfield Center": "44.669 -90.172", 
+        "Medical College of Wisconsin Cancer Center": "43.039 -87.906", 
+        "Medical X-Ray Center, PC": "43.55 -96.7", 
+        "Meeker County Memorial Hospital": "45.124 -94.53", 
+        "Mercy Fitzgerald Hospital": "39.918 -75.259", 
+        "Mercy Medical Center - Sioux City": "42.5 -96.4", 
+        "Mercy and Unity Cancer Center at Mercy Hospital": "45.12 -93.288", 
+        "Mercy and Unity Cancer Center at Unity Hospital": "45.086 -93.263", 
+        "MetroHealth Cancer Care Center at MetroHealth Medical Center": "41.499 -81.695", 
+        "Minnesota Oncology Hematology, PA - Maplewood": "44.953 -92.995", 
+        "Minnesota Oncology Hematology, PA - Woodbury": "44.924 -92.959", 
+        "Mount Nittany Medical Center": "40.793 -77.86", 
+        "Park Nicollet Cancer Center": "44.96 -93.37", 
+        "Penn State Cancer Institute at Milton S. Hershey Medical Center": "40.286 -76.65", 
+        "Rapid City Regional Hospital": "44.081 -103.231", 
+        "Regions Hospital Cancer Care Center": "44.954 -93.114", 
+        "Riddle Memorial Hospital Cancer Center": "39.917 -75.388", 
+        "Ridgeview Medical Center": "44.846 -93.79", 
+        "Rush-Copley Cancer Care Center": "41.761 -88.32", 
+        "Saint Anthony Memorial Health Centers": "41.708 -86.895", 
+        "Sanford Cancer Center at Sanford USD Medical Center": "43.55 -96.7", 
+        "Siouxland Hematology-Oncology Associates, LLP": "42.5 -96.4", 
+        "St. Francis Cancer Center at St. Francis Medical Center": "44.797 -93.527", 
+        "St. Luke's Regional Medical Center": "42.5 -96.4", 
+        "St. Mary's Hospital Medical Center - Green Bay": "44.519 -88.02", 
+        "St. Rita's Medical Center": "40.743 -84.105", 
+        "St. Vincent Hospital Regional Cancer Center": "44.519 -88.02", 
+        "Swedish-American Regional Cancer Center": "42.271 -89.094", 
+        "United Hospital": "44.954 -93.114", 
+        "Virginia Piper Cancer Institute at Abbott - Northwestern Hospital": "44.98 -93.264", 
+        "West Michigan Cancer Center": "42.292 -85.587"
+    }
+}

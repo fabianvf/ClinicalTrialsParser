@@ -1,0 +1,796 @@
+{
+    "clinical_study": {
+        "@rank": "20229", 
+        "arm_group": {
+            "arm_group_label": "Arm I", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients undergo induction therapy consisting of etoposide IV and mitoxantrone IV on days 1-5. Patients then receive PSC-833 IV over 124 hours beginning on day 2. A second course is administered no sooner than 21 days from the start of the first course if the marrow is hypocellular after the first course. Patients with persistent disease after 2 induction courses are removed from the study. Patients receive a total of 3 courses of etoposide/mitoxantrone. Patients who achieve complete remission after 1 induction course receive 2 courses of etoposide/mitoxantrone with PSC-833 as consolidation, beginning within 4 weeks of attainment of complete remission. Patients who achieve complete remission after 2 induction courses receive 1 course of etoposide/mitoxantrone with PSC-833 as consolidation. Cohorts of 3-6 patients receive escalating doses of PSC-833 until the maximum tolerated dose is determined. Patients are followed every 6 months."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase I trial to study the effectiveness of PSC-833 plus etoposide and mitoxantrone in\n      treating children who have refractory or relapsed acute leukemia. Drugs used in chemotherapy\n      use different ways to stop cancer cells from dividing so they stop growing or die. Some\n      cancers become resistant to chemotherapy drugs. Combining PSC-833 with chemotherapy may\n      reduce resistance to the drug and allow more cancer cells to be killed."
+        }, 
+        "brief_title": "Combination Chemotherapy Plus PSC-833 in Treating Children With Refractory or Relapsed Acute Leukemia", 
+        "condition": "Leukemia", 
+        "condition_browse": {
+            "mesh_term": "Leukemia"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the maximum tolerated dose of PSC-833 in combination with mitoxantrone and\n      etoposide in children with refractory or relapsed acute leukemia.\n\n      II. Determine the effects of PSC-833 on mitoxantrone and etoposide pharmacokinetics.\n\n      III. Quantify MDR1 gene expression and MDR1 P-glycoprotein expression and function in\n      patient-derived leukemia cells.\n\n      OUTLINE: This is a dose escalation study of PSC-833.\n\n      Patients undergo induction therapy consisting of etoposide IV and mitoxantrone IV on days\n      1-5. Patients then receive PSC-833 IV over 124 hours beginning on day 2. A second course is\n      administered no sooner than 21 days from the start of the first course if the marrow is\n      hypocellular after the first course. Patients with persistent disease after 2 induction\n      courses are removed from the study. Patients receive a total of 3 courses of\n      etoposide/mitoxantrone. Patients who achieve complete remission after 1 induction course\n      receive 2 courses of etoposide/mitoxantrone with PSC-833 as consolidation, beginning within\n      4 weeks of attainment of complete remission. Patients who achieve complete remission after 2\n      induction courses receive 1 course of etoposide/mitoxantrone with PSC-833 as consolidation.\n      Cohorts of 3-6 patients receive escalating doses of PSC-833 until the maximum tolerated dose\n      is determined. Patients are followed every 6 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Acute myeloid leukemia (AML) in one of the following categories:\n\n          -  First relapse if initial CR less than 6 months\n\n          -  Refractory to first or second induction with daunomycin, cytarabine, and thioguanine\n             (DAT) or other anthracycline-containing regimens\n\n          -  Relapse following bone marrow transplantation provided good trilineage engraftment\n             followed transplant and greater than 6 months since transplant\n\n          -  Presentation with secondary AML or AML evolving from myelodysplastic syndrome --Acute\n             lymphocytic leukemia in one of the following categories:\n\n          -  In second or subsequent relapse or failed second or later induction attempts\n             regardless of prior remissions\n\n          -  Relapsed following bone marrow transplantation provided good trilineage engraftment\n             followed transplant and greater than 6 months since transplant\n\n          -  No isolated CNS or extramedullary relapse\n\n        PATIENT CHARACTERISTICS:\n\n          -  Age: Under 22 at diagnosis\n\n          -  Performance status: Karnofsky 50-100% (ECOG 0-2)\n\n          -  Lansky 40-100% (in patients under 12 years of age)\n\n          -  Life expectancy: At least 8 weeks\n\n          -  Bilirubin less than 1.5 mg/dL\n\n          -  ALT less than twice normal\n\n          -  Creatinine normal for age (within 2 standard deviations) OR glomular filtration rate\n             at least 70 mL/min\n\n          -  Albumin at least 3 g/dL\n\n          -  Ejection fraction greater than 50% at rest or with 5% increase with exercise OR\n             shortening fraction greater than 27% by echocardiogram\n\n          -  No history of clinical heart failure\n\n          -  No uncontrolled infection\n\n          -  No anticonvulsant therapy\n\n          -  No history of allergic reactions or anaphylaxis to etoposide not remediable by\n             premedication\n\n          -  Not pregnant or nursing\n\n          -  Fertile patients must use effective contraception\n\n          -  Third percentile weight for height\n\n        PRIOR CONCURRENT THERAPY:\n\n          -  At least 4 weeks since chemotherapy and recovered\n\n          -  Prior cumulative anthracycline dose no greater than 360 mg per square meter\n\n          -  Hydroxyurea therapy allowed just prior to study for rapidly rising blast count"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "21 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "3", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002912", 
+            "org_study_id": "NCI-2012-01835", 
+            "secondary_id": [
+                "POG-9423", 
+                "CCG-P9423", 
+                "CDR0000065285"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "mitoxantrone hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "valspodar", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Etoposide", 
+                "Etoposide phosphate", 
+                "Mitoxantrone"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "recurrent childhood acute lymphoblastic leukemia", 
+            "recurrent childhood acute myeloid leukemia", 
+            "secondary acute myeloid leukemia"
+        ], 
+        "lastchanged_date": "January 31, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/POG-9423"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92093-0658"
+                    }, 
+                    "name": "University of California San Diego Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027-0700"
+                    }, 
+                    "name": "Children's Hospital Los Angeles"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }, 
+                    "name": "City of Hope National Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095-1781"
+                    }, 
+                    "name": "Jonsson Comprehensive Cancer Center, UCLA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92668"
+                    }, 
+                    "name": "Children's Hospital of Orange County"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115-0128"
+                    }, 
+                    "name": "UCSF Cancer Center and Cancer Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5408"
+                    }, 
+                    "name": "Stanford University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20010-2970"
+                    }, 
+                    "name": "Children's National Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32610-0296"
+                    }, 
+                    "name": "University of Florida Health Science Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Emory University Hospital - Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Children's Memorial Hospital, Chicago"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Robert H. Lurie Comprehensive Cancer Center, Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202-5265"
+                    }, 
+                    "name": "Indiana University Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21231"
+                    }, 
+                    "name": "Johns Hopkins Oncology Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }, 
+                    "name": "Boston Floating Hospital Infants and Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0752"
+                    }, 
+                    "name": "University of Michigan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Children's Hospital of Michigan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "University of Minnesota Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216-4505"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64108"
+                    }, 
+                    "name": "Children's Mercy Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63104"
+                    }, 
+                    "name": "Cardinal Glennon Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "Hackensack University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08901"
+                    }, 
+                    "name": "Cancer Institute of New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia Presbyterian Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Memorial Sloan-Kettering Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "NYU School of Medicine's Kaplan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York - Upstate Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45229-3039"
+                    }, 
+                    "name": "Children's Hospital Medical Center - Cincinnati"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43205-2696"
+                    }, 
+                    "name": "Children's Hospital of Columbus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73190"
+                    }, 
+                    "name": "University of Oklahoma Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Children's Hospital of Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15213"
+                    }, 
+                    "name": "Children's Hospital of Pittsburgh"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425-0721"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232-6838"
+                    }, 
+                    "name": "Vanderbilt Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235-9154"
+                    }, 
+                    "name": "Simmons Cancer Center - Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Cook Children's Medical Center - Fort Worth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030-2399"
+                    }, 
+                    "name": "Texas Children's Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030-4009"
+                    }, 
+                    "name": "University of Texas - MD Anderson Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78284-7811"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84113"
+                    }, 
+                    "name": "Primary Children's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98105"
+                    }, 
+                    "name": "Children's Hospital and Regional Medical Center - Seattle"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madison", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53792"
+                    }, 
+                    "name": "University of Wisconsin Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Midwest Children's Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3052"
+                    }, 
+                    "name": "Royal Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Perth", 
+                        "country": "Australia", 
+                        "state": "Western Australia", 
+                        "zip": "6001"
+                    }, 
+                    "name": "Princess Margaret Hospital for Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 1X8"
+                    }, 
+                    "name": "Hospital for Sick Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3T 1C5"
+                    }, 
+                    "name": "Hopital Sainte Justine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3H 1P3"
+                    }, 
+                    "name": "Montreal Children's Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A PHASE I COOPERATIVE AGREEMENT PEDIATRIC TRIAL OF MITOXANTRONE, ETOPOSIDE AND PSC-833 (PSC-ME) THERAPY IN PATIENTS WITH RELAPSED AND REFRACTORY ACUTE LEUKEMIA", 
+        "overall_official": {
+            "affiliation": "Lucile Packard Children's Hospital at Stanford University Medical Center", 
+            "last_name": "Gary V.H. Dahl, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "March 2006", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002912"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "20209646", 
+                "citation": "O'Brien MM, Lacayo NJ, Lum BL, Kshirsagar S, Buck S, Ravindranath Y, Bernstein M, Weinstein H, Chang MN, Arceci RJ, Sikic BI, Dahl GV. Phase I study of valspodar (PSC-833) with mitoxantrone and etoposide in refractory and relapsed pediatric acute leukemia: a report from the Children's Oncology Group. Pediatr Blood Cancer. 2010 May;54(5):694-702. doi: 10.1002/pbc.22366."
+            }, 
+            {
+                "citation": "Lacayo NJ, Lum BL, Chin DL, et al.: Pharmacokinetics of mitoxantrone in a Phase I Trial of PSC-833 (Valspodar) as an MDR1/Pg-P modulator in acute myeloid leukemia (AML) from the children's oncology group (COG). [Abstract] Proceedings of the American Society of Clinical Oncology 21: A-1583, 2002."
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "January 1997", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2010"
+    }, 
+    "geocoordinates": {
+        "Boston Floating Hospital Infants and Children": "42.358 -71.06", 
+        "Cancer Institute of New Jersey": "40.486 -74.452", 
+        "Cardinal Glennon Children's Hospital": "38.627 -90.199", 
+        "Children's Hospital Los Angeles": "34.052 -118.244", 
+        "Children's Hospital Medical Center - Cincinnati": "39.103 -84.512", 
+        "Children's Hospital and Regional Medical Center - Seattle": "47.606 -122.332", 
+        "Children's Hospital of Columbus": "39.961 -82.999", 
+        "Children's Hospital of Michigan": "42.331 -83.046", 
+        "Children's Hospital of Orange County": "33.788 -117.853", 
+        "Children's Hospital of Philadelphia": "39.952 -75.164", 
+        "Children's Hospital of Pittsburgh": "40.441 -79.996", 
+        "Children's Memorial Hospital, Chicago": "41.878 -87.63", 
+        "Children's Mercy Hospital": "39.1 -94.579", 
+        "Children's National Medical Center": "38.895 -77.036", 
+        "City of Hope National Medical Center": "34.052 -118.244", 
+        "Columbia Presbyterian Hospital": "40.714 -74.006", 
+        "Cook Children's Medical Center - Fort Worth": "32.725 -97.321", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Duke Comprehensive Cancer Center": "35.994 -78.899", 
+        "Emory University Hospital - Atlanta": "33.749 -84.388", 
+        "Hackensack University Medical Center": "40.886 -74.043", 
+        "Hopital Sainte Justine": "45.509 -73.554", 
+        "Hospital for Sick Children": "43.653 -79.383", 
+        "Indiana University Cancer Center": "39.769 -86.158", 
+        "Johns Hopkins Oncology Center": "39.29 -76.612", 
+        "Jonsson Comprehensive Cancer Center, UCLA": "34.052 -118.244", 
+        "Mayo Clinic Cancer Center": "44.022 -92.47", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006", 
+        "Midwest Children's Cancer Center": "43.039 -87.906", 
+        "Montreal Children's Hospital": "45.509 -73.554", 
+        "NYU School of Medicine's Kaplan Comprehensive Cancer Center": "40.714 -74.006", 
+        "Primary Children's Medical Center": "40.761 -111.891", 
+        "Princess Margaret Hospital for Children": "-31.953 115.857", 
+        "Robert H. Lurie Comprehensive Cancer Center, Northwestern University": "41.878 -87.63", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "Royal Children's Hospital": "-37.795 144.957", 
+        "Simmons Cancer Center - Dallas": "32.803 -96.77", 
+        "Stanford University Medical Center": "37.429 -122.169", 
+        "State University of New York - Upstate Medical University": "43.048 -76.147", 
+        "Texas Children's Cancer Center": "29.76 -95.369", 
+        "UCSF Cancer Center and Cancer Research Institute": "37.775 -122.419", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California San Diego Cancer Center": "32.839 -117.277", 
+        "University of Florida Health Science Center": "29.652 -82.325", 
+        "University of Kansas Medical Center": "39.114 -94.627", 
+        "University of Michigan Comprehensive Cancer Center": "42.281 -83.743", 
+        "University of Minnesota Cancer Center": "44.98 -93.264", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of Oklahoma Health Sciences Center": "35.468 -97.516", 
+        "University of Texas - MD Anderson Cancer Center": "29.76 -95.369", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "University of Wisconsin Comprehensive Cancer Center": "43.073 -89.401", 
+        "Vanderbilt Cancer Center": "36.166 -86.784", 
+        "Washington University School of Medicine": "38.627 -90.199"
+    }
+}

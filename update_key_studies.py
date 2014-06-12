@@ -4,11 +4,12 @@ import requests
 import datetime
 import zipfile
 
-# download and save a zipfile of new results
+# download and save a zipfile of new results since yesterday
 def get_new_results():
 
     # date for today 
     today = datetime.date.today()
+    datetime.date.today().str
 
     month = today.strftime('%m')
     day = today.strftime('%d')
@@ -17,18 +18,21 @@ def get_new_results():
     # date for yesterday
     yesterday  = today - datetime.timedelta(1)
 
+    # just the month, day, and year alone
     y_month = yesterday.strftime('%m')
     y_day = yesterday.strftime('%d')
     y_year = yesterday.strftime('%Y')
 
     # use those in the URL to create for requests
-    base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=results&down_flds=shown&down_fmt=plain&lup_s=' 
+    base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&' +
+                    'down_typ=results&down_flds=shown&down_fmt=plain&lup_s=' 
 
     sep = '%2F'
     middle = '&lup_e='
     end = '&show_down=Y'
 
-    url_end = y_month + sep + y_day + sep + y_year + middle + month + sep + day + sep + year + end
+    url_end = y_month + sep + y_day + sep + y_year + middle + month +
+             sep + day + sep + year + end
 
     url = base_url + url_end
 
@@ -58,28 +62,27 @@ def newfile_names():
 
     return new_id_list
 
-# returns a list of updated key files
-def check_key_files():
-
-    key_id_file = 'key_studies.txt'
+# returns a list of updated key files, takes a .txt list of ids to check
+def check_key_files(id_list):
 
     get_new_results()
-
     new_id_list = newfile_names()
+
     # gets rid of the xml selections
     new_id_list = [ext.replace('.xml','') for ext in new_id_list]
 
-    with open (key_id_file) as key_ids:
+    with open (id_list) as key_ids:
         key_id_list = [line.strip() for line in key_ids]
 
+    # returns a list of files in our list that have been updated
     key_updated_files = list(set(new_id_list).intersection(key_id_list))
 
     # also save key updated IDs to a file
-    file_name = open('updated_key_ids.txt', 'w')
+    file_name = open('updated_ids.txt', 'w')
     for item in key_updated_files:
         file_name.write("%s\n" % item)
 
     return key_updated_files
 
-check_key_files()
+check_key_files('key_studies.txt')
 

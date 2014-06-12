@@ -1,0 +1,1540 @@
+{
+    "clinical_study": {
+        "@rank": "8510", 
+        "acronym": "BARI 2D", 
+        "arm_group": [
+            {
+                "arm_group_label": "Revascularization and Insulin Providing (IP)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Prompt revascularization with intensive medical therapy and insulin providing glycemic control strategy"
+            }, 
+            {
+                "arm_group_label": "Revascularization and Insulin Sensitizing (IS)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Prompt revascularization with intensive medical therapy and insulin sensitizing glycemic control strategy"
+            }, 
+            {
+                "arm_group_label": "Medical Therapy and Insulin Providing (IP)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin providing glycemic control strategy"
+            }, 
+            {
+                "arm_group_label": "Medical Therapy and Insulin Sensitizing (IS)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin sensitizing glycemic control strategy"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The BARI 2D trial is a multicenter study that uses a 2x2 factorial design, with 2400\n      patients being assigned at random to initial elective revascularization with aggressive\n      medical therapy or aggressive medical therapy alone with equal probability, and\n      simultaneously being assigned at random to an insulin providing or insulin sensitizing\n      strategy of glycemic control (with a target value for HbA1c of less than 7.0% for all\n      patients).\n\n      SPECIFIC AIMS\n\n      A. Primary Aim\n\n      The primary aim of the BARI 2D trial is to test the following two hypotheses of treatment\n      efficacy in 2400 patients with Type 2 diabetes mellitus and documented stable CAD, in the\n      setting of uniform glycemic control and intensive management of all other risk factors\n      including dyslipidemia, hypertension, smoking, and obesity:\n\n        1. Coronary Revascularization Hypothesis:  a strategy of initial elective\n           revascularization of choice (surgical or catheter-based) combined with aggressive\n           medical therapy results in lower 5-year mortality compared to a strategy of aggressive\n           medical therapy alone;\n\n        2. Method of Glycemic Control Hypothesis: with a target HbA1c level of less than 7.0%, a\n           strategy of hyperglycemia management directed at insulin sensitization results in lower\n           5-year mortality compared to a strategy of insulin provision.\n\n      B. Secondary Aims\n\n      The secondary aims of the BARI 2D trial include: a) comparing the death, myocardial\n      infarction or stroke combined endpoint event rate between the revascularization versus\n      medical therapy groups and between the insulin sensitization versus insulin provision\n      groups; b) comparing rates of myocardial infarction, other ischemic events, angina and\n      quality of life associated with each revascularization and hyperglycemia management\n      strategy; c) evaluating the relative economic costs associated with the trial treatment\n      strategies, d) exploring the effect of glycemic control strategy on the progression and\n      mechanism of vasculopathy including  changes in PAI-1 gene expression."
+        }, 
+        "brief_title": "Bypass Angioplasty Revascularization Investigation in Type 2 Diabetes", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Prompt revascularization with intensive medical therapy and insulin providing glycemic control strategy", 
+                            "title": "Revascularization and Insulin Providing (IP)"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Prompt revascularization with intensive medical therapy and insulin sensitizing glycemic control strategy", 
+                            "title": "Revascularization and Insulin Sensitizing (IS)"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin providing glycemic control strategy", 
+                            "title": "Medical Therapy and Insulin Providing (IP)"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin sensitizing glycemic control strategy", 
+                            "title": "Medical Therapy and Insulin Sensitizing (IS)"
+                        }, 
+                        {
+                            "@group_id": "B5", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "599"
+                                            }, 
+                                            {
+                                                "@group_id": "B5", 
+                                                "@value": "2368"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "362"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "354"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "350"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "373"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "1439"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "230"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "230"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "243"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "226"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "929"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "8.5", 
+                                                "@value": "62.3"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9.1", 
+                                                "@value": "62.4"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "8.8", 
+                                                "@value": "62.7"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@spread": "9.3", 
+                                                "@value": "62.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B5", 
+                                                "@spread": "8.9", 
+                                                "@value": "62.4"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "176"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "172"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "172"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "182"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "702"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "416"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "412"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "421"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "417"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "1666"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "376"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "367"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "376"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "380"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "1499"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "United States"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "87"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "88"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "89"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "89"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "353"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Canada"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "89"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "89"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "89"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "89"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "356"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Brazil"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "22"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "85"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Mexico"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "20"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "75"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Europe"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "-0.031", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.020", 
+                                    "estimate_desc": "Risk difference of all-cause mortality for Revascularization compared with Medical therapy", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O2", 
+                                            "O3", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "method": "Log Rank", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.97", 
+                                    "p_value_desc": "A separate test with alpha=0.05 was conducted for each treatment comparison of the main effects in the 2x2 factorial design.", 
+                                    "param_type": "Risk Difference (RD)", 
+                                    "param_value": "-0.005"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.029", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.022", 
+                                    "estimate_desc": "Risk difference of all-cause mortality for Insulin Sensitizing glycemic control strategy compared with Insulin Providing glycemic control strategy", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O2", 
+                                            "O3", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "method": "Log Rank", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.89", 
+                                    "p_value_desc": "A separate test with alpha=0.05 was conducted for each treatment comparison of the main effects in the 2x2 factorial design.", 
+                                    "param_type": "Risk Difference (RD)", 
+                                    "param_value": "-0.003"
+                                }
+                            ]
+                        }, 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Prompt revascularization with intensive medical therapy and insulin providing glycemic control strategy", 
+                                    "title": "Revascularization and Insulin Providing (IP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Prompt revascularization with intensive medical therapy and insulin sensitizing glycemic control strategy", 
+                                    "title": "Revascularization and Insulin Sensitizing (IS)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin providing glycemic control strategy", 
+                                    "title": "Medical Therapy and Insulin Providing (IP)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin sensitizing glycemic control strategy", 
+                                    "title": "Medical Therapy and Insulin Sensitizing (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "592"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "584"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "593"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "599"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "80"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "75"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "80"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "81"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With All-Cause Mortality", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat analysis (ITT) of the two main effects in the 2x2 factorial design, 1) Revascularization versus Medical Therapy and 2) Insulin Sensitizing (IS) versus Insulin Providing (IP)", 
+                        "safety_issue": "No", 
+                        "time_frame": "five years", 
+                        "title": "Number of Participants With All-Cause Mortality", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "-0.049", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.022", 
+                                    "estimate_desc": "Risk difference of Death/MI/Stroke for Revascularization compared with Medical Therapy", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O2", 
+                                            "O3", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "method": "Log Rank", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.70", 
+                                    "p_value_desc": "A separate test with alpha=0.05 was conducted for each treatment comparison of the main effects in the 2x2 factorial design.", 
+                                    "param_type": "Risk Difference (RD)", 
+                                    "param_value": "-0.013"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.060", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.012", 
+                                    "estimate_desc": "Risk difference of Death/MI/Stroke for Insulin Sensitizing glycemic control strategy compared with Insulin Providing glycemic control strategy", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O2", 
+                                            "O3", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "method": "Log Rank", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.13", 
+                                    "p_value_desc": "A separate test with alpha=0.05 was conducted for each treatment comparison of the main effects in the 2x2 factorial design.", 
+                                    "param_type": "Risk Difference (RD)", 
+                                    "param_value": "-0.024"
+                                }
+                            ]
+                        }, 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Prompt revascularization with intensive medical therapy and insulin providing glycemic control strategy", 
+                                    "title": "Revascularization and Insulin Providing (IP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Prompt revascularization with intensive medical therapy and insulin sensitizing glycemic control strategy", 
+                                    "title": "Revascularization and Insulin Sensitizing (IS)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin providing glycemic control strategy", 
+                                    "title": "Medical Therapy and Insulin Providing (IP)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin sensitizing glycemic control strategy", 
+                                    "title": "Medical Therapy and Insulin Sensitizing (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "592"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "584"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "593"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "599"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "145"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "121"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "143"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "140"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With Death, Myocardial Infarction, or Stroke", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat analysis (ITT) of the two main effects in the 2x2 factorial design, 1) Revascularization versus Medical Therapy and 2) Insulin Sensitizing (IS) versus Insulin Providing (IP)", 
+                        "safety_issue": "No", 
+                        "time_frame": "five years", 
+                        "title": "Number of Participants With Death, Myocardial Infarction, or Stroke", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Prompt revascularization with intensive medical therapy and insulin providing glycemic control strategy", 
+                            "title": "Revascularization and Insulin Providing (IP)"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Prompt revascularization with intensive medical therapy and insulin sensitizing glycemic control strategy", 
+                            "title": "Revascularization and Insulin Sensitizing (IS)"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin providing glycemic control strategy", 
+                            "title": "Medical Therapy and Insulin Providing (IP)"
+                        }, 
+                        {
+                            "@group_id": "P4", 
+                            "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin sensitizing glycemic control strategy", 
+                            "title": "Medical Therapy and Insulin Sensitizing (IS)"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "17", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "10", 
+                                            "@group_id": "P2"
+                                        }, 
+                                        {
+                                            "@count": "15", 
+                                            "@group_id": "P3"
+                                        }, 
+                                        {
+                                            "@count": "14", 
+                                            "@group_id": "P4"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "592", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "584", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "593", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "599", 
+                                                "@group_id": "P4"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "575", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "574", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "578", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "585", 
+                                                "@group_id": "P4"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "17", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "14", 
+                                                "@group_id": "P4"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "A total of 2,368 patients were enrolled at 49 clinical centers from United States, Canada, Brazil, Mexico, Czech Republic, and Austria between January 1, 2001 and March 31, 2005.  Each of the 2368 patients was simultaneously assigned to initial revascularization or medical therapy and assigned to insulin providing or insulin sensitizing therapy."
+            }, 
+            "point_of_contact": {
+                "email": "brooks@edc.pitt.edu", 
+                "name_or_title": "Dr. Maria Brooks", 
+                "organization": "University of Pittsburgh", 
+                "phone": "4126241618"
+            }, 
+            "reported_events": {
+                "desc": "Clinic visits conducted monthly for first 6 months and every 3 months thereafter until the study ended.", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Prompt revascularization with intensive medical therapy and insulin providing glycemic control strategy", 
+                            "title": "Revascularization and Insulin Providing (IP)"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Prompt revascularization with intensive medical therapy and insulin sensitizing glycemic control strategy", 
+                            "title": "Revascularization and Insulin Sensitizing (IS)"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin providing glycemic control strategy", 
+                            "title": "Medical Therapy and Insulin Providing (IP)"
+                        }, 
+                        {
+                            "@group_id": "E4", 
+                            "description": "Intensive medical therapy with delayed revascularization if clinically indicated and insulin sensitizing glycemic control strategy", 
+                            "title": "Medical Therapy and Insulin Sensitizing (IS)"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "331", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "362", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "344", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "363", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "47", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "42", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "52", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "54", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Laser Therapy for Macular Edema"
+                                    }
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "293", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "317", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "304", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "335", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Pitting Edema"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "38", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "48", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "36", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "34", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Bone Fracture"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "55", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "55", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "48", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "43", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Lower Extremity Ulcer"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "230", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "210", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "230", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "235", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "80", 
+                                                    "@subjects_at_risk": "592"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "75", 
+                                                    "@subjects_at_risk": "584"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "80", 
+                                                    "@subjects_at_risk": "593"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "81", 
+                                                    "@subjects_at_risk": "599"
+                                                }
+                                            ], 
+                                            "sub_title": "Death"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "67", 
+                                                    "@subjects_at_risk": "592"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "51", 
+                                                    "@subjects_at_risk": "584"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "71", 
+                                                    "@subjects_at_risk": "593"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "67", 
+                                                    "@subjects_at_risk": "599"
+                                                }
+                                            ], 
+                                            "sub_title": "Myocardial Infarction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "111", 
+                                                    "@subjects_at_risk": "592"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "119", 
+                                                    "@subjects_at_risk": "584"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "107", 
+                                                    "@subjects_at_risk": "593"
+                                                }, 
+                                                {
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "129", 
+                                                    "@subjects_at_risk": "599"
+                                                }
+                                            ], 
+                                            "sub_title": "Congestive Heart Failure"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "46", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "36", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "62", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "32", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Severe Hypoglycemia"
+                                    }
+                                }, 
+                                "title": "Endocrine disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "17", 
+                                                "@subjects_at_risk": "592"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "584"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "593"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "599"
+                                            }
+                                        ], 
+                                        "sub_title": "Stroke"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }, 
+                "time_frame": "5 years"
+            }
+        }, 
+        "completion_date": {
+            "#text": "March 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Coronary Disease", 
+            "Cardiovascular Diseases", 
+            "Heart Diseases", 
+            "Insulin Resistance", 
+            "Diabetes Mellitus", 
+            "Diabetes Mellitus, Non-Insulin-Dependent"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Coronary Disease", 
+                "Coronary Artery Disease", 
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 2", 
+                "Heart Diseases", 
+                "Insulin Resistance"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:\n\n      Type 2 diabetes mellitus, which is becoming more prevalent in our society as the population\n      ages, is one of the strongest risk factors for coronary artery disease (CAD) and consequent\n      mortality.  In addition to generating an enormous toll in human suffering, diabetes places\n      an economic burden approaching 100 billion dollars annually on the U.S. health care system.\n      Despite the well known dismal prognosis of diabetes complicated by angiographically\n      documented CAD, the optimal treatment paradigm for this large group of patients has not been\n      studied.  Coronary revascularization, while increasingly used, has not been directly shown\n      to be of additional benefit to simultaneous intensive medical management of CAD along with\n      management of hyperglycemia, hypertension, dyslipidemia, and other risk factors.  Moreover,\n      while intensive efforts to lower HbA1c have been demonstrated to favorably affect the\n      clinical course of Type 2 diabetes mellitus in terms of microvascular complications, the\n      optimal hyperglycemia management strategy with regard to macrovascular outcome is not known.\n\n      These critical treatment dilemmas have motivated the development of BARI 2D, a multicenter\n      randomized trial designed to determine in patients with Type 2 diabetes and stable CAD: 1)\n      the efficacy of initial elective coronary revascularization combined with aggressive medical\n      therapy, compared to an initial strategy of aggressive medical therapy alone; and 2) the\n      efficacy of a strategy of providing more insulin (endogenous or exogenous), versus a\n      strategy of increasing sensitivity to insulin (reducing insulin resistance), in the\n      management of hyperglycemia, with a target HbA1c level of less than 7.0% for each strategy.\n\n      DESIGN NARRATIVE:\n\n      The BARI 2D trial is a multicenter study that uses a 2x2 factorial design, with 2400\n      patients being assigned at random to initial elective revascularization with aggressive\n      medical therapy or aggressive medical therapy alone with equal probability, and\n      simultaneously being assigned at random to an insulin providing or insulin sensitizing\n      strategy of glycemic control (with a target value for HbA1c of less than 7.0% for all\n      patients).  Following confirmation of patient eligibility and provision of written consent,\n      patients were randomized as shown below:\n\n      Number of Patients Per Treatment Assignment (N=2400 patients in total)\n\n      Stable Ischemic Heart Disease Treatment Strategy and Glycemic Control Strategy:\n\n      Revascularization and Insulin Providing (IP) N=600; Revascularization and Insulin\n      Sensitizing (IS) N=600; Medical and Insulin Providing (IP) N=600; Medical and and Insulin\n      Sensitizing (IS) N=600."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Diagnosis of Type 2 diabetes mellitus\n\n          -  Coronary arteriogram showing one or more vessels amenable to revascularization\n             (greater than or equal to 50% stenosis)\n\n          -  Objective documentation of ischemia OR subjectively documented typical angina with\n             greater than or equal to 70% stenosis in at least one artery\n\n          -  Suitability for coronary revascularization by at least one of the available methods\n             (does not require the ability to achieve complete revascularization)\n\n          -  Ability to perform all tasks related to glycemic control and risk factor management\n\n        Exclusion Criteria:\n\n          -  Definite need for invasive intervention as determined by the attending cardiologist\n\n          -  Prior bypass surgery (CABG) or prior catheter-based intervention within the 12 months\n             before study entry\n\n          -  Planned intervention for disease in bypass graft(s) if the patient is randomly\n             assigned to a strategy of initial revascularization\n\n          -  Class III or IV CHF\n\n          -  Creatinine greater than 2.0 mg/dL\n\n          -  HbA1c greater than 13%\n\n          -  Need for major vascular surgery concomitant with revascularization (e.g., carotid\n             endarterectomy)\n\n          -  Left main stenosis greater than or equal to 50%\n\n          -  Non-cardiac illness expected to limit survival\n\n          -  Hepatic disease (ALT greater than 2 times the ULN)\n\n          -  Fasting triglycerides greater than 1000 mg/dL in the presence of moderate glycemic\n             control (HbA1c less than 9.0%)\n\n          -  Current alcohol abuse\n\n          -  Chronic steroid use judged to interfere with the control of diabetes, exceeding 10 mg\n             of Prednisone per day or the equivalent\n\n          -  Pregnancy, known, suspected, or planned in 5 years after study entry\n\n          -  Geographically inaccessible or unable to return for follow-up\n\n          -  Enrolled in a competing randomized trial or clinical study\n\n          -  Unable to understand or cooperate with protocol requirements\n\n        Patients with Type 2 diabetes mellitus and CAD documented by coronary arteriography will\n        be eligible for the trial if revascularization is not required for prompt control of\n        severe or unstable angina.  Diabetic patients who are being treated with insulin or oral\n        hypoglycemic drugs will be eligible as well as diabetic patients treated with diet and\n        exercise alone provided that a diagnosis of diabetes can be confirmed by record review or\n        that a fasting plasma glucose (FPG) greater than 125/mg/dL (7.0 mmol/L) can be obtained.\n        The determination of suitability for BARI 2D will be made by a  physician-investigator at\n        each participating institution on clinical grounds at the time of coronary angiography.\n\n        Significant CAD will be defined as at least one stenosis greater than 50%.  Angina and\n        ischemia will be assessed by use of patient self-report, physician examination, and\n        appropriate diagnostic measures including exercise myocardial perfusion imaging, exercise\n        echocardiography, exercise electrocardiography, and IV dipyridamole or adenosine\n        myocardial perfusion imaging or invasively by doppler or pressure wire.  Objective\n        documentation of myocardial ischemia includes any of the following:\n\n          1. Exercise or pharmacologically-induced:\n\n               1. Greater than or equal to 1 mm of horizontal or downsloping ST depression or\n                  elevation for greater than or equal to 60-80 milliseconds after the end of the\n                  QRS complex\n\n               2. Myocardial perfusion defect\n\n               3. Myocardial wall motion abnormality\n\n          2. Stabilized, prior acute coronary syndrome with CK-MB or troponin elevation or with\n             new, greater than or equal to 0.5 mm ST depression or elevation, or T wave inversion\n             of greater than or equal to 3 mm in 2 contiguous ECG leads\n\n          3. Doppler or pressure wire showing coronary flow reserve (CFR) less than 2.0 or\n             fractional flow reserve (FFR) less than 0.75\n\n        Among patients without documented ischemia, only patients with stenosis greater than or\n        equal to 70% presenting with classic anginal symptoms will be eligible for randomization."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "25 Years"
+        }, 
+        "enrollment": {
+            "#text": "2368", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 28, 2000", 
+        "firstreceived_results_date": "January 27, 2011", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006305", 
+            "org_study_id": "133", 
+            "secondary_id": [
+                "U01HL061744", 
+                "U01HL061746", 
+                "U01HL061748", 
+                "U01HL063804"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Revascularization and Insulin Providing (IP)", 
+                    "Revascularization and Insulin Sensitizing (IS)"
+                ], 
+                "description": "Angioplasty, Transluminal, Percutaneous Coronary, other catheter-based interventions", 
+                "intervention_name": "Angioplasty, Transluminal, Percutaneous Coronary, other catheter-based interventions", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": [
+                    "Revascularization and Insulin Providing (IP)", 
+                    "Revascularization and Insulin Sensitizing (IS)"
+                ], 
+                "description": "Coronary Artery Bypass", 
+                "intervention_name": "Coronary Artery Bypass", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": [
+                    "Revascularization and Insulin Sensitizing (IS)", 
+                    "Medical Therapy and Insulin Sensitizing (IS)"
+                ], 
+                "description": "Biguanides, thiazolidinediones", 
+                "intervention_name": "Biguanides, thiazolidinediones", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Revascularization and Insulin Providing (IP)", 
+                    "Medical Therapy and Insulin Providing (IP)"
+                ], 
+                "description": "Insulin, sulfonylurea", 
+                "intervention_name": "Insulin, sulfonylurea", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Revascularization and Insulin Providing (IP)", 
+                    "Revascularization and Insulin Sensitizing (IS)", 
+                    "Medical Therapy and Insulin Providing (IP)", 
+                    "Medical Therapy and Insulin Sensitizing (IS)"
+                ], 
+                "description": "ACE Inhibitors, Angiotensin Receptor Blockers, Beta Blockers, Calcium Channel Blockers", 
+                "intervention_name": "ACE Inhibitors, Angiotensin Receptor Blockers, Beta Blockers, Calcium Channel Blockers", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Adrenergic beta-Antagonists", 
+                "Angiotensin-Converting Enzyme Inhibitors", 
+                "Calcium Channel Blockers", 
+                "2,4-thiazolidinedione", 
+                "Insulin", 
+                "Angiotensin Receptor Antagonists"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 24, 2012", 
+        "link": {
+            "description": "Click here for the BARI 2D Study Web site", 
+            "url": "http://www.bari2d.org/"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Bypass Angioplasty Revascularization Investigation in Type 2 Diabetes", 
+        "overall_official": [
+            {
+                "affiliation": "St. Louis University", 
+                "last_name": "Bernard Chaitman, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Mayo Clinic", 
+                "last_name": "Robert L Frye, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Stanford University", 
+                "last_name": "Mark Hlatky", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Vermont & State Agricultural College", 
+                "last_name": "Burton Sobel", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Pittsburgh", 
+                "last_name": "Sheryl F. Kelsey, PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "November 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Number of Participants With All-Cause Mortality", 
+            "safety_issue": "No", 
+            "time_frame": "five years"
+        }, 
+        "reference": [
+            {
+                "PMID": "12566379", 
+                "citation": "Sobel BE, Frye R, Detre KM; Bypass Angioplasty Revascularization Investigation 2 Diabetes Trial. Burgeoning dilemmas in the management of diabetes and cardiovascular disease: rationale for the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial. Circulation. 2003 Feb 4;107(4):636-42. Review."
+            }, 
+            {
+                "PMID": "16813734", 
+                "citation": "Brooks MM, Frye RL, Genuth S, Detre KM, Nesto R, Sobel BE, Kelsey SF, Orchard TJ; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial Investigators. Hypotheses, design, and methods for the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial. Am J Cardiol. 2006 Jun 19;97(12A):9G-19G. Epub 2006 Apr 17."
+            }, 
+            {
+                "PMID": "18760137", 
+                "citation": "Bypass Angioplasty Revascularization Investigation 2 Diabetes Study Group. Baseline characteristics of patients with diabetes and coronary artery disease enrolled in the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial. Am Heart J. 2008 Sep;156(3):528-536, 536.e1-5. Epub 2008 Jul 31."
+            }, 
+            {
+                "PMID": "19502645", 
+                "citation": "BARI 2D Study Group; Frye RL, August P, Brooks MM, Hardison RM, Kelsey SF, MacGregor JM, Orchard TJ, Chaitman BR, Genuth SM, Goldberg SH, Hlatky MA, Jones TL, Molitch ME, Nesto RW, Sako EY, Sobel BE. A randomized trial of therapies for type 2 diabetes and coronary artery disease. N Engl J Med. 2009 Jun 11;360(24):2503-15. Epub 2009 Jun 7."
+            }, 
+            {
+                "PMID": "20937978", 
+                "citation": "Brooks MM, Chung SC, Helmy T, Hillegass WB, Escobedo J, Melsop KA, Massaro EM, McBane RD, Hyde P, Hlatky MA; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Study Group. Health status after treatment for coronary artery disease and type 2 diabetes mellitus in the bypass angioplasty revascularization investigation 2 diabetes trial. Circulation. 2010 Oct 26;122(17):1690-9. Epub 2010 Oct 11."
+            }, 
+            {
+                "PMID": "20584997", 
+                "citation": "Grogan M, Jenkins M, Sansing VV, MacGregor J, Brooks MM, Julien-Williams P, Amendola A, Abbott JD; BARI 2D Study Group. Health insurance status and control of diabetes and coronary artery disease risk factors on enrollment into the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial. Diabetes Educ. 2010 Sep-Oct;36(5):774-83. Epub 2010 Jun 28."
+            }, 
+            {
+                "PMID": "20375690", 
+                "citation": "Wall BM, Hardison RM, Molitch ME, Marroquin OC, McGill JB, August PA; BARI 2D Study Group. High prevalence and diversity of kidney dysfunction in patients with type 2 diabetes mellitus and coronary artery disease: the BARI 2D baseline data. Am J Med Sci. 2010 May;339(5):401-10. doi: 10.1097/MAJ.0b013e3181d430ad."
+            }, 
+            {
+                "PMID": "20626665", 
+                "citation": "Rana JS, Hardison RM, Pop-Busui R, Brooks MM, Jones TL, Nesto RW, Bourassa MG; BARI 2D Investigators. Resting heart rate and metabolic syndrome in patients with diabetes and coronary artery disease in bypass angioplasty revascularization investigation 2 diabetes (BARI 2D) trial. Prev Cardiol. 2010 Summer;13(3):112-6."
+            }, 
+            {
+                "PMID": "20147671", 
+                "citation": "Thomas SB, Sansing VV, Davis A, Magee M, Massaro E, Srinivas VS, Helmy T, Desvigne-Nickens P, Brooks MM; BARI 2D Study Group. Racial differences in the association between self-rated health status and objective clinical measures among participants in the BARI 2D trial. Am J Public Health. 2010 Apr 1;100 Suppl 1:S269-76. doi: 10.2105/AJPH.2009.176180. Epub 2010 Feb 10."
+            }, 
+            {
+                "PMID": "20152229", 
+                "citation": "Hlatky MA, Chung SC, Escobedo J, Hillegass WB, Melsop K, Rogers W, Brooks MM; BARI 2D Study Group. The effect of obesity on quality of life in patients with diabetes and coronary artery disease. Am Heart J. 2010 Feb;159(2):292-300. doi: 10.1016/j.ahj.2009.11.004."
+            }, 
+            {
+                "PMID": "19875998", 
+                "citation": "Albu JB, Lu J, Mooradian AD, Krone RJ, Nesto RW, Porter MH, Rana JS, Rogers WJ, Sobel BE, Gottlieb SH; BARI 2D Study Group. Relationships of obesity and fat distribution with atherothrombotic risk factors: baseline results from the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial. Obesity (Silver Spring). 2010 May;18(5):1046-54. Epub 2009 Oct 29."
+            }, 
+            {
+                "PMID": "19920002", 
+                "citation": "Hlatky MA, Boothroyd DB, Melsop KA, Kennedy L, Rihal C, Rogers WJ, Venkitachalam L, Brooks MM; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Study Group. Economic outcomes of treatment strategies for type 2 diabetes mellitus and coronary artery disease in the bypass angioplasty revascularization investigation 2 diabetes trial. Circulation. 2009 Dec 22;120(25):2550-8. Epub 2009 Nov 17."
+            }, 
+            {
+                "PMID": "19920001", 
+                "citation": "Chaitman BR, Hardison RM, Adler D, Gebhart S, Grogan M, Ocampo S, Sopko G, Ramires JA, Schneider D, Frye RL; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Study Group. The bypass angioplasty revascularization investigation 2 diabetes randomized trial of different treatment strategies in type 2 diabetes mellitus with stable ischemic heart disease: impact of treatment strategy on cardiac mortality and myocardial infarction. Circulation. 2009 Dec 22;120(25):2529-40. Epub 2009 Nov 17."
+            }, 
+            {
+                "PMID": "19463459", 
+                "citation": "Kim LJ, King SB 3rd, Kent K, Brooks MM, Kip KE, Abbott JD, Jacobs AK, Rihal C, Hueb WA, Alderman E, Sing IR, Attubato MJ, Feit F; BARI 2D (Bypass Angioplasty Revascularization Investigation Type 2 Diabetes) Study Group. Factors related to the selection of surgical versus percutaneous revascularization in diabetic patients with multivessel coronary artery disease in the BARI 2D (Bypass Angioplasty Revascularization Investigation in Type 2 Diabetes) trial. JACC Cardiovasc Interv. 2009 May;2(5):384-92."
+            }, 
+            {
+                "PMID": "19231325", 
+                "citation": "Schwartz L, Kip KE, Alderman E, Lu J, Bates ER, Srinivas V, Bach RG, Mighton LD, Feit F, King S 3rd, Frye RL; BARI 2D Study Group. Baseline coronary angiographic findings in the Bypass Angioplasty Revascularization Investigation 2 Diabetes trial (BARI 2D). Am J Cardiol. 2009 Mar 1;103(5):632-8. Epub 2009 Jan 12."
+            }, 
+            {
+                "PMID": "16464721", 
+                "citation": "Iskandrian AE, Heo J, Mehta D, Tauxe EL, Yester M, Hall MB, MacGregor JM. Gated SPECT perfusion imaging for the simultaneous assessment of myocardial perfusion and ventricular function in the BARI 2D trial: an initial report from the Nuclear Core Laboratory. J Nucl Cardiol. 2006 Jan-Feb;13(1):83-90."
+            }, 
+            {
+                "PMID": "16813735", 
+                "citation": "Magee MF, Isley WL; BARI 2D Trial Investigators. Rationale, design, and methods for glycemic control in the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial. Am J Cardiol. 2006 Jun 19;97(12A):20G-30G. Epub 2006 Apr 19."
+            }, 
+            {
+                "PMID": "16813736", 
+                "citation": "Barsness GW, Gersh BJ, Brooks MM, Frye RL; BARI 2D Trial Investigators. Rationale for the revascularization arm of the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial. Am J Cardiol. 2006 Jun 19;97(12A):31G-40G. Epub 2006 Apr 17."
+            }, 
+            {
+                "PMID": "16813738", 
+                "citation": "Sobel BE; BARI 2D Trial Investigators. Ancillary studies in the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial: Synergies and opportunities. Am J Cardiol. 2006 Jun 19;97(12A):53G-58G. Epub 2006 Apr 17."
+            }, 
+            {
+                "PMID": "16813739", 
+                "citation": "Hlatky MA, Melsop KA, Boothroyd DB; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial Investigators. Economic evaluation of alternative strategies to treat patients with diabetes mellitus and coronary artery disease. Am J Cardiol. 2006 Jun 19;97(12A):59G-65G. Epub 2006 Apr 7."
+            }, 
+            {
+                "PMID": "20042560", 
+                "citation": "Escobedo J, Rana JS, Lombardero MS, Albert SG, Davis AM, Kennedy FP, Mooradian AD, Robertson DG, Srinivas VS, Gebhart SS; BARI 2D Study Group. Association between albuminuria and duration of diabetes and myocardial dysfunction and peripheral arterial disease among patients with stable coronary artery disease in the BARI 2D study. Mayo Clin Proc. 2010 Jan;85(1):41-6. doi: 10.4065/mcp.2009.0265."
+            }, 
+            {
+                "PMID": "20102884", 
+                "citation": "McBane RD 2nd, Hardison RM, Sobel BE; BARI 2D Study Group. Comparison of plasminogen activator inhibitor-1, tissue type plasminogen activator antigen, fibrinogen, and D-dimer levels in various age decades in patients with type 2 diabetes mellitus and stable coronary artery disease (from the BARI 2D trial). Am J Cardiol. 2010 Jan 1;105(1):17-24. doi: 10.1016/j.amjcard.2009.08.643. Epub 2009 Nov 14."
+            }, 
+            {
+                "PMID": "19576321", 
+                "citation": "Pop-Busui R, Lombardero M, Lavis V, Forker A, Green J, Korytkowski M, Sobel BE, Jones TL; BARI 2D Study Group. Relation of severe coronary artery narrowing to insulin or thiazolidinedione use in patients with type 2 diabetes mellitus (from the Bypass Angioplasty Revascularization Investigation 2 Diabetes Study). Am J Cardiol. 2009 Jul 1;104(1):52-8. Epub 2009 May 13."
+            }, 
+            {
+                "PMID": "19228864", 
+                "citation": "Schneider DJ, Hardison RM, Lopes N, Sobel BE, Brooks MM; Pro-Thrombosis Ancillary Study Group. Association between increased platelet P-selectin expression and obesity in patients with type 2 diabetes: a BARI 2D (Bypass Angioplasty Revascularization Investigation 2 Diabetes) substudy. Diabetes Care. 2009 May;32(5):944-9. Epub 2009 Feb 19."
+            }, 
+            {
+                "PMID": "19335534", 
+                "citation": "Pop-Busui R, Lu J, Lopes N, Jones TL; BARI 2D Investigators. Prevalence of diabetic peripheral neuropathy and relation to glycemic control therapies at baseline in the BARI 2D cohort. J Peripher Nerv Syst. 2009 Mar;14(1):1-13."
+            }, 
+            {
+                "PMID": "19301686", 
+                "citation": "Pambianco G, Lombardero M, Bittner V, Forker A, Kennedy F, Krishnaswami A, Mooradian AD, Pop-Busui R, Rana JS, Rodriguez A, Steffes M, Orchard TJ. Control of lipids at baseline in the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial. Prev Cardiol. 2009 Winter;12(1):9-18."
+            }, 
+            {
+                "PMID": "16813733", 
+                "citation": "Steiner G; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial Investigators. Statement of the problem. Am J Cardiol. 2006 Jun 19;97(12A):3G-8G. Epub 2006 Apr 7."
+            }, 
+            {
+                "PMID": "16813737", 
+                "citation": "Albu J, Gottlieb SH, August P, Nesto RW, Orchard TJ; Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial Investigators. Modifications of coronary risk factors. Am J Cardiol. 2006 Jun 19;97(12A):41G-52G. Epub 2006 Apr 19."
+            }, 
+            {
+                "citation": "Detre KM, Frye RL, Genuth S, guest editors. A Symposium: Treatment of Coronary Artery Disease and Type 2 Diabetes: The Rationale for the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) Trial. American Journal of Cardiology 2006; 97(suppl 12A): 1G-65G."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006305"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Pittsburgh", 
+            "investigator_full_name": "Maria Mori Brooks", 
+            "investigator_title": "Associate Professor of Epidemiology", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Number of Participants With Death, Myocardial Infarction, or Stroke", 
+            "safety_issue": "No", 
+            "time_frame": "five years"
+        }, 
+        "source": "University of Pittsburgh", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Pittsburgh", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2000", 
+        "study_design": "Allocation: Randomized, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2012"
+    }, 
+    "geocoordinates": {}
+}

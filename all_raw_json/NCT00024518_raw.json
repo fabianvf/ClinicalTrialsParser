@@ -1,0 +1,253 @@
+{
+    "clinical_study": {
+        "@rank": "30365", 
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "placebo was prepared as saline alone with 6mg human serum albumin (HSA). Subjects orally ingested one vial each morning before breakfast with at least 150mL water."
+            }, 
+            {
+                "arm_group_label": "5,000 Units hrIFN-alpha", 
+                "arm_group_type": "Experimental", 
+                "description": "hrIFN-alpha = human recombinant interferon-alpha. 5,000 units was prepared along with saline and 6mg HSA. Subjects orally ingested one vial each morning before breakfast with at least 150mL water."
+            }, 
+            {
+                "arm_group_label": "30,000 hrIFN-alpha", 
+                "arm_group_type": "Experimental", 
+                "description": "30,000 units hrIFN-alpha was prepared along with saline and 6mg HSA. Subjects orally ingested one vial each morning before breakfast with at least 150mL water."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will see if interferon-alpha given early in the disease can stop or slow the\n      immune attack on insulin-producing cells. In addition, the study will examine the safety and\n      efficacy of interferon-alpha (given by mouth) to protect beta cell function. Patients\n      between 3 and 25 years of age with Type 1 Diabetes Mellitus less then six weeks may be\n      eligible for this study. All study-related tests and medications at the NIH Clinical Center\n      are provided at no cost."
+        }, 
+        "brief_title": "Interferon-Alpha for Diabetes Mellitus Type 1", 
+        "completion_date": {
+            "#text": "September 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Insulin-Dependent Diabetes Mellitus", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Type 1 diabetes mellitus (T1DM) results from autoimmune destruction of the insulin-producing\n      pancreatic beta-cells. The onset of clinical symptoms represents the endpoint of a chronic\n      progressive decline in beta-cell function when the number of functional beta-cells descends\n      below the critical mass required for maintenance of euglycemia ([1], [2]). However, the\n      pancreas still retains the ability to produce a substantial amount of insulin. The goal of\n      secondary prevention in T1DM is to avert further destruction of the remaining beta-cells and\n      therefore delay or stop entry into the final stages of the disease associated with end organ\n      damage.\n\n      The rationale for this study is to interfere with the autoimmune beta-cell destruction early\n      on in order to preserve as much residual endogenous insulin production as possible. We plan\n      to administer oral interferon-alpha (IFN-a) on a daily basis, which has been shown to modify\n      the clinical course of diabetes, to alter cytokine release, and reduce expression of T cell\n      activation markers in an animal model ([3]) and a pilot project in humans (S. Brod,\n      University of Texas, unpublished data). The one-year study is designed as a double blind\n      randomized protocol using either 5,000 or 30,000 units of IFN-a versus placebo. Five centers\n      will participate in this protocol (University of Texas Health Science Center in Houston;\n      Dallas; Children's Hospital, St. Paul, MN; Kansas City and NIH, Bethesda, Maryland)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        T1DM of less than 6 weeks duration in patients between 3 and 25 years of age.\n\n        Besides T1DM, no concurrent illness.\n\n        EXCLUSION CRITERIA:\n\n        Treatment with immunosuppressive or immunostimulatory medications such as azathioprine,\n        nicotinamide, superoxide dismutase-desferroxamine, aminoguanidine, oral insulin or other\n        experimental therapies at the present time or in the past.\n\n        Abnormal pre-treatment white blood cell count (WBC) or thrombocytopenia.\n\n        Known active diseases, e.g. cardiac, renal, hepatic diseases or immunodeficiency.\n\n        History of cancer, neuropathy seizure disorders (except typical history of febrile\n        seizures in childhood), peripheral vascular disease, coagulation abnormalities, autoimmune\n        disease (except type 1 diabetes) or cerebrovascular disease.\n\n        Ongoing use of medications known to influence glucose tolerance (e.g. sulfonylureas,\n        metformin, diphenylhydantoin, thiazide or other potassium depleting diuretics,\n        beta-adrenergic blockers, niacin) except insulin.\n\n        Any medical condition that, in the opinion of the investigator, will interfere with the\n        safe completion of the trial.\n\n        Inability to give informed consent or assent.\n\n        Participation in a clinical trial within the previous 6 weeks.\n\n        Lactating or pregnant female individual (individuals will be advised not to volunteer for\n        the protocol if they plan to become pregnant during the time of the study and they are\n        instructed to use an effective method of contraception).\n\n        Age above 25 years, since there may be several subtypes of T1DM."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "25 Years", 
+            "minimum_age": "3 Years"
+        }, 
+        "enrollment": {
+            "#text": "57", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 19, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00024518", 
+            "org_study_id": "010249", 
+            "secondary_id": "01-DK-0249"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "30,000 hrIFN-alpha", 
+                "description": "N/A", 
+                "intervention_name": "30,000 units hrINF-alpha", 
+                "intervention_type": "Drug", 
+                "other_name": "Human Recombinant Interferon-alpha"
+            }, 
+            {
+                "arm_group_label": "5,000 Units hrIFN-alpha", 
+                "intervention_name": "5,000 hrINF-alpha", 
+                "intervention_type": "Drug", 
+                "other_name": "Human Recombinant Interferon-alpha"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "placebo was prepared as saline alone with 6mg human serum albumin (HSA).", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Interferon-alpha", 
+                "Interferon Alfa-2a", 
+                "Interferons"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Diabetes", 
+            "Immunotherapy", 
+            "Study Drug", 
+            "Insulin Dependent Diabetes", 
+            "Diabetes Mellitus", 
+            "TIBM"
+        ], 
+        "lastchanged_date": "November 18, 2013", 
+        "link": {
+            "description": "NIH Clinical Center Detailed Web Page", 
+            "url": "http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2001-DK-0249.html"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bethesda", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20892"
+                    }, 
+                    "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota"
+                    }, 
+                    "name": "Children's Hospital - St. Paul"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri"
+                    }, 
+                    "name": "Children's Hospital - Kansas City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75216"
+                    }, 
+                    "name": "University of Texas, Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "University of Texas, Houston"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Ingested Interferon-Alpha: Prolongation or Permanence of the \"Honeymoon\" Phase in Newly Diagnosed Diabetes Mellitus", 
+        "overall_official": [
+            {
+                "affiliation": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                "last_name": "Kristina I Rother, M.D.", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "The University of Texas Health Science Center, Houston", 
+                "last_name": "Staley A Brod, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "September 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The Connecting Peptide, or C-peptide, is a short 31-amino-acid protein that connects insulin's A-chain to its B-chain in the proinsulin molecule.", 
+            "measure": "C-Peptide Level", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline - 3mth, 6mnth, 9mnth, 12mnth"
+        }, 
+        "reference": [
+            {
+                "PMID": "7969282", 
+                "citation": "Atkinson MA, Maclaren NK. The pathogenesis of insulin-dependent diabetes mellitus. N Engl J Med. 1994 Nov 24;331(21):1428-36. Review. No abstract available."
+            }, 
+            {
+                "PMID": "3517648", 
+                "citation": "Eisenbarth GS. Type I diabetes mellitus. A chronic autoimmune disease. N Engl J Med. 1986 May 22;314(21):1360-8. Review. No abstract available."
+            }, 
+            {
+                "PMID": "9794112", 
+                "citation": "Brod SA, Malone M, Darcan S, Papolla M, Nelson L. Ingested interferon alpha suppresses type I diabetes in non-obese diabetic mice. Diabetologia. 1998 Oct;41(10):1227-32."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00024518"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "19564474", 
+            "citation": "Rother KI, Brown RJ, Morales MM, Wright E, Duan Z, Campbell C, Harlan DM, Orlander PR, Brod SA, Hardin DS, Popovic J, McEvoy RC. Effect of ingested interferon-alpha on beta-cell function in children with new-onset type 1 diabetes. Diabetes Care. 2009 Jul;32(7):1250-5."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Serum glucose or blood sugar measurements determine how much sugar is in the blood.", 
+                "measure": "Serum glucose", 
+                "safety_issue": "No", 
+                "time_frame": "baseline - 3mths, 6mnths, 9mnths, 12mnths"
+            }, 
+            {
+                "description": "a form of hemoglobin that is measured primarily to identify the average plasma glucose concentration over prolonged periods of time.", 
+                "measure": "Hemoglobin A1C", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline - 3mnths, 6mnths, 9mnths, 12mnths"
+            }
+        ], 
+        "source": "The University of Texas Health Science Center, Houston", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "The University of Texas Health Science Center, Houston", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }, 
+    "geocoordinates": {
+        "Children's Hospital - Kansas City": "39.1 -94.579", 
+        "Children's Hospital - St. Paul": "44.954 -93.114", 
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095", 
+        "University of Texas, Dallas": "32.803 -96.77", 
+        "University of Texas, Houston": "29.76 -95.369"
+    }
+}

@@ -1,0 +1,3285 @@
+{
+    "clinical_study": {
+        "@rank": "112952", 
+        "arm_group": {
+            "arm_group_label": "Trastuzumab, docetaxel, vinorelbine and filgrastim", 
+            "arm_group_type": "Experimental", 
+            "description": "Trastuzumab, docetaxel, vinorelbine and filgrastim"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy work in different ways to stop tumor cells from\n      dividing so they stop growing or die. Monoclonal antibodies, such as trastuzumab, can locate\n      tumor cells and either kill them or deliver tumor-killing substances to them without harming\n      normal cells. Colony-stimulating factors, such as filgrastim, may help a person's immune\n      system recover from the side effects of chemotherapy.\n\n      PURPOSE: Phase II trial to study the effectiveness of combining trastuzumab with docetaxel,\n      vinorelbine, and filgrastim in treating women who have stage IV breast cancer."
+        }, 
+        "brief_title": "S0215 Trastuzumab, Docetaxel, Vinorelbine, and Filgrastim in Treating Women With Stage IV Breast Cancer", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Trastuzumab, docetaxel, vinorelbine and filgrastim\ndocetaxel : 60 mg/m^2 on Day 1 of 21-day cycles\nvinorelbine : 27.5 mg/m^2 on Days 8 and 15\nfilgrastim : 5 microg/kg/day on Days 2 to 21\ntrastuzumab : 4 mg/kg by IV over a 90-minute period on Day 1 of the first cycle, then weekly 2 mg/kg by IV over a 30-minute period", 
+                        "title": "Trastuzumab, Docetaxel, Vinorelbine and Filgrastim"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "74"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "11"
+                                            }
+                                        }, 
+                                        "sub_title": "30-39"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "26"
+                                            }
+                                        }, 
+                                        "sub_title": "40-49"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "19"
+                                            }
+                                        }, 
+                                        "sub_title": "50-59"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "15"
+                                            }
+                                        }, 
+                                        "sub_title": "60-69"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "3"
+                                            }
+                                        }, 
+                                        "sub_title": "70-79"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age, Customized", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "74"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Trastuzumab, docetaxel, vinorelbine and filgrastim\ndocetaxel : 60 mg/m^2 on Day 1 of 21-day cycles\nvinorelbine : 27.5 mg/m^2 on Days 8 and 15\nfilgrastim : 5 microg/kg/day on Days 2 to 21\ntrastuzumab : 4 mg/kg by IV over a 90-minute period on Day 1 of the first cycle, then weekly 2 mg/kg by IV over a 30-minute period", 
+                                "title": "Trastuzumab, Docetaxel, Vinorelbine and Filgrastim"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "74"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "84", 
+                                                    "@upper_limit": "97", 
+                                                    "@value": "93"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Survival at 1 Year", 
+                                    "units": "percentage of patients"
+                                }
+                            ]
+                        }, 
+                        "population": "All eligible patients", 
+                        "safety_issue": "No", 
+                        "time_frame": "1 year", 
+                        "title": "Survival at 1 Year", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Response was measured by the RECIST criteria.   A patient was considered a responder if there was confirmed or unconfirmed partial or complete response.  All others were considered non-responders even if the patient was technically not assessable due to different measurement techniques at the two time points.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Trastuzumab, docetaxel, vinorelbine and filgrastim\ndocetaxel : 60 mg/m^2 on Day 1 of 21-day cycles\nvinorelbine : 27.5 mg/m^2 on Days 8 and 15\nfilgrastim : 5 microg/kg/day on Days 2 to 21\ntrastuzumab : 4 mg/kg by IV over a 90-minute period on Day 1 of the first cycle, then weekly 2 mg/kg by IV over a 30-minute period", 
+                                "title": "Trastuzumab, Docetaxel, Vinorelbine and Filgrastim"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "63"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "63", 
+                                                    "@upper_limit": "84", 
+                                                    "@value": "53"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Response was measured by the RECIST criteria.   A patient was considered a responder if there was confirmed or unconfirmed partial or complete response.  All others were considered non-responders even if the patient was technically not assessable due to different measurement techniques at the two time points.", 
+                                    "param": "Number", 
+                                    "title": "Response Rate (Complete and Partial, Confirmed and Unconfirmed)", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "patients with Response Evaluation Criteria in Solid Tumors measurable disease", 
+                        "safety_issue": "No", 
+                        "time_frame": "response assessed after every 3 cycles (9 weeks) during treatment for up to 3 years if no progession", 
+                        "title": "Response Rate (Complete and Partial, Confirmed and Unconfirmed)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Trastuzumab, docetaxel, vinorelbine and filgrastim\ndocetaxel : 60 mg/m^2 on Day 1 of 21-day cycles\nvinorelbine : 27.5 mg/m^2 on Days 8 and 15\nfilgrastim : 5 microg/kg/day on Days 2 to 21\ntrastuzumab : 4 mg/kg by IV over a 90-minute period on Day 1 of the first cycle, then weekly 2 mg/kg by IV over a 30-minute period", 
+                                "title": "Trastuzumab, Docetaxel, Vinorelbine and Filgrastim"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "74"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "15", 
+                                                    "@upper_limit": "28", 
+                                                    "@value": "20"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Median", 
+                                    "title": "Progression-free Survival", 
+                                    "units": "months"
+                                }
+                            ]
+                        }, 
+                        "population": "All eligible patients", 
+                        "safety_issue": "No", 
+                        "time_frame": "2 years", 
+                        "title": "Progression-free Survival", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Number of patients for whom highest grade of toxicity observed during treatment.  Only adverse events that are possibly, probably or definitely related to study drug are reported.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "title": "Docetaxel + Vinorelbine + G-CSF + Trastuzumab"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "73"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Alkaline phosphatase increase"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "7"
+                                                    }
+                                                }, 
+                                                "sub_title": "Anemia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Arthralgia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Bone pain"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Catheter related infection"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Chest pain,not cardio or pleur"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Dehydration"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Depression"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Diarrhea without colostomy"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Dyspepsia/heartburn"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Dyspnea"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }
+                                                }, 
+                                                "sub_title": "Fatigue/malaise/lethargy"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4"
+                                                    }
+                                                }, 
+                                                "sub_title": "Febrile neutropenia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }
+                                                }, 
+                                                "sub_title": "Headache"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "6"
+                                                    }
+                                                }, 
+                                                "sub_title": "Hyperglycemia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Hypermagnesemia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Hypokalemia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Hypophosphatemia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Hypotension"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Hypoxia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4"
+                                                    }
+                                                }, 
+                                                "sub_title": "Infection w/o 3-4 neutropenia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Infection with 3-4 neutropenia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "LVEF decrease/CHF"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "11"
+                                                    }
+                                                }, 
+                                                "sub_title": "Leukopenia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Lymphopenia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Muscle weakness (not neuro)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }
+                                                }, 
+                                                "sub_title": "Nausea"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "16"
+                                                    }
+                                                }, 
+                                                "sub_title": "Neutropenia/granulocytopenia"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "PRBC transfusion"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }
+                                                }, 
+                                                "sub_title": "Pain-other"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Pericar. effusion/pericarditis"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }
+                                                }, 
+                                                "sub_title": "Pneumonitis/infiltrates"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Respiratory infect w/ neutrop"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Respiratory infection, unk ANC"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "SGPT (ALT) increase"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }
+                                                }, 
+                                                "sub_title": "Sensory neuropathy"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Syncope"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Tearing"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Thrombosis/embolism"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Transplant-pRBC transfusion"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Vomiting"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Number of patients for whom highest grade of toxicity observed during treatment.  Only adverse events that are possibly, probably or definitely related to study drug are reported.", 
+                                    "param": "Number", 
+                                    "title": "Toxicity", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Eligible patients", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "toxicities assessed every 3 weeks during treatment, for up to 3 years if no progession", 
+                        "title": "Toxicity", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Trastuzumab, docetaxel, vinorelbine and filgrastim\ndocetaxel : 60 mg/m^2 on Day 1 of 21-day cycles\nvinorelbine : 27.5 mg/m^2 on Days 8 and 15\nfilgrastim : 5 microg/kg/day on Days 2 to 21\ntrastuzumab : 4 mg/kg by IV over a 90-minute period on Day 1 of the first cycle, then weekly 2 mg/kg by IV over a 30-minute period", 
+                        "title": "Trastuzumab, Docetaxel, Vinorelbine and Filgrastim"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "20", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Adverse Event"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "19", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Progression"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Patient refusal"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "23", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Other reasons"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "2", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Ineligible"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "76", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "74", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Eligible"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "76", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "During the period February 2003 to December 2006, 76 patients were enrolled at 28 SWOG institutions."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "Study statistician", 
+                "organization": "SWOG", 
+                "phone": "206-667-4623"
+            }, 
+            "reported_events": {
+                "desc": "Of the 74 eligible patients analyzed, one patient did not have toxicity assessments performed so only 73 patients are included in the adverse event evaluation.", 
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "title": "Docetaxel + Vinorelbine + G-CSF + Trastuzumab"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "71", 
+                                            "@subjects_at_risk": "73"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "59", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Febrile neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "4", 
+                                            "@subjects_at_risk": "73"
+                                        }, 
+                                        "sub_title": "LVEF decrease/CHF"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Conjunctivitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Eye-other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Tearing"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Abdominal pain/cramping"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Constipation/bowel obstruction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "32", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Diarrhea without colostomy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Dyspepsia/heartburn"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "26", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "20", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "18", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "63", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Fatigue/malaise/lethargy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Fever without neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Pain-other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Rigors/chills"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "12", 
+                                            "@subjects_at_risk": "73"
+                                        }, 
+                                        "sub_title": "Infection w/o 3-4 neutropenia"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "40", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Alkaline phosphatase increase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Bilirubin increase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "23", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "24", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Neutropenia/granulocytopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "17", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "SGOT (AST) increase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "SGPT (ALT) increase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Thrombocytopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Weight loss"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Hypercalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Hypocalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Hypokalemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "33", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Bone pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Chest pain,not cardio or pleur"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Muscle weakness (not neuro)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "24", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Myalgia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Dizziness/light headedness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Neuropathic pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "35", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Sensory neuropathy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Taste disturbance"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Anxiety/agitation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Insomnia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "5", 
+                                            "@subjects_at_risk": "73"
+                                        }, 
+                                        "sub_title": "Dysuria"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Allergic rhinitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Dyspnea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Pneumonitis/infiltrates"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "43", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Alopecia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Nail changes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Rash/desquamation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Hot flashes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "73"
+                                            }, 
+                                            "sub_title": "Hypotension"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)", 
+                    "frequency_threshold": "5"
+                }, 
+                "time_frame": "Every 3 weeks for up to 3 years."
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the 1-year survival of women with HER2-positive stage IV breast cancer\n           treated with trastuzumab (Herceptin), docetaxel, and vinorelbine with filgrastim\n           (G-CSF) support.\n\n        -  Determine the response rate (complete and partial, confirmed and unconfirmed) in the\n           subset of patients with measurable disease treated with this regimen.\n\n        -  Determine the progression-free survival of patients treated with this regimen.\n\n        -  Determine the qualitative and quantitative toxic effects of this regimen in these\n           patients.\n\n        -  Obtain tissue blocks for the determination of predictors of response (e.g.,\n           beta-tubulin mutations) to microtubule interacting agents in this patient population\n           and for other future studies.\n\n      OUTLINE: This is a pilot, multicenter study.\n\n      Patients receive docetaxel IV over 1 hour on day 1, filgrastim (G-CSF) subcutaneously on\n      days 2-21, vinorelbine IV over 6-10 minutes on days 8 and 15, and trastuzumab (Herceptin) IV\n      over 30-90 minutes on days 1, 8, and 15. Courses repeat every 21 days in the absence of\n      disease progression or unacceptable toxicity. If docetaxel and vinorelbine are discontinued\n      due to unacceptable toxicity, patients may continue to receive trastuzumab. If trastuzumab\n      is discontinued due to unacceptable toxicity, patients may continue to receive chemotherapy\n      with G-CSF support.\n\n      Patients are followed every 6 months for 3 years.\n\n      PROJECTED ACCRUAL: A total of 90 patients will be accrued for this study within 18-22.5\n      months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed stage IV breast cancer\n\n               -  Metastasis to the ipsilateral supraclavicular lymph nodes allowed\n\n          -  HER2-positive by fluorescence in situ hybridization (FISH) or immunohistochemistry 3+\n             staining confirmed in the adjuvant or metastatic setting\n\n          -  No effusions or ascites as only sites of disease\n\n          -  No primary or metastatic brain or central nervous system tumor\n\n          -  Hormone receptor status:\n\n               -  Not specified\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Sex:\n\n          -  Female\n\n        Menopausal status:\n\n          -  Not specified\n\n        Performance status:\n\n          -  Zubrod 0-2\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n        Hepatic:\n\n          -  Bilirubin normal\n\n          -  aspartate aminotransferase or Alanine aminotranferease no greater than 1.5 times\n             upper limit of normal (ULN)\n\n          -  Alkaline phosphatase no greater than 2.5 times ULN\n\n        Renal:\n\n          -  Not specified\n\n        Cardiovascular:\n\n          -  left ventricular ejection fraction normal by multigated radionuclide angiography or\n             echocardiogram (patients who have received prior anthracycline therapy)\n\n          -  No clinical evidence or history of cardiomyopathy\n\n        Other:\n\n          -  No pre-existing grade 2 or greater motor or sensory peripheral neuropathy except\n             abnormalities due to cancer\n\n          -  No prior severe hypersensitivity reaction to docetaxel or other drugs formulated with\n             Polysorbate 80\n\n          -  No other malignancy within the past 5 years except adequately treated basal cell or\n             squamous cell skin cancer, carcinoma in situ of the cervix, or other adequately\n             treated stage I or II cancer currently in complete remission\n\n          -  No known sensitivity to E. coli-derived proteins\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  At least 6 months since prior chemotherapy\n\n          -  Prior anthracycline as adjuvant therapy allowed\n\n          -  No prior cumulative dose of doxorubicin more than 360 mg/m^2\n\n          -  No prior cumulative dose of epirubicin more than 720 mg/m^2\n\n          -  No more than 1 prior adjuvant or neoadjuvant chemotherapy regimen for primary disease\n\n          -  No prior docetaxel\n\n          -  No prior vinorelbine\n\n          -  Prior paclitaxel allowed\n\n        Endocrine therapy:\n\n          -  Prior hormonal therapy as adjuvant therapy or for metastatic breast cancer allowed\n\n          -  No concurrent hormonal therapy\n\n        Radiotherapy:\n\n          -  At least 3 weeks since prior radiotherapy\n\n        Surgery:\n\n          -  At least 2 weeks since prior surgery and recovered"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "76", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 8, 2002", 
+        "firstreceived_results_date": "November 15, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00041067", 
+            "org_study_id": "CDR0000069440", 
+            "secondary_id": [
+                "S0215", 
+                "U10CA032102"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Trastuzumab, docetaxel, vinorelbine and filgrastim", 
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Trastuzumab, docetaxel, vinorelbine and filgrastim", 
+                "intervention_name": "trastuzumab", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Trastuzumab, docetaxel, vinorelbine and filgrastim", 
+                "intervention_name": "docetaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Trastuzumab, docetaxel, vinorelbine and filgrastim", 
+                "intervention_name": "vinorelbine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Vinorelbine", 
+                "Vinblastine", 
+                "Docetaxel", 
+                "Trastuzumab", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "stage IV breast cancer", 
+            "recurrent breast cancer"
+        ], 
+        "lastchanged_date": "May 20, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/SWOG-S0215"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mobile", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36652-2144"
+                    }, 
+                    "name": "Mobile Infirmary Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft. Smith", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72903"
+                    }, 
+                    "name": "Hembree Mercy Cancer Center at St. Edward Mercy Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jonesboro", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72401-9320"
+                    }, 
+                    "name": "Ben E. Owens Cancer Treatment Center at St. Bernard's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Castro Valley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94546"
+                    }, 
+                    "name": "Eden Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hayward", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94545"
+                    }, 
+                    "name": "Saint Rose Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609"
+                    }, 
+                    "name": "CCOP - Bay Area Tumor Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609"
+                    }, 
+                    "name": "Alta Bates Summit Medical Center - Summit Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94602"
+                    }, 
+                    "name": "Highland General Hospital at St. George's University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pleasanton", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94588"
+                    }, 
+                    "name": "Valley Care Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95819"
+                    }, 
+                    "name": "Mercy General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "University of California Davis Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Pablo", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94806"
+                    }, 
+                    "name": "Doctors Medical Center - San Pablo Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pensacola", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32514"
+                    }, 
+                    "name": "West Florida Cancer Institute at West Florida Hospital - Pensacola"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boise", 
+                        "country": "United States", 
+                        "state": "Idaho", 
+                        "zip": "83712"
+                    }, 
+                    "name": "St. Luke's Mountain States Tumor Institute - Boise"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Alton", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "62002"
+                    }, 
+                    "name": "Saint Anthony's Hospital at Saint Anthony's Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maywood", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60153"
+                    }, 
+                    "name": "Cardinal Bernardin Cancer Center at Loyola University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mt. Vernon", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "62864"
+                    }, 
+                    "name": "Good Samaritan Regional Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Naperville", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60540"
+                    }, 
+                    "name": "Edward Hospital Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Naperville", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60540"
+                    }, 
+                    "name": "Hematology Oncology Consultants - Naperville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chanute", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66720"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Chanute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dodge City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67801"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Dodge City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "El Dorado", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67042"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - El Dorado"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kingman", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67068"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Kingman"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liberal", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67901"
+                    }, 
+                    "name": "Southwest Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newton", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67114"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Newton"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parsons", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67357"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Parsons"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pratt", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67124"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Pratt"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salina", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67042"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Salina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salina", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67401"
+                    }, 
+                    "name": "Tammy Walker Cancer Center at Salina Regional Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Topeka", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66606"
+                    }, 
+                    "name": "St. Francis Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Topeka", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66604"
+                    }, 
+                    "name": "Stormont-Vail Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wellington", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67152"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Wellington"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67208"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Medical Arts Tower"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67203"
+                    }, 
+                    "name": "Associates in Womens Health, PA - North Review"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "Via Christi Cancer Center at Via Christi Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winfield", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67156"
+                    }, 
+                    "name": "Cancer Center of Kansas, PA - Winfield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48106"
+                    }, 
+                    "name": "CCOP - Michigan Cancer Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0942"
+                    }, 
+                    "name": "University of Michigan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48106-0995"
+                    }, 
+                    "name": "Saint Joseph Mercy Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bay City", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48708"
+                    }, 
+                    "name": "Bay Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201-1379"
+                    }, 
+                    "name": "Barbara Ann Karmanos Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Flint", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48503"
+                    }, 
+                    "name": "Genesys Hurley Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grosse Pointe Woods", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48236"
+                    }, 
+                    "name": "Van Elslander Cancer Center at St. John Hospital and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mount Clemens", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48043"
+                    }, 
+                    "name": "Ted B. Wahby Cancer Center at Mount Clemens General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Port Huron", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48060"
+                    }, 
+                    "name": "Mercy Regional Cancer Center at Mercy Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saginaw", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48601"
+                    }, 
+                    "name": "Seton Cancer Institute - Saginaw"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warren", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48093"
+                    }, 
+                    "name": "St. John Macomb Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cape Girardeau", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63701"
+                    }, 
+                    "name": "Saint Francis Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gape Girardeau", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63701"
+                    }, 
+                    "name": "Southeast Missouri Regional Cancer Center at Southeast Missouri Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "David C. Pratt Cancer Center at St. John's Mercy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65807"
+                    }, 
+                    "name": "Hulston Cancer Center at Cox Medical Center South"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65802"
+                    }, 
+                    "name": "CCOP - Cancer Research for the Ozarks"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65804"
+                    }, 
+                    "name": "St. John's Regional Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "CCOP - St. Louis-Cape Girardeau"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59101"
+                    }, 
+                    "name": "St. Vincent Healthcare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59107-5100"
+                    }, 
+                    "name": "Billings Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59101"
+                    }, 
+                    "name": "CCOP - Montana Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59101"
+                    }, 
+                    "name": "Hematology-Oncology Centers of the Northern Rockies - Billings"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59101"
+                    }, 
+                    "name": "Northern Rockies Radiation Oncology Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59107-7000"
+                    }, 
+                    "name": "Deaconess Billings Clinic - Downtown"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bozeman", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59715"
+                    }, 
+                    "name": "Bozeman Deaconess Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Butte", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59701"
+                    }, 
+                    "name": "St. James Community Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Falls", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59405"
+                    }, 
+                    "name": "Sletten Regional Cancer Institute at Benefis Healthcare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Falls", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59405"
+                    }, 
+                    "name": "Great Falls Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Falls", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59405"
+                    }, 
+                    "name": "Big Sky Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Helena", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59601"
+                    }, 
+                    "name": "St. Peter's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalispell", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59901"
+                    }, 
+                    "name": "Kalispell Medical Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalispell", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59901"
+                    }, 
+                    "name": "Kalispell Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalispell", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59901"
+                    }, 
+                    "name": "Glacier Oncology, PLLC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Missoula", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59804"
+                    }, 
+                    "name": "Guardian Oncology and Center for Wellness"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Missoula", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59807-7877"
+                    }, 
+                    "name": "Montana Cancer Specialists at Montana Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Missoula", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59807"
+                    }, 
+                    "name": "Montana Cancer Center at St. Patrick Hospital and Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Missoula", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59801"
+                    }, 
+                    "name": "Community Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kearney", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68848-1990"
+                    }, 
+                    "name": "Good Samaritan Cancer Center at Good Samaritan Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ridgewood", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07450"
+                    }, 
+                    "name": "Valley Hospital - Ridgewood"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87106"
+                    }, 
+                    "name": "Hematology Oncology Associates, PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87108"
+                    }, 
+                    "name": "Lovelace Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87131-5636"
+                    }, 
+                    "name": "University of New Mexico Cancer Research and Treatment Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Fe", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87505"
+                    }, 
+                    "name": "New Mexico Cancer Care Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14620"
+                    }, 
+                    "name": "Highland Hospital of Rochester"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14623"
+                    }, 
+                    "name": "Interlakes Oncology/Hematology PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "James P. Wilmot Cancer Center at University of Rochester Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Goldsboro", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27534"
+                    }, 
+                    "name": "Wayne Memorial Hospital, Incorporated"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rutherfordton", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28139"
+                    }, 
+                    "name": "Rutherford Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27103"
+                    }, 
+                    "name": "Forsyth Regional Cancer Center at Forsyth Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Taussig Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Independence", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44131"
+                    }, 
+                    "name": "Community Oncology Group at Cleveland Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mansfield", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44903"
+                    }, 
+                    "name": "MedCentral - Mansfield Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wooster", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44691"
+                    }, 
+                    "name": "Cleveland Clinic - Wooster"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gresham", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97030"
+                    }, 
+                    "name": "Legacy Mount Hood Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukie", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97222"
+                    }, 
+                    "name": "Providence Milwaukie Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97210"
+                    }, 
+                    "name": "Legacy Good Samaritan Hospital & Medical Center Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97227"
+                    }, 
+                    "name": "Legacy Emanuel Hospital and Health Center & Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97225"
+                    }, 
+                    "name": "CCOP - Columbia River Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97213-2967"
+                    }, 
+                    "name": "Providence Cancer Center at Providence Portland Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97225"
+                    }, 
+                    "name": "Providence St. Vincent Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tualatin", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97062"
+                    }, 
+                    "name": "Legacy Meridian Park Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Anderson", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29621"
+                    }, 
+                    "name": "AnMed Health Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29601"
+                    }, 
+                    "name": "Bon Secours St. Francis Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29615"
+                    }, 
+                    "name": "CCOP - Greenville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spartanburg", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29303"
+                    }, 
+                    "name": "CCOP - Upstate Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spartanburg", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29303"
+                    }, 
+                    "name": "Gibbs Regional Cancer Center at Spartanburg Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77555-0361"
+                    }, 
+                    "name": "University of Texas Medical Branch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "University Hospital - San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229-3900"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Cancer Therapy and Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78209"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - San Antonio (Murphy)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "American Fork", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84003"
+                    }, 
+                    "name": "American Fork Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Logan", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84321"
+                    }, 
+                    "name": "Logan Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Murray", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84107"
+                    }, 
+                    "name": "Cottonwood Hospital Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ogden", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84403"
+                    }, 
+                    "name": "McKay-Dee Hospital Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Provo", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84604"
+                    }, 
+                    "name": "Utah Valley Regional Medical Center - Provo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint George", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84770"
+                    }, 
+                    "name": "Dixie Regional Medical Center - East Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84103"
+                    }, 
+                    "name": "Latter Day Saints Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84112"
+                    }, 
+                    "name": "Huntsman Cancer Institute at University of Utah"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84106"
+                    }, 
+                    "name": "Utah Cancer Specialists at UCS Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Danville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "24541"
+                    }, 
+                    "name": "Danville Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Auburn", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98002"
+                    }, 
+                    "name": "Auburn Regional Center for Cancer Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellingham", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98225"
+                    }, 
+                    "name": "St. Joseph Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bremerton", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98310"
+                    }, 
+                    "name": "Olympic Hematology and Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Centralia", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98531-9027"
+                    }, 
+                    "name": "Providence Centralia Hospital Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Federal Way", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98003"
+                    }, 
+                    "name": "St. Francis Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mt. Vernon", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98273"
+                    }, 
+                    "name": "Skagit Valley Hospital Cancer Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olympia", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98507"
+                    }, 
+                    "name": "Capital Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olympia", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98506-5166"
+                    }, 
+                    "name": "Providence St. Peter Hospital Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Puyallup", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98372"
+                    }, 
+                    "name": "Good Samaritan Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Minor and James Medical, PLLC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Fred Hutchinson Cancer Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98112"
+                    }, 
+                    "name": "Group Health Central Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Harborview Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98122"
+                    }, 
+                    "name": "Polyclinic First Hill"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98195-6043"
+                    }, 
+                    "name": "University Cancer Center at University of Washington Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98122-4307"
+                    }, 
+                    "name": "Swedish Cancer Institute at Swedish Medical Center - First Hill Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sedro-Wooley", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98284"
+                    }, 
+                    "name": "North Puget Oncology at United General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99202"
+                    }, 
+                    "name": "Cancer Care Northwest - Spokane South"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405-3004"
+                    }, 
+                    "name": "St. Joseph Medical Center at Franciscan Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405"
+                    }, 
+                    "name": "CCOP - Northwest"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405"
+                    }, 
+                    "name": "MultiCare Regional Cancer Center at Tacoma General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98499"
+                    }, 
+                    "name": "St. Clare Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405"
+                    }, 
+                    "name": "Allenmore Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98668"
+                    }, 
+                    "name": "Southwest Washington Medical Center Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wenatchee", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98801-2028"
+                    }, 
+                    "name": "Wenatchee Valley Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sheridan", 
+                        "country": "United States", 
+                        "state": "Wyoming", 
+                        "zip": "82801"
+                    }, 
+                    "name": "Welch Cancer Center at Sheridan Memorial Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Docetaxel (NSC-628503) And Vinorelbine (NSC-608210) Plus Filgrastim (NSC-614629) With Weekly Trastuzumab (NSC-688097) For HER-2 Positive, Stage IV Breast Cancer", 
+        "overall_official": {
+            "affiliation": "Edward Hospital Cancer Center", 
+            "last_name": "Joseph J. Kash, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Survival at 1 Year", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00041067"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "citation": "Kash J, Barlow WE, Albain KS, et al.: Phase II Southwest Oncology Group study of docetaxel and vinorelbine plus filgrastim with weekly trastuzumab for HER2-positive, stage IV breast cancer. [Abstract] J Clin Oncol 26 (Suppl 15): A-1033, 2008."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Response was measured by the RECIST criteria.   A patient was considered a responder if there was confirmed or unconfirmed partial or complete response.  All others were considered non-responders even if the patient was technically not assessable due to different measurement techniques at the two time points.", 
+                "measure": "Response Rate (Complete and Partial, Confirmed and Unconfirmed)", 
+                "safety_issue": "No", 
+                "time_frame": "response assessed after every 3 cycles (9 weeks) during treatment for up to 3 years if no progession"
+            }, 
+            {
+                "measure": "Progression-free Survival", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "Number of patients for whom highest grade of toxicity observed during treatment.  Only adverse events that are possibly, probably or definitely related to study drug are reported.", 
+                "measure": "Toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "toxicities assessed every 3 weeks during treatment, for up to 3 years if no progession"
+            }
+        ], 
+        "source": "Southwest Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Southwest Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2002", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2013"
+    }, 
+    "geocoordinates": {
+        "Allenmore Hospital": "47.253 -122.444", 
+        "Alta Bates Summit Medical Center - Summit Campus": "37.804 -122.271", 
+        "American Fork Hospital": "40.377 -111.796", 
+        "AnMed Health Cancer Center": "34.503 -82.65", 
+        "Associates in Womens Health, PA - North Review": "37.692 -97.337", 
+        "Auburn Regional Center for Cancer Care": "47.307 -122.228", 
+        "Barbara Ann Karmanos Cancer Institute": "42.331 -83.046", 
+        "Bay Regional Medical Center": "43.594 -83.889", 
+        "Ben E. Owens Cancer Treatment Center at St. Bernard's Medical Center": "35.842 -90.704", 
+        "Big Sky Oncology": "47.5 -111.301", 
+        "Billings Clinic Cancer Center": "45.783 -108.501", 
+        "Bon Secours St. Francis Health System": "34.853 -82.394", 
+        "Bozeman Deaconess Hospital": "45.683 -111.05", 
+        "CCOP - Bay Area Tumor Institute": "37.804 -122.271", 
+        "CCOP - Cancer Research for the Ozarks": "37.209 -93.292", 
+        "CCOP - Columbia River Oncology Program": "45.523 -122.676", 
+        "CCOP - Greenville": "34.853 -82.394", 
+        "CCOP - Michigan Cancer Research Consortium": "42.281 -83.743", 
+        "CCOP - Montana Cancer Consortium": "45.783 -108.501", 
+        "CCOP - Northwest": "47.253 -122.444", 
+        "CCOP - St. Louis-Cape Girardeau": "38.627 -90.199", 
+        "CCOP - Upstate Carolina": "34.95 -81.932", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "Cancer Care Northwest - Spokane South": "47.659 -117.426", 
+        "Cancer Center of Kansas, PA - Chanute": "37.679 -95.457", 
+        "Cancer Center of Kansas, PA - Dodge City": "37.753 -100.017", 
+        "Cancer Center of Kansas, PA - El Dorado": "37.817 -96.862", 
+        "Cancer Center of Kansas, PA - Kingman": "37.646 -98.114", 
+        "Cancer Center of Kansas, PA - Medical Arts Tower": "37.692 -97.337", 
+        "Cancer Center of Kansas, PA - Newton": "38.047 -97.345", 
+        "Cancer Center of Kansas, PA - Parsons": "37.34 -95.261", 
+        "Cancer Center of Kansas, PA - Pratt": "37.644 -98.738", 
+        "Cancer Center of Kansas, PA - Salina": "38.84 -97.611", 
+        "Cancer Center of Kansas, PA - Wellington": "37.265 -97.372", 
+        "Cancer Center of Kansas, PA - Wichita": "37.692 -97.337", 
+        "Cancer Center of Kansas, PA - Winfield": "37.24 -96.996", 
+        "Cancer Therapy and Research Center": "29.424 -98.494", 
+        "Capital Medical Center": "47.038 -122.901", 
+        "Cardinal Bernardin Cancer Center at Loyola University Medical Center": "41.879 -87.843", 
+        "Cleveland Clinic - Wooster": "40.805 -81.935", 
+        "Cleveland Clinic Taussig Cancer Center": "41.499 -81.695", 
+        "Community Medical Center": "46.861 -114.02", 
+        "Community Oncology Group at Cleveland Clinic Cancer Center": "41.369 -81.638", 
+        "Cottonwood Hospital Medical Center": "40.667 -111.888", 
+        "Danville Regional Medical Center": "36.586 -79.395", 
+        "David C. Pratt Cancer Center at St. John's Mercy": "38.627 -90.199", 
+        "Deaconess Billings Clinic - Downtown": "45.783 -108.501", 
+        "Dixie Regional Medical Center - East Campus": "37.095 -113.578", 
+        "Doctors Medical Center - San Pablo Campus": "37.962 -122.346", 
+        "Eden Medical Center": "37.694 -122.086", 
+        "Edward Hospital Cancer Center": "41.786 -88.147", 
+        "Forsyth Regional Cancer Center at Forsyth Medical Center": "36.1 -80.244", 
+        "Fred Hutchinson Cancer Research Center": "47.606 -122.332", 
+        "Genesys Hurley Cancer Institute": "43.013 -83.687", 
+        "Gibbs Regional Cancer Center at Spartanburg Regional Medical Center": "34.95 -81.932", 
+        "Glacier Oncology, PLLC": "48.201 -114.315", 
+        "Good Samaritan Cancer Center": "47.185 -122.293", 
+        "Good Samaritan Cancer Center at Good Samaritan Hospital": "40.7 -99.083", 
+        "Good Samaritan Regional Health Center": "38.317 -88.903", 
+        "Great Falls Clinic": "47.5 -111.301", 
+        "Group Health Central Hospital": "47.606 -122.332", 
+        "Guardian Oncology and Center for Wellness": "46.861 -114.02", 
+        "Harborview Medical Center": "47.606 -122.332", 
+        "Hematology Oncology Associates, PC": "35.084 -106.651", 
+        "Hematology Oncology Consultants - Naperville": "41.786 -88.147", 
+        "Hematology-Oncology Centers of the Northern Rockies - Billings": "45.783 -108.501", 
+        "Hembree Mercy Cancer Center at St. Edward Mercy Medical Center": "35.386 -94.399", 
+        "Highland General Hospital at St. George's University School of Medicine": "37.804 -122.271", 
+        "Highland Hospital of Rochester": "43.161 -77.611", 
+        "Hulston Cancer Center at Cox Medical Center South": "37.209 -93.292", 
+        "Huntsman Cancer Institute at University of Utah": "40.761 -111.891", 
+        "Interlakes Oncology/Hematology PC": "43.161 -77.611", 
+        "James P. Wilmot Cancer Center at University of Rochester Medical Center": "43.161 -77.611", 
+        "Kalispell Medical Oncology": "48.201 -114.315", 
+        "Kalispell Regional Medical Center": "48.201 -114.315", 
+        "Latter Day Saints Hospital": "40.761 -111.891", 
+        "Legacy Emanuel Hospital and Health Center & Children's Hospital": "45.523 -122.676", 
+        "Legacy Good Samaritan Hospital & Medical Center Comprehensive Cancer Center": "45.523 -122.676", 
+        "Legacy Meridian Park Hospital": "45.384 -122.764", 
+        "Legacy Mount Hood Medical Center": "45.5 -122.43", 
+        "Logan Regional Hospital": "41.735 -111.834", 
+        "Lovelace Medical Center": "35.084 -106.651", 
+        "McKay-Dee Hospital Center": "41.223 -111.974", 
+        "MedCentral - Mansfield Hospital": "40.758 -82.515", 
+        "Mercy General Hospital": "38.582 -121.494", 
+        "Mercy Regional Cancer Center at Mercy Hospital": "42.971 -82.425", 
+        "Minor and James Medical, PLLC": "47.606 -122.332", 
+        "Mobile Infirmary Medical Center": "30.694 -88.043", 
+        "Montana Cancer Center at St. Patrick Hospital and Health Sciences Center": "46.861 -114.02", 
+        "Montana Cancer Specialists at Montana Cancer Center": "46.861 -114.02", 
+        "MultiCare Regional Cancer Center at Tacoma General Hospital": "47.253 -122.444", 
+        "New Mexico Cancer Care Associates": "35.687 -105.938", 
+        "North Puget Oncology at United General Hospital": "48.504 -122.236", 
+        "Northern Rockies Radiation Oncology Center": "45.783 -108.501", 
+        "Olympic Hematology and Oncology": "47.57 -122.653", 
+        "Polyclinic First Hill": "47.606 -122.332", 
+        "Providence Cancer Center at Providence Portland Medical Center": "45.523 -122.676", 
+        "Providence Centralia Hospital Regional Cancer Center": "46.716 -122.954", 
+        "Providence Milwaukie Hospital": "45.446 -122.639", 
+        "Providence St. Peter Hospital Regional Cancer Center": "47.038 -122.901", 
+        "Providence St. Vincent Medical Center": "45.523 -122.676", 
+        "Rutherford Hospital": "35.369 -81.957", 
+        "Saint Anthony's Hospital at Saint Anthony's Health Center": "38.891 -90.184", 
+        "Saint Francis Medical Center": "37.306 -89.518", 
+        "Saint Joseph Mercy Cancer Center": "42.281 -83.743", 
+        "Saint Rose Hospital": "37.669 -122.081", 
+        "Seton Cancer Institute - Saginaw": "43.419 -83.951", 
+        "Skagit Valley Hospital Cancer Care Center": "48.421 -122.334", 
+        "Sletten Regional Cancer Institute at Benefis Healthcare": "47.5 -111.301", 
+        "Southeast Missouri Regional Cancer Center at Southeast Missouri Hospital": "37.329 -89.512", 
+        "Southwest Medical Center": "37.043 -100.921", 
+        "Southwest Washington Medical Center Cancer Center": "45.639 -122.661", 
+        "St. Clare Hospital": "47.253 -122.444", 
+        "St. Francis Comprehensive Cancer Center": "39.056 -95.689", 
+        "St. Francis Hospital": "47.322 -122.313", 
+        "St. James Community Hospital": "46.004 -112.534", 
+        "St. John Macomb Hospital": "42.493 -83.028", 
+        "St. John's Regional Health Center": "37.209 -93.292", 
+        "St. Joseph Cancer Center": "48.76 -122.488", 
+        "St. Joseph Medical Center at Franciscan Health System": "47.253 -122.444", 
+        "St. Luke's Mountain States Tumor Institute - Boise": "43.613 -116.211", 
+        "St. Peter's Hospital": "46.596 -112.027", 
+        "St. Vincent Healthcare": "45.783 -108.501", 
+        "Stormont-Vail Cancer Center": "39.056 -95.689", 
+        "Swedish Cancer Institute at Swedish Medical Center - First Hill Campus": "47.606 -122.332", 
+        "Tammy Walker Cancer Center at Salina Regional Health Center": "38.84 -97.611", 
+        "Ted B. Wahby Cancer Center at Mount Clemens General Hospital": "42.597 -82.878", 
+        "University Cancer Center at University of Washington Medical Center": "47.606 -122.332", 
+        "University Hospital - San Antonio": "29.424 -98.494", 
+        "University of California Davis Cancer Center": "38.582 -121.494", 
+        "University of Michigan Comprehensive Cancer Center": "42.281 -83.743", 
+        "University of New Mexico Cancer Research and Treatment Center": "35.084 -106.651", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "University of Texas Medical Branch": "29.301 -94.798", 
+        "Utah Cancer Specialists at UCS Cancer Center": "40.761 -111.891", 
+        "Utah Valley Regional Medical Center - Provo": "40.234 -111.659", 
+        "Valley Care Medical Center": "37.662 -121.875", 
+        "Valley Hospital - Ridgewood": "40.979 -74.117", 
+        "Van Elslander Cancer Center at St. John Hospital and Medical Center": "42.444 -82.907", 
+        "Veterans Affairs Medical Center - San Antonio (Murphy)": "29.424 -98.494", 
+        "Via Christi Cancer Center at Via Christi Regional Medical Center": "37.692 -97.337", 
+        "Wayne Memorial Hospital, Incorporated": "35.385 -77.993", 
+        "Welch Cancer Center at Sheridan Memorial Hospital": "44.797 -106.956", 
+        "Wenatchee Valley Medical Center": "47.423 -120.31", 
+        "West Florida Cancer Institute at West Florida Hospital - Pensacola": "30.421 -87.217"
+    }
+}

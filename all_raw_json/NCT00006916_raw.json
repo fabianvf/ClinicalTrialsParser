@@ -1,0 +1,1106 @@
+{
+    "clinical_study": {
+        "@rank": "27011", 
+        "arm_group": {
+            "arm_group_label": "Radiation therapy followed by bleomycin via Ommaya reservoir", 
+            "arm_group_type": "Experimental", 
+            "description": "60.0 Gy/30 fractions x 2.0 Gy. Then within 2-6 weeks after completion of radiation therapy or at the time a patient experiences disease progression during or immediately after completion of radiation therapy, if clinically feasible, a modified Ommaya reservoir is implanted with the delivery catheter in the tumor or tumor cyst/cavity. Bleomycin, 15 units per week, is then given via the Ommaya reservoir without interruption for a maximum of two years as long as there is no toxicity above grade 3 or evidence of disease progression."
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells. Drugs used in\n      chemotherapy use different ways to stop tumor cells from dividing so they stop growing or\n      die. Combining radiation therapy with chemotherapy may kill more tumor cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of radiation therapy followed by\n      bleomycin in treating adult patients who have newly diagnosed supratentorial glioblastoma\n      multiforme."
+        }, 
+        "brief_title": "Radiation Therapy Followed by Bleomycin in Treating Adult Patients With Newly Diagnosed Supratentorial Glioblastoma Multiforme", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "60.0 Gy/30 fractions x 2.0 Gy. Then within 2-6 weeks after completion of radiation therapy or at the time a patient experiences disease progression during or immediately after completion of radiation therapy, if clinically feasible, a modified Ommaya reservoir is implanted with the delivery catheter in the tumor or tumor cyst/cavity. Bleomycin, 15 units per week, is then given via the Ommaya reservoir without interruption for a maximum of two years as long as there is no toxicity above grade 3 or evidence of disease progression.", 
+                        "title": "Radiation Therapy Followed by Bleomycin Via Ommaya Reservoir"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "19"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "24", 
+                                            "@upper_limit": "81", 
+                                            "@value": "59"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "7"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "12"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "This study stopped accrual early due unmet targeted accrual goals with 19 subjects accrued out of 72 planned.  No efficacy analyses were performed since the small number of patients would not have provided meaningful results.", 
+            "outcome_list": {
+                "outcome": {
+                    "description": "This study stopped accrual early with 19 subjects accrued out of 72 planned therefore no analyses were performed.", 
+                    "group_list": {
+                        "group": {
+                            "@group_id": "O1", 
+                            "description": "60.0 Gy/30 fractions x 2.0 Gy. Then within 2-6 weeks after completion of radiation therapy or at the time a patient experiences disease progression during or immediately after completion of radiation therapy, if clinically feasible, a modified Ommaya reservoir is implanted with the delivery catheter in the tumor or tumor cyst/cavity. Bleomycin, 15 units per week, is then given via the Ommaya reservoir without interruption for a maximum of two years as long as there is no toxicity above grade 3 or evidence of disease progression.", 
+                            "title": "Radiation Therapy Followed by Bleomycin Via Ommaya Reservoir"
+                        }
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "O1", 
+                                                "@value": "0"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "O1"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "description": "This study stopped accrual early with 19 subjects accrued out of 72 planned therefore no analyses were performed.", 
+                                "title": "Overall Survival"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "No", 
+                    "time_frame": "From randomization to date of death or last follow-up.  Analysis occurs after all patients have been potentially followed for 18 months.", 
+                    "title": "Overall Survival", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "60.0 Gy/30 fractions x 2.0 Gy. Then within 2-6 weeks after completion of radiation therapy or at the time a patient experiences disease progression during or immediately after completion of radiation therapy, if clinically feasible, a modified Ommaya reservoir is implanted with the delivery catheter in the tumor or tumor cyst/cavity. Bleomycin, 15 units per week, is then given via the Ommaya reservoir without interruption for a maximum of two years as long as there is no toxicity above grade 3 or evidence of disease progression.", 
+                        "title": "Radiation Therapy Followed by Bleomycin Via Ommaya Reservoir"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "4", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Device not inserted"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Complication of device insertion"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "19", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "Subjects with survival data for the primary analysis are considered to have completed the study.", 
+                                            "@count": "14", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "5", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "wseiferheld@acr.org", 
+                "name_or_title": "Wendy Seiferheld", 
+                "organization": "Radiation Therapy Oncology Group (RTOG)"
+            }, 
+            "reported_events": {
+                "desc": "Adverse events are reported for all subjects starting radiation therapy and/or bleomycin. Subjects experiencing more than one of a given SAE (serious adverse event) are counted only once for that SAE. The same methodology was applied for non-SAE adverse events (AE).", 
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "60.0 Gy/30 fractions x 2.0 Gy. Then within 2-6 weeks after completion of radiation therapy or at the time a patient experiences disease progression during or immediately after completion of radiation therapy, if clinically feasible, a modified Ommaya reservoir is implanted with the delivery catheter in the tumor or tumor cyst/cavity. Bleomycin, 15 units per week, is then given via the Ommaya reservoir without interruption for a maximum of two years as long as there is no toxicity above grade 3 or evidence of disease progression.", 
+                        "title": "Radiation Therapy Followed by Bleomycin Via Ommaya Reservoir"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "17", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "3", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Haemoglobin decreased"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Earache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Hearing-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Dry eye NEC"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Ocular-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Vision blurred"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Vomiting NOS"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Pain-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Syndromes-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Hepatic failure"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Dermatitis radiation NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Ecchymosis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Alanine aminotransferase increas"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Aspartate aminotransferase incre"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Blood alkaline phosphatase NOS i"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Leucopenia NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Platelet count decreased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Hyperglycaemia NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Hypokalaemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Muscle weakness NOS"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Amnesia NEC"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Convulsions NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Depressed level of consciousness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Dizziness (exc vertigo)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Headache NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Neurologic-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Peripheral motor neuropathy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Peripheral sensory neuropathy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Speech disorder NEC"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Taste disturbance"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Anxiety NEC"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Confusion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Depression NEC"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Dysphonia"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Alopecia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Skin-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "3", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Oedema NOS"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Non-systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "5", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Infection (document"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Endocrine-Other"
+                                    }
+                                }, 
+                                "title": "Endocrine disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Coagulation disorde"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Leucopenia NOS"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Hyperglycaemia NOS"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Muscle weakness NOS"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Convulsions NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Neurologic-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Speech disorder NEC"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Syncope"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Oedema NOS"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Thrombosis NOS"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Non-systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)"
+                }
+            }
+        }, 
+        "condition": "Brain and Central Nervous System Tumors", 
+        "condition_browse": {
+            "mesh_term": [
+                "Glioblastoma", 
+                "Nervous System Neoplasms", 
+                "Central Nervous System Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the median survival time of patients with newly diagnosed supratentorial\n           glioblastoma multiforme treated with radiotherapy followed by sustained release\n           intratumoral bleomycin.\n\n        -  Determine the feasibility of this regimen in these patients.\n\n      OUTLINE: This is a multicenter study.\n\n      Within 4 weeks after surgical resection, patients receive radiotherapy daily 5 days a week\n      for 6 weeks.\n\n      Within 2-6 weeks after completion of radiotherapy or at disease progression during\n      radiotherapy, patients undergo surgical implantation of a modified Ommaya reservoir within\n      the central area of the tumor. Patients then receive sustained release bleomycin\n      intratumorally via the reservoir once a week for up to 2 years in the absence of disease\n      progression or unacceptable toxicity.\n\n      Patients are followed every 3 months for 2 years, every 6 months for 2 years, and then\n      annually thereafter.\n\n      PROJECTED ACCRUAL: A total of 72 patients will be accrued for this study within 5 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed supratentorial glioblastoma multiforme (with areas of\n             necrosis) by surgical biopsy or excision within 4 weeks of study\n\n          -  Tumor and/or any associated edema limited to one hemisphere and unifocal\n\n          -  No gross invasion of a ventricular surface\n\n          -  Tumor accessible\n\n          -  No other astrocytoma\n\n          -  No multifocal or recurrent malignant glioma\n\n          -  No disease below the tentorium or beyond the cranial vault\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  Adult\n\n        Performance status:\n\n          -  Zubrod 0-1\n\n        Life expectancy:\n\n          -  At least 8 weeks\n\n        Hematopoietic:\n\n          -  Hemoglobin at least 10 g/dL (transfusion allowed)\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n        Hepatic:\n\n          -  Bilirubin no greater than 2.0 mg/dL\n\n          -  Serum glutamic-oxaloacetic transaminase (SGOT) or Serum glutamic-pyruvic transaminase\n             (SGPT) no greater than 2 times normal\n\n        Renal:\n\n          -  Blood Urea Nitrogen (BUN) no greater than 25 mg/dL\n\n          -  Creatinine no greater than 1.5 mg/dL\n\n        Other:\n\n          -  Not pregnant or nursing\n\n          -  Fertile patients must use effective contraception\n\n          -  No hypersensitive or idiosyncratic reaction to bleomycin\n\n          -  No other prior malignancies within the past 2 years except nonmelanomatous skin\n             cancer or carcinoma in situ of the cervix or urinary bladder\n\n          -  No other major medical illness or psychiatric impairment that would preclude study\n             participation\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  No prior chemotherapy for glioblastoma multiforme\n\n          -  No prior radiosensitizer for glioblastoma multiforme\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  No prior radiotherapy to the head or neck resulting in overlapping radiotherapy\n             fields\n\n        Surgery:\n\n          -  See Disease Characteristics\n\n          -  Recovered from prior surgery"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "19", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 6, 2000", 
+        "firstreceived_results_date": "June 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006916", 
+            "org_study_id": "RTOG-BR-0013", 
+            "secondary_id": [
+                "CDR0000068343", 
+                "RTOG-DEV-1072"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Radiation therapy followed by bleomycin via Ommaya reservoir", 
+                "intervention_name": "bleomycin", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Radiation therapy followed by bleomycin via Ommaya reservoir", 
+                "intervention_name": "Ommaya reservoir", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Radiation therapy followed by bleomycin via Ommaya reservoir", 
+                "description": "60.0 Gy/30 fractions x 2.0 Gy. For the first 46 Gy/23 fractions the treatment volume should include the volume of contrast-enhancing lesion and surrounding edema on pre-operative CT/MRI scan plus a 2 centimeter margin. If no edema is present, the margin should be 2.5 cm. After 46.0 Gy, the tumor volume should include the contrast-enhancing lesion (without edema) on the pre-surgery MRI/CT scan plus a 2.5 centimeter margin.", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Bleomycin"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "adult glioblastoma", 
+            "adult giant cell glioblastoma", 
+            "adult gliosarcoma"
+        ], 
+        "lastchanged_date": "April 30, 2014", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/RTOG-BR-0013"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85013"
+                    }, 
+                    "name": "Foundation for Cancer Research and Education"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536-0293"
+                    }, 
+                    "name": "Markey Cancer Center at University of Kentucky Chandler Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68114-4199"
+                    }, 
+                    "name": "Methodist Hospital Cancer Center at Nebraska Methodist Hospital - Omaha"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Millville", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08332"
+                    }, 
+                    "name": "South Jersey Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mount Holly", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08060"
+                    }, 
+                    "name": "Fox Chase Virtua Health Cancer Program at Virtua Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wooster", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44691"
+                    }, 
+                    "name": "Cancer Treatment Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74104"
+                    }, 
+                    "name": "St. John Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Murray", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84107"
+                    }, 
+                    "name": "Cottonwood Hospital Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Provo", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84604"
+                    }, 
+                    "name": "Utah Valley Regional Medical Center - Provo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint George", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84770"
+                    }, 
+                    "name": "Dixie Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84143"
+                    }, 
+                    "name": "LDS Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marshfield", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54449"
+                    }, 
+                    "name": "CCOP - Marshfield Clinic Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Medical College of Wisconsin Cancer Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Trial Of Conventional Radiation Therapy Followed By Intratumoral Bleomycin Delivered Using A Refillable, Sustained Release Device (IND# 46,592) For The Treatment Of Supratentorial Glioblastoma", 
+        "overall_official": {
+            "affiliation": "Lucille P. Markey Cancer Center at University of Kentucky", 
+            "last_name": "Roy A. Patchell, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "This study stopped accrual early with 19 subjects accrued out of 72 planned therefore no analyses were performed.", 
+            "measure": "Overall Survival", 
+            "safety_issue": "No", 
+            "time_frame": "From randomization to date of death or last follow-up.  Analysis occurs after all patients have been potentially followed for 18 months."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006916"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Radiation Therapy Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Radiation Therapy Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2001", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014", 
+        "why_stopped": "Low accrual"
+    }, 
+    "geocoordinates": {
+        "CCOP - Marshfield Clinic Research Foundation": "44.669 -90.172", 
+        "Cancer Treatment Center": "40.805 -81.935", 
+        "Cottonwood Hospital Medical Center": "40.667 -111.888", 
+        "Dixie Regional Medical Center": "37.095 -113.578", 
+        "Foundation for Cancer Research and Education": "33.448 -112.074", 
+        "Fox Chase Virtua Health Cancer Program at Virtua Memorial Hospital": "39.995 -74.787", 
+        "LDS Hospital": "40.761 -111.891", 
+        "Markey Cancer Center at University of Kentucky Chandler Medical Center": "38.041 -84.504", 
+        "Medical College of Wisconsin Cancer Center": "43.039 -87.906", 
+        "Methodist Hospital Cancer Center at Nebraska Methodist Hospital - Omaha": "41.252 -95.998", 
+        "South Jersey Regional Cancer Center": "39.402 -75.039", 
+        "St. John Health System": "36.154 -95.993", 
+        "Utah Valley Regional Medical Center - Provo": "40.234 -111.659"
+    }
+}

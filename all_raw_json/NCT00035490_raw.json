@@ -1,0 +1,1788 @@
+{
+    "clinical_study": {
+        "@rank": "151623", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo tablets"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Experimental", 
+                "description": "75 mg azimilide"
+            }, 
+            {
+                "arm_group_label": "3", 
+                "arm_group_type": "Experimental", 
+                "description": "125 mg azimilide"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Implantable cardioverter defibrillators (ICDs) have been developed to treat ventricular\n      tachycardia or fibrillation (abnormal heart rhythms) by electrical shock or by pacing the\n      heart.   ICD therapy is established as highly effective for stopping life-threatening\n      arrhythmias, but it does not preclude the use of anti-arrhythmic drugs for prevention and to\n      decrease the frequency of ICD shocks.\n\n      The safety and effectiveness of oral azimilide dihydrochloride in reducing the frequency of\n      ICD shocks has been investigated previously in a placebo-controlled study in patients with\n      ICDs.  These results need to be confirmed in this larger double-blind, placebo-controlled\n      study with approximately 600 patients."
+        }, 
+        "brief_title": "Efficacy and Safety Evaluation of Azimilide Dihydrochloride in Patients With Implantable Cardioverter Defibrillators", 
+        "completion_date": {
+            "#text": "April 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Arrhythmia", 
+        "condition_browse": {
+            "mesh_term": "Arrhythmias, Cardiac"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Currently have an ICD implanted\n\n          -  Have had a documented episode of symptomatic arrhythmias that triggered a spontaneous\n             ICD shock within 180 days of randomization.\n\n          -  If the ICD implant is recent, the patient must have had a documented episode of\n             sustained arrhythmias or cardiac arrest within 42 days before implantation of the ICD\n\n        Exclusion criteria:\n\n          -  have severe heart failure\n\n          -  have a current diagnosis of psychosis\n\n          -  use illicit drugs\n\n          -  abuse alcohol\n\n          -  if female, are currently breast feeding, or  plan to become pregnant during the study\n\n          -  are currently taking antiarrhythmic drugs or other drugs that prolong the QTc\n             interval (a measurement taken from the ECG)\n\n          -  creatinine >2.5 mg/dL (221 mmol/L)\n\n          -  potassium <4.0 mEq or >5.5 mEq\n\n          -  have a neutrophil count (ANC) < 100 mL (low count of a type of white blood cell) at\n             time of randomization\n\n          -  have 2 or more consecutive QTc values >440 msec"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "633", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 3, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00035490", 
+            "org_study_id": "2000098"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "3", 
+                "description": "125 mg azimilide, once a day for one year", 
+                "intervention_name": "Azimilide Dihydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "1", 
+                "description": "placebo tablet, once daily for one year", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "description": "75 mg azimilide, once a day for one year", 
+                "intervention_name": "Azimilide Dihydrochloride", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Azimilide"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "September 30, 2011", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mobile", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36608"
+                    }, 
+                    "name": "The Heart Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mesa", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85206"
+                    }, 
+                    "name": "Tri-City Cardiology Consultants, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "UAMS Dept of Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90210"
+                    }, 
+                    "name": "ATC/Cardio Medical Grp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Loma Linda", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92354"
+                    }, 
+                    "name": "Loma Linda Univ. Med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90017"
+                    }, 
+                    "name": "Good Samaritan Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90073"
+                    }, 
+                    "name": "VA Greater Los Angeles Healthcare System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95819"
+                    }, 
+                    "name": "Regional Cardiology Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92037"
+                    }, 
+                    "name": "Cardiac Arrythmia Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103"
+                    }, 
+                    "name": "UCSD Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Colorado Springs", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80910"
+                    }, 
+                    "name": "Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bridgeport", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06610"
+                    }, 
+                    "name": "Bridgeport Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20010"
+                    }, 
+                    "name": "Washington Hospital Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Myers", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33919"
+                    }, 
+                    "name": "Southwest Florida Health Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33308"
+                    }, 
+                    "name": "Florida Arrythmia Consultants"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32250"
+                    }, 
+                    "name": "Jacksonville Heart Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lakeland", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33805"
+                    }, 
+                    "name": "The Watson Clinic, LLP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "MIami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Univ. Miami Jackson Mem. med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32803"
+                    }, 
+                    "name": "Florida Heart Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "ORmond Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32174"
+                    }, 
+                    "name": "Memorial Health Systems/Cardiology Research Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maywood", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60153"
+                    }, 
+                    "name": "Loyola University Med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "University of Iowa Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160"
+                    }, 
+                    "name": "Mid-America Cardiology c/o KU medical Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40207"
+                    }, 
+                    "name": "Louisville Cardiology Medical Group, PSC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40202"
+                    }, 
+                    "name": "University Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shreveport", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71130"
+                    }, 
+                    "name": "LSU Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04102"
+                    }, 
+                    "name": "Maine Cardiology Assoc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21204"
+                    }, 
+                    "name": "Mid-Atlantic Cardiovascular Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02135"
+                    }, 
+                    "name": "St Elizabeth Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burlington", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01805"
+                    }, 
+                    "name": "Lahey Hitchcock Medical Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01199"
+                    }, 
+                    "name": "Baystate Medical Center-Cardiology Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01655"
+                    }, 
+                    "name": "University of Mass. Medical Ctr. Division of Cardiovascular Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duluth", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55805"
+                    }, 
+                    "name": "SMDC Education Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "University of Minnesota-Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89109"
+                    }, 
+                    "name": "Nevada Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Morristown", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07962"
+                    }, 
+                    "name": "Morristown Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Passaic", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07055"
+                    }, 
+                    "name": "Atlantic Health Systems"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Orange", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07052"
+                    }, 
+                    "name": "Arrhythmia and Pacemaker Consultants"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "111212"
+                    }, 
+                    "name": "Brookdale University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Huntington", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11743"
+                    }, 
+                    "name": "Huntington Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johnson City", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13797"
+                    }, 
+                    "name": "Cardiology Assoc., PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "The Mt Sinai Medical Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10025"
+                    }, 
+                    "name": "St. Lukes/Roosevelt Hospital Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "University of Rochester Strong mem. Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14621"
+                    }, 
+                    "name": "Rochester Cardiopulmonary Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Williamsville", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14221"
+                    }, 
+                    "name": "Buffalo Cardiology & Pulmonary Assoc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28204"
+                    }, 
+                    "name": "Mid Carolina Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke University Medical Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44718"
+                    }, 
+                    "name": "United HealthNetwork/Ohio Heart Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45219"
+                    }, 
+                    "name": "The Lindnar Clinical Trial Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "University Hospitals of Cleveland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43214"
+                    }, 
+                    "name": "Midwest Cardio Res. Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dayton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45406"
+                    }, 
+                    "name": "Dayton Cardiac EP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toledo", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43614"
+                    }, 
+                    "name": "Medical College of Ohio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74104"
+                    }, 
+                    "name": "Oklahoma Heart Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eugene", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97401"
+                    }, 
+                    "name": "Cardiovascular Assoc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Doylestown", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "18901"
+                    }, 
+                    "name": "Doylestown Medical Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033"
+                    }, 
+                    "name": "Hershey Med. Ctr.-Div. Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lancaster", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17603"
+                    }, 
+                    "name": "Lancaster Heart Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Univ of PA/Presbyterian Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Thomas Jefferson University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15224"
+                    }, 
+                    "name": "Barry Alpert, MD, FACC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pawtucket", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02860"
+                    }, 
+                    "name": "Blackstone Cardiology Assoc. P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29204"
+                    }, 
+                    "name": "South Carolina Heart Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }, 
+                    "name": "Mid-State Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390-9047"
+                    }, 
+                    "name": "UT Southwestern Medical Center at Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75246"
+                    }, 
+                    "name": "Heart Place/Baylor University of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake CIty", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84132"
+                    }, 
+                    "name": "University of Utah Medical Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlottesville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22908"
+                    }, 
+                    "name": "U. OF Virginia/Dept of Cardiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fairfax", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22031"
+                    }, 
+                    "name": "The Cardiovascular Grp./Attn: Mandy Murphy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "RIchmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23219"
+                    }, 
+                    "name": "Medical College of VA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99204"
+                    }, 
+                    "name": "Inland Cardiology/The Heart Inst."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54301"
+                    }, 
+                    "name": "Cardiology Associates of Green Bay"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53215"
+                    }, 
+                    "name": "Wisconsin Ctr for Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brugge", 
+                        "country": "Belgium", 
+                        "zip": "8000"
+                    }, 
+                    "name": "A.Z. Sint-Jan, Ruddershove, 10"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yvoir", 
+                        "country": "Belgium", 
+                        "zip": "5530"
+                    }, 
+                    "name": "Clin. Univ. UCL de Mont-Godinne-"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T6G-2B7"
+                    }, 
+                    "name": "University of Alberta Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Victoria", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V8R-4R2"
+                    }, 
+                    "name": "Cardiac Arrythmia Trials/Royal Jubilee Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rotterdam", 
+                        "country": "Canada", 
+                        "state": "Newfoundland and Labrador", 
+                        "zip": "3015 GD"
+                    }, 
+                    "name": "Academisch ZiekenhuisRotterdam, Thoraxentrum Dr. Molewaterplein 40"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Johns", 
+                        "country": "Canada", 
+                        "state": "Newfoundland and Labrador", 
+                        "zip": "A1B-3V6"
+                    }, 
+                    "name": "Health Sciences Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zwolle", 
+                        "country": "Canada", 
+                        "state": "Newfoundland and Labrador", 
+                        "zip": "8011JW"
+                    }, 
+                    "name": "Isala Klinieken Loc Weezenlanden Afd. Cardiologie Groot Wezenland 20"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "Canada", 
+                        "state": "Nova Scotia", 
+                        "zip": "B3K-3A7"
+                    }, 
+                    "name": "QE II Health Sciences Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8L-2X2"
+                    }, 
+                    "name": "Hamilton General Hospital/McMaster Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5B-1W8"
+                    }, 
+                    "name": "St Michaels Hospital 30 Bond Street 7-050 Queen"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H1T 1C8"
+                    }, 
+                    "name": "Montreal Heart Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ste-Foy", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "G1V-4G5"
+                    }, 
+                    "name": "Laval Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winnepeg", 
+                        "country": "Canada", 
+                        "zip": "R3E 0Z3"
+                    }, 
+                    "name": "Winnepeg Health Science Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France", 
+                        "zip": "CEDEX 59 037-"
+                    }, 
+                    "name": "CHRU de Lille-Hopital Cardiologique-Bd du Pr Leclerc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "CEDEX 3-69 394"
+                    }, 
+                    "name": "Centre hospitalier L. Pradel-28 av. du doyen Lepine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marseille", 
+                        "country": "France", 
+                        "zip": "CEDEX 20 13915"
+                    }, 
+                    "name": "Hopital Nord-Chemin Bourrely St Antoine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nancy", 
+                        "country": "France", 
+                        "zip": "CEDEX 54 035"
+                    }, 
+                    "name": "CHRU de Nancy-29 av. de Lattre de Tassigny"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "CEDEX 44 093"
+                    }, 
+                    "name": "CHRU de Nantes-Hopital G. et R. Laennec-bd Jacques Monod"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "CEDEX 75010"
+                    }, 
+                    "name": "Hopital Lariboisiere-2 rue A. Pare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pessac", 
+                        "country": "France", 
+                        "zip": "CEDEX-33 604"
+                    }, 
+                    "name": "Hopital cardiologique du Haut Leveque-av. de Magellan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rennes", 
+                        "country": "France", 
+                        "zip": "CEDEX 35 033"
+                    }, 
+                    "name": "CHRU de Rennes-Hotel Dieu-2 rue l'hotel Dieu"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tours", 
+                        "country": "France", 
+                        "zip": "CEDEX-37044"
+                    }, 
+                    "name": "CHRU de TOURS-Hopital TROUSSEAU-Chanbray les Tours"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bad Bevensen", 
+                        "country": "Germany", 
+                        "zip": "29549"
+                    }, 
+                    "name": "Herz-kreislauf-Klinik Bevensen AG Kardiologie Akut Romstedter Str. 25"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bad Nauheim", 
+                        "country": "Germany", 
+                        "zip": "61230"
+                    }, 
+                    "name": "Kerckhoff Klinik Abteilung Elektrophysiologie Benekestr. 2"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bad Oeynhausen", 
+                        "country": "Germany", 
+                        "zip": "32545"
+                    }, 
+                    "name": "Herzzentrum NRW Kardiologische Ambulanz Georgstr. 11"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "13125"
+                    }, 
+                    "name": "Virchow-Klinikum Franz-Volhard-Klinik Wiltbergstr. 50"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "10967"
+                    }, 
+                    "name": "Krankenhaus Am Urban Innere Medizin I (Kardiologie) Dieffenbachstr. 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "13125"
+                    }, 
+                    "name": "Charite Campus Buch Franz-Vollhard-Klinik Wiltbergstr. 50"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bonn", 
+                        "country": "Germany", 
+                        "zip": "53105"
+                    }, 
+                    "name": "Universitatsklinikum Bonn Medizinische Klinik und Poliklinik II Sigmund-Freud-Str. 25"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Branderburg an der Havel", 
+                        "country": "Germany", 
+                        "zip": "14770"
+                    }, 
+                    "name": "Stadtisches Klinikum Brandenburg Medizinische Klinik I Kardiologie Hochstr. 29"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coburg", 
+                        "country": "Germany", 
+                        "zip": "96450"
+                    }, 
+                    "name": "Klinikum Coburg Ketschendorferstr. 33"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dusseldorf", 
+                        "country": "Germany", 
+                        "zip": "40217"
+                    }, 
+                    "name": "Evangelische Krankenhaus Abteilung Kardiologie Kirchfeldstr. 40"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dusseldorf", 
+                        "country": "Germany", 
+                        "zip": "40225"
+                    }, 
+                    "name": "Universitatsklinikum Dusseldorf Klinik fur Kardiologie Moorenstr. 5"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Frankfurt", 
+                        "country": "Germany", 
+                        "zip": "M. 60590"
+                    }, 
+                    "name": "Klinikum der Johann-Wolfgang-Goethe-Universitat Medizinische Klinik IV Abteilung Elektrophysiologie Theodor-Stern-Kai 7"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Freiburg", 
+                        "country": "Germany", 
+                        "zip": "79106"
+                    }, 
+                    "name": "Medizinische Universitatsklinik"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "20246"
+                    }, 
+                    "name": "Universitats-Krankenhaus Eppendorf Abteilung Kardiologie Martinistr. 52"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg", 
+                        "country": "Germany", 
+                        "zip": "69115"
+                    }, 
+                    "name": "Medizinische Universitats Klinik Heidelberg Medisin III (Kardiologie) Bergheimerstr. 58"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ludwigshafen", 
+                        "country": "Germany", 
+                        "zip": "67063"
+                    }, 
+                    "name": "Klinikum der Stadt Ludwigshafen Bremserstr. 79"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Magdeburg", 
+                        "country": "Germany", 
+                        "zip": "39120"
+                    }, 
+                    "name": "Medizinische Universitatsklinik Leipzigerstr. 44"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mannheim", 
+                        "country": "Germany", 
+                        "zip": "68135"
+                    }, 
+                    "name": "Universitatsklinikum I. Medizinische Klinik Kardiologie/Angiologie/Pneumologie Theodor-Kutzer-Ufer 1-3"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Munchen", 
+                        "country": "Germany", 
+                        "zip": "81377"
+                    }, 
+                    "name": "Klinikum Grobhadern Universitat Munchen Marchioninistr. 15"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Munchen", 
+                        "country": "Germany", 
+                        "zip": "80636"
+                    }, 
+                    "name": "Deutsches Herzzentrum Minchen Lazarettstr. 36"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nurnberg", 
+                        "country": "Germany", 
+                        "zip": "90471"
+                    }, 
+                    "name": "Stadt. Klinikum Nurnberg-Sud Med. Klinik 8-Kardiologie Kardiologie KH II/8"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tubingen", 
+                        "country": "Germany", 
+                        "zip": "72076"
+                    }, 
+                    "name": "Medizinische Klinik und Poliklinik Universitat Tubingen Ottfried-Muller-Str. 10"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wuppertal", 
+                        "country": "Germany", 
+                        "zip": "42117"
+                    }, 
+                    "name": "Klinikum Wuppwrtal GmbH Klinik Fur Herz-und Thoraxchirugie Arrenbergerstr. 20"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bari", 
+                        "country": "Italy", 
+                        "zip": "70120"
+                    }, 
+                    "name": "Istituto di Malattie cardiovasolari policlinico di bari piazza G Cesare 11"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Novara", 
+                        "country": "Italy", 
+                        "zip": "28100"
+                    }, 
+                    "name": "Ospedale Maggiore della carita II Divisione di cardiologia, corso mazzini 18"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pavia", 
+                        "country": "Italy", 
+                        "zip": "27100"
+                    }, 
+                    "name": "Policlinico Matteo Dippartimento di cardiologia Pizza Golgi, 2"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Roma", 
+                        "country": "Italy", 
+                        "zip": "168"
+                    }, 
+                    "name": "Divisione di cardiologia Ospedale s. Flippo Neri, Via Martinotti 20"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1105AZ"
+                    }, 
+                    "name": "Academisch Medisch Centrum Amsterdam Afd. Cardiologie Meibergdreef 9"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eldhoven", 
+                        "country": "Netherlands", 
+                        "zip": "5602ZA"
+                    }, 
+                    "name": "Catharina Ziekenhuis Afd. Cardiologie Postbus 1350"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Groningen", 
+                        "country": "Netherlands", 
+                        "zip": "9713GZ"
+                    }, 
+                    "name": "Academisch Ziekenhuis Groningen Thoraxcentrum Hanzeplein 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leiden", 
+                        "country": "Netherlands", 
+                        "zip": "2300 RC"
+                    }, 
+                    "name": "Leids Universitair Medisch Centrum Afd. Cardiologie Postbus 9600"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nieuwegein", 
+                        "country": "Netherlands", 
+                        "zip": "3435CM"
+                    }, 
+                    "name": "SintAntonius Ziekenhuis Afd R&D Cardiologie Koekoekslaan 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gdansk", 
+                        "country": "Poland", 
+                        "zip": "80742"
+                    }, 
+                    "name": "ll Klinika Chorob Serca Akademii Medycznej w Gdansku Kieturakisa 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Katowice", 
+                        "country": "Poland", 
+                        "zip": "40 635"
+                    }, 
+                    "name": "1 Klinka kardiologii Slaska Akademia Medyczna, Ziolowa 47"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Szczecin", 
+                        "country": "Poland", 
+                        "zip": "70111"
+                    }, 
+                    "name": "Oddzial kardiologii-Instut kardiologii, Ul Powstancow"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warszawa", 
+                        "country": "Poland", 
+                        "zip": "04628"
+                    }, 
+                    "name": "Instytut Kardiologii-Klinka Kardiologii Ogolnej, ul. Alpejska 42"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warszawa", 
+                        "country": "Poland", 
+                        "zip": "02637"
+                    }, 
+                    "name": "Instytut Kardiologii Klinika Choroby Wiencowej,ul Spartanka 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "8036"
+                    }, 
+                    "name": "Hospital Clinic i Provincial, Servicio de Cardiologia, Villarroel, 170"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }, 
+                    "name": "Hospital 12 de Octubre, Carretera de Andalucia, km. 5, 4"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28035"
+                    }, 
+                    "name": "Clinica Puerta de Hierro, San Martin de Porres, 4"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Malaga", 
+                        "country": "Spain", 
+                        "zip": "29010"
+                    }, 
+                    "name": "Hospital Virgen de la Victoria, Campus Universitario de Teatinos, s/n"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "zip": "46010"
+                    }, 
+                    "name": "Hospital Clinico Universitario de Valencia, Avenida Blasco Ibanez, 17"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Belgium", 
+                "Canada", 
+                "France", 
+                "Germany", 
+                "Italy", 
+                "Netherlands", 
+                "Poland", 
+                "Spain"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Efficacy and Safety Evaluation of Azimilide Dihydrochloride in Patients With Implantable Cardioverter Defibrillators", 
+        "overall_official": {
+            "affiliation": "Procter and Gamble", 
+            "last_name": "Jose M Brum, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "April 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Reducing the recurrence of all-cause shocks plus symptomatic ATP", 
+            "safety_issue": "No", 
+            "time_frame": "one year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00035490"
+        }, 
+        "responsible_party": {
+            "name_title": "Jose Brum, MD", 
+            "organization": "Procter & Gamble Pharmaceuticals"
+        }, 
+        "source": "Forest Laboratories", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Forest Laboratories", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2011"
+    }, 
+    "geocoordinates": {
+        "1 Klinka kardiologii Slaska Akademia Medyczna, Ziolowa 47": "50.265 19.024", 
+        "A.Z. Sint-Jan, Ruddershove, 10": "51.211 3.225", 
+        "ATC/Cardio Medical Grp": "34.074 -118.4", 
+        "Academisch Medisch Centrum Amsterdam Afd. Cardiologie Meibergdreef 9": "52.37 4.895", 
+        "Academisch Ziekenhuis Groningen Thoraxcentrum Hanzeplein 1": "53.219 6.567", 
+        "Academisch ZiekenhuisRotterdam, Thoraxentrum Dr. Molewaterplein 40": "53.136 -57.66", 
+        "Arrhythmia and Pacemaker Consultants": "40.799 -74.239", 
+        "Atlantic Health Systems": "40.857 -74.128", 
+        "Barry Alpert, MD, FACC": "40.441 -79.996", 
+        "Baylor College of Medicine": "29.76 -95.369", 
+        "Baystate Medical Center-Cardiology Research": "42.101 -72.59", 
+        "Blackstone Cardiology Assoc. P.C.": "41.879 -71.383", 
+        "Bridgeport Hospital": "41.187 -73.195", 
+        "Brookdale University Hospital": "40.653 -73.959", 
+        "Buffalo Cardiology & Pulmonary Assoc.": "42.964 -78.738", 
+        "CHRU de Lille-Hopital Cardiologique-Bd du Pr Leclerc": "50.629 3.057", 
+        "CHRU de Nancy-29 av. de Lattre de Tassigny": "48.692 6.184", 
+        "CHRU de Nantes-Hopital G. et R. Laennec-bd Jacques Monod": "47.218 -1.554", 
+        "CHRU de Rennes-Hotel Dieu-2 rue l'hotel Dieu": "48.113 -1.676", 
+        "CHRU de TOURS-Hopital TROUSSEAU-Chanbray les Tours": "47.394 0.685", 
+        "Cardiac Arrythmia Associates": "32.715 -117.157", 
+        "Cardiac Arrythmia Trials/Royal Jubilee Hosp.": "48.429 -123.366", 
+        "Cardiology Assoc., PC": "42.116 -75.959", 
+        "Cardiology Associates of Green Bay": "44.519 -88.02", 
+        "Cardiovascular Assoc.": "44.052 -123.087", 
+        "Catharina Ziekenhuis Afd. Cardiologie Postbus 1350": "51.418 5.405", 
+        "Centre hospitalier L. Pradel-28 av. du doyen Lepine": "45.764 4.836", 
+        "Charite Campus Buch Franz-Vollhard-Klinik Wiltbergstr. 50": "52.524 13.406", 
+        "Cleveland Clinic Foundation": "41.499 -81.695", 
+        "Clin. Univ. UCL de Mont-Godinne-": "50.32 4.913", 
+        "Clinica Puerta de Hierro, San Martin de Porres, 4": "40.417 -3.7", 
+        "Dayton Cardiac EP": "39.759 -84.192", 
+        "Deutsches Herzzentrum Minchen Lazarettstr. 36": "48.145 11.558", 
+        "Divisione di cardiologia Ospedale s. Flippo Neri, Via Martinotti 20": "41.891 12.494", 
+        "Doylestown Medical Hospital": "40.31 -75.13", 
+        "Duke University Medical Ctr.": "35.994 -78.899", 
+        "Evangelische Krankenhaus Abteilung Kardiologie Kirchfeldstr. 40": "51.221 6.81", 
+        "Florida Arrythmia Consultants": "26.122 -80.143", 
+        "Florida Heart Institute": "28.538 -81.379", 
+        "Good Samaritan Hospital": "34.052 -118.244", 
+        "Hamilton General Hospital/McMaster Clinic": "43.244 -79.889", 
+        "Health Sciences Ctr": "47.561 -52.713", 
+        "Heart Place/Baylor University of Medicine": "32.803 -96.77", 
+        "Hershey Med. Ctr.-Div. Cardiology": "40.286 -76.65", 
+        "Herz-kreislauf-Klinik Bevensen AG Kardiologie Akut Romstedter Str. 25": "53.079 10.583", 
+        "Herzzentrum NRW Kardiologische Ambulanz Georgstr. 11": "52.208 8.801", 
+        "Hopital Lariboisiere-2 rue A. Pare": "48.857 2.352", 
+        "Hopital Nord-Chemin Bourrely St Antoine": "43.296 5.37", 
+        "Hopital cardiologique du Haut Leveque-av. de Magellan": "44.806 -0.63", 
+        "Hospital 12 de Octubre, Carretera de Andalucia, km. 5, 4": "40.417 -3.7", 
+        "Hospital Clinic i Provincial, Servicio de Cardiologia, Villarroel, 170": "41.388 2.17", 
+        "Hospital Clinico Universitario de Valencia, Avenida Blasco Ibanez, 17": "39.47 -0.377", 
+        "Hospital Virgen de la Victoria, Campus Universitario de Teatinos, s/n": "36.72 -4.42", 
+        "Huntington Hospital": "40.868 -73.426", 
+        "Inland Cardiology/The Heart Inst.": "47.659 -117.426", 
+        "Instytut Kardiologii Klinika Choroby Wiencowej,ul Spartanka 1": "52.23 21.012", 
+        "Instytut Kardiologii-Klinka Kardiologii Ogolnej, ul. Alpejska 42": "52.23 21.012", 
+        "Isala Klinieken Loc Weezenlanden Afd. Cardiologie Groot Wezenland 20": "53.136 -57.66", 
+        "Istituto di Malattie cardiovasolari policlinico di bari piazza G Cesare 11": "41.126 16.872", 
+        "Jacksonville Heart Center": "30.332 -81.656", 
+        "Kerckhoff Klinik Abteilung Elektrophysiologie Benekestr. 2": "50.367 8.739", 
+        "Klinikum Coburg Ketschendorferstr. 33": "50.264 10.963", 
+        "Klinikum Grobhadern Universitat Munchen Marchioninistr. 15": "48.145 11.558", 
+        "Klinikum Wuppwrtal GmbH Klinik Fur Herz-und Thoraxchirugie Arrenbergerstr. 20": "51.261 7.163", 
+        "Klinikum der Johann-Wolfgang-Goethe-Universitat Medizinische Klinik IV Abteilung Elektrophysiologie Theodor-Stern-Kai 7": "50.111 8.682", 
+        "Klinikum der Stadt Ludwigshafen Bremserstr. 79": "49.491 8.415", 
+        "Krankenhaus Am Urban Innere Medizin I (Kardiologie) Dieffenbachstr. 1": "52.524 13.406", 
+        "LSU Health Sciences Center": "32.525 -93.75", 
+        "Lahey Hitchcock Medical Ctr.": "42.505 -71.196", 
+        "Lancaster Heart Foundation": "40.038 -76.306", 
+        "Laval Hospital": "46.773 -71.276", 
+        "Leids Universitair Medisch Centrum Afd. Cardiologie Postbus 9600": "52.16 4.494", 
+        "Loma Linda Univ. Med. Ctr.": "34.048 -117.261", 
+        "Louisville Cardiology Medical Group, PSC": "38.253 -85.758", 
+        "Loyola University Med. Ctr.": "41.879 -87.843", 
+        "Maine Cardiology Assoc.": "43.661 -70.255", 
+        "Medical College of Ohio": "41.664 -83.555", 
+        "Medical College of VA": "37.541 -77.436", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "Medizinische Klinik und Poliklinik Universitat Tubingen Ottfried-Muller-Str. 10": "48.521 9.059", 
+        "Medizinische Universitats Klinik Heidelberg Medisin III (Kardiologie) Bergheimerstr. 58": "49.399 8.672", 
+        "Medizinische Universitatsklinik": "47.999 7.842", 
+        "Medizinische Universitatsklinik Leipzigerstr. 44": "52.131 11.629", 
+        "Memorial Health Systems/Cardiology Research Associates": "29.286 -81.056", 
+        "Memorial Hospital": "38.834 -104.821", 
+        "Mid Carolina Cardiology": "35.227 -80.843", 
+        "Mid-America Cardiology c/o KU medical Ctr": "39.114 -94.627", 
+        "Mid-Atlantic Cardiovascular Associates": "39.29 -76.612", 
+        "Mid-State Cardiology": "36.166 -86.784", 
+        "Midwest Cardio Res. Foundation": "39.961 -82.999", 
+        "Montreal Heart Institute": "45.509 -73.554", 
+        "Morristown Memorial Hospital": "40.797 -74.482", 
+        "Nevada Cardiology": "36.115 -115.173", 
+        "Oddzial kardiologii-Instut kardiologii, Ul Powstancow": "53.429 14.553", 
+        "Oklahoma Heart Institute": "36.154 -95.993", 
+        "Ospedale Maggiore della carita II Divisione di cardiologia, corso mazzini 18": "45.445 8.619", 
+        "Policlinico Matteo Dippartimento di cardiologia Pizza Golgi, 2": "45.186 9.157", 
+        "QE II Health Sciences Ctr.": "44.649 -63.575", 
+        "Regional Cardiology Associates": "38.582 -121.494", 
+        "Rochester Cardiopulmonary Group": "43.161 -77.611", 
+        "SMDC Education Research": "46.787 -92.1", 
+        "SintAntonius Ziekenhuis Afd R&D Cardiologie Koekoekslaan 1": "52.03 5.082", 
+        "South Carolina Heart Center": "34.001 -81.035", 
+        "Southwest Florida Health Group": "26.641 -81.872", 
+        "St Elizabeth Medical Center": "42.358 -71.06", 
+        "St Michaels Hospital 30 Bond Street 7-050 Queen": "43.653 -79.383", 
+        "St. Lukes/Roosevelt Hospital Center": "40.714 -74.006", 
+        "Stadt. Klinikum Nurnberg-Sud Med. Klinik 8-Kardiologie Kardiologie KH II/8": "49.445 11.087", 
+        "Stadtisches Klinikum Brandenburg Medizinische Klinik I Kardiologie Hochstr. 29": "52.413 12.532", 
+        "The Cardiovascular Grp./Attn: Mandy Murphy": "38.846 -77.306", 
+        "The Heart Group": "30.694 -88.043", 
+        "The Lindnar Clinical Trial Center": "39.103 -84.512", 
+        "The Mt Sinai Medical Ctr.": "40.714 -74.006", 
+        "The Watson Clinic, LLP": "28.039 -81.95", 
+        "Thomas Jefferson University": "39.952 -75.164", 
+        "Tri-City Cardiology Consultants, P.C.": "33.415 -111.831", 
+        "U. OF Virginia/Dept of Cardiology": "38.029 -78.477", 
+        "UAMS Dept of Cardiology": "34.746 -92.29", 
+        "UCSD Medical Center": "32.715 -117.157", 
+        "UT Southwestern Medical Center at Dallas": "32.803 -96.77", 
+        "United HealthNetwork/Ohio Heart Center": "40.799 -81.378", 
+        "Univ of PA/Presbyterian Hospital": "39.952 -75.164", 
+        "Univ. Miami Jackson Mem. med. Ctr.": "25.789 -80.226", 
+        "Universitats-Krankenhaus Eppendorf Abteilung Kardiologie Martinistr. 52": "53.557 9.995", 
+        "Universitatsklinikum Bonn Medizinische Klinik und Poliklinik II Sigmund-Freud-Str. 25": "50.712 7.105", 
+        "Universitatsklinikum Dusseldorf Klinik fur Kardiologie Moorenstr. 5": "51.221 6.81", 
+        "Universitatsklinikum I. Medizinische Klinik Kardiologie/Angiologie/Pneumologie Theodor-Kutzer-Ufer 1-3": "49.461 8.49", 
+        "University Cardiology": "38.253 -85.758", 
+        "University Hospitals of Cleveland": "41.499 -81.695", 
+        "University of Alberta Hospital": "53.544 -113.49", 
+        "University of Iowa Hospital": "41.661 -91.53", 
+        "University of Mass. Medical Ctr. Division of Cardiovascular Medicine": "42.263 -71.802", 
+        "University of Minnesota-Cardiology": "44.98 -93.264", 
+        "University of Rochester Strong mem. Hospital": "43.161 -77.611", 
+        "University of Utah Medical Ctr.": "40.761 -111.891", 
+        "VA Greater Los Angeles Healthcare System": "34.052 -118.244", 
+        "Virchow-Klinikum Franz-Volhard-Klinik Wiltbergstr. 50": "52.524 13.406", 
+        "Wake Forest School of Medicine": "36.1 -80.244", 
+        "Washington Hospital Center": "38.895 -77.036", 
+        "Winnepeg Health Science Ctr.": "49.9 -97.137", 
+        "Wisconsin Ctr for Clinical Research": "43.039 -87.906", 
+        "ll Klinika Chorob Serca Akademii Medycznej w Gdansku Kieturakisa 1": "54.352 18.647"
+    }
+}

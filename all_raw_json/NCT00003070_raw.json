@@ -1,0 +1,838 @@
+{
+    "clinical_study": {
+        "@rank": "117886", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Chemoprotective drugs, such as enalapril, may protect normal\n      cells from the toxic effects of chemotherapy. It is not known whether enalapril is more\n      effective than a placebo in treating heart damage in patients who received anthracycline\n      chemotherapy for childhood cancer.\n\n      PURPOSE: Randomized double-blinded phase III trial to compare the effectiveness of enalapril\n      with a placebo in treating heart damage in patients who received anthracycline chemotherapy\n      for childhood cancer."
+        }, 
+        "brief_title": "Enalapril in Treating Heart Damage Patients Who Received Anthracycline Chemotherapy for Childhood Cancer", 
+        "condition": [
+            "Cardiac Toxicity", 
+            "Unspecified Childhood Solid Tumor, Protocol Specific"
+        ], 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine whether enalapril treatment results in a reduction in body surface\n      area-adjusted left ventricular mass in anthracycline-treated survivors of childhood cancer.\n      II. Determine whether improvement in ventricular function achieved by enalapril is sustained\n      and alters the course of late cardiotoxicity. III. Determine the impact of enalapril therapy\n      on quality of life.\n\n      OUTLINE: This is a double blind, placebo controlled, randomized study. Patients are\n      stratified based on the cumulative anthracycline dose, age at cancer diagnosis, and the\n      duration of time since cessation of anthracycline therapy. Patients are administered\n      enalapril or placebo by mouth bid. Patients undergo a series of cardiac tests after\n      administration of drug. Follow-up occurs at 2, 6, and 12 months and every year thereafter.\n\n      PROJECTED ACCRUAL: 75 patients in each treatment arm will be accrued."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically diagnosed childhood malignancy that had prior\n        anthracycline therapy Echocardiographic evidence of reduced fractional shortening, reduced\n        contractility, or increased afterload, or any combination At least 6 months oncologic\n        disease free\n\n        PATIENT CHARACTERISTICS: Age: At least 8 at study entry and less than 22 at diagnosis\n        Performance status: Not specified Life expectancy: Not specified Hematopoietic: Not\n        specified Hepatic: Not specified Renal: No history of renal disease No known renal artery\n        stenosis Cardiovascular: No congenital cardiovascular malformations No active congestive\n        heart failure not attributable to sepsis or renal failure No medication for heart\n        condition No history of symptomatic arrhythmia antedating anthracycline therapy No\n        constrictive pericarditis No uncontrolled hypertension Pulmonary: No primary valvular or\n        outflow tract obstruction Other: Not pregnant or lactating Must use adequate contraception\n        No reaction or intolerance to ACE inhibitors\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: At least 1 year\n        since prior cumulative anthracycline therapy of at least 200 mg/m2 No prior amsacrine\n        therapy Endocrine therapy: Not specified Radiotherapy: No prior mediastinal, spinal, or\n        total body irradiation that included the heart Surgery: Not specified Other: No concurrent\n        angiotensin converting enzyme (ACE)inhibitor treatment No concurrent treatment with other\n        investigational drug No oncologic therapy within past 6 months"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "8 Years"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003070", 
+            "org_study_id": "CDR0000065745", 
+            "secondary_id": [
+                "POG-9480", 
+                "NCI-P97-0086"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "enalapril maleate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "quality-of-life assessment", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Enalapril", 
+                "Enalaprilat", 
+                "Maleic acid"
+            ]
+        }, 
+        "keyword": [
+            "unspecified childhood solid tumor, protocol specific", 
+            "cardiac toxicity"
+        ], 
+        "lastchanged_date": "May 9, 2009", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/POG-9480"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294-3300"
+                    }, 
+                    "name": "University of Alabama at Birmingham Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mobile", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36688"
+                    }, 
+                    "name": "MBCCOP - Gulf Coast"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92093-0658"
+                    }, 
+                    "name": "University of California San Diego Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Lucile Packard Children's Hospital at Stanford"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "University of California Davis Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06520-8028"
+                    }, 
+                    "name": "Yale Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20307-5000"
+                    }, 
+                    "name": "Walter Reed Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32610-100277"
+                    }, 
+                    "name": "Shands Hospital and Clinics, University of Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Sylvester Cancer Center, University of Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33155"
+                    }, 
+                    "name": "Miami Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33682-7757"
+                    }, 
+                    "name": "CCOP - Florida Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Emory University Hospital - Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96813"
+                    }, 
+                    "name": "Cancer Research Center of Hawaii"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Children's Memorial Hospital, Chicago"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-3882"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70121"
+                    }, 
+                    "name": "CCOP - Ochsner"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "MBCCOP - LSU Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70121"
+                    }, 
+                    "name": "Ochsner Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21231-2410"
+                    }, 
+                    "name": "Johns Hopkins Oncology Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }, 
+                    "name": "Boston Floating Hospital Infants and Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01655"
+                    }, 
+                    "name": "University of Massachusetts Memorial Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Children's Hospital of Michigan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216-4505"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63104"
+                    }, 
+                    "name": "Cardinal Glennon Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "CCOP - Northern New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "Hackensack University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Hyde Park", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11042"
+                    }, 
+                    "name": "Schneider Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "University of Rochester Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York - Upstate Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Asheville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28801"
+                    }, 
+                    "name": "Mission Saint Joseph's Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28232-2861"
+                    }, 
+                    "name": "Carolinas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28233-3549"
+                    }, 
+                    "name": "Presbyterian Healthcare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27858-4354"
+                    }, 
+                    "name": "East Carolina University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157-1082"
+                    }, 
+                    "name": "Comprehensive Cancer Center at Wake Forest University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73126-0307"
+                    }, 
+                    "name": "Oklahoma Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97213"
+                    }, 
+                    "name": "CCOP - Columbia River Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19134-1095"
+                    }, 
+                    "name": "St. Christopher's Hospital for Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425-0721"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29605"
+                    }, 
+                    "name": "Children's Hospital of Greenville Hospital System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38105-2794"
+                    }, 
+                    "name": "Saint Jude Children's Research Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235-9154"
+                    }, 
+                    "name": "Simmons Cancer Center - Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78284-7811"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229-3900"
+                    }, 
+                    "name": "MBCCOP - South Texas Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portsmouth", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23708-2197"
+                    }, 
+                    "name": "Naval Medical Center, Portsmouth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298-0037"
+                    }, 
+                    "name": "Massey Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Midwest Children's Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T6G 1Z2"
+                    }, 
+                    "name": "Cross Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8N 3Z5"
+                    }, 
+                    "name": "Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 1X8"
+                    }, 
+                    "name": "Hospital for Sick Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3T 1C5"
+                    }, 
+                    "name": "Hopital Sainte Justine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3H 1P3"
+                    }, 
+                    "name": "Montreal Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bern", 
+                        "country": "Switzerland", 
+                        "zip": "CH 3010"
+                    }, 
+                    "name": "Swiss Pediatric Oncology Group Bern"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada", 
+                "Switzerland"
+            ]
+        }, 
+        "official_title": "Afterload Reduction Therapy for Late Anthracycline Cardiotoxicity: A Pediatric Oncology Group Cancer Control Study", 
+        "overall_official": {
+            "affiliation": "James P. Wilmot Cancer Center", 
+            "last_name": "Stephen Lipshultz, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "reference": {
+            "PMID": "9193351", 
+            "citation": "Krischer JP, Epstein S, Cuthbertson DD, Goorin AM, Epstein ML, Lipshultz SE. Clinical cardiotoxicity following anthracycline treatment for childhood cancer: the Pediatric Oncology Group experience. J Clin Oncol. 1997 Apr;15(4):1544-52."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003070"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Pediatric Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 1997", 
+        "study_design": "Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2007"
+    }, 
+    "geocoordinates": {
+        "Baylor College of Medicine": "29.76 -95.369", 
+        "Boston Floating Hospital Infants and Children": "42.358 -71.06", 
+        "CCOP - Columbia River Program": "45.523 -122.676", 
+        "CCOP - Florida Pediatric": "27.951 -82.457", 
+        "CCOP - Northern New Jersey": "40.886 -74.043", 
+        "CCOP - Ochsner": "29.951 -90.072", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "Cancer Research Center of Hawaii": "21.307 -157.858", 
+        "Cardinal Glennon Children's Hospital": "38.627 -90.199", 
+        "Carolinas Medical Center": "35.227 -80.843", 
+        "Children's Hospital": "43.244 -79.889", 
+        "Children's Hospital of Greenville Hospital System": "34.853 -82.394", 
+        "Children's Hospital of Michigan": "42.331 -83.046", 
+        "Children's Memorial Hospital, Chicago": "41.878 -87.63", 
+        "Comprehensive Cancer Center at Wake Forest University": "36.1 -80.244", 
+        "Cross Cancer Institute": "53.544 -113.49", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Duke Comprehensive Cancer Center": "35.994 -78.899", 
+        "East Carolina University School of Medicine": "35.613 -77.366", 
+        "Emory University Hospital - Atlanta": "33.749 -84.388", 
+        "Hackensack University Medical Center": "40.886 -74.043", 
+        "Hopital Sainte Justine": "45.509 -73.554", 
+        "Hospital for Sick Children": "43.653 -79.383", 
+        "Johns Hopkins Oncology Center": "39.29 -76.612", 
+        "Lucile Packard Children's Hospital at Stanford": "37.442 -122.143", 
+        "MBCCOP - Gulf Coast": "30.694 -88.043", 
+        "MBCCOP - LSU Health Sciences Center": "29.951 -90.072", 
+        "MBCCOP - South Texas Pediatric": "29.424 -98.494", 
+        "Marlene & Stewart Greenebaum Cancer Center, University of Maryland": "39.29 -76.612", 
+        "Massey Cancer Center": "37.541 -77.436", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "Miami Children's Hospital": "25.789 -80.226", 
+        "Midwest Children's Cancer Center": "43.039 -87.906", 
+        "Mission Saint Joseph's Health System": "35.601 -82.554", 
+        "Montreal Children's Hospital": "45.509 -73.554", 
+        "Mount Sinai School of Medicine": "40.714 -74.006", 
+        "Naval Medical Center, Portsmouth": "36.835 -76.298", 
+        "Ochsner Clinic": "29.951 -90.072", 
+        "Oklahoma Memorial Hospital": "35.468 -97.516", 
+        "Presbyterian Healthcare": "35.227 -80.843", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "Saint Jude Children's Research Hospital": "35.15 -90.049", 
+        "Schneider Children's Hospital": "40.735 -73.688", 
+        "Shands Hospital and Clinics, University of Florida": "29.652 -82.325", 
+        "Simmons Cancer Center - Dallas": "32.803 -96.77", 
+        "St. Christopher's Hospital for Children": "39.952 -75.164", 
+        "State University of New York - Upstate Medical University": "43.048 -76.147", 
+        "Swiss Pediatric Oncology Group Bern": "46.948 7.445", 
+        "Sylvester Cancer Center, University of Miami": "25.789 -80.226", 
+        "University of Alabama at Birmingham Comprehensive Cancer Center": "33.521 -86.802", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California Davis Medical Center": "38.582 -121.494", 
+        "University of California San Diego Cancer Center": "32.839 -117.277", 
+        "University of Kansas Medical Center": "39.114 -94.627", 
+        "University of Massachusetts Memorial Medical Center": "42.263 -71.802", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of Rochester Cancer Center": "43.161 -77.611", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "Walter Reed Army Medical Center": "38.895 -77.036", 
+        "Washington University School of Medicine": "38.627 -90.199", 
+        "Yale Comprehensive Cancer Center": "41.308 -72.928"
+    }
+}

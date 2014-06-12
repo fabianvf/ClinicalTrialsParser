@@ -1,0 +1,1565 @@
+{
+    "clinical_study": {
+        "@rank": "38718", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. It is not yet known if combination chemotherapy given after\n      surgery is more effective than surgery alone for non-small cell lung cancer.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of combination chemotherapy\n      following surgery with that of surgery alone in treating patients who have stage I, stage\n      II, or stage IIIA non-small cell lung cancer."
+        }, 
+        "brief_title": "Combination Chemotherapy Compared With No Treatment Following Surgery in Treating Patients With Non-small Cell Lung Cancer", 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Compare the impact on overall survival of adjuvant cisplatin and either a\n      vinca alkaloid or etoposide (with or without radiotherapy) vs. no adjuvant chemotherapy in\n      patients with completely resected stage I/II/III non-small cell lung cancer. II. Assess the\n      frequency of treatment-related deaths and severe toxic effects. III. Describe the patterns\n      of failure, second malignancies, and toxic effects associated with each treatment regimen.\n\n      OUTLINE: This is a randomized, multicenter study. Patients are stratified by participating\n      institution, type of prior surgery, and pathologic stage. Each participating center will\n      determine which combination chemotherapy regimen and which of three cisplatin doses will be\n      given to all patients treated at that center. The treatment group receives cisplatin\n      combined with either vindesine, vinblastine, vinorelbine, or etoposide every 3-4 weeks for\n      3-4 courses, depending on the dose of cisplatin. The second group receives no adjuvant\n      chemotherapy. Treating institutions determine prior to entering the trial which patients\n      receive adjuvant radiotherapy: none; those with node-positive disease; those with N1 disease\n      only; those with N2 disease only; or those eligible for a randomized radiotherapy trial. For\n      patients in the treatment group, radiotherapy begins 3-4 weeks after the last course.\n      Patients are followed at 6 months, then annually.\n\n      PROJECTED ACCRUAL: A maximum of 3,300 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically documented non-small cell lung cancer Any\n        non-small cell histology eligible Pathologic stage I/II/III disease that is completely\n        resected with microscopically clear margins within 60 days of entry (30 days preferred)\n\n        PATIENT CHARACTERISTICS: Age: 18 to 75 Performance status: Not specified Hematopoietic:\n        Not specified Hepatic: Not specified Renal: Not specified Other: No clear contraindication\n        to chemotherapy No second malignancy except: Nonmelanomatous skin cancer Carcinoma in situ\n        of the cervix\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: No prior immunotherapy Chemotherapy: No prior\n        chemotherapy Endocrine therapy: Not specified Radiotherapy: No prior thoracic radiotherapy\n        Surgery: Complete resection required prior to entry"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "3300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002823", 
+            "org_study_id": "CDR0000065002", 
+            "secondary_id": [
+                "FRE-IALT", 
+                "EU-96010"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "vinblastine sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "vindesine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "vinorelbine tartrate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Vinorelbine", 
+                "Cisplatin", 
+                "Etoposide", 
+                "Vinblastine", 
+                "Vindesine"
+            ]
+        }, 
+        "keyword": [
+            "stage I non-small cell lung cancer", 
+            "stage II non-small cell lung cancer", 
+            "stage III non-small cell lung cancer", 
+            "squamous cell lung cancer", 
+            "large cell lung cancer", 
+            "adenocarcinoma of the lung", 
+            "adenosquamous cell lung cancer"
+        ], 
+        "lastchanged_date": "March 26, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/FRE-IALT"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlantis", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33462"
+                    }, 
+                    "name": "Comprehensive Cancer Center at JFK Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Massachusetts General Hospital Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina", 
+                        "zip": "1638"
+                    }, 
+                    "name": "Getlac"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Randwick", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2031"
+                    }, 
+                    "name": "South Eastern Sydney Area Health Service"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Adelaide", 
+                        "country": "Australia", 
+                        "state": "South Australia", 
+                        "zip": "5000"
+                    }, 
+                    "name": "Royal Adelaide Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "8006"
+                    }, 
+                    "name": "Peter MacCallum Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3181"
+                    }, 
+                    "name": "Alfred Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3011"
+                    }, 
+                    "name": "Western Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3050"
+                    }, 
+                    "name": "Royal Melbourne Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vienna", 
+                        "country": "Austria", 
+                        "zip": "A-1090"
+                    }, 
+                    "name": "AKH Vienna"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brugge", 
+                        "country": "Belgium", 
+                        "zip": "8000"
+                    }, 
+                    "name": "A.Z. St. Jan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edegem", 
+                        "country": "Belgium", 
+                        "zip": "B-2650"
+                    }, 
+                    "name": "Universitair Ziekenhuis Antwerpen"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leuven", 
+                        "country": "Belgium", 
+                        "zip": "B-3000"
+                    }, 
+                    "name": "U.Z. Gasthuisberg"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ronse", 
+                        "country": "Belgium", 
+                        "zip": "B-9600"
+                    }, 
+                    "name": "AZ Zusters Van Barmhartigheid"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zottegem", 
+                        "country": "Belgium", 
+                        "zip": "9620"
+                    }, 
+                    "name": "Sint Elizabeth Ziekenhuis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Porto Alegre", 
+                        "country": "Brazil", 
+                        "state": "Rio Grande do Sul", 
+                        "zip": "90035--003"
+                    }, 
+                    "name": "Porto Alegre Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio De Janeiro", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "University of Clementino Fraga"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio de Janeiro", 
+                        "country": "Brazil", 
+                        "zip": "Cep 2-0230"
+                    }, 
+                    "name": "Instituto Nacional de Cancer"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sao Paulo", 
+                        "country": "Brazil", 
+                        "zip": "01509--010"
+                    }, 
+                    "name": "Hospital A.C. Camargo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santiago", 
+                        "country": "Chile"
+                    }, 
+                    "name": "Clinica Las Nieves"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bogota", 
+                        "country": "Colombia"
+                    }, 
+                    "name": "Hospital Militar Central"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bogota", 
+                        "country": "Colombia"
+                    }, 
+                    "name": "Instituto Nacional De Cancerologia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Prague (Praha)", 
+                        "country": "Czech Republic", 
+                        "zip": "162 00"
+                    }, 
+                    "name": "Chest Disease Clinic, Charles University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cairo", 
+                        "country": "Egypt"
+                    }, 
+                    "name": "National Cancer Institute of Egypt"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Belgrade", 
+                        "country": "Former Yugoslavia", 
+                        "zip": "11000"
+                    }, 
+                    "name": "Institute for Lung Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angers", 
+                        "country": "France", 
+                        "zip": "49036"
+                    }, 
+                    "name": "Centre Paul Papin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angers", 
+                        "country": "France", 
+                        "zip": "49033"
+                    }, 
+                    "name": "Centre Hospitalier Regional et Universitaire d'Angers"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Armentieres", 
+                        "country": "France", 
+                        "zip": "59427"
+                    }, 
+                    "name": "C.H. Armentieres"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aulnay Sous Bois", 
+                        "country": "France", 
+                        "zip": "93602"
+                    }, 
+                    "name": "Centre Hospital General Robert Ballanger"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurillac", 
+                        "country": "France", 
+                        "zip": "15002"
+                    }, 
+                    "name": "C.H. Henri Mondor"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bagneux", 
+                        "country": "France", 
+                        "zip": "92220"
+                    }, 
+                    "name": "Clinique Hauts De Seine Bagneux"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beauvais", 
+                        "country": "France", 
+                        "zip": "60021"
+                    }, 
+                    "name": "C.H.G. Beauvais"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bobigny", 
+                        "country": "France", 
+                        "zip": "93009"
+                    }, 
+                    "name": "Hopital Avicenne"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bois Guillaume (Rouen)", 
+                        "country": "France", 
+                        "zip": "76235"
+                    }, 
+                    "name": "C.M.C. Du Cedre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France", 
+                        "zip": "33076"
+                    }, 
+                    "name": "Institut Bergonie"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Caen", 
+                        "country": "France", 
+                        "zip": "14033"
+                    }, 
+                    "name": "CHU de Caen"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Caen", 
+                        "country": "France", 
+                        "zip": "14076"
+                    }, 
+                    "name": "Centre Regional Francois Baclesse"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cannes", 
+                        "country": "France", 
+                        "zip": "06400"
+                    }, 
+                    "name": "Centre Du Meridien"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chartres", 
+                        "country": "France", 
+                        "zip": "28018"
+                    }, 
+                    "name": "Hopital Fontenoy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clamart", 
+                        "country": "France", 
+                        "zip": "92141"
+                    }, 
+                    "name": "Hopital Antoine Beclere"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Compiegne", 
+                        "country": "France", 
+                        "zip": "60321"
+                    }, 
+                    "name": "Centre Hospitalier General"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Creteil", 
+                        "country": "France", 
+                        "zip": "94010"
+                    }, 
+                    "name": "Hopital Intercommunal De Creteil"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21079"
+                    }, 
+                    "name": "Centre de Lute Contre le Cancer,Georges-Francois Leclerc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Etampes", 
+                        "country": "France", 
+                        "zip": "91150"
+                    }, 
+                    "name": "Hopital D'Etampes"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grasse", 
+                        "country": "France", 
+                        "zip": "06130"
+                    }, 
+                    "name": "C.H. De Grasse"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lagny", 
+                        "country": "France", 
+                        "zip": "77405"
+                    }, 
+                    "name": "Centre Hospitalier de Lagny"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Le Havre", 
+                        "country": "France", 
+                        "zip": "76083"
+                    }, 
+                    "name": "C.H.G. Du Havre-Hopital J. Monod"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France", 
+                        "zip": "59020"
+                    }, 
+                    "name": "Centre Oscar Lambret"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69373"
+                    }, 
+                    "name": "Centre Leon Berard"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marseille", 
+                        "country": "France", 
+                        "zip": "13274"
+                    }, 
+                    "name": "Assistance Publique Hopitaux de Marseille Hopitaux Sud"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mayenne", 
+                        "country": "France", 
+                        "zip": "53013"
+                    }, 
+                    "name": "C.H. Nord Mayenne"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Metz", 
+                        "country": "France", 
+                        "zip": "57070"
+                    }, 
+                    "name": "Hopital Clinique Claude Bernard"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meudon-La-Foret", 
+                        "country": "France", 
+                        "zip": "92360"
+                    }, 
+                    "name": "Centre de Radiologie et de Traitement des Tumeurs"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montpellier", 
+                        "country": "France", 
+                        "zip": "34295"
+                    }, 
+                    "name": "Hopital Arnaud de Villeneuve"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Neuilly sur Seine", 
+                        "country": "France", 
+                        "zip": "92200"
+                    }, 
+                    "name": "Clinique Hartmann"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice", 
+                        "country": "France", 
+                        "zip": "06189"
+                    }, 
+                    "name": "Centre Antoine Lacassagne"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75248"
+                    }, 
+                    "name": "Institut Curie - Section Medicale"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75013"
+                    }, 
+                    "name": "Institut Mutualiste Montsouris"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75970"
+                    }, 
+                    "name": "Hopital Tenon"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75014"
+                    }, 
+                    "name": "Hospital Saint-Joseph"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pau", 
+                        "country": "France", 
+                        "zip": "64000"
+                    }, 
+                    "name": "C.H.G. De Pau"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poitiers", 
+                        "country": "France", 
+                        "zip": "86021"
+                    }, 
+                    "name": "Hopital Jean Bernard"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rennes", 
+                        "country": "France", 
+                        "zip": "35033"
+                    }, 
+                    "name": "CHU De Pontchaillou"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Brieuc", 
+                        "country": "France", 
+                        "zip": "22023"
+                    }, 
+                    "name": "Centre Hospitalier de Saint-Brieuc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sarcelles", 
+                        "country": "France", 
+                        "zip": "95250"
+                    }, 
+                    "name": "Centre du Rouget"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sens", 
+                        "country": "France", 
+                        "zip": "89106"
+                    }, 
+                    "name": "C.H. De Sens"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67091"
+                    }, 
+                    "name": "Hopitaux Universitaire de Strasbourg"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Troyes", 
+                        "country": "France", 
+                        "zip": "10003"
+                    }, 
+                    "name": "C.H.G. Troyes"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vandoeuvre-les-Nancy", 
+                        "country": "France", 
+                        "zip": "54511"
+                    }, 
+                    "name": "Centre Alexis Vautrin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France", 
+                        "zip": "F-94805"
+                    }, 
+                    "name": "Institut Gustave Roussy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iraklion (Heraklion)", 
+                        "country": "Greece", 
+                        "state": "Crete", 
+                        "zip": "71110"
+                    }, 
+                    "name": "University Hospital of Heraklion"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "10676"
+                    }, 
+                    "name": "Evangelismos Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece"
+                    }, 
+                    "name": "Sotiria Hospital Chest Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "15126"
+                    }, 
+                    "name": "Sismanoglio Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "11527"
+                    }, 
+                    "name": "Athens University-Laikon General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Piraeus", 
+                        "country": "Greece", 
+                        "zip": "18537"
+                    }, 
+                    "name": "Metaxa's Memorial Cancer Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio Patras", 
+                        "country": "Greece", 
+                        "zip": "GR-26500"
+                    }, 
+                    "name": "University of Patras Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Thessaloniki", 
+                        "country": "Greece", 
+                        "zip": "57010"
+                    }, 
+                    "name": "George Papanicolaou General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rehovot", 
+                        "country": "Israel", 
+                        "zip": "76100"
+                    }, 
+                    "name": "Kaplan Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tel-Aviv", 
+                        "country": "Israel", 
+                        "zip": "62995"
+                    }, 
+                    "name": "Tel-Aviv Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "zip": "20141"
+                    }, 
+                    "name": "Istituto Europeo Di Oncologia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Naples", 
+                        "country": "Italy", 
+                        "zip": "80131"
+                    }, 
+                    "name": "Federico II University Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palermo", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Oncologico M. Ascoli"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palermo", 
+                        "country": "Italy", 
+                        "zip": "90146"
+                    }, 
+                    "name": "Ospedale Cervello"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rimini", 
+                        "country": "Italy", 
+                        "zip": "47037"
+                    }, 
+                    "name": "Ospedale Civile Rimini"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rome", 
+                        "country": "Italy", 
+                        "zip": "00191"
+                    }, 
+                    "name": "Clinica Ars Medica"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rome", 
+                        "country": "Italy", 
+                        "zip": "00135"
+                    }, 
+                    "name": "Ospedale San Filippo Neri"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "Istituto Di Clinica Chirurgica"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Turin", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "Ospedale Molinette"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Udine", 
+                        "country": "Italy", 
+                        "zip": "33100"
+                    }, 
+                    "name": "Universita Degli Studi di Udine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Verona", 
+                        "country": "Italy", 
+                        "zip": "37126"
+                    }, 
+                    "name": "Ospedale Di Borgo Trento"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Osaka", 
+                        "country": "Japan", 
+                        "zip": "591"
+                    }, 
+                    "name": "National Kinki Central Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vilnius", 
+                        "country": "Lithuania", 
+                        "zip": "2600"
+                    }, 
+                    "name": "Lithuanian Oncology Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Skopje", 
+                        "country": "Macedonia, The Former Yugoslav Republic of", 
+                        "zip": "91000"
+                    }, 
+                    "name": "Institute of Radiotherapy and Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rabat", 
+                        "country": "Morocco"
+                    }, 
+                    "name": "Institut National D'Oncologie"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tromso", 
+                        "country": "Norway", 
+                        "zip": "N-9037"
+                    }, 
+                    "name": "University of Tromso"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Quezon City Diliman", 
+                        "country": "Philippines", 
+                        "zip": "1100"
+                    }, 
+                    "name": "Lung Centre of the Philippines"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bialystok", 
+                        "country": "Poland", 
+                        "zip": "15276"
+                    }, 
+                    "name": "Bialystok Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lodz", 
+                        "country": "Poland", 
+                        "zip": "93509"
+                    }, 
+                    "name": "Institute of Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wroclaw", 
+                        "country": "Poland", 
+                        "zip": "50345"
+                    }, 
+                    "name": "Department of Children Hematology/Oncology University of Medicine Wroclaw"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wroclaw", 
+                        "country": "Poland", 
+                        "zip": "53 439"
+                    }, 
+                    "name": "K. Dluski Hospital-Medical Academy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zdunowo", 
+                        "country": "Poland", 
+                        "zip": "20"
+                    }, 
+                    "name": "Regional Hospital for Lung Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lisbon (Lisboa)", 
+                        "country": "Portugal", 
+                        "zip": "1699"
+                    }, 
+                    "name": "Hospital Santa Maria"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ljubljana", 
+                        "country": "Slovenia", 
+                        "zip": "61105"
+                    }, 
+                    "name": "University of Ljubljana"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cape Town", 
+                        "country": "South Africa", 
+                        "zip": "7925"
+                    }, 
+                    "name": "Groote Schuur Hospital, Cape Town"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johannesburg", 
+                        "country": "South Africa"
+                    }, 
+                    "name": "Park Lane Oncology Practice"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johannesburg", 
+                        "country": "South Africa", 
+                        "zip": "2121"
+                    }, 
+                    "name": "Sandton Oncology Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08907"
+                    }, 
+                    "name": "Institut Catala d'Oncologia - Hospital Duran i Reynals"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Granada", 
+                        "country": "Spain", 
+                        "zip": "18014"
+                    }, 
+                    "name": "Hospital Virgen de las Nieves"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "zip": "46015"
+                    }, 
+                    "name": "Hospital Arnau Vilanova"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gothenburg (Goteborg)", 
+                        "country": "Sweden", 
+                        "zip": "S-413 45"
+                    }, 
+                    "name": "Sahlgrenska University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Linkoping", 
+                        "country": "Sweden", 
+                        "zip": "S-581 85"
+                    }, 
+                    "name": "University Hospital of Linkoping"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lund", 
+                        "country": "Sweden", 
+                        "zip": "S-22185"
+                    }, 
+                    "name": "Lund University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stockholm", 
+                        "country": "Sweden", 
+                        "zip": "S-171 76"
+                    }, 
+                    "name": "Karolinska Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Uppsala", 
+                        "country": "Sweden", 
+                        "zip": "S-751 85"
+                    }, 
+                    "name": "University Hospital - Uppsala"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Basel", 
+                        "country": "Switzerland", 
+                        "zip": "CH-4031"
+                    }, 
+                    "name": "University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellinzona", 
+                        "country": "Switzerland", 
+                        "zip": "CH-6500"
+                    }, 
+                    "name": "Ospedale San Giovanni"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chur", 
+                        "country": "Switzerland", 
+                        "zip": "CH-7000"
+                    }, 
+                    "name": "Ratisches Kantons und Regionalspital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Geneva", 
+                        "country": "Switzerland", 
+                        "zip": "CH-1211"
+                    }, 
+                    "name": "Hopital Cantonal Universitaire de Geneva"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Luzern (Lucerne)", 
+                        "country": "Switzerland", 
+                        "zip": "CH-6000"
+                    }, 
+                    "name": "Kantonsspital, Luzern"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zurich", 
+                        "country": "Switzerland", 
+                        "zip": "CH-8091"
+                    }, 
+                    "name": "Universitaetsspital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zurich", 
+                        "country": "Switzerland", 
+                        "zip": "8063"
+                    }, 
+                    "name": "City Hospital Triemli"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Monastir", 
+                        "country": "Tunisia", 
+                        "zip": "5000"
+                    }, 
+                    "name": "Hopital Universitaire F. Bourguiba"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Argentina", 
+                "Australia", 
+                "Austria", 
+                "Belgium", 
+                "Brazil", 
+                "Chile", 
+                "Colombia", 
+                "Czech Republic", 
+                "Egypt", 
+                "Former Yugoslavia", 
+                "France", 
+                "Greece", 
+                "Israel", 
+                "Italy", 
+                "Japan", 
+                "Lithuania", 
+                "Macedonia, The Former Yugoslav Republic of", 
+                "Morocco", 
+                "Norway", 
+                "Philippines", 
+                "Poland", 
+                "Portugal", 
+                "Slovenia", 
+                "South Africa", 
+                "Spain", 
+                "Sweden", 
+                "Switzerland", 
+                "Tunisia"
+            ]
+        }, 
+        "official_title": "A LARGE-SCALE TRIAL EVALUATING ADJUVANT CHEMOTHERAPY AFTER CURATIVE RESECTION OF NON-SMALL CELL LUNG CANCER", 
+        "overall_official": {
+            "affiliation": "Gustave Roussy, Cancer Campus, Grand Paris", 
+            "last_name": "Thierry L. Le Chevalier, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "January 2001", 
+            "@type": "Actual"
+        }, 
+        "reference": [
+            {
+                "PMID": "21471564", 
+                "citation": "Reiman T, Lai R, Veillard AS, Paris E, Soria JC, Rosell R, Taron M, Graziano S, Kratzke R, Seymour L, Shepherd FA, Pignon JP, S\u00e8ve P; LACE-Bio Group. Cross-validation study of class III beta-tubulin as a predictive marker for benefit from adjuvant chemotherapy in resected non-small-cell lung cancer: analysis of four randomized trials. Ann Oncol. 2012 Jan;23(1):86-93. doi: 10.1093/annonc/mdr033. Epub 2011 Apr 6."
+            }, 
+            {
+                "PMID": "16462183", 
+                "citation": "Hotta K, Matsuo K, Kiura K, Ueoka H, Tanimoto M. Advances in our understanding of postoperative adjuvant chemotherapy in resectable non-small-cell lung cancer. Curr Opin Oncol. 2006 Mar;18(2):144-50. Review."
+            }, 
+            {
+                "citation": "Pignon JP, Tribodet H, Scagliotti GV, et al.: Lung Adjuvant Cisplatin Evaluation (LACE): a pooled analysis of five randomized clinical trials including 4,584 patients. [Abstract] J Clin Oncol 24 (Suppl 18): A-7008, 2006."
+            }, 
+            {
+                "PMID": "16870041", 
+                "citation": "Wakelee HA, Schiller JH, Gandara DR. Current status of adjuvant chemotherapy for stage IB non-small-cell lung cancer: implications for the New Intergroup Trial. Clin Lung Cancer. 2006 Jul;8(1):18-21. Review."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002823"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "21224045", 
+                "citation": "Bepler G, Olaussen KA, Vataire AL, Soria JC, Zheng Z, Dunant A, Pignon JP, Schell MJ, Fouret P, Pirker R, Filipits M, Brambilla E. ERCC1 and RRM1 in the international adjuvant lung trial by automated quantitative in situ analysis. Am J Pathol. 2011 Jan;178(1):69-78. doi: 10.1016/j.ajpath.2010.11.029. Epub 2010 Dec 23."
+            }, 
+            {
+                "PMID": "19933916", 
+                "citation": "Arriagada R, Dunant A, Pignon JP, Bergman B, Chabowski M, Grunenwald D, Kozlowski M, Le P\u00e9choux C, Pirker R, Pinel MI, Tarayre M, Le Chevalier T. Long-term results of the international adjuvant lung cancer trial evaluating adjuvant Cisplatin-based chemotherapy in resected lung cancer. J Clin Oncol. 2010 Jan 1;28(1):35-42. Epub 2009 Nov 23."
+            }, 
+            {
+                "PMID": "20978195", 
+                "citation": "Voortman J, Goto A, Mendiboure J, Sohn JJ, Schetter AJ, Saito M, Dunant A, Pham TC, Petrini I, Lee A, Khan MA, Hainaut P, Pignon JP, Brambilla E, Popper HH, Filipits M, Harris CC, Giaccone G. MicroRNA expression and clinical outcomes in patients treated with adjuvant chemotherapy after complete resection of non-small cell lung carcinoma. Cancer Res. 2010 Nov 1;70(21):8288-98. Epub 2010 Oct 26."
+            }, 
+            {
+                "PMID": "17602078", 
+                "citation": "Filipits M, Pirker R, Dunant A, Lantuejoul S, Schmid K, Huynh A, Haddad V, Andre F, Stahel R, Pignon JP, Soria JC, Popper HH, Le Chevalier T, Brambilla E. Cell cycle regulators and outcome of adjuvant cisplatin-based chemotherapy in completely resected non-small-cell lung cancer: the International Adjuvant Lung Cancer Trial Biologic Program. J Clin Oncol. 2007 Jul 1;25(19):2735-40."
+            }, 
+            {
+                "PMID": "16957145", 
+                "citation": "Olaussen KA, Dunant A, Fouret P, Brambilla E, Andre F, Haddad V, Taranchon E, Filipits M, Pirker R, Popper HH, Stahel R, Sabatier L, Pignon JP, Tursz T, Le Chevalier T, Soria JC; IALT Bio Investigators. DNA repair by ERCC1 in non-small-cell lung cancer and cisplatin-based adjuvant chemotherapy. N Engl J Med. 2006 Sep 7;355(10):983-91."
+            }, 
+            {
+                "citation": "Brambilla E, Dunant A, Filipits M, et al.: Prognostic and predictive role of alterations of the P53-bax-bcl2 pathway of apoptosis in the IALT (International Adjuvant Lung Cancer Trial). [Abstract] Lung Cancer 50 (Suppl 2): A-O-021, S10, 2005."
+            }, 
+            {
+                "PMID": "14736927", 
+                "citation": "Arriagada R, Bergman B, Dunant A, Le Chevalier T, Pignon JP, Vansteenkiste J; International Adjuvant Lung Cancer Trial Collaborative Group. Cisplatin-based adjuvant chemotherapy in patients with completely resected non-small-cell lung cancer. N Engl J Med. 2004 Jan 22;350(4):351-60."
+            }, 
+            {
+                "citation": "Le Chevalier T: Results of the Randomized International Adjuvant Lung Cancer Trial (IALT): cisplatin-based chemotherapy (CT) vs no CT in 1867 patients (pts) with resected non-small cell lung cancer (NSCLC). [Abstract] Proceedings of the American Society of Clinical Oncology 22: A-6, 2, 2003."
+            }
+        ], 
+        "source": "Gustave Roussy, Cancer Campus, Grand Paris", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gustave Roussy, Cancer Campus, Grand Paris", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 1995", 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2011"
+    }, 
+    "geocoordinates": {
+        "A.Z. St. Jan": "51.211 3.225", 
+        "AKH Vienna": "48.208 16.374", 
+        "AZ Zusters Van Barmhartigheid": "50.75 3.604", 
+        "Alfred Hospital": "-37.813 144.963", 
+        "Assistance Publique Hopitaux de Marseille Hopitaux Sud": "43.296 5.37", 
+        "Athens University-Laikon General Hospital": "37.975 23.736", 
+        "Bialystok Medical School": "53.132 23.169", 
+        "C.H. Armentieres": "50.692 2.884", 
+        "C.H. De Grasse": "43.66 6.926", 
+        "C.H. De Sens": "48.201 3.283", 
+        "C.H. Henri Mondor": "44.931 2.445", 
+        "C.H. Nord Mayenne": "48.306 -0.621", 
+        "C.H.G. Beauvais": "49.43 2.082", 
+        "C.H.G. De Pau": "43.295 -0.371", 
+        "C.H.G. Du Havre-Hopital J. Monod": "49.494 0.108", 
+        "C.H.G. Troyes": "48.297 4.075", 
+        "C.M.C. Du Cedre": "49.441 1.11", 
+        "CHU De Pontchaillou": "48.113 -1.676", 
+        "CHU de Caen": "49.183 -0.371", 
+        "Centre Alexis Vautrin": "48.661 6.174", 
+        "Centre Antoine Lacassagne": "43.696 7.266", 
+        "Centre Du Meridien": "43.553 7.017", 
+        "Centre Hospital General Robert Ballanger": "48.941 2.497", 
+        "Centre Hospitalier General": "49.418 2.826", 
+        "Centre Hospitalier Regional et Universitaire d'Angers": "47.478 -0.563", 
+        "Centre Hospitalier de Lagny": "48.873 2.713", 
+        "Centre Hospitalier de Saint-Brieuc": "48.514 -2.766", 
+        "Centre Leon Berard": "45.764 4.836", 
+        "Centre Oscar Lambret": "50.629 3.057", 
+        "Centre Paul Papin": "47.478 -0.563", 
+        "Centre Regional Francois Baclesse": "49.183 -0.371", 
+        "Centre de Lute Contre le Cancer,Georges-Francois Leclerc": "47.322 5.041", 
+        "Centre de Radiologie et de Traitement des Tumeurs": "48.791 2.221", 
+        "Centre du Rouget": "48.997 2.378", 
+        "Chest Disease Clinic, Charles University": "50.088 14.42", 
+        "City Hospital Triemli": "47.369 8.539", 
+        "Clinica Ars Medica": "41.891 12.494", 
+        "Clinica Las Nieves": "-33.417 -70.55", 
+        "Clinique Hartmann": "48.885 2.269", 
+        "Clinique Hauts De Seine Bagneux": "48.797 2.31", 
+        "Comprehensive Cancer Center at JFK Medical Center": "26.591 -80.101", 
+        "Department of Children Hematology/Oncology University of Medicine Wroclaw": "51.108 17.039", 
+        "Evangelismos Hospital": "37.975 23.736", 
+        "Federico II University Medical School": "40.84 14.253", 
+        "George Papanicolaou General Hospital": "40.639 22.945", 
+        "Getlac": "-34.608 -58.373", 
+        "Groote Schuur Hospital, Cape Town": "-33.925 18.424", 
+        "Hopital Antoine Beclere": "48.8 2.257", 
+        "Hopital Arnaud de Villeneuve": "43.611 3.877", 
+        "Hopital Avicenne": "48.909 2.44", 
+        "Hopital Cantonal Universitaire de Geneva": "46.198 6.142", 
+        "Hopital Clinique Claude Bernard": "49.12 6.177", 
+        "Hopital D'Etampes": "48.434 2.161", 
+        "Hopital Fontenoy": "48.444 1.489", 
+        "Hopital Intercommunal De Creteil": "48.79 2.456", 
+        "Hopital Jean Bernard": "46.58 0.34", 
+        "Hopital Tenon": "48.857 2.352", 
+        "Hopital Universitaire F. Bourguiba": "35.777 10.826", 
+        "Hopitaux Universitaire de Strasbourg": "48.583 7.748", 
+        "Hospital A.C. Camargo": "-23.549 -46.639", 
+        "Hospital Arnau Vilanova": "39.47 -0.377", 
+        "Hospital Militar Central": "4.598 -74.076", 
+        "Hospital Saint-Joseph": "48.857 2.352", 
+        "Hospital Santa Maria": "38.707 -9.136", 
+        "Hospital Virgen de las Nieves": "37.176 -3.598", 
+        "Institut Bergonie": "44.838 -0.579", 
+        "Institut Catala d'Oncologia - Hospital Duran i Reynals": "41.388 2.17", 
+        "Institut Curie - Section Medicale": "48.857 2.352", 
+        "Institut Gustave Roussy": "48.793 2.359", 
+        "Institut Mutualiste Montsouris": "48.857 2.352", 
+        "Institut National D'Oncologie": "34.015 -6.833", 
+        "Institute for Lung Diseases": "44.802 20.466", 
+        "Institute of Oncology": "51.759 19.456", 
+        "Institute of Radiotherapy and Oncology": "42.004 21.452", 
+        "Instituto Nacional De Cancerologia": "4.598 -74.076", 
+        "Instituto Nacional de Cancer": "-22.904 -43.21", 
+        "Istituto Di Clinica Chirurgica": "45.071 7.684", 
+        "Istituto Europeo Di Oncologia": "45.464 9.188", 
+        "K. Dluski Hospital-Medical Academy": "51.108 17.039", 
+        "Kantonsspital, Luzern": "47.05 8.316", 
+        "Kaplan Hospital": "31.893 34.811", 
+        "Karolinska Hospital": "59.329 18.065", 
+        "Lithuanian Oncology Center": "54.689 25.28", 
+        "Lund University Hospital": "55.705 13.191", 
+        "Lung Centre of the Philippines": "14.647 121.051", 
+        "Massachusetts General Hospital Cancer Center": "42.358 -71.06", 
+        "Metaxa's Memorial Cancer Hospital": "37.951 23.641", 
+        "National Cancer Institute of Egypt": "30.044 31.236", 
+        "National Kinki Central Hospital": "34.694 135.502", 
+        "Ospedale Cervello": "38.116 13.361", 
+        "Ospedale Civile Rimini": "44.061 12.566", 
+        "Ospedale Di Borgo Trento": "45.438 10.992", 
+        "Ospedale Molinette": "45.071 7.684", 
+        "Ospedale Oncologico M. Ascoli": "38.116 13.361", 
+        "Ospedale San Filippo Neri": "41.891 12.494", 
+        "Ospedale San Giovanni": "46.198 9.027", 
+        "Park Lane Oncology Practice": "-26.204 28.047", 
+        "Peter MacCallum Cancer Institute": "-37.811 144.986", 
+        "Porto Alegre Hospital": "-30.028 -51.229", 
+        "Ratisches Kantons und Regionalspital": "46.857 9.527", 
+        "Regional Hospital for Lung Disease": "52.505 20.515", 
+        "Royal Adelaide Hospital": "-34.929 138.6", 
+        "Royal Melbourne Hospital": "-37.795 144.957", 
+        "Sahlgrenska University Hospital": "57.709 11.975", 
+        "Sandton Oncology Centre": "-26.204 28.047", 
+        "Sint Elizabeth Ziekenhuis": "50.867 3.8", 
+        "Sismanoglio Hospital": "37.975 23.736", 
+        "Sotiria Hospital Chest Diseases": "37.975 23.736", 
+        "South Eastern Sydney Area Health Service": "-33.914 151.242", 
+        "Tel-Aviv Medical Center": "32.066 34.778", 
+        "U.Z. Gasthuisberg": "50.878 4.704", 
+        "Universita Degli Studi di Udine": "46.065 13.231", 
+        "Universitaetsspital": "47.369 8.539", 
+        "Universitair Ziekenhuis Antwerpen": "51.153 4.438", 
+        "University Hospital": "47.557 7.593", 
+        "University Hospital - Uppsala": "59.859 17.639", 
+        "University Hospital of Heraklion": "35.329 25.139", 
+        "University Hospital of Linkoping": "58.411 15.621", 
+        "University of Clementino Fraga": "-22.904 -43.21", 
+        "University of Ljubljana": "46.051 14.506", 
+        "University of Patras Medical School": "38.302 21.781", 
+        "University of Tromso": "69.649 18.955", 
+        "Western Hospital": "-37.813 144.963"
+    }
+}

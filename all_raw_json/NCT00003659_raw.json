@@ -1,0 +1,678 @@
+{
+    "clinical_study": {
+        "@rank": "99383", 
+        "arm_group": {
+            "arm_group_label": "intermediate or high risk chronic lymphocytic leukemia", 
+            "arm_group_type": "Experimental", 
+            "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab."
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing\n      so they stop growing or die. Combining more than one drug may kill more cancer cells.\n      Monoclonal antibodies can locate cancer cells and either kill them or deliver cancer-killing\n      substances to them without harming normal cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of fludarabine plus high-dose\n      cyclophosphamide and rituximab in treating patients who have previously untreated chronic\n      lymphocytic leukemia."
+        }, 
+        "brief_title": "Fludarabine, Cyclophosphamide, and Rituximab in Treating Patients Who Have Chronic Lymphocytic Leukemia", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab.", 
+                        "title": "Intermediate or High Risk Chronic Lymphocytic Leukemia"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "39"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "9"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "8.8", 
+                                            "@value": "57.7"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "8"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "31"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "39"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Response was determined as inicated in the protocol.  The catergories are: complete response, nodular partial response, partial response and failure.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab.", 
+                                "title": "Intermediate or High Risk Chronic Lymphocytic Leukemia"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "22"
+                                                    }
+                                                }, 
+                                                "sub_title": "Complete Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }
+                                                }, 
+                                                "sub_title": "Nodular Partial Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "8"
+                                                    }
+                                                }, 
+                                                "sub_title": "Partial Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4"
+                                                    }
+                                                }, 
+                                                "sub_title": "Failure"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Response was determined as inicated in the protocol.  The catergories are: complete response, nodular partial response, partial response and failure.", 
+                                    "param": "Number", 
+                                    "title": "Overall Response Rate", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "There were 36 assessable patients as described in the protocol", 
+                        "safety_issue": "No", 
+                        "time_frame": "3 years", 
+                        "title": "Overall Response Rate", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The flow cytometric response and the molecular polymerase chain reaction (PCR) response was captured as indicated in the protocol.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab.", 
+                                "title": "Intermediate or High Risk Chronic Lymphocytic Leukemia"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "20"
+                                                    }
+                                                }, 
+                                                "sub_title": "Flow cytometric complete response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }
+                                                }, 
+                                                "sub_title": "Molencular (PCR) complete response"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "The flow cytometric response and the molecular polymerase chain reaction (PCR) response was captured as indicated in the protocol.", 
+                                    "param": "Number", 
+                                    "title": "Utilize Flow Cytometry and Polymerase Chain Reaction as Sensitive Measures of Minimal Residual Disease", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "All assessable patients as indicated in the protocol", 
+                        "safety_issue": "No", 
+                        "time_frame": "3 years", 
+                        "title": "Utilize Flow Cytometry and Polymerase Chain Reaction as Sensitive Measures of Minimal Residual Disease", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The 5 year survival rate", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab.", 
+                                "title": "Intermediate or High Risk Chronic Lymphocytic Leukemia"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "26"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The 5 year survival rate", 
+                                    "param": "Number", 
+                                    "title": "Overall Survival Status", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "All assessable patients as indicated in the protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 5 years", 
+                        "title": "Overall Survival Status", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab.", 
+                        "title": "Intermediate or High Risk Chronic Lymphocytic Leukemia"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": {
+                                        "@count": "3", 
+                                        "@group_id": "P1"
+                                    }
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "39", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "36", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "3", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Protocol Open to Accrual 09/08/1998 Protocol Closed to Accrual 06/14/2005 Primary Completion Date 05/12/2009 Recruitment Location is the medical clinic"
+            }, 
+            "point_of_contact": {
+                "email": "scheinbd@mskcc.org", 
+                "name_or_title": "Dr. David Scheinberg", 
+                "organization": "Memorial-Sloan Kettering Cancer Center", 
+                "phone": "646-888-2190"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "This is a single-arm open-label pilot study designed to assess the antileukemic activity of a regimen containing sequential administration of fludarabine, high-dose cyclophosphamide, and rituximab.", 
+                        "title": "Intermediate or High Risk Chronic Lymphocytic Leukemia"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "32", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "32", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "28", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "10", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "6", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Anemia"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "5", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Infection with grade 3/4 neut"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Pulmonary, other Pneumonia"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": "Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Lymphocytic, Chronic, B-Cell", 
+                "Leukemia, Lymphoid"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the response rate in patients with chronic lymphocytic leukemia treated with\n           sequential fludarabine, high dose cyclophosphamide, and rituximab.\n\n        -  Survival up to 5 years\n\n        -  Utilize flow cytometry and polymerase chain reaction as sensitive measures of minimal\n           residual disease in these patients.\n\n      OUTLINE: This is an open label study.\n\n      Patients receive fludarabine IV once daily for 5 days. Treatment is repeated every 4 weeks\n      for 3 or 6 courses.\n\n      Three weeks later, cyclophosphamide is administered intravenously every 2-3 weeks for 3\n      courses. Filgrastim (G-CSF) is administered on days 2-10. Beginning 4 weeks after the last\n      dose of cyclophosphamide, patients receive rituximab by intravenous infusion once weekly for\n      4 weeks.\n\n      Patient are followed every 3 months until death.\n\n      PROJECTED ACCRUAL: This study will accrue 30 patients within 3 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Patients must have either intermediate or high-risk chronic lymphocytic leukemia as\n             defined by the three-stage Rai system (see section 2.2 page 2). Patients with Rai\n             intermediate risk disease should meet the criteria for active disease as outlined by\n             the NCI Working Group guidelines (including weight loss, fatigue, fevers, evidence of\n             progressive marrow failure, splenomegaly, progressive lymphadenopathy, or progressive\n             lymphocytosis with a rapid doubling time).\n\n          -  Patients must be previously untreated (with cytoreductive agents) for their CLL.\n\n          -  The patient must have an absolute lymphocytosis in the blood of at least 5,000\n             lymphocytes/\u03bcl, or bone marrow lymphocytosis greater than or equal to 30% of all\n             nucleated cells. These lymphocytes must have an appropriate immunophenotype for CLL\n             including expression of CD5 and CD20.\n\n          -  Karnofsky performance status equal to or greater than 60% (see Appendix B).\n\n          -  Eligible patients should have a reasonable life-expectancy greater than four weeks.\n\n          -  Age \u2265 18 years and \u2264 75 years.\n\n          -  Total bilirubin \u2264 2.0 mg per deciliter. Total creatinine \u2264 2.0 mg/ dl.\n\n          -  Platelet count \u2265 50,000/ ul.\n\n          -  Signed informed consent, which indicates the investigational nature of this, is\n             required.\n\n          -  No patient may be entered onto the study without consultation with the principal\n             investigator.\n\n        EXCLUSION CRITERIA:\n\n          -  Patients with Rai intermediate risk disease who meet the criteria of Montserrat\n             \"smouldering leukemia\" will not be eligible for treatment on this protocol.\n\n          -  Patients with significant autoimmune hemolytic anemia or autoimmune thrombocytopenia\n             shall not be eligible for treatment on this protocol as there is some evidence that\n             fludarabine can worsen these conditions.\n\n          -  Patients with active infections requiring systemic antibiotics.\n\n          -  Prior cytotoxic treatment of their CLL.\n\n          -  Pregnant or lactating women. Women and men of childbearing age should use effective\n             contraception.\n\n          -  Patients with a serious cardiac condition.\n\n          -  Concomitant chemotherapy or radiotherapy while on protocol.\n\n          -  Concomitant prednisone therapy will not be permitted as the combination of\n             fludarabine and prednisone is known to increase the risk of opportunistic infections.\n             Patients may receive intravenous immunoglobulin (IVIG) and other supportive care\n             measures as clinically appropriate while on protocol."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "39", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "firstreceived_results_date": "November 28, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003659", 
+            "org_study_id": "98-080", 
+            "secondary_id": [
+                "MSKCC-98080", 
+                "NCI-G98-1483"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "intermediate or high risk chronic lymphocytic leukemia", 
+                "description": "Filgrastim (300 \u03bcg for patients \u2264 70 kg or 480 \u03bcg for patients > 70 kg) will be administered beginning two days after each cyclophosphamide dose and given for a total of eight subcutaneous daily doses.", 
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "intermediate or high risk chronic lymphocytic leukemia", 
+                "description": "Approximately four weeks after the completion of the last cyclophosphamide dose, patients will receive rituximab 375mg/m2 as an intravenous infusion once weekly for four doses.", 
+                "intervention_name": "rituximab", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "intermediate or high risk chronic lymphocytic leukemia", 
+                "description": "Cyclophosphamide 3000mg/m2 will be given intravenously q 2 - 3 weeks x 3 doses.", 
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "intermediate or high risk chronic lymphocytic leukemia", 
+                "description": "Fludarabine will be administered intravenously at a dose of 25 mg/m2 per day x 5 days every 4 weeks.", 
+                "intervention_name": "fludarabine phosphate", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclophosphamide", 
+                "Fludarabine monophosphate", 
+                "Rituximab", 
+                "Fludarabine", 
+                "Lenograstim", 
+                "Vidarabine"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage II chronic lymphocytic leukemia", 
+            "stage III chronic lymphocytic leukemia", 
+            "stage IV chronic lymphocytic leukemia"
+        ], 
+        "lastchanged_date": "November 28, 2012", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/MSKCC-98080"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10021"
+                }, 
+                "name": "Memorial Sloan-Kettering Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Study of Fludarabine Induction With Sequential High Dose Cyclophosphamide and Rituximab as Consolidation Therapy for Previously Untreated Patients With Intermediate and High-Risk Chronic Lymphocytic Leukemia", 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Mark Adam Weiss, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Response was determined as inicated in the protocol.  The catergories are: complete response, nodular partial response, partial response and failure.", 
+            "measure": "Overall Response Rate", 
+            "safety_issue": "No", 
+            "time_frame": "3 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003659"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The flow cytometric response and the molecular polymerase chain reaction (PCR) response was captured as indicated in the protocol.", 
+                "measure": "Utilize Flow Cytometry and Polymerase Chain Reaction as Sensitive Measures of Minimal Residual Disease", 
+                "safety_issue": "No", 
+                "time_frame": "3 years"
+            }, 
+            {
+                "description": "The 5 year survival rate", 
+                "measure": "Overall Survival Status", 
+                "safety_issue": "No", 
+                "time_frame": "up to 5 years"
+            }
+        ], 
+        "source": "Memorial Sloan-Kettering Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 1998", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2012"
+    }, 
+    "geocoordinates": {
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006"
+    }
+}

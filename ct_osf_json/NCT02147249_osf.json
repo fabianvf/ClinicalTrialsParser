@@ -22,12 +22,19 @@
     "current_status": "Recruiting", 
     "date_processed": "June 05, 2014", 
     "description": "\n      The main objective of this study is to characterize the inflammatory proteins, gene\n      polymorphisms, and transcriptome profiles in patients with erythema migrans to gain better\n      insight into pathogenesis of early Lyme borreliosis and to define new immune modulators that\n      could serve as biomarkers of disease activity.\n    ", 
+<<<<<<< HEAD:ct_osf_json/NCT02147249_osf.json
     "files": ["../ct_xml/NCT02147249.xml", "../ct_raw_json/NCT02147249_raw.json"],
+=======
+    "files": [
+        "../ct_xml/NCT02147249.xml", 
+        "../ct_raw_json/NCT02147249_raw.json"
+    ], 
+>>>>>>> a78758cf97002a4a2277f812dd682cce64bb8e1c:ct_osf_json/NCT02147249_osf.json
     "geo_data": [
-        [
-            "UMC Ljubljana, Department of Infectious Diseases", 
-            "1525"
-        ]
+        {
+            "location_name": "UMC Ljubljana, Department of Infectious Diseases", 
+            "location_zip": "1525"
+        }
     ], 
     "id": "NCT02147249", 
     "imported_from": "clinicaltrials.gov", 

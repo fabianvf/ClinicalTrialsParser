@@ -1,0 +1,354 @@
+{
+    "clinical_study": {
+        "@rank": "6772", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Radiation therapy uses x-rays to damage tumor cells. Drugs such\n      as capecitabine may make the tumor cells more sensitive to radiation therapy.\n\n      PURPOSE: Phase I trial to study the effectiveness of capecitabine in combination with\n      radiation therapy in treating patients who have unresectable, residual, or recurrent\n      colorectal cancer located in the pelvis."
+        }, 
+        "brief_title": "Chemotherapy Plus Radiation Therapy in Treating Patients With Unresectable, Residual, or Recurrent Colorectal Cancer", 
+        "condition": "Cancer", 
+        "condition_browse": {
+            "mesh_term": "Colorectal Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the maximum tolerated dose of oral capecitabine administered in\n      combination with pelvic radiotherapy in patients with unresectable, residual, or locally\n      recurrent cancer localized in the pelvis. II. Determine the tolerance of this regimen in\n      these patients. III. Determine the preliminary evidence of therapeutic acticivity of this\n      regimen in these patients.\n\n      OUTLINE: This is a dose-escalation study of capecitabine. Patients receive oral capecitabine\n      twice a day 7 days a week for 6 weeks with concurrent radiotherapy. Radiotherapy is\n      initiated on the same day as the initiation of capecitabine and is administered 5 days a\n      week for 5.5-6 weeks. Cohorts of 3-6 patients receive escalating doses of capecitabine until\n      the maximum tolerated dose (MTD) is reached. The MTD is defined as the dose at which 2 of 3\n      or 6 patients experience dose-limiting toxicity. Patients are followed every 3 months for 2\n      years and then every 6 months for 1 year.\n\n      PROJECTED ACCRUAL: A maximum of 51 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed carcinoma located in the pelvis that is\n        unresectable, incompletely resected, or locally recurrent Must be biopsy-proven or have\n        radiological progression All disease must be encompassable within standard pelvic\n        radiotherapy fields No evidence of metastatic disease outside of the planned radiotherapy\n        field\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-2 Life expectancy:\n        Not specified Hematopoietic: WBC at least 3,500/mm3 Platelet count at least 100,000/mm3\n        Hepatic: Not specified Renal: Creatinine clearance at least 30 mL/min Other: Must maintain\n        adequate oral nutrition (i.e., at least 1200 calories estimated intake per day) No\n        significant infection or other concurrent medical condition that would preclude study No\n        significant nausea or vomiting No malabsorption secondary to short-gut syndrome, Crohn's\n        disease, or sprue No patients with more than 6 bowel movements per day or baseline no\n        greater than grade 3 diarrhea for patients with colostomy Not pregnant or nursing Negative\n        pregnancy test Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior\n        chemotherapy for metastatic cancer At least 6 months since prior adjuvant chemotherapy\n        Endocrine therapy: Not specified Radiotherapy: See Disease Characteristics No prior\n        radiotherapy Surgery: At least 21 days since prior laparotomy or laparoscopic procedure\n        with or without resection Other: No concurrent sorivudine or chemically related analogues\n        (e.g., brivudine)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "51", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003704", 
+            "org_study_id": "CDR0000066811", 
+            "secondary_id": "NCCTG-984652"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "capecitabine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "chemotherapy", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Capecitabine"
+        }, 
+        "keyword": [
+            "stage III colon cancer", 
+            "stage III rectal cancer", 
+            "recurrent colon cancer", 
+            "recurrent rectal cancer", 
+            "recurrent anal cancer", 
+            "stage IIIA anal cancer", 
+            "stage IIIB anal cancer", 
+            "stage III cervical cancer", 
+            "recurrent cervical cancer", 
+            "stage III ovarian epithelial cancer", 
+            "recurrent ovarian epithelial cancer", 
+            "stage III vulvar cancer", 
+            "recurrent vulvar cancer", 
+            "stage III vaginal cancer", 
+            "recurrent vaginal cancer", 
+            "stage III penile cancer", 
+            "recurrent penile cancer", 
+            "stage III endometrial carcinoma", 
+            "recurrent endometrial carcinoma", 
+            "stage III bladder cancer", 
+            "recurrent bladder cancer", 
+            "stage III malignant testicular germ cell tumor", 
+            "stage III prostate cancer", 
+            "recurrent prostate cancer", 
+            "recurrent malignant testicular germ cell tumor", 
+            "ovarian stromal cancer", 
+            "recurrent urethral cancer", 
+            "distal urethral cancer", 
+            "proximal urethral cancer", 
+            "stage III ovarian germ cell tumor", 
+            "recurrent ovarian germ cell tumor", 
+            "fallopian tube cancer", 
+            "primary peritoneal cavity cancer", 
+            "stage III uterine sarcoma", 
+            "recurrent uterine sarcoma", 
+            "borderline ovarian surface epithelial-stromal tumor", 
+            "ovarian sarcoma"
+        ], 
+        "lastchanged_date": "September 29, 2012", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/NCCTG-984652"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85259-5404"
+                    }, 
+                    "name": "CCOP - Scottsdale Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cedar Rapids", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52403-1206"
+                    }, 
+                    "name": "CCOP - Cedar Rapids Oncology Project"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50309-1016"
+                    }, 
+                    "name": "CCOP - Iowa Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101-1733"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-3882"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70121"
+                    }, 
+                    "name": "CCOP - Ochsner"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duluth", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55805"
+                    }, 
+                    "name": "CCOP - Duluth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Cloud", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "56303"
+                    }, 
+                    "name": "CentraCare Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "CCOP - Metro-Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68131"
+                    }, 
+                    "name": "CCOP - Missouri Valley Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bismarck", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58501"
+                    }, 
+                    "name": "Medcenter One Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Forks", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58201"
+                    }, 
+                    "name": "Altru Health Systems"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Danville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17822-2001"
+                    }, 
+                    "name": "CCOP - Geisinger Clinic and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57709"
+                    }, 
+                    "name": "Rapid City Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57105-1080"
+                    }, 
+                    "name": "CCOP - Sioux Community Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Regina", 
+                        "country": "Canada", 
+                        "state": "Saskatchewan", 
+                        "zip": "S4T 7T1"
+                    }, 
+                    "name": "Allan Blair Cancer Centre"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "official_title": "Phase I Study of Oral Capecitabine (Xeloda) as a Radiation Enhancer in Locally Unresectable, Residual, or Recurrent Colorectal Cancer Localized in the Pelvis", 
+        "overall_official": {
+            "affiliation": "Mayo Clinic", 
+            "last_name": "Charles Erlichman, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003704"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "North Central Cancer Treatment Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 1999", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2001"
+    }, 
+    "geocoordinates": {
+        "Allan Blair Cancer Centre": "50.455 -104.607", 
+        "Altru Health Systems": "47.925 -97.033", 
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Cedar Rapids Oncology Project": "41.978 -91.666", 
+        "CCOP - Duluth": "46.787 -92.1", 
+        "CCOP - Geisinger Clinic and Medical Center": "40.963 -76.613", 
+        "CCOP - Iowa Oncology Research Association": "41.601 -93.609", 
+        "CCOP - Metro-Minnesota": "44.96 -93.37", 
+        "CCOP - Missouri Valley Cancer Consortium": "41.252 -95.998", 
+        "CCOP - Ochsner": "29.951 -90.072", 
+        "CCOP - Scottsdale Oncology Program": "33.494 -111.926", 
+        "CCOP - Sioux Community Cancer Consortium": "43.55 -96.7", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "CentraCare Clinic": "45.554 -94.17", 
+        "Mayo Clinic Cancer Center": "44.022 -92.47", 
+        "Medcenter One Health System": "46.808 -100.784", 
+        "Rapid City Regional Hospital": "44.081 -103.231", 
+        "Siouxland Hematology-Oncology": "42.5 -96.4"
+    }
+}

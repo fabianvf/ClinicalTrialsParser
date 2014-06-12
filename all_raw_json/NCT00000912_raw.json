@@ -1,0 +1,743 @@
+{
+    "clinical_study": {
+        "@rank": "20221", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare 4 different combinations of anti-HIV drugs and to\n      determine the number of people whose HIV blood levels decrease to 200 copies/ml or less\n      while on the treatment.  This study evaluates the safety of these drug combinations, which\n      include an experimental protease inhibitor (PI), amprenavir.\n\n      Despite the success that many patients have had with PI treatment regimens, there is still a\n      possibility that patients receiving PIs may continue to have high HIV blood levels.  Because\n      of this possibility, alternative drug combinations containing PIs are being studied.  It\n      appears that amprenavir, when taken with 3 or 4 other anti-HIV drugs, may be effective in\n      patients with prior PI treatment experience."
+        }, 
+        "brief_title": "A Study on Amprenavir in Combination With Other Anti-HIV Drugs in HIV-Positive Patients", 
+        "completion_date": {
+            "#text": "May 2000", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "A number of studies both within and outside the ACTG have been initiated or are in\n      development to try to address the issue of alternative treatments for patients who either do\n      not achieve or lose virologic control while receiving protease inhibitors (PIs). Amprenavir\n      (APV) is an attractive candidate to investigate as part of salvage regimens because: 1) it\n      has substantial antiretroviral activity; 2) there are preliminary in vitro and in vivo data\n      that suggest that resistance to this agent may be mediated in part by a unique mutation\n      (I50V); and 3) its cross-resistance profile to the approved PIs is uncertain.\n\n      Patients are selectively randomized to 1 of 4 study arms based on prior PI experience. Those\n      randomized to Arms A, B, or C receive 2 PIs, 1 of which is amprenavir (APV), and those\n      randomized to Arm D receive a single PI (APV) as part of their treatment regimen, as\n      follows:\n\n      Arm A: APV plus saquinavir soft gel capsule (SQVsgc) plus abacavir (ABC) plus efavirenz\n      (EFV) plus adefovir (ADV).\n\n      Arm B: APV plus indinavir (IDV) plus ABC plus EFV plus ADV. Arm C: APV plus nelfinavir (NFV)\n      plus ABC plus EFV plus ADV. Arm D: APV plus placebo (NFV, IDV, or SQVsgc) plus ABC plus EFV\n      plus ADV. All patients receive L-carnitine supplementation. All patients receive clinical\n      physical assessments and laboratory testing during study as follows: Weeks 2, 4, and every 4\n      weeks thereafter. A primary analysis is performed after the last patient has reached 24\n      weeks. [AS PER AMENDMENT 3/2/00: At that time, all patients are unblinded to their original\n      treatment assignment.] Patients who experience virologic failure are unblinded and may\n      choose 1 of the following 3 options: Continue study medications open-label, permanently\n      discontinue study medications, or selectively continue study medications [AS PER AMENDMENT\n      3/2/00: from the arm the patient was originally randomized to] and combine with other\n      approved antiretroviral agents. [AS PER AMENDMENT 3/2/00: For patients adding didanosine\n      (ddI) to their regimens, monitoring for the development of pancreatitis is crucial.] Final\n      evaluations are required for those patients who are off drug during the immediate 8-week\n      period following the last dose of study treatment. Beyond 8 weeks, they are followed for\n      incidence of death, cancer, congenital anomalies, and permanent disabilities.  [AS PER\n      AMENDMENT 3/2/00: Gilead Sciences has terminated its U.S. development of ADV for HIV\n      infection. Gilead will continue to supply ADV for patients in ACTG 398 until the study\n      closes. Patients who are receiving ADV at the completion of the study may continue to access\n      ADV through the Expanded Access Program, provided that the physician and patient have\n      determined that continued use of ADV is beneficial.]"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Are HIV-positive.\n\n          -  Have current virologic failure (2 consecutive HIV blood levels above 1,000 copies/ml)\n             while on PIs.\n\n          -  Are over 13 years of age (consent of parent or guardian required if under 18).\n\n          -  Agree to practice abstinence or use effective methods of birth control during the\n             study and for 90 days after.\n\n        Exclusion Criteria\n\n        Patients will not be eligible for this study if they:\n\n          -  Have hepatitis within 90 days prior to study entry.\n\n          -  Have a history of a peripheral neuropathy within 60 days of study entry.\n\n          -  Have an unexplained temperature for a 7-day period.\n\n          -  Have chronic diarrhea within 30 days prior to study entry.\n\n          -  Have cancer requiring chemotherapy.\n\n          -  Received any therapy for infection or other illness within 30 days prior to study\n             entry.\n\n          -  Have received certain other medications.\n\n          -  Are pregnant or breast-feeding."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "13 Years"
+        }, 
+        "enrollment": "475", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000912", 
+            "org_study_id": "ACTG 398", 
+            "secondary_id": [
+                "11354", 
+                "Substudy ACTG 5003s"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Indinavir sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Abacavir sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Amprenavir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Nelfinavir mesylate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Efavirenz", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Levocarnitine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Adefovir dipivoxil", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Saquinavir", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carnitine", 
+                "Protease Inhibitors", 
+                "Indinavir", 
+                "Saquinavir", 
+                "Nelfinavir", 
+                "Amprenavir", 
+                "HIV Protease Inhibitors", 
+                "Adefovir", 
+                "Adefovir dipivoxil", 
+                "Efavirenz", 
+                "Abacavir"
+            ]
+        }, 
+        "keyword": [
+            "Placebos", 
+            "Drug Therapy, Combination", 
+            "HIV Protease Inhibitors", 
+            "VX 478", 
+            "Anti-HIV Agents", 
+            "Viral Load", 
+            "efavirenz"
+        ], 
+        "lastchanged_date": "July 26, 2013", 
+        "link": [
+            {
+                "description": "Click here for more information about Saquinavir", 
+                "url": "http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=164"
+            }, 
+            {
+                "description": "Click here for more information about Indinavir sulfate", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=233"
+            }, 
+            {
+                "description": "Click here for more information about Abacavir sulfate", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=257"
+            }, 
+            {
+                "description": "Click here for more information about Amprenavir", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=258"
+            }, 
+            {
+                "description": "Click here for more information about Nelfinavir mesylate", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=263"
+            }, 
+            {
+                "description": "Click here for more information about Efavirenz", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=269"
+            }, 
+            {
+                "description": "Haga clic aqu\u00ed para ver informaci\u00f3n sobre este ensayo cl\u00ednico en espa\u00f1ol.", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=1055"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095"
+                    }, 
+                    "name": "UCLA CARE Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900334508"
+                    }, 
+                    "name": "USC Univ Hosp & Ambulatory Hlth Care Ctr / USC Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900331079"
+                    }, 
+                    "name": "Univ of Southern California / LA County USC Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Menlo Park", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94025"
+                    }, 
+                    "name": "Willow Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "921036325"
+                    }, 
+                    "name": "Univ of California / San Diego Treatment Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941102859"
+                    }, 
+                    "name": "San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941102859"
+                    }, 
+                    "name": "San Francisco AIDS Clinic / San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Jose", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "951282699"
+                    }, 
+                    "name": "Santa Clara Valley Med Ctr / AIDS Community Rsch Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "943055107"
+                    }, 
+                    "name": "Stanford Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "943055107"
+                    }, 
+                    "name": "San Mateo AIDS Program / Stanford Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80262"
+                    }, 
+                    "name": "Univ of Colorado Health Sciences Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20059"
+                    }, 
+                    "name": "Howard Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "331361013"
+                    }, 
+                    "name": "Univ of Miami School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30308"
+                    }, 
+                    "name": "Emory Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "303652225"
+                    }, 
+                    "name": "Emory Hemo Comp Evaluation Clinic / East TN Comp Hemo Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96816"
+                    }, 
+                    "name": "Queens Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96816"
+                    }, 
+                    "name": "Univ of Hawaii"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tripler AMC", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96859"
+                    }, 
+                    "name": "Tripler Army Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern Univ Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Presbyterian - Saint Luke's Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Charity Hosp / Tulane Univ Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane Univ School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "Johns Hopkins Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Harvard (Massachusetts Gen Hosp)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "Boston Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "Univ of Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63112"
+                    }, 
+                    "name": "St Louis Regional Hosp / St Louis Regional Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "SUNY / Erie County Med Ctr at Buffalo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Mem Sloan - Kettering Cancer Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "Bellevue Hosp / New York Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Cornell Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Chelsea Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "Univ of Rochester Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greensboro", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27401"
+                    }, 
+                    "name": "Moses H Cone Memorial Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "452670405"
+                    }, 
+                    "name": "Univ of Cincinnati"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "432101228"
+                    }, 
+                    "name": "Ohio State Univ Hosp Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "170330850"
+                    }, 
+                    "name": "Milton S Hershey Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Univ of Pennsylvania at Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15213"
+                    }, 
+                    "name": "Univ of Pittsburgh Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "775550435"
+                    }, 
+                    "name": "Univ of Texas Galveston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "981224304"
+                    }, 
+                    "name": "Univ of Washington"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009365067"
+                    }, 
+                    "name": "Univ of Puerto Rico"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "A Phase II, Randomized Trial of Amprenavir as Part of Dual Protease Inhibitor Regimens (Placebo-Controlled) in Combination With Abacavir, Efavirenz, and Adefovir Dipivoxil Versus Amprenavir Alone in HIV-Infected Subjects With Prior Exposure to Approved Protease Inhibitors and Loss of Virologic Suppression as Reflected by a Plasma HIV-1 RNA Concentration >= 1,000 Copies/ml", 
+        "overall_official": [
+            {
+                "last_name": "Scott Hammer", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "John Mellors", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "reference": [
+            {
+                "PMID": "12499180", 
+                "citation": "Pfister M, Labbe L, Hammer SM, Mellors J, Bennett KK, Rosenkranz S, Sheiner LB. Population pharmacokinetics and pharmacodynamics of efavirenz, nelfinavir, and indinavir: Adult AIDS Clinical Trial Group Study 398. Antimicrob Agents Chemother. 2003 Jan;47(1):130-7."
+            }, 
+            {
+                "PMID": "12189360", 
+                "citation": "Pfister M, Labbe L, Lu JF, Hammer SM, Mellors J, Bennett KK, Rosenkranz S, Sheiner LB. Effect of coadministration of nelfinavir, indinavir, and saquinavir on the pharmacokinetics of amprenavir. Clin Pharmacol Ther. 2002 Aug;72(2):133-41."
+            }, 
+            {
+                "PMID": "12095381", 
+                "citation": "Hammer SM, Vaida F, Bennett KK, Holohan MK, Sheiner L, Eron JJ, Wheat LJ, Mitsuyasu RT, Gulick RM, Valentine FT, Aberg JA, Rogers MD, Karol CN, Saah AJ, Lewis RH, Bessen LJ, Brosgart C, DeGruttola V, Mellors JW. Dual vs single protease inhibitor therapy following antiretroviral treatment failure: a randomized trial. JAMA. 2002 Jul 10;288(2):169-80."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000912"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "17726714", 
+                "citation": "Sun J, Nagaraj HN, Reynolds NR. Discrete Stochastic Models for Compliance Analysis Based on an AIDS Clinical Trial Group (ACTG) Study. Biom J. 2007 Oct;49(5):731-41."
+            }, 
+            {
+                "PMID": "21117267", 
+                "citation": "Ghosh P, Ghosh K, Tiwari RC. Joint modeling of longitudinal data and informative dropout time in the presence of multiple changepoints. Stat Med. 2010 Nov 30; [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "21337357", 
+                "citation": "Ghosh P, Ghosh K, Tiwari RC. Joint modeling of longitudinal data and informative dropout time in the presence of multiple changepoints. Stat Med. 2011 Mar 15;30(6):611-26. doi: 10.1002/sim.4119. Epub 2010 Nov 30."
+            }
+        ], 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Safety Study, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }, 
+    "geocoordinates": {
+        "Bellevue Hosp / New York Univ Med Ctr": "40.714 -74.006", 
+        "Boston Med Ctr": "42.358 -71.06", 
+        "Charity Hosp / Tulane Univ Med School": "29.951 -90.072", 
+        "Chelsea Ctr": "40.714 -74.006", 
+        "Cook County Hosp": "41.878 -87.63", 
+        "Cornell Univ Med Ctr": "40.714 -74.006", 
+        "Duke Univ Med Ctr": "35.994 -78.899", 
+        "Emory Hemo Comp Evaluation Clinic / East TN Comp Hemo Ctr": "33.749 -84.388", 
+        "Emory Univ": "33.749 -84.388", 
+        "Harvard (Massachusetts Gen Hosp)": "42.358 -71.06", 
+        "Howard Univ": "38.895 -77.036", 
+        "Johns Hopkins Hosp": "39.29 -76.612", 
+        "Mem Sloan - Kettering Cancer Ctr": "40.714 -74.006", 
+        "Milton S Hershey Med Ctr": "40.286 -76.65", 
+        "Moses H Cone Memorial Hosp": "36.073 -79.792", 
+        "Mount Sinai Med Ctr": "40.714 -74.006", 
+        "Northwestern Univ Med School": "41.878 -87.63", 
+        "Ohio State Univ Hosp Clinic": "39.961 -82.999", 
+        "Queens Med Ctr": "21.307 -157.858", 
+        "Rush Presbyterian - Saint Luke's Med Ctr": "41.878 -87.63", 
+        "SUNY / Erie County Med Ctr at Buffalo": "42.886 -78.878", 
+        "San Francisco AIDS Clinic / San Francisco Gen Hosp": "37.775 -122.419", 
+        "San Francisco Gen Hosp": "37.775 -122.419", 
+        "San Mateo AIDS Program / Stanford Univ": "37.429 -122.169", 
+        "Santa Clara Valley Med Ctr / AIDS Community Rsch Consortium": "37.339 -121.895", 
+        "St Louis Regional Hosp / St Louis Regional Med Ctr": "38.627 -90.199", 
+        "Stanford Univ Med Ctr": "37.429 -122.169", 
+        "Tripler Army Med Ctr": "21.358 -157.897", 
+        "Tulane Univ School of Medicine": "29.951 -90.072", 
+        "UCLA CARE Ctr": "34.052 -118.244", 
+        "USC Univ Hosp & Ambulatory Hlth Care Ctr / USC Med Ctr": "34.052 -118.244", 
+        "Univ of California / San Diego Treatment Ctr": "32.715 -117.157", 
+        "Univ of Cincinnati": "39.103 -84.512", 
+        "Univ of Colorado Health Sciences Ctr": "39.739 -104.985", 
+        "Univ of Hawaii": "21.307 -157.858", 
+        "Univ of Miami School of Medicine": "25.789 -80.226", 
+        "Univ of Minnesota": "44.98 -93.264", 
+        "Univ of Pennsylvania at Philadelphia": "39.952 -75.164", 
+        "Univ of Pittsburgh Med Ctr": "40.441 -79.996", 
+        "Univ of Puerto Rico": "18.466 -66.106", 
+        "Univ of Rochester Medical Center": "43.161 -77.611", 
+        "Univ of Southern California / LA County USC Med Ctr": "34.052 -118.244", 
+        "Univ of Texas Galveston": "29.301 -94.798", 
+        "Univ of Washington": "47.606 -122.332", 
+        "Willow Clinic": "37.454 -122.182"
+    }
+}

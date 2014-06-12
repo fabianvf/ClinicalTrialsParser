@@ -1,0 +1,168 @@
+{
+    "clinical_study": {
+        "@rank": "163386", 
+        "arm_group": [
+            {
+                "arm_group_label": "Phase 1", 
+                "arm_group_type": "Experimental", 
+                "description": "Cohort 1 Arsenic trioxide = 0.1 mg/kg/day x 28 days with 14 day rest for 3 cycles (each cycle = 6 weeks)\nCohort 2 Arsenic trioxide = 0.15 mg/kg/day x 28 days with 14 day rest for 3 cycles (each cycle = 6 weeks)\nCohort 3 Arsenic trioxide = 0.20 mg/kg/day x 28 days with 14 day rest for 3 cycles (each cycle = 6 weeks)\nCohort 4 Arsenic trioxide = 0.25 mg/kg/day x 28 days with 14 day rest for 3 cycles (each cycle = 6 weeks)\nCohort 5 Arsenic trioxide = 0.30 mg/kg/day x 28 days with 14 day rest for 3 cycles (each cycle = 6 weeks)"
+            }, 
+            {
+                "arm_group_label": "Phase 2", 
+                "arm_group_type": "Experimental", 
+                "description": "Arsenic trioxide = MTD found in Phase 1 mg/kg/day x 28 days with 14 day rest for 3 cycles (each cycle = 6 weeks)"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate both the efficacy and toxicity of infusional\n      arsenic trioxide in the treatment of patients with relapsed or refractory acute\n      promyelocytic leukemia (APML). In addition, correlation between pharmacokinetic data and\n      both therapeutic response and therapy-related toxicities will be sought."
+        }, 
+        "brief_title": "Arsenic Trioxide in Treating Patients With Refractory or Recurrent Acute Promyelocytic Leukemia", 
+        "completion_date": {
+            "#text": "April 2002", 
+            "@type": "Actual"
+        }, 
+        "condition": "Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Promyelocytic, Acute"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OUTLINE: This is a dose-escalation study.\n\n      Patients receive arsenic trioxide IV over 2 hours daily for 28 days followed by a 14 day\n      rest period. Patients may receive up to 3 courses of treatment.\n\n      Dose escalation continues in cohorts of 3-6 patients until the maximum tolerated dose (MTD)\n      or minimum effective dose (MED) is determined. The MTD is defined as the dose preceding that\n      at which 2 or more patients experience dose limiting toxicity. The MED is defined as the\n      dose at which 4 of 6 patients achieve a complete cytogenetic or molecular response. After\n      the MTD or MED is determined, an additional 20 patients are enrolled at this dose level.\n\n      Patients are followed monthly for 6 months and every three months for an additional 1.5\n      years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "INCLUSION CRITERIA\n\n          1. APML diagnosis based upon morphological, histochemical, and/or flow cytometric\n             criteria, confirmed upon review by a central, study-designated hematologic\n             pathologist;\n\n             OR\n\n             any relapsed acute leukemia bearing a t(15:17)  translocation or  variant APML\n             translocations involving the retinoic acid receptor alpha gene on chromosome 15q22,\n             based on cytogenetics or PCR.\n\n          2. disease in first or subsequent relapse, following standard induction and\n             consolidation chemotherapy (with all-trans retinoic acid) and/or allogeneic bone\n             marrow/stem cell transplantation;\n\n        OR\n\n        failure to achieve initial complete remission with ATRA and standard chemotherapy.\n\n        EXCLUSION CRITERIA\n\n          1. Availability of a fully HLA-matched sibling donor for patients otherwise felt to be\n             candidates for allogeneic bone marrow/stem cell transplantation; patients with only a\n             partially HLA-matched sibling or matched unrelated donor will remain eligible for\n             study entry.\n\n          2. pregnancy.\n\n          3. Patients with significantly impaired left ventricular ejection fraction (<40%) will\n             be ineligible for the study.\n\n        Patients with renal failure and a creatinine clearance of less than 25 ml/min or requiring\n        hemodialysis will be ineligible for the study. Otherwise, there are no rigid exclusion\n        criteria based upon age, performance status, or co-morbidity. Decisions regarding\n        enrollment of patients for whom these factors may be relevant will be individualized and\n        left to the discretion of the investigators. Central venous access will be required for\n        all patients. Patients of child-bearing potential must agree to use contraception during\n        sexual intercourse while undergoing treatment with arsenic trioxide."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "13", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 13, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00008697", 
+            "org_study_id": "CDR0000066617", 
+            "secondary_id": [
+                "WU-98-0185", 
+                "NCI-V98-1466"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Phase 1", 
+                "Phase 2"
+            ], 
+            "intervention_name": "arsenic trioxide", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Arsenic trioxide"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "recurrent childhood acute myeloid leukemia", 
+            "recurrent adult acute myeloid leukemia", 
+            "adult acute promyelocytic leukemia (M3)", 
+            "childhood acute promyelocytic leukemia (M3)"
+        ], 
+        "lastchanged_date": "April 11, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/WU-98-0185"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Saint Louis", 
+                    "country": "United States", 
+                    "state": "Missouri", 
+                    "zip": "63110"
+                }, 
+                "name": "Washington University School of Medicine"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase I/II Trial of Infusional Arsenic Trioxide for Relapsed Acute Promyelocytic Leukemia", 
+        "overall_official": {
+            "affiliation": "Washington University School of Medicine", 
+            "last_name": "John F. DiPersio, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2002", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Maximum tolerated dose (MTD) and dose-limiting toxicity (DLT) or minimum effective dose (MED)", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Efficacy (response and survival) at the MTD - Phase 2 only", 
+                "safety_issue": "No", 
+                "time_frame": "18 weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00008697"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Acute and chronic toxicities", 
+                "safety_issue": "Yes", 
+                "time_frame": "18 weeks"
+            }, 
+            {
+                "measure": "Evaluation of the pharmacokinetics and their correlation with toxicities and response", 
+                "safety_issue": "No", 
+                "time_frame": "18 weeks"
+            }, 
+            {
+                "measure": "Evaluation of PML/RARA and PML protein redistribution and degradation following treatment and their correlation with response", 
+                "safety_issue": "No", 
+                "time_frame": "18 weeks"
+            }
+        ], 
+        "source": "Washington University School of Medicine", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 1998", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }, 
+    "geocoordinates": {
+        "Washington University School of Medicine": "38.627 -90.199"
+    }
+}
