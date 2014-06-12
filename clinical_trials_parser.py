@@ -39,30 +39,31 @@ class ClinicalTrialData(object):
         self.keywords = ["clinical trial"]
         for entry in self.root.findall('keyword'):
             self.keywords.append(entry.text)
+        
         self.date_processed = self.__process_date()
 
-		self.references = []
-		for entry in self.root.findall('reference'):
-			reference_dict = {'PMID':None}
-			reference_dict['citation'] = entry.find('citation').text
-			if entry.find('PMID') != None:
-				reference_dict['PMID'] = entry.find('PMID').text
-			self.references.append(reference_dict)
-			
-		self.locations = []		
-		for entry in self.root.findall('location'):
-			location_dict = {'name': None, 'zip': None, 'city': None, 'state': None, 'country': None}
-			if entry.find('facility').find('name') != None:
-				location_dict['name'] = entry.find('facility').find('name').text
-			if entry.find('facility').find('address').find('zip') != None:
-				location_dict['zip'] = entry.find('facility').find('address').find('zip').text
-			if entry.find('facility').find('address').find('city') != None:
-				location_dict['city'] = entry.find('facility').find('address').find('city').text
-			if entry.find('facility').find('address').find('country') != None:
-				location_dict['country'] = entry.find('facility').find('address').find('country').text
-			if entry.find('facility').find('address').find('state') != None:
-				location_dict['state'] = entry.find('facility').find('address').find('state').text
-			self.locations.append(location_dict)
+        self.references = []
+        for entry in self.root.findall('reference'):
+            reference_dict = {'PMID':None}
+            reference_dict['citation'] = entry.find('citation').text
+            if entry.find('PMID') != None:
+                reference_dict['PMID'] = entry.find('PMID').text
+            self.references.append(reference_dict)
+            
+        self.locations = []     
+        for entry in self.root.findall('location'):
+            location_dict = {'name': None, 'zip': None, 'city': None, 'state': None, 'country': None}
+            if entry.find('facility').find('name') != None:
+                location_dict['name'] = entry.find('facility').find('name').text
+            if entry.find('facility').find('address').find('zip') != None:
+                location_dict['zip'] = entry.find('facility').find('address').find('zip').text
+            if entry.find('facility').find('address').find('city') != None:
+                location_dict['city'] = entry.find('facility').find('address').find('city').text
+            if entry.find('facility').find('address').find('country') != None:
+                location_dict['country'] = entry.find('facility').find('address').find('country').text
+            if entry.find('facility').find('address').find('state') != None:
+                location_dict['state'] = entry.find('facility').find('address').find('state').text
+            self.locations.append(location_dict)
 
 
     def __process_date(self):
