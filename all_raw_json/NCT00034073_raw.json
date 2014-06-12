@@ -1,0 +1,96 @@
+{
+    "clinical_study": {
+        "@rank": "122960", 
+        "brief_summary": {
+            "textblock": "This study will use magnetic resonance imaging (MRI) to examine how blood flow to the brain\n      differs at different ages with the brain is at rest, and during performance of tasks that\n      involve language, memory, motor control, and sight. The study will evaluate the usefulness\n      of MRI in identifying language function and location, and may provide information on how the\n      brain develops over time to process brain functions, such as language and memory.\n\n      Healthy normal volunteers in three age groups-children 8-10, adolescents 13-16, and young\n      adults 21-30-may be eligible for this study. Participants must be right-handed and be native\n      English speakers. Candidates will be screened via a telephone interview and examination by a\n      neurologist.\n\n      Participants will undergo MRI scanning of the brain during rest or while performing a task\n      designed to test a skill. The tasks may involve remembering numbers, reading a word, tapping\n      fingers, or looking at a flashing picture. MRI uses a magnetic field and radio waves to\n      produce pictures of the brain. For the procedure, the subject lies still on a table that is\n      moved into the scanner (a cylinder containing the magnet). Earplugs are worn to muffle loud\n      noises caused by electrical switching of radio frequency circuits used in the scanning\n      process. Adults may spend as long as 90 minutes in the scanner, usually less than 45\n      minutes. For children, the time is less than 75 minutes-usually 30 to 40 minutes.\n      Participants may be asked to repeat the scans up to 5 times in different sessions to test\n      different brain functions or confirm findings."
+        }, 
+        "brief_title": "Magnetic Resonance Imaging in Children and Adults Using Arterial Spin Tagging Techniques", 
+        "completion_date": "April 2009", 
+        "condition": "Healthy", 
+        "detailed_description": {
+            "textblock": "FMRI using BOLD technique is an indirect and relative measure of neuronal activity and makes\n      comparison among age groups problematic in light of known age related changes in glucose\n      consumption and resting cerebral blood flow.  In this study Arterial Spin Tagging techniques\n      will be used to perform quantitative measures of blood flow changes during fMRI tasks.\n      Children and adults will perform four tasks: primary sensory (photic flash), primary motor\n      (finger tapping), and cognitive (working memory and semantic decision) tasks using\n      parametric block designs, to account for developmental performance, using imaging parameters\n      that allow quantitative  measures of cerebral blood flow response as well as BOLD signal.\n      Three age groups will be studied, children 8-10, 14-16, and young adults (21-28).  Data will\n      be analyzed using AFNI to identify activated areas.  Further analysis will be performed\n      using a region of interest analysis.  We will compare quantitative measures at optimal\n      performance levels.  The three experimental age groups will be compared for delta rCBF and\n      extent of activated area for each task.  The study will determine age dependent changes in\n      blood flow response during cortical activation across ages."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        Right-handed (Edinburgh Handedness Inventory)\n\n        Native English speaker (for language and memory paradigms only)\n\n        EXCLUSION CRITERIA:\n\n        Medical or technical contraindications to MRI procedures (e.g. no braces, pacemakers,\n        cochlear devices, surgical clips, etc.)\n\n        History of neurologic or psychiatric disease or a learning or attentional disorder\n\n        One year below grade level\n\n        CNS active medications\n\n        Pregnancy\n\n        Claustrophobia\n\n        Inability to comply with the protocol\n\n        Volunteers will also be asked if they have a history of dry or irritated eyes and informed\n        this may increase the risk of eye irritation and discomfort in the 3T scanner."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "50 Years", 
+            "minimum_age": "8 Years"
+        }, 
+        "enrollment": "70", 
+        "firstreceived_date": "April 20, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00034073", 
+            "org_study_id": "020182", 
+            "secondary_id": "02-N-0182"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Imaging", 
+            "Pediatrics", 
+            "Brain", 
+            "Mapping", 
+            "Development", 
+            "Healthy Volunteer", 
+            "HV", 
+            "Normal Control"
+        ], 
+        "lastchanged_date": "April 17, 2009", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Quantitative fMRI in Children and Adults Using Arterial Spin Tagging Techniques", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "reference": [
+            {
+                "PMID": "1635805", 
+                "citation": "Barnes PD. Imaging of the central nervous system in pediatrics and adolescence. Pediatr Clin North Am. 1992 Aug;39(4):743-76. Review."
+            }, 
+            {
+                "PMID": "9038284", 
+                "citation": "Braver TS, Cohen JD, Nystrom LE, Jonides J, Smith EE, Noll DC. A parametric study of prefrontal cortex involvement in human working memory. Neuroimage. 1997 Jan;5(1):49-62."
+            }, 
+            {
+                "PMID": "1948051", 
+                "citation": "Belliveau JW, Kennedy DN Jr, McKinstry RC, Buchbinder BR, Weisskoff RM, Cohen MS, Vevea JM, Brady TJ, Rosen BR. Functional mapping of the human visual cortex by magnetic resonance imaging. Science. 1991 Nov 1;254(5032):716-9."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00034073"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Neurological Disorders and Stroke (NINDS)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "April 2002", 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "April 2009"
+    }, 
+    "geocoordinates": {
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095"
+    }
+}

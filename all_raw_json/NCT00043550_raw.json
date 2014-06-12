@@ -1,0 +1,176 @@
+{
+    "clinical_study": {
+        "@rank": "84271", 
+        "arm_group": [
+            {
+                "arm_group_label": "1 Sertraline", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants receive sertraline."
+            }, 
+            {
+                "arm_group_label": "2 Venlafaxine", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants will receive venlafaxine if they do not respond to sertraline by week 8"
+            }, 
+            {
+                "arm_group_label": "3 Supportive-expressive psychotherapy", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants will receive supportive-expressive psychotherapy."
+            }, 
+            {
+                "arm_group_label": "4 Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Participants receive placebo."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This 4-8 month study, with a 2-year follow up period, will compare sertraline (Zoloft\u00ae),\n      venlafaxine (Effexor\u00ae), supportive-expressive psychotherapy, and placebo to determine which\n      is more effective in treating major depression."
+        }, 
+        "brief_title": "Treatments for Depression: Drug Versus Psychotherapy", 
+        "completion_date": {
+            "#text": "June 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": "Depression", 
+        "condition_browse": {
+            "mesh_term": [
+                "Depression", 
+                "Depressive Disorder"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "MDD is one of the most prevalent psychiatric disorders. Different forms of psychotherapy for\n      depression have been found effective. This study compares a form of dynamic psychotherapy\n      called supportive-expressive psychotherapy to medication and to placebo.\n\n      Participants are evaluated on 2 occasions, 1 week apart, before they are randomly assigned\n      to receive either supportive-expressive psychotherapy, sertraline (Zoloft) (followed by\n      venlafaxine [Effexor] if patients do not respond to sertraline), or placebo. The active\n      phase of treatment lasts 4 months. The frequency of patients' visits depends on the assigned\n      treatment.\n\n      Patients who are randomized to receive medication or placebo are initially seen on a weekly\n      basis, then less often, depending on the rate of symptomatic improvement. Patients who are\n      randomized to psychotherapy are seen twice a week for the first 4 weeks, then once a week\n      for the remaining 12 weeks. Outcome is monitored at week 2,4,6,7,8, 12, 15 and 16.  At the\n      end of the first 16 weeks of treatment, patients are thoroughly evaluated. Those who have\n      responded to treatment are assigned to a continuation phase and are seen once a month for\n      another 16 weeks.  At the end of the 16-week continuation phase, patients are again\n      evaluated and all treatments are stopped.  Follow-up continues every 3 months for up to 2\n      years to ensure that the patients' depression remains under control."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Major Depressive Disorder diagnosis\n\n        Exclusion criteria:\n\n          -  Psychotic or bipolar disorder diagnosis\n\n          -  Substance dependence in the last 6 months"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "156", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 9, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00043550", 
+            "org_study_id": "R01 MH61410", 
+            "secondary_id": [
+                "R01MH061410", 
+                "DSIR 83-ATAS"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "3 Supportive-expressive psychotherapy", 
+                "description": "The aim of supportive-expressive psychotherapy is to help patients understand the causes of relationship conflicts in the context of a supportive relationship.", 
+                "intervention_name": "Supportive Expressive Therapy", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "1 Sertraline", 
+                "description": "Participants will receive sertraline.", 
+                "intervention_name": "Sertraline", 
+                "intervention_type": "Drug", 
+                "other_name": "Zoloft"
+            }, 
+            {
+                "arm_group_label": "4 Placebo", 
+                "description": "Participants will receive a pill placebo.", 
+                "intervention_name": "Pill Placebo", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "2 Venlafaxine", 
+                "description": "Participants will receive venlafaxine.", 
+                "intervention_name": "Venlafaxine", 
+                "intervention_type": "Drug", 
+                "other_name": "Effexor"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Sertraline", 
+                "Venlafaxine", 
+                "Serotonin Uptake Inhibitors"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "Major Depressive Disorder", 
+        "lastchanged_date": "June 12, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Efficacy of Dynamic Therapy Versus Selective Serotonin Reuptake Inhibitor for Depression", 
+        "overall_official": {
+            "affiliation": "University of Pennsylvania", 
+            "last_name": "Jacques Barber, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Hamilton Ratings for Depression", 
+            "safety_issue": "No", 
+            "time_frame": "Measured at week, 2,4,6,7, 8,12,15 and 16 and then once a month"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00043550"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Pennsylvania", 
+            "investigator_full_name": "Marna S. Barrett, PhD", 
+            "investigator_title": "Research Projects Director", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "results_reference": {
+            "PMID": "8916624", 
+            "citation": "Barber JP, Muenz LR. The role of avoidance and obsessiveness in matching patients to cognitive and interpersonal psychotherapy: empirical findings from the treatment for depression collaborative research program. J Consult Clin Psychol. 1996 Oct;64(5):951-8."
+        }, 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of Mental Health (NIMH)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2012"
+    }, 
+    "geocoordinates": {
+        "University of Pennsylvania": "39.952 -75.164"
+    }
+}

@@ -1,0 +1,3053 @@
+{
+    "clinical_study": {
+        "@rank": "155095", 
+        "arm_group": {
+            "arm_group_label": "BMS-247550", 
+            "arm_group_type": "Experimental", 
+            "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2"
+        }, 
+        "brief_summary": {
+            "textblock": "This study will examine whether the experimental drug BMS 247550 (Ixabepilone) is an\n      effective treatment for kidney cancer. BMS 247550 belongs to a class of drugs called\n      epothilones that interfere with the ability of cancer cells to divide. In the way they kill\n      cells, they are very similar to a class of compounds known as the taxanes, which include the\n      drug Taxol. Other characteristics of the epothilones, however, enable them to work in cells\n      that are resistant to Taxol.\n\n      Patients 18 years of age or older with kidney cancer that has not spread to the central\n      nervous system (unless the brain tumor has remained stable for at least six months after\n      surgical or radiation treatment) may be eligible for this study. Pregnant or nursing women\n      may not participate. Candidates are screened with various tests that may include blood and\n      urine tests, electrocardiogram (EKG), and chest x-ray. Computerized tomography (CT) scans or\n      X-rays, and possibly nuclear medicine studies may be done to determine the extent of\n      disease.\n\n      Participants receive BMS 247550 by a 1-hour infusion into a vein for 5 consecutive days\n      (days 1, 2, 3, 4 and 5) of each 21-day treatment cycle. Patients must stay in the National\n      Institutes of Health (NIH) area near Bethesda, Maryland, for 7 to 8 days during the first\n      treatment cycle and for the 5 days of treatment in subsequent cycles. The total number of\n      cycles will vary among patients, depending on their individual clinical situation. The drug\n      dose may be increased gradually in subsequent cycles in patients who can tolerate such\n      increases. In addition, participants undergo the following tests and procedures:\n\n        -  Periodic physical examinations and frequent blood tests\n\n        -  X-ray and other imaging studies to determine if the tumor is responding to the\n           treatment.\n\n        -  Tumor biopsies to confirm the diagnosis or spread of tumor and to examine the reaction\n           of certain proteins in cancer cells to BMS 247550. Two biopsies will be done. For this\n           procedure, a small piece of tumor tissue is withdrawn through a needle under local\n           anesthetic.\n\n      Treatment will be stopped in patients whose tumor grows while receiving BMS 247550. Patients\n      whose tumor disappears completely will be followed at NIH periodically for examinations and\n      tests. Patients whose disease does not completely resolve or whose disease recurs may be\n      advised of other appropriate research protocols at NIH or, if none are available, will be\n      returned to the care of their local doctor."
+        }, 
+        "brief_title": "BMS 247550 to Treat Kidney Cancer", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2", 
+                        "title": "BMS-247550"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "102"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "79"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "23"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "10.81", 
+                                            "@value": "57.21"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "24"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "78"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": "Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "100"
+                                            }
+                                        }, 
+                                        "sub_title": "Not Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Ethnicity (NIH/OMB)", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "84"
+                                            }
+                                        }, 
+                                        "sub_title": "Caucasian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "12"
+                                            }
+                                        }, 
+                                        "sub_title": "African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "5"
+                                            }
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "1"
+                                            }
+                                        }, 
+                                        "sub_title": "Hispanic"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "102"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Response rate is the percentage of participants with a response assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete response (CR) is disappearance of all target lesions, Partial response (PR) is at least a 30% decrease in the sum of the longest diameter (LD) of target lesions,progressive disease (PD) is at least a 20% increase in the sum of the LD of target lesions or the appearance of one or more new lesions, stable disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2", 
+                                "title": "BMS-247550"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "102"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }
+                                                }, 
+                                                "sub_title": "Complete response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9.4"
+                                                    }
+                                                }, 
+                                                "sub_title": "Partial Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12.6"
+                                                    }
+                                                }, 
+                                                "sub_title": "Progressive disease"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "76.8"
+                                                    }
+                                                }, 
+                                                "sub_title": "Stable disease"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Response rate is the percentage of participants with a response assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete response (CR) is disappearance of all target lesions, Partial response (PR) is at least a 30% decrease in the sum of the longest diameter (LD) of target lesions,progressive disease (PD) is at least a 20% increase in the sum of the LD of target lesions or the appearance of one or more new lesions, stable disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD.", 
+                                    "param": "Number", 
+                                    "title": "Response Rate", 
+                                    "units": "Percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "6 weeks", 
+                        "title": "Response Rate", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2", 
+                                "title": "BMS-247550"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "102"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "99"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With Adverse Events", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "10 years", 
+                        "title": "Number of Participants With Adverse Events", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2", 
+                        "title": "BMS-247550"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "102", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "102", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "102 participants were enrolled in this study."
+            }, 
+            "point_of_contact": {
+                "email": "FojoT@mail.nih.gov", 
+                "name_or_title": "Tito Fojo, M.D.", 
+                "organization": "National Cancer Institute, National Institutes of Health", 
+                "phone": "301-496-2631"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2", 
+                        "title": "BMS-247550"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "99", 
+                                            "@subjects_at_risk": "102"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "52", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Blood and lymphatic system disorders-Other, specify (bruising)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "fever of unknown origin without clinically or microbiologically documented infection", 
+                                            "sub_title": "Febrile neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "235", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "65", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemoglobin (hgb)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemorrhage/bleeding associated with surgery"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemorrhage/bleeding without grade 3 or 4 thrombocytopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Transfusion:pRBCs"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cardiac-ischemia/infarction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Circulatory or cardiac-Other (edema)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Palpitation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Sinus tachycardia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Ear and labyrinth disorders-Other, specify (tinnitus)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "External auditory canal"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Middle ear/hearing"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Blurred vision"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Conjunctivitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dry eye"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Eye disorders-Other, specify (blepharitis)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Ocular-Other (blurred vision)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Tearing (watery eyes)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vision-blurred vision"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vision-flashing lights/floaters"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Abdominal pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "19", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Abdominal pain or cramping"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "40", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "30", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Depressed level of consciousness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "95", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "42", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Diarrhea (without colostomy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dyspepsia/heartburn"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Gastritis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "GI-Other (bloating)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "132", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "48", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Salivary gland changes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "66", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "37", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "32", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Chest pain (non-cardiac and non-pleuritic)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Chills"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "19", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "220", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "73", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Fatigue (lethargy, malaise, asthenia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Fever"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "35", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "30", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Fever (in absence of neutropenia, where neutropenia is defined as AGC<1.0x109/L)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "23", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "17", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pain-Other (dysethesia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Rigors, chills"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Bilirubin"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Blood bilirubin increased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Allergic reaction/hypersensitivity (including drug fever)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Allergic rhinitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "19", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Allergic rhinitis (including sneezing, nasal stuffiness, postnasal drip)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Catheter-related infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "41", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "30", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Infection without neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Infection, Other (skin)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Infections and infestations-Other, specify (skin)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis (oral/pharyngeal mucositis)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis (oral/pharyngeal mucositis) for BMT"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Bruising (in absence of grade 3 or 4 thrombocytopenia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Postoperative hemorrhage"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Wound dehiscence"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Wound-infectious"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Wound-non-infectious"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Activated partial thromboplastin time prolonged"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Alanine aminotransferase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "33", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "24", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Alkaline phosphokinase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Alkaline phosphokinase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Allergy-Other (rhinitis)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Amylase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Aspartate aminotransferase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cardiac troponin I increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cholesterol high"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "CPK (creatine phosphokinase)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "CPK increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "21", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Creatinine"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "14", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Creatinine increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemoglobin increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypercholesterolemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "INR increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "96", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "34", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Leukocytes (total WBC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "30", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Lymphocyte count decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Lymphocyte count increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neutrophil count decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "142", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "46", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neutrophils/granulocytes (ANC/AGC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "14", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Partial thromboplastin time (PTT)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Platelet count decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "72", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "27", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Platelets"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "48", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "29", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "31", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "20", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "17", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Weight loss"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "15", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "White blood cell decreased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Acidosis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "88", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "56", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "18", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypercalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "28", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "17", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "24", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyperkalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypermagnesemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypernatremia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypertriglyceridemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyperuricemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "113", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "62", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypoalbuminemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypocalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "15", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "45", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypomagnesemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "37", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "18", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyponatremia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypophosphatemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "49", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "31", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Arthralgia (joint pain)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Bone pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Generalized muscle weakness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Joint, muscle, or bone (osseous)-Other (myalgia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Muscle weakness (not due to neuropathy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "21", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Myalgia (muscle ache)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Tumor pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Tumor pain (onset or exacerbation of tumor pain due to treatment)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neuropathy-motor"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dizziness/lightheadedness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dysgeusia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Extrapyramidal/involuntary movement/restlessness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "21", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Leukoencephalopathy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Memory loss"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Nervous system disorders-Other, specify (vasovagal)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neurologic-Other (dizziness)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "e.g. jaw pain, neurologic pain, phantom pain , post-infectious neuralgia, or painful neuropathies", 
+                                            "sub_title": "Neuropathic pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "88", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "50", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neuropathy-sensory"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Peripheral sensory neuropathy"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Sense of smell"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Syncope"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "86", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "40", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Taste disturbance (dysgeusia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Tremor"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Confusion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "15", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Insomnia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Mood alteration-anxiety agitation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Mood alteration-depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Mood alteration-euphoria"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dysuria (painful urination)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hematuria"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hematuria (in the absence of vaginal bleeding)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Incontinence"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Proteinuria"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Renal/GU-Other (urgency)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Ureteral obstruction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Urinary frequency"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Urinary frequency/urgency"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Urinary retention"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vaginal bleeding"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vaginal dryness"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "39", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "29", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dyspnea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemoptysis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pleural effusion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pleuritic pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Postnasal drip"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pericardial effusion/pericarditis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "e.g. hoarseness, loss of voice, laryngitis", 
+                                            "sub_title": "Voice changes/stridor/larynx"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dyspnea (shortness of breath)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "76", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "61", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Alopecia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "associated with high-dose chemotherapy and bone marrow transplant", 
+                                            "sub_title": "Dermatitis, focal"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dry skin"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "(e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis)", 
+                                            "sub_title": "Erythema multiforme"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "47", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "37", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Nail changes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Nail discoloration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Nail loss"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Petechiae/purpura (hemorrhage/bleeding into skin or mucosa)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pruritis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Rash/desquamation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Skin-Other (dry skin)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Sweating"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Flushing"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hot flashes/flashes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypotension"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Phlebitis (superficial)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Prothrombin time (PT)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Thromboembolic event"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Thrombosis/embolism"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypertension"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "40", 
+                                            "@subjects_at_risk": "102"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "(fever of unknown origin without clinically or microbiologically documented infection)", 
+                                            "sub_title": "Febrile neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemoglobin (hgb)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemorrhage/bleeding associated with surgery"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cardiac left ventricular function"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cardiac troponin T (cTnT)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Cardiac-ischemia/infarction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Circulatory or cardiac-Other (hypertension)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "CNS cerebrovascular ischemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pericardial effusion/pericarditis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Supraventricular arrhythmias (SVT/atrial fibrillation/flutter)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Diarrhea (without colostomy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dysphagia, esophagitis, odynophagia (painful swallowing)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Melena/GI bleeding"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Fatigue (lethargy, malaise, asthenia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "in the absence of neutropenia, where neutropenia is defined as AGC< 1.0x109/L", 
+                                            "sub_title": "Fever"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "102"
+                                        }, 
+                                        "sub_title": "Allergic reaction/hypersensitivity (including drug fever)"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Catheter-related infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "(documented clinically or microbiologically) with grade 3 or 4 neutropenia", 
+                                            "sub_title": "Infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Infection with neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Infection without neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Infection, Other (other than fever with neutropenia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis (oral/pharyngeal mucositis) for BMT"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Alkaline phosphatase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "CPK (creatine phosphokinase)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Creatinine"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemoglobin increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neutrophils/granulocytes (ANC/AGC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Platelet count decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Weight loss"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyperkalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypertriglyceridemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyperuricemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypoalbuminemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypocalcemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypomagnesemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hyponatremia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "2", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "102"
+                                        }, 
+                                        "sub_title": "Joint, muscle, or bone (osseous)-Other (fracture)"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neurologic-Other (autonomic neuropathy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "e.g. jaw pain, neurologic pain, phantom limb pain, post-infectious neuralgia, or painful neuropathies", 
+                                            "sub_title": "Neuropathic pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Neuropathy-motor"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pain-neuropathic"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Seizure(s)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Syncope"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Vasovagal reaction"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Acute kidney injury"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hematuria (in the absence of vaginal bleeding)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Adult respiratory distress syndrome (ARDS)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Dyspnea (shortness of breath)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hemoptysis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypoxia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pleural effusion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pleural effusion (non-malignant)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pneumothorax"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Pulmonary-Other: malignant pleural effusion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "description": "e.g. hoarseness, loss of voice, laryngitis", 
+                                            "sub_title": "Voice changes/stridor/larynx"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Hypotension"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "102"
+                                            }, 
+                                            "sub_title": "Thrombosis/embolism"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0"
+                }, 
+                "time_frame": "10 years"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Renal Cell Carcinoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Carcinoma, Renal Cell", 
+                "Kidney Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Background:\n\n      BMS-247550 (NSC 710428), (ixabepilone) is a semi-synthetic analog of the natural product\n      epothilone B.\n\n      The epothilones are a novel class of non-taxane microtubule-stabilizing agents obtained from\n      the fermentation of the cellulose degrading myxobacteria, Sorangium cellulosum.\n\n      BMS-247550 is active against cancer models that are naturally insensitive to paclitaxel or\n      have developed resistance to paclitaxel, both in-vitro and in-vivo.\n\n      Objectives\n\n      Establish the efficacy of the investigational agent BMS-247550 in patients with renal cell\n      carcinoma when administered as a one hour infusion on day 1 to 5 every 21 days.\n\n      Evaluate the plasma pharmacokinetics of BMS-247550.\n\n      Explore the pharmacodynamics of BMS-247550 using an assay that measures the amount of\n      endogenous tubulin in peripheral blood mononuclear cells (PBMC) that exists in the\n      polymerized versus the unpolymerized state.\n\n      Determine the extent to which pharmacodynamic changes are observed over a range of doses of\n      BMS-247550.\n\n      Determine if cross-resistance to BMS-247550 exists in patients who have previously received\n      sorafenib or sunitinib.\n\n      Eligibility:\n\n      Age greater than 18.\n\n      Pathological confirmation of renal cell carcinoma.\n\n      Prior chemotherapy including sorafenib and sunitinib is allowed.\n\n      Design:\n\n      Phase II study.\n\n      BMS-247550 will be administered on days 1 through 5, every 21 days.\n\n      Restaging will be done every two cycles."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        Patients must fulfill all of the following criteria to be eligible for study admission:\n\n          1. Age greater than or equal to 18 years.\n\n          2. Histologic or cytologic confirmation of renal cell carcinoma (clear cell, type I and\n             type II papillary, chromophobe, collecting duct and medullary).\n\n             Patients should either:\n\n               1. have received interleukin-2 (IL-2);\n\n               2. have been evaluated for therapy with IL-2 and deemed to be ineligible; or (c)\n                  have been evaluated for therapy with IL-2 and refused treatment.\n\n          3. Measurable extent of disease.\n\n          4. Performance Status Eastern Cooperative Oncology Group (ECOG) 0-2.\n\n          5. Life expectancy of 3 months or greater.\n\n          6. Suitable candidate for receiving planned therapy as evidenced by screening laboratory\n             assessments of hematologic, renal, hepatic, and metabolic functions:\n\n             platelet count greater than or equal to 100,000/mL, absolute granulocyte count (AGC)\n             greater than or equal to 1,500/mL, serum creatinine less than or equal to 1.6 or a\n             measured creatinine clearance greater than or equal to 40 ml/min, serum glutamic\n             pyruvic transaminase (SGPT) and serum glutamic oxaloacetic transaminase (SGOT) less\n             than or equal to 2.5 x normal limit (NL), and total bilirubin less than or equal to\n             1.5 x NL (in patients with clinical evidence of Gilberts' disease, less than or equal\n             to 3 x NL).\n\n          7. Greater than or equal to 4 weeks from prior cytotoxic chemotherapy, radiation or\n             immunotherapy; greater than or equal to 2 weeks from prior targeted-therapy\n             (cytostatic agents); such patients should have recovered from toxicity from the prior\n             therapy.\n\n          8. No serious intercurrent medical illness.\n\n          9. The ability to understand and willingness to sign a written informed consent form,\n             and to comply with the protocol.\n\n         10. Patients should either: (a) have received sorafenib and or sunitinib and had\n             progressive disease while receiving the drug(s) or (b) been intolerant to the\n             drugs(s), or (c) been evaluated for therapy with sorafenib and or sunitinib and\n             deemed to be ineligible; or (d) have been evaluated for therapy with sorafenib and or\n             sunitinib and refused treatment.\n\n        EXCLUSION CRITERIA:\n\n        Patients with any of the following will be excluded from study entry:\n\n          1. Pregnant or nursing women are not eligible; neither are women or men of childbearing\n             potential unless using effective contraception as determined by the patient's\n             physician.\n\n          2. Patients with a history of central nervous system (CNS) metastases, because\n             symptoms/signs of progressive disease may be confused with drug-related toxicities,\n             unless control has been achieved with either radiation or surgical resection at least\n             six months prior to enrollment on study.\n\n          3. Patients who are poor medical risk because of other non-malignant systemic disease or\n             active, uncontrolled infection.\n\n          4. Human immunodeficiency virus (HIV) seropositive patients. Patients infected with the\n             HIV virus will be excluded from this trial because the effect of BMS-247550 on HIV\n             replication and/or the immune system is unknown and may be potentially harmful.\n\n          5. Prior craniospinal radiation, or total body irradiation (TBI).\n\n          6. Patients receiving other investigational drugs, or St. John's Wort (St. John's Wort\n             can induce P450 and alter drug metabolism).\n\n          7. Common Toxicity Criteria (CTC) Grade 2 or greater motor or sensory neuropathy.\n\n          8. Known prior severe hypersensitivity reactions to agents containing Cremophor EL."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "102", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 20, 2002", 
+        "firstreceived_results_date": "June 6, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00033670", 
+            "nct_id": "NCT00030992", 
+            "org_study_id": "020130", 
+            "secondary_id": "02-C-0130"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "BMS-247550", 
+                "description": "One hour infusion on five successive days (daily x 5) every three weeks. Starting dose of 6 mg/m^2/day for a total per cycle dose of 30 mg/m^2", 
+                "intervention_name": "BMS-247550", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "BMS-247550", 
+                "description": "50 mg 30-60 minutes prior to Ixabepilone (BMS-247550)", 
+                "intervention_name": "Ranitidine", 
+                "intervention_type": "Drug", 
+                "other_name": "Zantac"
+            }, 
+            {
+                "arm_group_label": "BMS-247550", 
+                "description": "50 mg intravenously 30-60 minutes prior to Ixabepilone (BMS-247550)", 
+                "intervention_name": "Diphenhydramine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Benadryl", 
+                    "Diphenhist", 
+                    "Diphedryl"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Diphenhydramine", 
+                "Promethazine", 
+                "Ranitidine bismuth citrate", 
+                "Ranitidine", 
+                "Epothilone B", 
+                "Epothilones"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Epothilone B", 
+            "Ixabepilone", 
+            "Renal Cell Carcinoma", 
+            "Kidney Cancer"
+        ], 
+        "lastchanged_date": "August 13, 2012", 
+        "link": {
+            "description": "NIH Clinical Center Detailed Web Page", 
+            "url": "http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2002-C-0130.html"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Clinical Trial of BMS-247550 (NSC 710428), an Epothilone B Analog, in Renal Cell Carcinoma", 
+        "overall_official": {
+            "affiliation": "National Cancer Institute, National Institutes of Health", 
+            "last_name": "Tito Fojo, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Response rate is the percentage of participants with a response assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete response (CR) is disappearance of all target lesions, Partial response (PR) is at least a 30% decrease in the sum of the longest diameter (LD) of target lesions,progressive disease (PD) is at least a 20% increase in the sum of the LD of target lesions or the appearance of one or more new lesions, stable disease (SD) is neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD.", 
+            "measure": "Response Rate", 
+            "safety_issue": "No", 
+            "time_frame": "6 weeks"
+        }, 
+        "reference": [
+            {
+                "PMID": "9383460", 
+                "citation": "Wilson L, Jordan MA. Microtubule dynamics: taking aim at a moving target. Chem Biol. 1995 Sep;2(9):569-73. Review."
+            }, 
+            {
+                "PMID": "7627725", 
+                "citation": "Huizing MT, Misser VH, Pieters RC, ten Bokkel Huinink WW, Veenhof CH, Vermorken JB, Pinedo HM, Beijnen JH. Taxanes: a new class of antitumor agents. Cancer Invest. 1995;13(4):381-404. Review."
+            }, 
+            {
+                "PMID": "9335511", 
+                "citation": "Von Hoff DD. The taxoids: same roots, different drugs. Semin Oncol. 1997 Aug;24(4 Suppl 13):S13-3-S13-10. Review."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00030992"
+        }, 
+        "responsible_party": {
+            "name_title": "Antonio T. Fojo, M.D./National Cancer Institute", 
+            "organization": "National Institutes of Health"
+        }, 
+        "results_reference": {
+            "citation": "A Phase II Clinical Trial of Ixabepilone (Ixempra; BMS-247550; NSC 710428), an Epothilone B Analog, in Patients with Metastatic Renal Cell Carcinoma, Clin Cancer Res 2010;16:1634-1641"
+        }, 
+        "secondary_outcome": {
+            "description": "Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+            "measure": "Number of Participants With Adverse Events", 
+            "safety_issue": "Yes", 
+            "time_frame": "10 years"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "February 2002", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2012"
+    }, 
+    "geocoordinates": {
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095"
+    }
+}

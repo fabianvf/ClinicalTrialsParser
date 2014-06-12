@@ -1,0 +1,152 @@
+{
+    "clinical_study": {
+        "@rank": "35383", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Diagnostic procedures such as sentinel lymph node biopsy may improve the ability\n      to detect breast cancer and determine the extent of disease.\n\n      PURPOSE: Phase II trial to study the effectiveness of sentinel lymph node biopsy to assess\n      axillary lymph nodes in women who have stage I or stage II breast cancer."
+        }, 
+        "brief_title": "Sentinel Lymph Node Biopsy to Assess Axillary Lymph Nodes in Women With Stage I or Stage II Breast Cancer", 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Compare sentinel node biopsy vs axillary dissection in determining axillary nodal\n           status in women with resectable stage I or II breast cancer.\n\n      OUTLINE: Patients are stratified according to node status (positive vs negative).\n\n      Patients undergo lymphoscintigraphy, which consists of technetium Tc 99m human serum albumin\n      colloid being injected near the tumor. Dynamic imaging using a gamma camera is performed for\n      20 minutes postinjection and static images are obtained for up to 3 hours postinjection.\n\n      Surgery is performed within 24 hours of lymphoscintigraphy. Patients are injected with\n      patent blue V dye near the tumor and a gamma detection probe is used to measure radioactive\n      counts in the sentinel node. Surgery begins within 5 minutes of the patent blue V dye\n      injection.\n\n      All lymph nodes that stain blue or have a high radioactive count are removed. The primary\n      breast lump is removed by either wide local excision or mastectomy and the axilla are\n      cleared by standard axillary dissection.\n\n      Some patients may only receive patent blue V dye injected as a pilot study. Sentinel lymph\n      node biopsy and axillary dissection proceed as above.\n\n      PROJECTED ACCRUAL: A total of 150 patients (75 per stratum) will be accrued for the main\n      study plus another 50 patients for the pilot study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Diagnosis of stage I or II invasive breast cancer by triple assessment:\n\n               -  Clinically\n\n               -  Mammogram and/or ultrasound\n\n               -  Fine needle cytology\n\n          -  Resectable disease by either wide local excision or mastectomy with axillary\n             dissection\n\n          -  No ductal carcinoma in situ\n\n          -  Hormone receptor status:\n\n               -  Not specified\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Sex:\n\n          -  Female\n\n        Menopausal status:\n\n          -  Not specified\n\n        Performance status:\n\n          -  Not specified\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Not specified\n\n        Hepatic:\n\n          -  Not specified\n\n        Renal:\n\n          -  Not specified\n\n        Other:\n\n          -  Not pregnant\n\n          -  No known allergy to vital blue dye\n\n          -  No mental illness or handicap that would preclude study entry\n\n          -  No other severe illness that would preclude study participation\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  Not specified\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  Not specified\n\n        Surgery:\n\n          -  See Disease Characteristics"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "June 2, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005821", 
+            "org_study_id": "CDR0000067828", 
+            "secondary_id": [
+                "RMNHS-1631", 
+                "EU-20006"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "patent blue V dye", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "conventional surgery", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "lymphangiography", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "radionuclide imaging", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "sentinel lymph node biopsy", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "Technetium Tc 99m human serum albumin colloid", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "keyword": [
+            "stage I breast cancer", 
+            "stage II breast cancer"
+        ], 
+        "lastchanged_date": "November 5, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/RMNHS-1631"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SW3 6NP"
+                    }, 
+                    "name": "Royal Brompton National, Heart and Lung Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SW3 6JJ"
+                    }, 
+                    "name": "Royal Marsden NHS Trust"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SW17 0QT"
+                    }, 
+                    "name": "St. George's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sutton", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SM2 5PT"
+                    }, 
+                    "name": "Royal Marsden Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "official_title": "Sentinel Lymph Node Biopsy in the Assessment of Axillary Nodal Status in Operable Breast Cancer", 
+        "overall_official": {
+            "affiliation": "Royal Marsden NHS Foundation Trust", 
+            "last_name": "Gerald Gui, MD, MS, FRCS(Edin), FRCS(Eng)", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005821"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Royal Marsden NHS Foundation Trust", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1998", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2003"
+    }, 
+    "geocoordinates": {
+        "Royal Brompton National, Heart and Lung Hospital": "51.508 -0.128", 
+        "Royal Marsden Hospital": "51.361 -0.194", 
+        "Royal Marsden NHS Trust": "51.508 -0.128", 
+        "St. George's Hospital": "51.508 -0.128"
+    }
+}

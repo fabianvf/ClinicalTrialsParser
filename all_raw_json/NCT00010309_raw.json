@@ -1,0 +1,126 @@
+{
+    "clinical_study": {
+        "@rank": "15203", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Vaccines may make the body build an immune response to kill tumor cells.\n\n      PURPOSE: Phase I/II trial to study the effectiveness of vaccine therapy in treating patients\n      who have stage II, stage III, or stage IV melanoma."
+        }, 
+        "brief_title": "Vaccine Therapy in Treating Patients Who Have Stage II, Stage III, or Stage IV Melanoma", 
+        "condition": "Melanoma (Skin)", 
+        "condition_browse": {
+            "mesh_term": "Melanoma"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the safety and the maximum tolerated dose of vaccines containing\n      two adenoviral vectors encoding the melanoma antigens Melan-A/MART-1 and gp100 in patients\n      with stage II-IV melanoma. II. Assess the dose-response changes in the frequency of MART-1\n      and gp100 reactive T cells (CD4+ and CD8+) in patients receiving one of three different\n      vaccine regimens. III. Assess the T-cell response to one melanoma antigen following three\n      treatments with the other antigen in these patients. IV. Assess the effect of concomitant\n      vaccination with both antigens on T-cell response in these patients.\n\n      OUTLINE: This is a dose escalation study. Patients are sequentially enrolled on 1 of 3\n      treatment arms. Each treatment arm has 3 groups. Arm I: Patients receive Ad2/MART-1v2\n      vaccine and Ad2/gp100v2 vaccine intradermally (ID) at the lowest dose level once every three\n      weeks for either 6 or 15 weeks depending on assignment. Arm II: Patients receive Ad2/gp100v2\n      vaccine and Ad2/MART-1v2 vaccine ID at the mid-range dose level once every three weeks for\n      either 6 or 15 weeks depending on assignment. Arm III: Patients receive Ad2/MART-1v2 vaccine\n      and Ad2/gp100v2 vaccine ID at the highest dose level once every three weeks for either 6 or\n      15 weeks depending on assignment. Cohorts of 3-6 patients receive escalating doses of\n      Ad2/MART-1v2 and/or Ad2/gp100v2 vaccines in each arm until the maximum tolerated dose (MTD)\n      is reached. The MTD is defined as the dose preceding that at which 2 of 6 patients\n      experience dose-limiting toxicity. Patients are followed at 3 months, 6 months, and 1 year\n      after completion of treatment.\n\n      PROJECTED ACCRUAL: A total of 24-36 patients will be accrued over 1 year."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed stage II, III, or IV cutaneous malignant\n        melanoma No evidence of disease at time of entry to protocol Definitive complete surgical\n        resection within past 12 months HLA-A2 positive\n\n        PATIENT CHARACTERISTICS: Age: 18 or over Performance status: ECOG 0-1 Life expectancy: Not\n        specified Hematopoietic: WBC at least 3,000 cells/mm3 Platelet count at least 100,000\n        cells/mm3 No clinically significant hematologic disease that would preclude study Hepatic:\n        SGOT and SGPT less than 2 times upper limit of normal Bilirubin less than 2 mg/dL No\n        clinically significant hepatic disease that would preclude study Renal: Creatinine less\n        than 2 mg/dL No clinically significant renal disease that would preclude study\n        Cardiovascular: No clinically significant cardiac disease that would preclude study Other:\n        No clinically significant underlying condition that would preclude study No significant\n        autoimmune disease or other major immune system disorder HIV negative HTLV negative\n        Hepatitis B and C negative No active infection requiring parenteral antibiotics No\n        psychiatric disorder that could hinder protocol compliance Not pregnant or nursing Fertile\n        patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: No prior or concurrent immunotherapy At least\n        3 months since prior interferon therapy Chemotherapy: No prior or concurrent chemotherapy\n        Endocrine therapy: No prior or concurrent immunosuppressants Radiotherapy: At least 4\n        weeks since prior radiotherapy Surgery: At least 4 weeks since prior surgery Other: No\n        other prior or concurrent experimental anticancer therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "February 2, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00010309", 
+            "org_study_id": "CDR0000068478", 
+            "secondary_id": [
+                "GENZ-ADVMEL-001-99", 
+                "DFCI-00069", 
+                "GENZ-2000-P-000380/1"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "MART-1 antigen", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "gp100 antigen", 
+                "intervention_type": "Biological"
+            }
+        ], 
+        "keyword": [
+            "stage II melanoma", 
+            "stage III melanoma", 
+            "stage IV melanoma"
+        ], 
+        "lastchanged_date": "January 3, 2014", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/GENZ-ADVMEL-001-99"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cambridge", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02139-1562"
+                    }, 
+                    "name": "Genzyme Corporation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77060"
+                    }, 
+                    "name": "U.S. Oncology"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Phase I/II Trial Investigating The Safety And Immunogenicity Of Adenoviruses Encoding The Melan-A/MART-1 And gp 100 Melanoma Antigens Administered Intradermally To Patients With Stage II-IV Melanoma", 
+        "overall_official": {
+            "affiliation": "Genzyme, a Sanofi Company", 
+            "last_name": "Amy E. Bock", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00010309"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Genzyme, a Sanofi Company", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 2000", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2002"
+    }, 
+    "geocoordinates": {
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Genzyme Corporation": "42.373 -71.11", 
+        "U.S. Oncology": "29.76 -95.369"
+    }
+}

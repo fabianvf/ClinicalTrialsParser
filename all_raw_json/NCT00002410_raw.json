@@ -1,0 +1,589 @@
+{
+    "clinical_study": {
+        "@rank": "16847", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the safety and effectiveness of three anti-HIV drug\n      combinations. The three combinations are: (1) efavirenz (DMP 266) plus indinavir; (2) DMP\n      266 plus zidovudine (ZDV) plus lamivudine (3TC); and (3) indinavir plus ZDV plus 3TC. This\n      study also examines the resistance HIV may have to these drugs and if these drugs are\n      effective over a long period of time."
+        }, 
+        "brief_title": "A Study of Three Different Anti-HIV Drug Combinations in HIV-Infected Patients", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Exclusion Criteria\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  Terfenadine, astemizole, cisapride, triazolam, or midazolam (competition for the\n             enzyme cytochrome P-450 3A4 [CYP3A4] by indinavir could result in inhibition of\n             metabolic breakdown of these drugs and create the potential for serious and/or life\n             threatening events [i.e., cardiac arrhythmia, prolonged sedation]).\n\n          -  Rifampin or rifabutin (prohibited because of potential drug interaction with\n             indinavir).\n\n          -  Ketoconazole, itraconazole, and clarithromycin.\n\n          -  Concomitant systemic therapy for acute opportunistic infection or malignancy.\n\n        Excluded:\n\n        Life expectancy less than 12 months.\n\n        Prior Medication:\n\n        Excluded:\n\n          -  Prior treatment with efavirenz, 3TC, an NNRTI, or an HIV protease inhibitor.\n\n          -  Prior antiretroviral agent within 14 days of initiating study treatment.\n\n          -  Prior treatment (within 30 days of initiating study treatment) with any other\n             experimental drug for any indication.\n\n        Patients must:\n\n          -  Have a diagnosis of HIV infection.\n\n          -  Have CD4 counts greater than or equal to 50 cell/mm3.\n\n          -  Have a life expectancy greater than or equal to 12 months.\n\n          -  Be post-pubescent."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "13 Years"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002410", 
+            "org_study_id": "281B", 
+            "secondary_id": "DMP 266-006"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Indinavir sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Lamivudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Zidovudine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Zidovudine", 
+                "Lamivudine", 
+                "Reverse Transcriptase Inhibitors", 
+                "Indinavir", 
+                "HIV Protease Inhibitors"
+            ]
+        }, 
+        "keyword": [
+            "HIV-1", 
+            "Drug Therapy, Combination", 
+            "Zidovudine", 
+            "Drug Resistance, Microbial", 
+            "HIV Protease Inhibitors", 
+            "Lamivudine", 
+            "Indinavir", 
+            "Genotype", 
+            "Reverse Transcriptase Inhibitors", 
+            "efavirenz"
+        ], 
+        "lastchanged_date": "June 23, 2005", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85016"
+                    }, 
+                    "name": "Phoenix Body Positive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85712"
+                    }, 
+                    "name": "Arizona Clinical Research Ctr Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90210"
+                    }, 
+                    "name": "Richard Stryker"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Irvine", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92618"
+                    }, 
+                    "name": "Paul Cimoch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }, 
+                    "name": "AIDS Healthcare Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90059"
+                    }, 
+                    "name": "Oasis Clinic / Martin Luther Jr Gen Hosp / King-Drew Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90036"
+                    }, 
+                    "name": "Kraus Med Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stamford", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06901"
+                    }, 
+                    "name": "Blick Med Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20037"
+                    }, 
+                    "name": "Novum Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bradenton", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34205"
+                    }, 
+                    "name": "Bach and Godofsky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coral Gables", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33146"
+                    }, 
+                    "name": "Community Research Initiative of South Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32209"
+                    }, 
+                    "name": "Boulevard Comprehensive Care Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lake Worth", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33463"
+                    }, 
+                    "name": "Larry Marc Bush / c/o Sally Yantis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Univ of Miami School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Daniel Seekins"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33609"
+                    }, 
+                    "name": "Ctr for Quality Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Infectious Disease Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vero Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32960"
+                    }, 
+                    "name": "Treasure Coast Infectious Disease Consultants"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30342"
+                    }, 
+                    "name": "Georgia Research Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Augusta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30912"
+                    }, 
+                    "name": "Med College of Georgia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536"
+                    }, 
+                    "name": "Univ of Kentucky Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64111"
+                    }, 
+                    "name": "Kansas City AIDS Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "681985400"
+                    }, 
+                    "name": "Univ of Nebraska Med Ctr / HIV Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89102"
+                    }, 
+                    "name": "Univ Med Ctr / HIV Wellness Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10001"
+                    }, 
+                    "name": "Community Research Initiative on AIDS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "Clinical Directors Network / HIV/AIDS Program Manager"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest Univ School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43215"
+                    }, 
+                    "name": "Remington-Davis Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Philadelphia FIGHT"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02906"
+                    }, 
+                    "name": "The Miriam Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "752359113"
+                    }, 
+                    "name": "Division of Infectious Disease / Dept of Internal Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75208"
+                    }, 
+                    "name": "Research Services 2000 Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76103"
+                    }, 
+                    "name": "Research Services 2000 Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77006"
+                    }, 
+                    "name": "Montrose Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "UT-Health Science Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Diagnostic Clinic of San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newport News", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23606"
+                    }, 
+                    "name": "Oyster Point Med Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98122"
+                    }, 
+                    "name": "Novum Inc / Pharmaceutical Research Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53215"
+                    }, 
+                    "name": "Infectious Diseases Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00909"
+                    }, 
+                    "name": "Javier O Morales Ramirez"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "A Phase III, Multicenter, Randomized, Open-Label Study to Compare Antiretroviral Activity and Tolerability of Three Different Combination Regimens (DMP 266 + Indinavir, DMP 266 + Zidovudine + Lamivudine, Indinavir + Zidovudine + Lamivudine) in HIV-Infected Patients", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002410"
+        }, 
+        "source": "NIH AIDS Clinical Trials Information Service", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Dupont Merck", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Safety Study, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 1998"
+    }, 
+    "geocoordinates": {
+        "AIDS Healthcare Foundation": "34.052 -118.244", 
+        "Arizona Clinical Research Ctr Inc": "32.222 -110.926", 
+        "Bach and Godofsky": "27.499 -82.575", 
+        "Blick Med Associates": "41.053 -73.539", 
+        "Boulevard Comprehensive Care Ctr": "30.332 -81.656", 
+        "Clinical Directors Network / HIV/AIDS Program Manager": "40.714 -74.006", 
+        "Community Research Initiative of South Florida": "25.721 -80.268", 
+        "Community Research Initiative on AIDS": "40.714 -74.006", 
+        "Ctr for Quality Care": "27.951 -82.457", 
+        "Daniel Seekins": "27.951 -82.457", 
+        "Diagnostic Clinic of San Antonio": "29.424 -98.494", 
+        "Division of Infectious Disease / Dept of Internal Medicine": "32.803 -96.77", 
+        "Georgia Research Associates": "33.749 -84.388", 
+        "Infectious Disease Research Institute": "27.951 -82.457", 
+        "Infectious Diseases": "39.769 -86.158", 
+        "Infectious Diseases Associates": "43.039 -87.906", 
+        "Javier O Morales Ramirez": "18.466 -66.106", 
+        "Kansas City AIDS Research Consortium": "39.1 -94.579", 
+        "Kraus Med Group": "34.052 -118.244", 
+        "Larry Marc Bush / c/o Sally Yantis": "26.616 -80.057", 
+        "Med College of Georgia": "33.474 -82.01", 
+        "Montrose Clinic": "29.76 -95.369", 
+        "Novum Inc": "38.895 -77.036", 
+        "Novum Inc / Pharmaceutical Research Services": "47.606 -122.332", 
+        "Oasis Clinic / Martin Luther Jr Gen Hosp / King-Drew Med Ctr": "34.052 -118.244", 
+        "Oyster Point Med Specialists": "37.087 -76.473", 
+        "Paul Cimoch": "33.684 -117.795", 
+        "Philadelphia FIGHT": "39.952 -75.164", 
+        "Phoenix Body Positive": "33.448 -112.074", 
+        "Remington-Davis Inc": "39.961 -82.999", 
+        "Research Services 2000 Inc": "32.725 -97.321", 
+        "Richard Stryker": "34.074 -118.4", 
+        "The Miriam Hosp": "41.824 -71.413", 
+        "Treasure Coast Infectious Disease Consultants": "27.639 -80.397", 
+        "UT-Health Science Ctr": "29.76 -95.369", 
+        "Univ Med Ctr / HIV Wellness Ctr": "36.115 -115.173", 
+        "Univ of Kentucky Med Ctr": "38.041 -84.504", 
+        "Univ of Miami School of Medicine": "25.789 -80.226", 
+        "Univ of Nebraska Med Ctr / HIV Clinic": "41.252 -95.998", 
+        "Wake Forest Univ School of Medicine": "36.1 -80.244"
+    }
+}

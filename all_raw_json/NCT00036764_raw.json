@@ -1,0 +1,158 @@
+{
+    "clinical_study": {
+        "@rank": "107854", 
+        "arm_group": {
+            "arm_group_label": "Treatment", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive BMS-247550 IV over 1 hour on days 1, 8, and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase II trial to study the effectiveness of BMS-247550 in treating patients who have stage\n      IV melanoma. Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die"
+        }, 
+        "brief_title": "BMS-247550 in Treating Patients With Stage IV Melanoma", 
+        "condition": [
+            "Recurrent Melanoma", 
+            "Stage IV Melanoma"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Melanoma"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the efficacy of BMS-247550 in patients with stage IV melanoma. II. Determine\n      the toxicity of this drug in these patients.\n\n      OUTLINE: This is a multicenter study. Patients are stratified according to the number of\n      prior chemotherapy regimens (0 vs 1-2, including dacarbazine or temozolomide).\n\n      Patients receive BMS-247550 IV over 1 hour on days 1, 8, and 15. Courses repeat every 28\n      days in the absence of disease progression or unacceptable toxicity."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically or cytologically confirmed stage IV melanoma\n\n          -  At least 1 measurable lesion\n\n               -  Greater than 20 mm by conventional techniques\n\n               -  Greater than 10 mm by spiral CT scan\n\n          -  Known brain metastases allowed if all of the following criteria are met:\n\n               -  Radiologically stable for at least 6 weeks after completion of whole brain\n                  radiotherapy\n\n               -  Stable at time of study\n\n               -  No mass effect present radiologically\n\n               -  No concurrent steroids to control symptoms of brain metastases\n\n          -  Performance status - ECOG 0-2\n\n          -  Performance status - Karnofsky 60-100%\n\n          -  At least 3 months\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n          -  Bilirubin normal\n\n          -  AST/ALT no greater than 2.5 times upper limit of normal (ULN)\n\n          -  Creatinine no greater than 1.5 times ULN\n\n          -  No symptomatic congestive heart failure\n\n          -  No unstable angina pectoris\n\n          -  No cardiac arrhythmia\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  No prior severe allergic reactions (grade III or IV or grade II not responsive to\n             steroids) to taxanes or medications containing Cremophor EL\n\n          -  No pre-existing grade 2 or greater peripheral neuropathy\n\n          -  No  HIV-positive patients receiving combination antiretroviral therapy\n\n          -  No other concurrent uncontrolled illness\n\n          -  No ongoing or active infection\n\n          -  No psychiatric illness that would preclude study\n\n          -  Prior vaccine therapy allowed\n\n          -  Prior immunotherapy (e.g., interleukin-2 or interferon) allowed\n\n          -  Stratum I:\n\n               -  No prior chemotherapy\n\n          -  Stratum II:\n\n               -  No more than 2 prior chemotherapy regimens (must have included dacarbazine or\n                  temozolomide)\n\n          -  See Disease Characteristics\n\n          -  See Disease Characteristics\n\n          -  Prior limb-perfusion therapy allowed (stratum II)\n\n          -  No other concurrent investigational or commercial agents or therapies intended to\n             treat malignancy\n\n          -  No concurrent Hypericum perforatum"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "88", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 13, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00036764", 
+            "org_study_id": "NCI-2012-02464", 
+            "secondary_id": [
+                "NYU-0057", 
+                "N01CM17103", 
+                "CDR0000069320"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment", 
+                "description": "Given IV", 
+                "intervention_name": "ixabepilone", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "BMS-247550", 
+                    "epothilone B lactam", 
+                    "Ixempra"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment", 
+                "description": "Correlative studies", 
+                "intervention_name": "pharmacogenomic studies", 
+                "intervention_type": "Other", 
+                "other_name": "Pharmacogenomic Study"
+            }, 
+            {
+                "arm_group_label": "Treatment", 
+                "description": "Correlative studies", 
+                "intervention_name": "laboratory biomarker analysis", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Epothilone B", 
+                "Epothilones"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "January 24, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10016-4760"
+                }, 
+                "name": "New York University Clinical Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Study Of Epothilone B Analog BMS 247550 (NSC # 710428) In Stage IV Malignant Melanoma", 
+        "overall_official": {
+            "affiliation": "New York University Clinical Cancer Center", 
+            "last_name": "Anna Pavlick", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "August 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The 95% confidence intervals will be provided.", 
+            "measure": "Response rate", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 2 years"
+        }, 
+        "removed_countries": {
+            "country": "Australia"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00036764"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Median time to progression will be described for each subgroup.", 
+                "measure": "Median time to progression", 
+                "safety_issue": "No", 
+                "time_frame": "Time from the first day of treatment with BMS 247550 until the first documentation of disease progression, assessed up to 2 years"
+            }, 
+            {
+                "description": "Related toxicities will be described.", 
+                "measure": "Incidence of related toxicities graded according to the revised NCI CTC version 2.0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 2 years"
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "February 2002", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "New York University Clinical Cancer Center": "40.714 -74.006"
+    }
+}

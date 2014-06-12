@@ -1,0 +1,159 @@
+{
+    "clinical_study": {
+        "@rank": "75813", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients undergo total mastectomy and axillary dissection."
+            }, 
+            {
+                "arm_group_label": "Arm II", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients undergo excisional biopsy and axillary dissection followed by whole breast radiotherapy and a boost to the tumor bed. Patients with positive axillary dissections undergo radiotherapy to the supraclavicular nodes."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: It is not yet known which combination of surgeries is more effective in reducing\n      side effects and improving recovery in treating breast cancer.\n\n      PURPOSE: This randomized phase III trial is comparing how well axillary lymph node\n      dissection with either mastectomy or excisional biopsy plus radiation therapy works in\n      treating women with stage I or stage II breast cancer."
+        }, 
+        "brief_title": "Comparison of Surgeries, With or Without Radiation Therapy, in Treating Women With Stage I or Stage II Breast Cancer", 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Compare the overall and disease-free survival of women with stage I or II breast cancer\n           treated with mastectomy and axillary dissection vs excisional biopsy, axillary\n           dissection, and definitive radiotherapy.\n\n        -  Compare in-breast only failure in patients treated with these regimens.\n\n      OUTLINE: This is a randomized study. Patients are randomized to 1 of 2 treatment arms.\n\n        -  Arm I: Patients undergo total mastectomy and axillary dissection.\n\n        -  Arm II: Patients undergo excisional biopsy and axillary dissection followed by whole\n           breast radiotherapy and a boost to the tumor bed. Patients with positive axillary\n           dissections undergo radiotherapy to the supraclavicular nodes.\n\n      In both arms, patients with positive nodes receive cyclophosphamide and doxorubicin.\n\n      Patients are followed for at least 20 years.\n\n      PROJECTED ACCRUAL: A total of 237 patients (116 for arm I and 121 for arm II) were accrued\n      for this study within 8 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed invasive breast cancer\n\n               -  Stage I or II (T1-2, N0-1, M0)\n\n          -  Hormone receptor status:\n\n               -  Not specified\n\n        PATIENT CHARACTERISTICS:\n\n        Age\n\n          -  Not specified\n\n        Sex\n\n          -  Female\n\n        Menopausal status\n\n          -  Not specified\n\n        Performance status\n\n          -  Not specified\n\n        Life expectancy\n\n          -  Not specified\n\n        Hematopoietic\n\n          -  Not specified\n\n        Hepatic\n\n          -  Not specified\n\n        Renal\n\n          -  Not specified\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy\n\n          -  Not specified\n\n        Chemotherapy\n\n          -  Not specified\n\n        Endocrine therapy\n\n          -  Not specified\n\n        Radiotherapy\n\n          -  Not specified\n\n        Surgery\n\n          -  Not specified"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "237", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 14, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00026845", 
+            "org_study_id": "790111, CDR0000256918", 
+            "secondary_id": "NCI-79-C-0111"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm I", 
+                    "Arm II"
+                ], 
+                "description": "Patients undergo axillary lymph node dissection", 
+                "intervention_name": "axillary lymph node dissection", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Arm II", 
+                "description": "Patients undergo excisional biopsy", 
+                "intervention_name": "biopsy", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "description": "Patients undergo total mastectomy", 
+                "intervention_name": "therapeutic conventional surgery", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Arm II", 
+                "description": "Patients undergo radiation therapy", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage I breast cancer", 
+            "stage II breast cancer"
+        ], 
+        "lastchanged_date": "September 29, 2011", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/NCI-79-C-0111"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Cancer Institute (NCI)"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "The Treatment Of Clinical Stage I And II Carcinoma Of The Breast With Mastectomy And Axillary Dissection Versus Excisional Biopsy, Axillary Dissection And Definitive Irradiation", 
+        "overall_official": {
+            "affiliation": "NCI - Radiation Oncology Branch; ROB", 
+            "last_name": "Nicole L. Simone, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_outcome": [
+            {
+                "measure": "Comparison of overall and disease-free survival", 
+                "safety_issue": "No"
+            }, 
+            {
+                "measure": "Comparison of in-breast only failure", 
+                "safety_issue": "No"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00026845"
+        }, 
+        "responsible_party": {
+            "name_title": "Nicole L. Simone", 
+            "organization": "NCI - Radiation Oncology Branch; ROB"
+        }, 
+        "results_reference": [
+            {
+                "citation": "Dan TD, Ly D, Hewitt SM, et al.: Prognostic value of CD44s in the NCI randomized trial on breast conservation with 25-year follow-up. [Abstract] J Clin Oncol 28 (Suppl 15): A-634, 2010."
+            }, 
+            {
+                "PMID": "12910512", 
+                "citation": "Poggi MM, Danforth DN, Sciuto LC, Smith SL, Steinberg SM, Liewehr DJ, Menard C, Lippman ME, Lichter AS, Altemus RM. Eighteen-year results in the treatment of early breast carcinoma with mastectomy versus breast conservation therapy: the National Cancer Institute Randomized Trial. Cancer. 2003 Aug 15;98(4):697-702."
+            }, 
+            {
+                "citation": "Poggi MM, Danforth DN, Sciuto LC, et al.: Cancer events after 18 years of follow-up in the treatment of early-stage breast cancer with mastectomy versus breast conservation therapy. [Abstract] Breast Cancer Res Treat 76 (Suppl 1): A-28, 2002."
+            }
+        ], 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "September 1979", 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2011"
+    }, 
+    "geocoordinates": {
+        "National Cancer Institute (NCI)": "38.985 -77.095"
+    }
+}

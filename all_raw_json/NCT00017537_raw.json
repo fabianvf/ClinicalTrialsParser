@@ -1,0 +1,165 @@
+{
+    "clinical_study": {
+        "@rank": "62340", 
+        "arm_group": [
+            {
+                "arm_group_label": "Dose #1", 
+                "arm_group_type": "Experimental", 
+                "description": "dose #1 administered"
+            }, 
+            {
+                "arm_group_label": "Dose #2", 
+                "arm_group_type": "Experimental", 
+                "description": "dose #2 administered"
+            }, 
+            {
+                "arm_group_label": "Dose #3", 
+                "arm_group_type": "Experimental", 
+                "description": "Dose #3 administered"
+            }, 
+            {
+                "arm_group_label": "Dose #4", 
+                "arm_group_type": "Experimental", 
+                "description": "Dose #4 administered"
+            }, 
+            {
+                "arm_group_label": "Dose #5", 
+                "arm_group_type": "Experimental", 
+                "description": "Administered dose #5"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Vaccines may make the body build an immune response to kill tumor cells.\n\n      PURPOSE: Phase I trial to study the effectiveness of vaccine therapy in treating patients\n      who have metastatic or recurrent cancer."
+        }, 
+        "brief_title": "Vaccine Therapy in Treating Patients With Metastatic or Recurrent Cancer", 
+        "completion_date": {
+            "#text": "March 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Breast Cancer", 
+            "Gastric Cancer", 
+            "Lung Cancer", 
+            "Ovarian Cancer", 
+            "Unspecified Adult Solid Tumor, Protocol Specific"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Breast Neoplasms", 
+                "Lung Neoplasms", 
+                "Stomach Neoplasms", 
+                "Ovarian Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the optimum biologic dose of MVF-HER-2(628-647)-CRL 1005 vaccine\n      that will induce anti-HER-2 antibody in patients with metastatic or recurrent cancer. II.\n      Characterize the nature and severity of toxicity of this drug in these patients. III.\n      Document any clinical responses to this drug in these patients.\n\n      OUTLINE: This is a dose-escalation study. Patients receive MVF-HER-2(628-647)-CRL 1005\n      vaccine intramuscularly on days 1 and 29. Cohorts of 5 patients receive escalating doses of\n      MVF-HER-2(627-647)-CRL 1005 vaccine until at least 2 of 5 patients experience dose-limiting\n      toxicity. Patients are followed on days 43 and 57 and every 2 months for at least 1 year.\n\n      PROJECTED ACCRUAL: Approximately 5-25 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed metastatic and/or recurrent solid tumor,\n        especially the following: Breast Ovarian Non-small cell lung cancer Gastric adenocarcinoma\n        No standard therapy available No brain metastases\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: Zubrod 0-2 Life expectancy:\n        Not specified Hematopoietic: WBC at least 3,500/mm3 Platelet count at least 100,000/mm3\n        Hepatic: Bilirubin no greater than 1.5 mg/dL ALT less than 2 times upper limit of normal\n        No hepatitis A, B, or C Renal: Creatinine no greater than 1.5 mg/dL OR Creatinine\n        clearance greater than 60 mL/min Cardiovascular: No serious cardiopulmonary disorder No\n        congestive heart failure No symptomatic coronary artery disease No serious cardiac\n        arrhythmia Pulmonary: No serious cardiopulmonary disorder No symptomatic chronic\n        obstructive pulmonary disease Immunologic: Reactive to at least 1 of the following skin\n        test antigens: Candida, mumps, Trichophyton, intermediate strength PPD, tetanus toxoid No\n        concurrent disease requiring corticosteroids or other immunosuppressive drugs No\n        autoimmune disease, including rheumatoid arthritis, systemic lupus erythematosus,\n        scleroderma, polymyositis-dermatomyositis, or vasculitic syndrome No prior anaphylactic\n        response to other vaccine No hypersensitivity to MVF-HER-2(628-647) Other: No active HIV\n        No active infection requiring antibiotic therapy No serious medical disease Not pregnant\n        or nursing Negative pregnancy test Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: At least 4 weeks since prior immunotherapy and\n        recovered Chemotherapy: At least 4 weeks since prior cytotoxic chemotherapy and recovered\n        Endocrine therapy: At least 4 weeks since prior hormonal therapy and recovered No\n        concurrent corticosteroids Radiotherapy: At least 4 weeks since prior radiotherapy and\n        recovered Surgery: At least 4 weeks since prior surgery and recovered No prior splenectomy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "0", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 6, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00017537", 
+            "org_study_id": "CDR0000068700", 
+            "secondary_id": [
+                "UAB-0020", 
+                "NCI-G01-1955"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Dose #1", 
+                "Dose #2", 
+                "Dose #3", 
+                "Dose #4", 
+                "Dose #5"
+            ], 
+            "intervention_name": "MVF-HER-2(628-647)-CRL 1005 vaccine", 
+            "intervention_type": "Biological"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "stage IV breast cancer", 
+            "recurrent breast cancer", 
+            "stage IV gastric cancer", 
+            "recurrent gastric cancer", 
+            "recurrent non-small cell lung cancer", 
+            "stage IV ovarian epithelial cancer", 
+            "recurrent ovarian epithelial cancer", 
+            "adenocarcinoma of the stomach", 
+            "stage IV non-small cell lung cancer", 
+            "unspecified adult solid tumor, protocol specific"
+        ], 
+        "lastchanged_date": "August 2, 2013", 
+        "number_of_arms": "5", 
+        "official_title": "Phase IB Trial of Active Specific Immunotherapy With MVF-HER-2(628-647) and CRL1005 Copolymer Adjuvant in Patients With Metastatic Cancer", 
+        "overall_official": {
+            "affiliation": "University of Alabama at Birmingham", 
+            "last_name": "Pierre L. Triozzi, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Withdrawn", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "March 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Determine the optimum biologic dose of MVF-HER-2 (628-647)-CRL 1005  vaccine that will induce snit-HER-2 antibody in patients with metastatic or recurrent cancer", 
+            "safety_issue": "No", 
+            "time_frame": "baseline to 1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00017537"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Characterize the nature and severity of toxicity of this drug in these patients.", 
+                "safety_issue": "Yes", 
+                "time_frame": "baseline to 1 year"
+            }, 
+            {
+                "measure": "Document any clinical responses to this drug in these patients.", 
+                "safety_issue": "No", 
+                "time_frame": "baseline to 1 year"
+            }
+        ], 
+        "source": "University of Alabama at Birmingham", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Alabama at Birmingham", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2000", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2012"
+    }, 
+    "geocoordinates": {}
+}

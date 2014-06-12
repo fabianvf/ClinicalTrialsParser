@@ -1,0 +1,518 @@
+{
+    "clinical_study": {
+        "@rank": "48820", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Identification of genes that may be associated with developing certain types of\n      cancer may someday provide important information about a person's risk of getting cancer.\n\n      PURPOSE: This clinical trial is studying to see if certain genes may be associated with\n      cancer in patients with cancer of the breast, prostate, lung, or colon and siblings of these\n      patients."
+        }, 
+        "brief_title": "Identification of Genes Associated With Cancer in Patients and Siblings Who Have Cancer", 
+        "condition": [
+            "Breast Cancer", 
+            "Colorectal Cancer", 
+            "Lung Cancer", 
+            "Prostate Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Breast Neoplasms", 
+                "Colorectal Neoplasms", 
+                "Lung Neoplasms", 
+                "Prostatic Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Gather allele-sharing statistics at approximately 100 candidate loci throughout the\n           human genome most likely to influence genetic risk of cancer.\n\n        -  Use these allele-sharing statistics to test the interaction of each locus individually\n           with cancer-associated, rare alleles of HRAS1.\n\n        -  Generalize this approach for one of four cancers (breast, colon, lung, or prostate),\n           using allele-sharing statistics to test the interaction of each locus with every other\n           locus.\n\n        -  Replicate positive results in a distinct set of sibling pairs with cancer.\n\n        -  Examine, when loci contributing to risk are detected, the influence of this genetic\n           background on clinical outcomes, such as survival.\n\n      OUTLINE: Each patient-sibling pair completes a family history questionnaire about the\n      incidence of cancer in the family. Blood samples are obtained from both the patient and the\n      sibling (and both living parents, if available).\n\n      The blood samples are genotyped using approximately 300 micro-satellite markers flanking 100\n      candidate genes previously implicated in genetic risk for cancer. Certain loci are a\n      priority due to their association with HRAS1: BRCA1 and all known mismatch repair loci;\n      other repair genes, such as ATM; the Bloom's syndrome locus; and the XRCC group. Other genes\n      are also mapped.\n\n      Patients do not receive the results of the genetic testing and the results do not influence\n      the type and duration of treatment.\n\n      Patients only are followed annually.\n\n      PROJECTED ACCRUAL: This study will accrue 1,000 patient-sibling pairs for breast cancer.\n      After 18 months, another 1,000 patient-sibling pairs will be accrued for breast cancer.\n      Therefore, up to 2,000 patient-sibling pairs will be accrued over 5 years. (Feasibility of\n      accruing pairs for lung, colon, and prostate cancer is being assessed.)"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed colon, lung, prostate, or invasive breast cancer\n\n               -  No ductal or lobular carcinoma in situ of the breast only\n\n          -  Patient and natural full sibling must have (or have had) cancer of the same type\n\n          -  Participants in E-3Y92 not eligible\n\n          -  Hormone receptor status:\n\n               -  Not specified\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  Not specified\n\n        Menopausal status:\n\n          -  Not specified\n\n        Performance status:\n\n          -  Not specified\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Not specified\n\n        Hepatic:\n\n          -  Not specified\n\n        Renal:\n\n          -  Not specified\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy\n\n          -  Not specified\n\n        Chemotherapy\n\n          -  Not specified\n\n        Endocrine therapy\n\n          -  Not specified\n\n        Radiotherapy\n\n          -  Not specified\n\n        Surgery\n\n          -  Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "4000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003329", 
+            "org_study_id": "CDR0000066283", 
+            "secondary_id": [
+                "U10CA021115", 
+                "ECOG-1Y97"
+            ]
+        }, 
+        "intervention": {
+            "intervention_name": "gene mapping", 
+            "intervention_type": "Genetic"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage I colon cancer", 
+            "stage II colon cancer", 
+            "stage III colon cancer", 
+            "stage IV colon cancer", 
+            "stage I breast cancer", 
+            "stage II breast cancer", 
+            "stage IIIA breast cancer", 
+            "stage IIIB breast cancer", 
+            "stage IIIC breast cancer", 
+            "stage IV breast cancer", 
+            "stage I non-small cell lung cancer", 
+            "stage II non-small cell lung cancer", 
+            "stage III non-small cell lung cancer", 
+            "limited stage small cell lung cancer", 
+            "extensive stage small cell lung cancer", 
+            "stage I prostate cancer", 
+            "stage II prostate cancer", 
+            "stage III prostate cancer", 
+            "stage IV prostate cancer", 
+            "stage IV non-small cell lung cancer"
+        ], 
+        "lastchanged_date": "April 2, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/ECOG-1Y97"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rancho Mirage", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92270"
+                    }, 
+                    "name": "Lucy Curci Cancer Center at Eisenhower Memorial Hospital and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Collins", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80528"
+                    }, 
+                    "name": "Front Range Cancer Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boca Raton", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33486"
+                    }, 
+                    "name": "Eugene M. and Christine E. Lynn Cancer Institute at Boca Raton Community Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lakeland", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33805"
+                    }, 
+                    "name": "Lakeland Regional Cancer Center at Lakeland Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Chicago Westside Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611-3013"
+                    }, 
+                    "name": "Robert H. Lurie Comprehensive Cancer Center at Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evanston", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60201-1781"
+                    }, 
+                    "name": "Evanston Northwestern Healthcare - Evanston Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Skokie", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60076"
+                    }, 
+                    "name": "Hematology Oncology Associates - Skokie"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51104"
+                    }, 
+                    "name": "Mercy Medical Center - Sioux City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology Associates, LLP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51104"
+                    }, 
+                    "name": "St. Luke's Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Escanaba", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49431"
+                    }, 
+                    "name": "Green Bay Oncology, Limited - Escanaba"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iron Mountain", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49801"
+                    }, 
+                    "name": "Dickinson County Healthcare System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89106"
+                    }, 
+                    "name": "CCOP - Nevada Cancer Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89102"
+                    }, 
+                    "name": "University Medical Center of Southern Nevada"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marlton", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08053"
+                    }, 
+                    "name": "Fox Chase Virtua Health Cancer Program at Virtua Memorial Hospital Marlton"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08903"
+                    }, 
+                    "name": "Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Voorhees", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08043"
+                    }, 
+                    "name": "Fox Chase Virtua Health Cancer Program at Virtua West Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10466"
+                    }, 
+                    "name": "Our Lady of Mercy Medical Center Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clifton Springs", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14432"
+                    }, 
+                    "name": "Finger Lakes Hematology and Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Joan Karnell Cancer Center at Pennsylvania Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15232"
+                    }, 
+                    "name": "UPMC Cancer Centers"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Grove", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19390-9499"
+                    }, 
+                    "name": "Jennersville Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Appleton", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54911-3496"
+                    }, 
+                    "name": "Fox Valley Hematology and Oncology - East Grant Street"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54307-3508"
+                    }, 
+                    "name": "St. Vincent Hospital Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54301-3526"
+                    }, 
+                    "name": "Green Bay Oncology, Limited at St. Vincent Hospital Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54303"
+                    }, 
+                    "name": "St. Mary's Hospital Medical Center - Green Bay"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54303"
+                    }, 
+                    "name": "Green Bay Oncology, Limited at St. Mary's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marinette", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54143"
+                    }, 
+                    "name": "Bay Area Cancer Care Center at Bay Area Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oconto Falls", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54154"
+                    }, 
+                    "name": "Green Bay Oncology, Limited - Oconto Falls"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Racine", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53405"
+                    }, 
+                    "name": "All Saints Cancer Center at Wheaton Franciscan Healthcare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sturgeon Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54235"
+                    }, 
+                    "name": "Green Bay Oncology, Limited - Sturgeon Bay"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "ECOG Laboratory Study: Mapping Interactive Cancer Susceptibility Loci", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2007", 
+            "@type": "Actual"
+        }, 
+        "removed_countries": {
+            "country": "South Africa"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003329"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "15705877", 
+                "citation": "Larson GP, Ding Y, Cheng LS, Lundberg C, Gagalang V, Rivas G, Geller L, Weitzel J, MacDonald D, Archambeau J, Slater J, Neuberg D, Daly MB, Angel I, Benson AB 3rd, Smith K, Kirkwood JM, O'Dwyer PJ, Raskay B, Sutphen R, Drew R, Stewart JA, Werndli J, Johnson D, Ruckdeschel JC, Elston RC, Krontiris TG. Genetic linkage of prostate cancer risk to the chromosome 3 region bearing FHIT. Cancer Res. 2005 Feb 1;65(3):805-14."
+            }, 
+            {
+                "citation": "Krontiris TG, Larson M, Weitzel JN, et al.: Mapping interactive cancer susceptibility loci: Eastern Cooperative Oncology Group. [Abstract] Proceedings of the American Society of Clinical Oncology 17: A2147, 560a, 1998."
+            }
+        ], 
+        "source": "Eastern Cooperative Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Eastern Cooperative Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1998", 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "March 2008"
+    }, 
+    "geocoordinates": {
+        "All Saints Cancer Center at Wheaton Franciscan Healthcare": "42.726 -87.783", 
+        "Bay Area Cancer Care Center at Bay Area Medical Center": "45.1 -87.631", 
+        "CCOP - Nevada Cancer Research Foundation": "36.115 -115.173", 
+        "Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School": "40.486 -74.452", 
+        "Dickinson County Healthcare System": "45.82 -88.066", 
+        "Eugene M. and Christine E. Lynn Cancer Institute at Boca Raton Community Hospital": "26.359 -80.083", 
+        "Evanston Northwestern Healthcare - Evanston Hospital": "42.041 -87.69", 
+        "Finger Lakes Hematology and Oncology": "42.962 -77.14", 
+        "Fox Chase Virtua Health Cancer Program at Virtua Memorial Hospital Marlton": "39.891 -74.922", 
+        "Fox Chase Virtua Health Cancer Program at Virtua West Jersey": "39.852 -74.961", 
+        "Fox Valley Hematology and Oncology - East Grant Street": "44.262 -88.415", 
+        "Front Range Cancer Specialists": "40.585 -105.084", 
+        "Green Bay Oncology, Limited - Escanaba": "45.745 -87.065", 
+        "Green Bay Oncology, Limited - Oconto Falls": "44.874 -88.143", 
+        "Green Bay Oncology, Limited - Sturgeon Bay": "44.834 -87.377", 
+        "Green Bay Oncology, Limited at St. Mary's Hospital": "44.519 -88.02", 
+        "Green Bay Oncology, Limited at St. Vincent Hospital Regional Cancer Center": "44.519 -88.02", 
+        "Hematology Oncology Associates - Skokie": "42.033 -87.733", 
+        "Jennersville Regional Hospital": "39.822 -75.827", 
+        "Joan Karnell Cancer Center at Pennsylvania Hospital": "39.952 -75.164", 
+        "Lakeland Regional Cancer Center at Lakeland Regional Medical Center": "28.039 -81.95", 
+        "Lucy Curci Cancer Center at Eisenhower Memorial Hospital and Medical Center": "33.74 -116.413", 
+        "Mercy Medical Center - Sioux City": "42.5 -96.4", 
+        "Our Lady of Mercy Medical Center Comprehensive Cancer Center": "40.85 -73.867", 
+        "Robert H. Lurie Comprehensive Cancer Center at Northwestern University": "41.878 -87.63", 
+        "Siouxland Hematology-Oncology Associates, LLP": "42.5 -96.4", 
+        "St. Luke's Regional Medical Center": "42.5 -96.4", 
+        "St. Mary's Hospital Medical Center - Green Bay": "44.519 -88.02", 
+        "St. Vincent Hospital Regional Cancer Center": "44.519 -88.02", 
+        "UPMC Cancer Centers": "40.441 -79.996", 
+        "University Medical Center of Southern Nevada": "36.115 -115.173", 
+        "Veterans Affairs Medical Center - Chicago Westside Hospital": "41.878 -87.63"
+    }
+}

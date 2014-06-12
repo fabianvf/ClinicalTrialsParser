@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "48827", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing\n      so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer\n      cells. Combining chemotherapy with radiation therapy may kill more cancer cells.\n      Colony-stimulating factors such as filgrastim allow doctors to give higher doses of\n      chemotherapy drugs to kill more cancer cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of lomustine, procarbazine, filgrastim,\n      and radiation therapy in treating patients who have primary central nervous system lymphoma."
+        }, 
+        "brief_title": "Chemotherapy, Filgrastim, and Radiation Therapy in Treating Patients With Primary Central Nervous System Lymphoma", 
+        "condition": "Lymphoma", 
+        "condition_browse": {
+            "mesh_term": "Lymphoma"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine response rate, response duration, and survival of patients with\n      AIDS-related or immunocompetent primary central nervous system lymphoma after treatment with\n      oral lomustine and procarbazine, filgrastim (G-CSF), and radiotherapy. II. Determine\n      toxicity of this combined modality in these patients. III. Determine quality of life of\n      these patients.\n\n      OUTLINE: Patients are stratified by CD4 count (50/mm3 and under vs greater than 50/mm3).\n      Patients receive oral lomustine on day 1 and oral procarbazine on days 1-10 and days 22-31.\n      Filgrastim (G-CSF) is administered subcutaneously daily on days 12-21 and days 33-42, until\n      absolute neutrophil counts recover. Patients with a complete response after 6 weeks receive\n      one additional course of chemotherapy prior to radiotherapy. Patients with a partial\n      response, stable disease, or disease progression after 6 weeks proceed to radiotherapy\n      without receiving a second course of chemotherapy. Whole brain radiotherapy is administered\n      daily for 28 days beginning 1-3 weeks following chemotherapy. Quality of life is assessed\n      prior to therapy, at 3 and 6 weeks, and then every 2 months following radiotherapy. Patients\n      are followed every 2 months until death.\n\n      PROJECTED ACCRUAL: Approximately 16 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically proven AIDS-related non-Hodgkin's lymphoma of the\n        CNS or non AIDS-related,non-Hodgkin's lymphoma of CNS also eligible, if not eligible for\n        higher priority clinical trial\n\n        PATIENT CHARACTERISTICS: Age: 0-120 Performance status: ECOG 0-2 Life expectancy: At least\n        6 weeks Hematopoietic: WBC at least 1500/ mm3 Platelets at least 50,000/mm3 Hepatic: Serum\n        bilirubin no greater than 3.0 mg/dL Renal: Serum creatinine no greater than 3.0 mg/dL\n        Cardiovascular: Pulmonary: Other: Active infection(s) allowed if drug receiving treatment\n        No Zidovudine during combined modality chemotherapy and radition Negative CSF cytology\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Chemotherapy: No prior chemotherapy Endocrine\n        therapy: Steroids may be used concurrently. Doses should be as low as possible. Increases\n        in steroids above study's upper limit will result in patient going off study.\n        Radiotherapy: No prior radiotherapy Surgery: Prior surgical debulking allowed"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "0", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003929", 
+            "org_study_id": "CWRU3496", 
+            "secondary_id": [
+                "P30CA043703", 
+                "CWRU-3496", 
+                "CWRU-AMC-2A-93", 
+                "NCI-G99-1533"
+            ]
+        }, 
+        "intervention": [
+            {
+                "description": "Filgrastim (G-CSF) is administered subcutaneously daily on days 12-21 and days 33-42, until absolute neutrophil counts recover. Patients with a complete response after 6 weeks receive one additional course of chemotherapy prior to radiotherapy.", 
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "description": "Oral lomustine on day 1. Patients with a complete response after 6 weeks receive one additional course of chemotherapy prior to radiotherapy.", 
+                "intervention_name": "lomustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Oral procarbazine on days 1-10 and days 22-31. Patients with a complete response after 6 weeks receive one additional course of chemotherapy prior to radiotherapy.", 
+                "intervention_name": "procarbazine hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "Whole brain radiotherapy is administered daily for 28 days beginning 1-3 weeks following chemotherapy.", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Lomustine", 
+                "Procarbazine", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "primary central nervous system lymphoma", 
+            "AIDS-related primary CNS lymphoma"
+        ], 
+        "lastchanged_date": "March 16, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Cleveland", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "44106-5065"
+                }, 
+                "name": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Combined Modality Therapy of AIDS-Related and Immunocompetent Primary CNS Lymphoma (PCL) Using Filgrastim (G-CSF)", 
+        "overall_official": {
+            "affiliation": "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center", 
+            "last_name": "Scot C. Remick, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Withdrawn", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2000", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Effectiveness of lomustine, procarbazine, filgrastim, and radiation therapy in treating patients who have primary central nervous system lymphoma.", 
+            "safety_issue": "No", 
+            "time_frame": "Patients with a CR after 6 weeks receive one additional course of chemotherapy prior to radiotherapy. Patients with a PR, stable disease, or disease progression after 6 weeks proceed to radiotherapy without receiving a second course of chemotherapy."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003929"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Case Comprehensive Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Case Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 1998", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2012"
+    }, 
+    "geocoordinates": {
+        "Ireland Cancer Center at University Hospitals Case Medical Center, Case Comprehensive Cancer Center": "41.499 -81.695"
+    }
+}

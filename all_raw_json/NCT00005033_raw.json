@@ -1,0 +1,150 @@
+{
+    "clinical_study": {
+        "@rank": "55567", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Monoclonal antibodies, such as trastuzumab, can locate tumor cells and either\n      kill them or deliver tumor-killing substances to them without harming normal cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of trastuzumab in treating patients who\n      have recurrent osteosarcoma."
+        }, 
+        "brief_title": "Trastuzumab in Treating Patients With Recurrent Osteosarcoma", 
+        "completion_date": {
+            "#text": "August 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Sarcoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Osteosarcoma", 
+                "Sarcoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the response rate, freedom from progression, and survival of patients with\n           recurrent osteosarcoma when treated with trastuzumab (Herceptin).\n\n        -  Evaluate the toxicity of this drug in young patients with a history of osteosarcoma and\n           prior therapy with doxorubicin.\n\n      OUTLINE: This is a multicenter study.\n\n      Patients receive trastuzumab (Herceptin) IV over 30-90 minutes weekly. Treatment continues\n      for up to 52 weeks in the absence of disease progression or unacceptable toxicity. After\n      approximately 12 weeks of treatment, patients are evaluated for response and undergo\n      surgical resection if clinically appropriate.\n\n      Patients are followed for 1 year for survival.\n\n      PROJECTED ACCRUAL: Approximately 20-40 patients will be accrued for this study within 2\n      years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed recurrent osteosarcoma after initial systemic therapy with\n             doxorubicin\n\n          -  Measurable disease\n\n          -  Immunohistochemical evidence of 2+ overexpression of HER2\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  Any age\n\n        Performance status:\n\n          -  Karnofsky 80-100%\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Not specified\n\n        Hepatic:\n\n          -  ALT or AST less than 3 times upper limit of normal (ULN)\n\n          -  Bilirubin less than 1.5 times ULN\n\n        Renal:\n\n          -  Creatinine less than 1.5 times ULN OR\n\n          -  Creatinine clearance greater than 60 mL/min\n\n        Cardiovascular:\n\n          -  Fractional shortening at least 29% by echocardiogram OR\n\n          -  Ejection fraction at least 50% by MUGA\n\n          -  No prior cardiac dysfunction, even if presently controlled\n\n        Other:\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  See Disease Characteristics\n\n          -  At least 4 weeks since prior chemotherapy\n\n          -  No prior anthracycline more than 450 mg/m^2\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  Not specified\n\n        Surgery:\n\n          -  Not specified\n\n        Other:\n\n          -  No other concurrent cancer therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "firstreceived_date": "April 6, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005033", 
+            "org_study_id": "CDR0000067558", 
+            "secondary_id": [
+                "MSKCC-99097", 
+                "NCI-T98-0083"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "trastuzumab", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "conventional surgery", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Antibodies, Monoclonal", 
+                "Trastuzumab"
+            ]
+        }, 
+        "keyword": "recurrent osteosarcoma", 
+        "lastchanged_date": "June 20, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/MSKCC-99097"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010-3000"
+                    }, 
+                    "name": "City of Hope Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Memorial Sloan-Kettering Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38105-2794"
+                    }, 
+                    "name": "St. Jude Children's Research Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Phase II Study of Recombinant Humanized Monoclonal Antibody Against HER2 for the Treatment of Recurrent Osteosarcoma", 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Paul A. Meyers, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005033"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1999", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2004"
+    }, 
+    "geocoordinates": {
+        "City of Hope Comprehensive Cancer Center": "34.139 -117.977", 
+        "Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute": "42.358 -71.06", 
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006", 
+        "St. Jude Children's Research Hospital": "35.15 -90.049"
+    }
+}

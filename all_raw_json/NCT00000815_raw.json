@@ -1,0 +1,703 @@
+{
+    "clinical_study": {
+        "@rank": "25274", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants who receive vaccination at 6 and 12 months of age"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants who receive vaccination only at 12 months of age"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To compare measles seroconversion rates (development of antibodies) at 13 months of age in\n      HIV-infected and uninfected children on one of two immunization schedules: attenuated\n      measles/mumps/rubella virus (M-M-R II) vaccine at 12 months versus attenuated measles\n      vaccine (Attenuvax) at 6 months plus M-M-R II vaccine at 12 months.\n\n      Recommendations for the age at vaccination should balance the need to minimize the risk of\n      morbidity and mortality with the benefit of achieving the highest seroconversion rates.\n      Immunizing a more intact immune system at an earlier stage of HIV infection may in turn\n      achieve better and long-lasting measles protection. This study will help define a more\n      effective measles vaccine regimen for children diagnosed with HIV infection and will provide\n      greater insight into the functional status of the HIV-infected children's humoral immune\n      system."
+        }, 
+        "brief_title": "A Phase II, Comparative Study of Seroconversion of Single-Dose and Two-Dose Measles Vaccination in HIV-Infected and HIV-Uninfected Children: A Multicenter Trial of the Pediatric AIDS Clinical Trials Group", 
+        "completion_date": {
+            "#text": "August 2001", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "HIV Infections", 
+            "Measles"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome", 
+                "Measles"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Recommendations for the age at vaccination should balance the need to minimize the risk of\n      morbidity and mortality with the benefit of achieving the highest seroconversion rates.\n      Immunizing a more intact immune system at an earlier stage of HIV infection may in turn\n      achieve better and long-lasting measles protection. This study will help define a more\n      effective measles vaccine regimen for children diagnosed with HIV infection and will provide\n      greater insight into the functional status of the HIV-infected children's humoral immune\n      system.\n\n      Patients, HIV infected and uninfected, are randomized to one of two attenuated measles\n      vaccine schedules: at 6 and 12 months of age, or at 12 months of age only. Attenuvax is\n      administered as the month 6 vaccine and M-M-R II as the month 12 vaccine. Patients are\n      followed for 24 months after the last vaccination."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients must have:\n\n          -  Willing to have and receive results of HIV test\n\n          -  Been born to mothers with HIV infection or history of AIDS-defining condition by CDC\n             criteria.\n\n          -  No history of opportunistic infection.\n\n          -  No known exposure to measles within 14 days prior to study entry.\n\n          -  CD4+ lymphocyte count >= 750 cells/mm3 or more than 15% at 6 months of age.\n\n          -  Parent or legal guardian available to give written informed consent and be willing to\n             comply with all study requirements.\n\n          -  Childhood immunizations (other than measles) according to current recommendations of\n             the Immunization Practice  Advisory Committee and American Academy of Pediatrics.\n\n        NOTE:\n\n          -  Coenrollment on other therapeutic protocols (except for ACTG 185) is permitted.\n\n        NOTE:\n\n          -  Patients must be located in a geographical area where measles immunization at 12\n             months is standard of care.\n\n        Recommended:\n\n          -  Childhood immunizations other than measles according to current guidelines.\n\n        Exclusion Criteria\n\n        Co-existing Condition:\n\n        Patients with the following symptoms or conditions are excluded:\n\n          -  Intercurrent illness and/or fever for 7 days.\n\n          -  Known sensitivity or allergy to neomycin or eggs.\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  IVIG.\n\n          -  Uninterrupted or anticipated steroid therapy (>= 2 mg/kg/day) for more than 2 weeks\n             duration.\n\n        Patients with the prior condition are excluded:\n\n          -  Platelet count < 50,000/mm3 at any time prior to study entry.\n\n        Prior Medication:\n\n        Excluded:\n\n          -  Any IgG preparation within the past 6 months."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "7 Months", 
+            "minimum_age": "6 Months"
+        }, 
+        "enrollment": {
+            "#text": "270", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000815", 
+            "org_study_id": "ACTG 225", 
+            "secondary_id": "11202"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "1", 
+                "description": "Measles virus vaccine (attenuate)administered subcutaneously at a single dose of 0.5 mL at 6 months of age", 
+                "intervention_name": "Attenuvax", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "Measles-Mumps-Rubella vaccine (attenuated)administered subcutaneously as a single dose of 0.5 mL at 12 months of age", 
+                "intervention_name": "M-M-R-II", 
+                "intervention_type": "Biological"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Acquired Immunodeficiency Syndrome", 
+            "AIDS-Related Complex", 
+            "Measles-Mumps-Rubella Vaccine", 
+            "Vaccines, Attenuated", 
+            "Measles Vaccine", 
+            "Immunization Schedule", 
+            "Measles Virus", 
+            "Measles"
+        ], 
+        "lastchanged_date": "May 16, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "UAB, Dept. of Ped., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90801"
+                    }, 
+                    "name": "Long Beach Memorial Med. Ctr., Miller Children's Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California"
+                    }, 
+                    "name": "UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }, 
+                    "name": "Usc La Nichd Crs"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609"
+                    }, 
+                    "name": "Children's Hosp. & Research Ctr. Oakland, Ped. Clinical Research Ctr. & Research Lab."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California"
+                    }, 
+                    "name": "UCSD Maternal, Child, and Adolescent HIV CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California"
+                    }, 
+                    "name": "Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado"
+                    }, 
+                    "name": "Univ. of Colorado Denver NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06504"
+                    }, 
+                    "name": "Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20060"
+                    }, 
+                    "name": "Howard Univ. Washington DC NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20010"
+                    }, 
+                    "name": "Children's National Med. Ctr., ACTU"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida"
+                    }, 
+                    "name": "Univ. of Florida Jacksonville NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30306"
+                    }, 
+                    "name": "Emory Univ. School of Medicine, Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Chicago Children's CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois"
+                    }, 
+                    "name": "Univ. of Illinois College of Medicine at Chicago, Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois"
+                    }, 
+                    "name": "Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana"
+                    }, 
+                    "name": "Tulane/LSU Maternal/Child CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland"
+                    }, 
+                    "name": "Univ. of Maryland Med. Ctr., Div. of Ped. Immunology & Rheumatology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland"
+                    }, 
+                    "name": "Johns Hopkins Hosp. & Health System - Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts"
+                    }, 
+                    "name": "HMS - Children's Hosp. Boston, Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Children's Hospital of Michigan NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey"
+                    }, 
+                    "name": "UMDNJ - Robert Wood Johnson"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey"
+                    }, 
+                    "name": "NJ Med. School CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paterson", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07503"
+                    }, 
+                    "name": "St. Joseph's Hosp. & Med. Ctr. of New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Children's Hospital at Albany Medical Center, Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Neck", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11021"
+                    }, 
+                    "name": "North Shore-Long Island Jewish Health System, Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Hyde Park", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11040"
+                    }, 
+                    "name": "Schneider Children's Hosp., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10037"
+                    }, 
+                    "name": "Harlem Hosp. Ctr. NY NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "NYU Med. Ctr., Dept. of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Metropolitan Hosp. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Incarnation Children's Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Metropolitan Hosp. NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }, 
+                    "name": "Strong Memorial Hospital Rochester NY NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stony Brook", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }, 
+                    "name": "SUNY Stony Brook NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "SUNY Upstate Med. Univ., Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "DUMC Ped. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania"
+                    }, 
+                    "name": "The Children's Hosp. of Philadelphia IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina"
+                    }, 
+                    "name": "Med. Univ. of South Carolina, Div. of Ped. Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas"
+                    }, 
+                    "name": "Texas Children's Hosp. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norfolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23507"
+                    }, 
+                    "name": "Childrens Hosp. of the Kings Daughters"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington"
+                    }, 
+                    "name": "UW School of Medicine - CHRMC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bayamon", 
+                        "country": "Puerto Rico"
+                    }, 
+                    "name": "Univ. Hosp. Ram\u00f3n Ruiz Arnau, Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico"
+                    }, 
+                    "name": "San Juan City Hosp. PR NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico"
+                    }, 
+                    "name": "Univ. of Puerto Rico Ped. HIV/AIDS Research Program CRS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase II, Comparative Study of Seroconversion of Single-Dose and Two-Dose Measles Vaccination in HIV-Infected and HIV-Uninfected Children: A Multicenter Trial of the Pediatric AIDS Clinical Trials Group", 
+        "overall_official": [
+            {
+                "last_name": "Chandwani S", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "Krasinski K", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_outcome": [
+            {
+                "measure": "Comparison of measles seroconversion rates at 13 months of age between HIV-infected children vaccinated at 12 months of age and HIV-infected children vaccinated at 6 and 12 months of age", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Comparison of seroconversion rates at 13 months of age (following second vaccination) of HIV-uninfected children with HIV-infected children.", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Comparison of seroconversion rates at 13 months of age (following single vaccination) of HIV-uninfected children with HIV-infected children following vaccination at 12 months of age", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }
+        ], 
+        "removed_countries": {
+            "country": "Puerto Rico"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000815"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "21666159", 
+            "citation": "Chandwani S, Beeler J, Li H, Audet S, Smith B, Moye J, Nalin D, Krasinski K; PACTG 225 Study Team. Safety and immunogenicity of early measles vaccination in children born to HIV-infected mothers in the United States: results of Pediatric AIDS Clinical Trials Group (PACTG) protocol 225. J Infect Dis. 2011 Jul;204 Suppl 1:S179-89. doi: 10.1093/infdis/jir089."
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Comparison of measles seroconversion rates in HIV-infected children vaccinated at 6 months of age with HIV-infected children vaccinated at 12 months of age", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Assessment of measles antibody decay and persistence in HIV-infected and HIV-unifected vaccinees", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Evaluation of adverse effects and immune reactions to vaccine in HIV-infected children and HIV-uninfected vaccinees", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }
+        ], 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Merck Sharp & Dohme Corp.", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2012"
+    }, 
+    "geocoordinates": {
+        "Chicago Children's CRS": "41.878 -87.63", 
+        "Children's Hosp. & Research Ctr. Oakland, Ped. Clinical Research Ctr. & Research Lab.": "37.804 -122.271", 
+        "Children's Hospital at Albany Medical Center, Dept. of Peds.": "42.653 -73.756", 
+        "Children's Hospital of Michigan NICHD CRS": "42.331 -83.046", 
+        "Children's National Med. Ctr., ACTU": "38.895 -77.036", 
+        "Childrens Hosp. of the Kings Daughters": "36.851 -76.286", 
+        "Columbia IMPAACT CRS": "40.714 -74.006", 
+        "Cook County Hosp.": "41.878 -87.63", 
+        "DUMC Ped. CRS": "35.994 -78.899", 
+        "Emory Univ. School of Medicine, Dept. of Peds., Div. of Infectious Diseases": "33.749 -84.388", 
+        "HMS - Children's Hosp. Boston, Div. of Infectious Diseases": "42.358 -71.06", 
+        "Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases": "33.836 -118.341", 
+        "Harlem Hosp. Ctr. NY NICHD CRS": "40.714 -74.006", 
+        "Howard Univ. Washington DC NICHD CRS": "38.895 -77.036", 
+        "Incarnation Children's Ctr.": "40.714 -74.006", 
+        "Johns Hopkins Hosp. & Health System - Dept. of Peds., Div. of Infectious Diseases": "39.29 -76.612", 
+        "Long Beach Memorial Med. Ctr., Miller Children's Hosp.": "33.804 -118.158", 
+        "Med. Univ. of South Carolina, Div. of Ped. Infectious Diseases": "32.777 -79.931", 
+        "Metropolitan Hosp. Ctr.": "40.714 -74.006", 
+        "Metropolitan Hosp. NICHD CRS": "40.714 -74.006", 
+        "NJ Med. School CRS": "40.736 -74.172", 
+        "NYU Med. Ctr., Dept. of Medicine": "40.714 -74.006", 
+        "North Shore-Long Island Jewish Health System, Dept. of Peds.": "40.801 -73.728", 
+        "SUNY Stony Brook NICHD CRS": "40.926 -73.141", 
+        "SUNY Upstate Med. Univ., Dept. of Peds.": "43.048 -76.147", 
+        "San Juan City Hosp. PR NICHD CRS": "18.466 -66.106", 
+        "Schneider Children's Hosp., Div. of Infectious Diseases": "40.735 -73.688", 
+        "St. Joseph's Hosp. & Med. Ctr. of New Jersey": "40.917 -74.172", 
+        "Strong Memorial Hospital Rochester NY NICHD CRS": "43.161 -77.611", 
+        "Texas Children's Hosp. CRS": "29.76 -95.369", 
+        "The Children's Hosp. of Philadelphia IMPAACT CRS": "39.952 -75.164", 
+        "Tulane/LSU Maternal/Child CRS": "29.951 -90.072", 
+        "UAB, Dept. of Ped., Div. of Infectious Diseases": "33.521 -86.802", 
+        "UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS": "34.052 -118.244", 
+        "UCSD Maternal, Child, and Adolescent HIV CRS": "32.715 -117.157", 
+        "UMDNJ - Robert Wood Johnson": "40.486 -74.452", 
+        "UW School of Medicine - CHRMC": "47.606 -122.332", 
+        "Univ. Hosp. Ram\u00f3n Ruiz Arnau, Dept. of Peds.": "18.369 -66.166", 
+        "Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease": "41.878 -87.63", 
+        "Univ. of Colorado Denver NICHD CRS": "39.729 -104.832", 
+        "Univ. of Florida Jacksonville NICHD CRS": "30.332 -81.656", 
+        "Univ. of Illinois College of Medicine at Chicago, Dept. of Peds.": "41.878 -87.63", 
+        "Univ. of Maryland Med. Ctr., Div. of Ped. Immunology & Rheumatology": "39.29 -76.612", 
+        "Univ. of Puerto Rico Ped. HIV/AIDS Research Program CRS": "18.466 -66.106", 
+        "Usc La Nichd Crs": "34.052 -118.244", 
+        "Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease": "41.308 -72.928"
+    }
+}

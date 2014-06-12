@@ -1,0 +1,856 @@
+{
+    "clinical_study": {
+        "@rank": "128028", 
+        "brief_summary": {
+            "textblock": "The purposes of this study are to determine if DN-101 plus Taxotere lowers PSA levels,\n      delays or limits disease progression and is safe with minimal side effects."
+        }, 
+        "brief_title": "ASCENT: Androgen Independent Prostate Cancer Study of Calcitriol Enhancing Taxotere", 
+        "completion_date": "December 2005", 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "DN-101 is an investigational drug that has not been approved by the U.S. Food and Drug\n      Administration (FDA). It is a newly formulated pill that contains high amounts of\n      calcitriol, a naturally occurring hormone and the biologically active form of vitamin D.\n      Administration of DN-101 results in much higher blood levels of calcitriol than the body can\n      produce from dietary vitamin D or vitamin D supplements.  These higher levels of calcitriol\n      are associated with anti-cancer effects in laboratory models of human cancer.  Laboratory\n      models also indicate that calcitriol has synergy with many commonly used chemotherapeutic\n      agents used to treat cancer.\n\n      Calcitriol, at very low doses, is currently approved for use in patients with chronic kidney\n      failure.  DN-101 was specifically designed for cancer and contains 30 times the amount of\n      calcitriol found in the calcitriol pill commercially available today.  In order to take an\n      amount of calcitriol equivalent to 1 DN-101 pill, cancer patients would need to swallow 30\n      pills of the approved, low dose formulation.  DN-101 represents a breakthrough in the use of\n      calcitriol in the clinic, because it contains high concentrations of calcitriol and makes it\n      more feasible for patients to stay on regimen."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  Three rising PSA measurements OR a new metastatic lesion\n\n          -  Adequate liver and kidney function\n\n          -  Ongoing hormonal therapy\n\n          -  No hospitalization for angina, heart attack or congestive heart failure within the\n             last 12 months\n\n          -  No kidney stones in the last 5 years"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "250", 
+        "firstreceived_date": "August 9, 2002", 
+        "id_info": {
+            "nct_id": "NCT00043576", 
+            "org_study_id": "DN101-002", 
+            "secondary_id": "ASCENT Trial"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "calcitriol", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "docetaxel", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Androgens", 
+                "Calcitriol", 
+                "Docetaxel"
+            ]
+        }, 
+        "keyword": [
+            "Prostate Cancer", 
+            "Androgen Independent Prostate Cancer"
+        ], 
+        "lastchanged_date": "March 10, 2009", 
+        "link": {
+            "description": "More detailed description of the study", 
+            "url": "http://www.ohsu.edu/ohsuedu/newspub/releases/022607protien.cfm"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montgomery", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36106"
+                    }, 
+                    "name": "Montgomery Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85258"
+                    }, 
+                    "name": "Arizona Cancer Center- Scottsdale"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85724"
+                    }, 
+                    "name": "Arizona Cancer Center- Tucson"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85723"
+                    }, 
+                    "name": "Arizona Cancer Center/Southern Arizona VA HCS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences / Central AR VA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berkeley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94704"
+                    }, 
+                    "name": "Alta Bates Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenbrae", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94904"
+                    }, 
+                    "name": "California Cancer Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Tower Hematology Oncology Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marina Del Rey", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90292"
+                    }, 
+                    "name": "Prostate Oncology Specialist/Pacific Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "UC Davis Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92121"
+                    }, 
+                    "name": "Sharp Healthcare"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92120"
+                    }, 
+                    "name": "Southern California Permanente Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }, 
+                    "name": "Pacific Hematology Oncology Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vallejo", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94589"
+                    }, 
+                    "name": "Kaiser- Northern California"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vista", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92083"
+                    }, 
+                    "name": "San Diego Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Collins", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80528"
+                    }, 
+                    "name": "Oncology Hematology Associates, Paudre Calley Cancer Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "University of Miami-Sylvester Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sarasota", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34239"
+                    }, 
+                    "name": "Oncology Hematology Consultants"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30342"
+                    }, 
+                    "name": "Georgia Urology, P.A."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucker", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30084"
+                    }, 
+                    "name": "Georgia Cancer Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maywood", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60153"
+                    }, 
+                    "name": "Loyola University Medical"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Skokie", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60077"
+                    }, 
+                    "name": "Midwest Cancer Research Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Davenport", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52807"
+                    }, 
+                    "name": "Urologic Associates- P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Crestview HIlls", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "41017"
+                    }, 
+                    "name": "Oncology Hematology Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane University Hospital and Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21232"
+                    }, 
+                    "name": "Johns Hopkins University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rockville", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20850"
+                    }, 
+                    "name": "Associates in Oncology Hematology P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "Metro Minnesota CCOP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65201"
+                    }, 
+                    "name": "Missouri Cancer Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198"
+                    }, 
+                    "name": "Univ. of Nebraska Medical Center/VA Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Fe", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87505"
+                    }, 
+                    "name": "New Mexico Cancer Care Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10459"
+                    }, 
+                    "name": "Lincoln Medical & Mental Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia Presbyterian Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nyack", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10960"
+                    }, 
+                    "name": "Union State Bank Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cary", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27511"
+                    }, 
+                    "name": "Raleigh Hematology Oncology Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "The Cleveland Clinic Foundation, Taussig Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43222"
+                    }, 
+                    "name": "Mid Ohio Oncology Hematology, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201"
+                    }, 
+                    "name": "Oregon Health & Sciences University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97227"
+                    }, 
+                    "name": "NW Kaiser Permanente Portland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15232"
+                    }, 
+                    "name": "University of Pittsburgh"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29403"
+                    }, 
+                    "name": "Charleston Hematology Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "Medical University of South Carolina - Hollings Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chattanooga", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37403"
+                    }, 
+                    "name": "University Oncology/ Hematology Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38104"
+                    }, 
+                    "name": "Boston Baskin Cancer Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78756"
+                    }, 
+                    "name": "Professional Quality Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75246"
+                    }, 
+                    "name": "Texas Oncology, P.A."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Texas Cancer Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft. Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Urology Associates of North Texas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Plano", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75075"
+                    }, 
+                    "name": "North Texas Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tyler", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75702"
+                    }, 
+                    "name": "Tyler Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109"
+                    }, 
+                    "name": "University of Washington Cancer Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Calgary", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T2N 4N2"
+                    }, 
+                    "name": "Tom Baker Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T6G 1Z2"
+                    }, 
+                    "name": "Cross Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V5Z 4E6"
+                    }, 
+                    "name": "Vancouver Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winnipeg", 
+                        "country": "Canada", 
+                        "state": "Manitoba", 
+                        "zip": "R3E OV9"
+                    }, 
+                    "name": "CancerCare Manitoba"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N6A 4L6"
+                    }, 
+                    "name": "London Regional Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ottawa", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "K1H 1C4"
+                    }, 
+                    "name": "Ottawa Regional Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M4N 3M5"
+                    }, 
+                    "name": "Toronto-Sunnybrook Regional Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2M9"
+                    }, 
+                    "name": "Princess Margaret Hospital, University Health Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2L 4M1"
+                    }, 
+                    "name": "CHUM / Notre-Dame Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Quebec", 
+                        "country": "Canada", 
+                        "zip": "G1R 2J6"
+                    }, 
+                    "name": "Centre hospitalier universitaire de Quebec, Hotel-Dieu de Quebec"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "official_title": "A Phase 2/3 Multicenter, Randomized, Double Blind Study of Docetaxel (Taxotere) Plus DN-101 or Placebo in Androgen Independent Prostate Cancer (AIPC)", 
+        "overall_official": {
+            "affiliation": "Oregon Health and Science University", 
+            "last_name": "Tomasz Beer, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2/Phase 3", 
+        "reference": [
+            {
+                "PMID": "11413535", 
+                "citation": "Beer TM, Munar M, Henner WD. A Phase I trial of pulse calcitriol in patients with refractory malignancies: pulse dosing permits substantial dose escalation. Cancer. 2001 Jun 15;91(12):2431-9."
+            }, 
+            {
+                "citation": "Beer, T.M., Eilers, K.M., Garzotto, M., Lowe, B.A., Henner, W.D. Androgen-independent prostate cancer (AIPC) treatment with weekly high dose calcitriol and docetaxel. ASCO Abstract #707, v.21, p. 177a, 2002."
+            }, 
+            {
+                "PMID": "12506180", 
+                "citation": "Beer TM, Eilers KM, Garzotto M, Egorin MJ, Lowe BA, Henner WD. Weekly high-dose calcitriol and docetaxel in metastatic androgen-independent prostate cancer. J Clin Oncol. 2003 Jan 1;21(1):123-8."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00043576"
+        }, 
+        "source": "Novacea", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Aventis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Novacea", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "August 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2005"
+    }, 
+    "geocoordinates": {
+        "Alta Bates Comprehensive Cancer Center": "37.872 -122.273", 
+        "Arizona Cancer Center- Scottsdale": "33.494 -111.926", 
+        "Arizona Cancer Center- Tucson": "32.222 -110.926", 
+        "Arizona Cancer Center/Southern Arizona VA HCS": "32.222 -110.926", 
+        "Associates in Oncology Hematology P.C.": "39.084 -77.153", 
+        "Boston Baskin Cancer Group": "35.15 -90.049", 
+        "CHUM / Notre-Dame Hospital": "45.509 -73.554", 
+        "California Cancer Care": "37.949 -122.524", 
+        "CancerCare Manitoba": "49.9 -97.137", 
+        "Centre hospitalier universitaire de Quebec, Hotel-Dieu de Quebec": "52.94 -73.549", 
+        "Charleston Hematology Oncology": "32.777 -79.931", 
+        "Columbia Presbyterian Medical Center": "40.714 -74.006", 
+        "Cross Cancer Institute": "53.544 -113.49", 
+        "Georgia Cancer Specialists": "33.855 -84.217", 
+        "Georgia Urology, P.A.": "33.749 -84.388", 
+        "Johns Hopkins University": "39.29 -76.612", 
+        "Kaiser- Northern California": "38.104 -122.257", 
+        "Lincoln Medical & Mental Health Center": "40.85 -73.867", 
+        "London Regional Cancer Centre": "42.979 -81.246", 
+        "Loyola University Medical": "41.879 -87.843", 
+        "Medical University of South Carolina - Hollings Cancer Center": "32.777 -79.931", 
+        "Metro Minnesota CCOP": "44.96 -93.37", 
+        "Mid Ohio Oncology Hematology, Inc.": "39.961 -82.999", 
+        "Midwest Cancer Research Group": "42.033 -87.733", 
+        "Missouri Cancer Associates": "38.952 -92.334", 
+        "Montgomery Cancer Center": "32.367 -86.3", 
+        "NW Kaiser Permanente Portland": "45.523 -122.676", 
+        "New Mexico Cancer Care Associates": "35.687 -105.938", 
+        "North Texas Regional Cancer Center": "33.02 -96.699", 
+        "Oncology Hematology Associates, Paudre Calley Cancer Ctr.": "40.585 -105.084", 
+        "Oncology Hematology Care": "39.027 -84.585", 
+        "Oncology Hematology Consultants": "27.336 -82.531", 
+        "Oregon Health & Sciences University": "45.523 -122.676", 
+        "Ottawa Regional Cancer Centre": "45.422 -75.697", 
+        "Pacific Hematology Oncology Associates": "37.775 -122.419", 
+        "Princess Margaret Hospital, University Health Network": "43.653 -79.383", 
+        "Professional Quality Research": "30.267 -97.743", 
+        "Prostate Oncology Specialist/Pacific Clinical Research": "33.98 -118.452", 
+        "Raleigh Hematology Oncology Clinic": "35.792 -78.781", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "San Diego Cancer Center": "33.2 -117.243", 
+        "Sharp Healthcare": "32.715 -117.157", 
+        "Southern California Permanente Medical Group": "32.715 -117.157", 
+        "Texas Cancer Care": "32.725 -97.321", 
+        "Texas Oncology, P.A.": "32.803 -96.77", 
+        "The Cleveland Clinic Foundation, Taussig Cancer Center": "41.499 -81.695", 
+        "Tom Baker Cancer Centre": "51.045 -114.057", 
+        "Toronto-Sunnybrook Regional Cancer Center": "43.653 -79.383", 
+        "Tower Hematology Oncology Medical Group": "34.052 -118.244", 
+        "Tulane University Hospital and Clinic": "29.951 -90.072", 
+        "Tyler Cancer Center": "32.351 -95.301", 
+        "UC Davis Comprehensive Cancer Center": "38.582 -121.494", 
+        "Union State Bank Cancer Center": "41.091 -73.918", 
+        "Univ. of Nebraska Medical Center/VA Hospital": "41.252 -95.998", 
+        "University Oncology/ Hematology Associates": "35.046 -85.31", 
+        "University of Arkansas for Medical Sciences / Central AR VA": "34.746 -92.29", 
+        "University of Miami-Sylvester Comprehensive Cancer Center": "25.789 -80.226", 
+        "University of Pittsburgh": "40.441 -79.996", 
+        "University of Washington Cancer Care": "47.606 -122.332", 
+        "Urologic Associates- P.C.": "41.524 -90.578", 
+        "Urology Associates of North Texas": "32.725 -97.321", 
+        "Vancouver Cancer Center": "49.261 -123.114"
+    }
+}

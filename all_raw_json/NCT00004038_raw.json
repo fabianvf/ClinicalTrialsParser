@@ -1,0 +1,124 @@
+{
+    "clinical_study": {
+        "@rank": "63990", 
+        "arm_group": {
+            "arm_group_label": "Arm I", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients undergo biopsy of one of their skin nodules prior to any treatment. Patients receive the Ad-p53 gene therapy in one nodule and injection of a second nodule with Dulbecco's phosphate buffered saline. The next day, patients begin chemotherapy, which may be given weekly and continues every 21-28 days for up to 6 courses. On day 3, patients return for biopsy of injected nodules. Biopsies are only performed during the first course. Patients may receive further injections of the Ad-p53 gene with subsequent courses of chemotherapy, for up to six courses."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase I trial to study the effectiveness of gene therapy plus chemotherapy in treating\n      patients who have breast cancer. Inserting the p53 gene into a person's cancer cells may\n      improve the body's ability to fight cancer or make the cancer more sensitive to\n      chemotherapy. Combining chemotherapy with gene therapy may kill more tumor cells."
+        }, 
+        "brief_title": "Gene Therapy Plus Chemotherapy in Treating Patients With Breast Cancer", 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the effect of adenovirus p53 (Ad-p53) on chemotherapy-induced apoptosis in\n      lesions in patients with breast cancer.\n\n      II. Determine p53 protein expression following intralesional injections of Ad-p53 by\n      immunohistochemistry and reverse transcriptase polymerase chain reaction in this patient\n      population.\n\n      III. Determine the time course and magnitude of the development of a humoral antibody\n      response to the adenoviral vector in this patient population.\n\n      IV. Determine the ability of transfected p53 to upregulate downstream signals important in\n      G1 arrest by assaying for WAF1 mRNA and apoptosis in this patient population.\n\n      V. Determine the toxicities and side effects of intralesional injections of Ad-p53 given in\n      combination with standard chemotherapy in patients with cutaneous and subcutaneous\n      metastatic breast cancer amenable to injections and biopsies.\n\n      VI. Determine if there is an increase in apoptosis induced by Ad-53 compared to baseline in\n      this patient population.\n\n      OUTLINE:\n\n      Patients undergo biopsy of one of their skin nodules prior to any treatment. Patients\n      receive the Ad-p53 gene therapy in one nodule and injection of a second nodule with\n      Dulbecco's phosphate buffered saline. The next day, patients begin chemotherapy, which may\n      be given weekly and continues every 21-28 days for up to 6 courses. On day 3, patients\n      return for biopsy of injected nodules. Biopsies are only performed during the first course.\n      Patients may receive further injections of the Ad-p53 gene with subsequent courses of\n      chemotherapy, for up to six courses.\n\n      Patients are followed monthly for 4 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed epithelial breast cancer\n\n          -  At least 3 cutaneous or subcutaneous lesions required\n\n          -  Measurable disease that includes, but is not limited to, cutaneous or subcutaneous\n             metastases\n\n        PATIENT CHARACTERISTICS:\n\n          -  Age: Over 18\n\n          -  Performance status: ECOG 0-2\n\n          -  Absolute granulocyte count at least 1,500/mm3\n\n          -  Hemoglobin greater than 8 g/dL\n\n          -  Platelet count greater than 100,000/mm3\n\n          -  Bilirubin less than 2 mg/dL\n\n          -  PT/PTT within normal range\n\n          -  SGOT/SGPT less than 2 times upper limit of normal\n\n          -  Creatinine less than 1.8 mg/dL\n\n          -  Not pregnant\n\n          -  Fertile patients must use effective contraception during and for 3 months after\n             therapy\n\n        PRIOR CONCURRENT THERAPY:\n\n          -  Concurrent cytotoxic chemotherapy allowed, if stable and responding\n\n          -  At least 4 weeks since prior chemotherapy, if starting a new regimen\n\n          -  At least 4 weeks since radiotherapy\n\n          -  Prior adjuvant radiotherapy to the chest wall allowed\n\n          -  At least 6 months since radiotherapy to lesions that are to be injected\n\n          -  Recovered from prior therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 10, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00004038", 
+            "org_study_id": "NCI-2012-02273", 
+            "secondary_id": [
+                "FCCC-97009", 
+                "NCI-T97-0042", 
+                "CDR0000066480"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "Ad5CMV-p53 gene", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "chemotherapy", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "stage I breast cancer", 
+            "stage II breast cancer", 
+            "stage IV breast cancer", 
+            "stage IIIA breast cancer", 
+            "recurrent breast cancer", 
+            "stage IIIB breast cancer"
+        ], 
+        "lastchanged_date": "February 6, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/FCCC-97009"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19111"
+                }, 
+                "name": "Fox Chase Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Pilot Study of p53 Intralesional Gene Therapy With Chemotherapy in Breast Cancer", 
+        "overall_official": {
+            "affiliation": "Fox Chase Cancer Center", 
+            "last_name": "Margaret von Mehren, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "May 2001", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00004038"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "January 1999", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2001"
+    }, 
+    "geocoordinates": {
+        "Fox Chase Cancer Center": "39.952 -75.164"
+    }
+}

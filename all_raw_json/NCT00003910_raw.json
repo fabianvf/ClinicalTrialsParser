@@ -1,0 +1,2317 @@
+{
+    "clinical_study": {
+        "@rank": "16929", 
+        "arm_group": {
+            "arm_group_label": "Methotrexate (Cy if no response to MTX)", 
+            "arm_group_type": "Experimental", 
+            "description": "MTX given orally at 10 mg/m2 in divided doses once weekly. Prednisone was given orally at 1 mg/kg per day for 30 days and then tapered off in the subsequent 24 days. Patients not responding to MTX after 4 months received Cy orally at 100 mg daily in step two with the same prednisone schedule."
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing\n      so they stop growing or die.\n\n      PURPOSE: Phase II trial to study the effectiveness of methotrexate with or without\n      cyclophosphamide in treating patients who have lymphocytic leukemia with neutropenia or\n      anemia."
+        }, 
+        "brief_title": "Methotrexate With or Without Cyclophosphamide in Treating Patients With Lymphocytic Leukemia", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "MTX given orally at 10 mg/m2 in divided doses once weekly. Prednisone was given orally at 1 mg/kg per day for 30 days and then tapered off in the subsequent 24 days. Patients not responding to MTX after 4 months received Cy orally at 100 mg daily in step two with the same prednisone schedule.", 
+                        "title": "Methotrexate"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "55"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "20"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "35"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "17.8", 
+                                            "@value": "65.4"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "25"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "55"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "We will report the overall response rate below. Complete remission requires that all of the following be present for at least four weeks: The patient must have a normal CBC including neutrophil count > 1500/mm3, lymphocyte count< 4000/mm3, hemoglobin > 11 g/dl, and platelet count > 100,000/mm3. In addition, the patient must have a normal LGL count. A complete response will be attained if CD8+ cells were less than 760/mm\u00b3. A partial response will be defined as achievement of any one of the following in the absence of CR. The response must last for at least four weeks:In patients being treated for severe neutropenia (less than 500 neutrophils/mm3) an improvement to over 500 neutrophils/mm3 will be considered a partial response, as long as that improvement represents at least a 50% impr", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "MTX given orally at 10 mg/m2 in divided doses once weekly. Prednisone was given orally at 1 mg/kg per day for 30 days and then tapered off in the subsequent 24 days. Patients not responding to MTX after 4 months received Cy orally at 100 mg daily in step two with the same prednisone schedule.", 
+                                "title": "Methotrexate"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "55"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "0.26", 
+                                                    "@upper_limit": "0.53", 
+                                                    "@value": "0.39"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "We will report the overall response rate below. Complete remission requires that all of the following be present for at least four weeks: The patient must have a normal CBC including neutrophil count > 1500/mm3, lymphocyte count< 4000/mm3, hemoglobin > 11 g/dl, and platelet count > 100,000/mm3. In addition, the patient must have a normal LGL count. A complete response will be attained if CD8+ cells were less than 760/mm\u00b3. A partial response will be defined as achievement of any one of the following in the absence of CR. The response must last for at least four weeks:In patients being treated for severe neutropenia (less than 500 neutrophils/mm3) an improvement to over 500 neutrophils/mm3 will be considered a partial response, as long as that improvement represents at least a 50% impr", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Complete, Partial, and Overall Response Rates of Treatment With MTX, and Also With CY for Patients Failing to Respond to MTX", 
+                                    "units": "proportion of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Of the 59 pts, 4 were ineligible and excluded from the analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed during the first 4 months, then at least every three months for two years. Then every six months until five years after study entry, and every 12 months thereafter until full study stop date.", 
+                        "title": "Complete, Partial, and Overall Response Rates of Treatment With MTX, and Also With CY for Patients Failing to Respond to MTX", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed during the first 4 months of treatment and followed until reaching full study stop date", 
+                        "title": "Clinical Response", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "MTX given orally at 10 mg/m2 in divided doses once weekly. Prednisone was given orally at 1 mg/kg per day for 30 days and then tapered off in the subsequent 24 days. If patient had a partial response, MTX was continued for up to 1 year. If patient had CR, MTX was continued for 1 month.\nIf no response, then pt went onto step 2 and received CY.", 
+                            "title": "Methotrexate"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Patients not responding to MTX after 4 months received Cy orally at 100 mg daily in step two with the same prednisone schedule.", 
+                            "title": "Cyclophosphomide"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "#text": "Of 59 (step 1), 4 pts were ineligible.", 
+                                                    "@count": "55", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "55", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Step 1"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "#text": "NA", 
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "#text": "The 16 includes 2 ineligible pts.", 
+                                                    "@count": "16", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "16", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Step 2"
+                        }
+                    ]
+                }, 
+                "recruitment_details": "This study accrued 59 patients between July 16, 1999 and March 24, 2009. The study terminated with 59 patients on March 24, 2009 due to slower than expected accrual."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "Study Statistician", 
+                "organization": "ECOG Statistical Office", 
+                "phone": "617-632-3012"
+            }, 
+            "reported_events": {
+                "desc": "Here we look at all patients, all 59, whereas we excluded the ineligible patients from the baseline tables etc (n=55) as is standard to do in our final reports for ECOG.", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "MTX given orally at 10 mg/m2 in divided doses once weekly. Prednisone was given orally at 1 mg/kg per day for 30 days and then tapered off in the subsequent 24 days. Patients not responding to MTX after 4 months received Cy orally at 100 mg daily in step two with the same prednisone schedule.", 
+                            "title": "Methotrexate"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "step 2 patients who received CY", 
+                            "title": "Cyclophosphamide"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "56", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "41", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "37", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "49", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "20", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac-left ventricular function"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "14", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Stomatitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Melena/GI bleeding"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "34", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Fever"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Insomnia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with grade 3 or 4 neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with unknown ANC"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "21", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "AST increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Alkaline Phosphatase Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "11", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "15", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Bilirubin Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "11", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Creatinine"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "34", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypoalemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypoglycemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "14", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyponatremia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Depressed level of consciousness"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "11", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspnea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Pulmonary fibrosis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "56", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "13", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Creatinine"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemmorhage"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Lymphopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "30", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypertension"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Cardiac-left ventricular function"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Melena/GI bleeding"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with grade 3 or 4 neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection without neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyponatremia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypoxia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Muscle weakness"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Depressed level of consciousness"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Hematuria"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspnea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Pneumonitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "59"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "16"
+                                                }
+                                            ], 
+                                            "sub_title": "Pulmonary fibrosis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "59"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "16"
+                                            }
+                                        ], 
+                                        "sub_title": "Rash"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)"
+                }, 
+                "time_frame": "Assessed every 30 days while on treatment and for 30 days after the end of treatment."
+            }
+        }, 
+        "completion_date": {
+            "#text": "March 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Lymphoid"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "LGL leukemia is characterized by clonal expansion of cytotoxic T cells. Prominent clinical\n      features include neutropenia, anemia, and rheumatoid arthritis. The terminal effector memory\n      phenotype (CD3+/CD8+/CD57+/CD45RA+/CD62L-) of leukemic LGL suggest a pivotal chronic antigen\n      driven immune response. LGL survival is then promoted by PDGF and IL-15, resulting in global\n      dysregulation of apoptosis and resistance to normal pathways of activation-induced death.\n      These pathogenic features explain why treatment of LGL leukemia is based on\n      immunosuppression therapy. However, no standard therapy has been established due to the\n      absence of large prospective trials.\n\n      Oral low dose MTX has been shown to be efficacious in the treatment of neutropenia. However,\n      response to MTX is slow, requiring several months for the neutrophil count to increase above\n      500/mm3. Also, complete clinical remission may not be achieved until after one year of MTX\n      therapy. Oral Cy has been the primary drug used for the treatment of severe\n      transfusion-dependent anemia. Beneficial clinical effects are seen despite this treatment\n      having no apparent effect on the abnormal LGL clone. Normal hematocrits are maintained after\n      cessation of Cy and these results contrast the effects seen with MTX, in which clinical\n      remissions are often associated with the disappearance of the clone.\n\n      This phase II trial undertaken by the Eastern Cooperative Group (ECOG) was initiated to\n      investigate the mechanism of treatment response in patients with LGL leukemia, who need\n      treatment for anemia or neutropenia."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion:\n\n          -  Phenotypic studies from peripheral blood showing CD3+, CD57+ cells greater than\n             400/mm3 or CD8+ cells greater than 650/mm3 within eight weeks prior to registration\n\n          -  Evidence for clonal T-cell receptor gene rearrangement within one year prior to\n             registration\n\n          -  At least one of the following: Severe neutropenia less than 500/mm3, neutropenia\n             associated with recurrent infections, symptomatic anemia, or transfusion-dependent\n             anemia\n\n          -  Bilirubin \u2264 2.0 mg/dl, SGOT(AST) \u2264 1.5 times normal, and Creatinine \u2264 2.0 mg/dl\n             within 4 weeks prior to registration\n\n          -  ECOG performance status of 0-2\n\n          -  At least 18 years of age\n\n          -  Written informed consent\n\n        Exclusion:\n\n          -  Prior therapy with oral MTX or oral Cy\n\n          -  Previous or concurrent malignancies except inactive non-melanoma skin cancer, in situ\n             carcinoma of the cervix, or other cancer if the patient has been disease free for\n             over 5 years\n\n          -  Pregnant or breast-feeding for female patients\n\n          -  Serious medical illness, other than that treated by the study, which would limit\n             survival to less than 2 years, or psychiatric condition which would prevent informed\n             consent\n\n        Note: to be eligible for step 2 of this study, patients were required to have no response\n        after at least 4 months of methotrexate treatment."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "59", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "firstreceived_results_date": "October 16, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003910", 
+            "org_study_id": "CDR0000067089", 
+            "secondary_id": [
+                "U10CA021115", 
+                "E5998"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Methotrexate (Cy if no response to MTX)", 
+                "description": "Patients not responding to MTX after 4 months received Cy orally at 100 mg daily in step two with the same prednisone schedule. In patients showing a partial response, but not a CR, the maximum period of therapy was 1 year.", 
+                "intervention_name": "Cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Methotrexate (Cy if no response to MTX)", 
+                "description": "Initial treatment consisted of MTX given orally at 10 mg/m2 in divided doses once weekly.", 
+                "intervention_name": "Methotrexate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Methotrexate (Cy if no response to MTX)", 
+                "description": "Prednisone was given orally at 1 mg/kg per day for 30 days and then tapered off in the subsequent 24 days.", 
+                "intervention_name": "Prednisone", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclophosphamide", 
+                "Methotrexate", 
+                "Prednisone"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage I chronic lymphocytic leukemia", 
+            "stage II chronic lymphocytic leukemia", 
+            "stage III chronic lymphocytic leukemia", 
+            "stage IV chronic lymphocytic leukemia", 
+            "T-cell large granular lymphocyte leukemia", 
+            "LGL clone"
+        ], 
+        "lastchanged_date": "April 2, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/ECOG-5998"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80012"
+                    }, 
+                    "name": "Aurora Presbyterian Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boulder", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80301-9019"
+                    }, 
+                    "name": "Boulder Community Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Colorado Springs", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80933"
+                    }, 
+                    "name": "Penrose Cancer Center at Penrose Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }, 
+                    "name": "St. Joseph Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80224-2522"
+                    }, 
+                    "name": "CCOP - Colorado Cancer Research Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80220"
+                    }, 
+                    "name": "Rose Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }, 
+                    "name": "Presbyterian - St. Luke's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80210"
+                    }, 
+                    "name": "Porter Adventist Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80204"
+                    }, 
+                    "name": "St. Anthony Central Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Englewood", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80110"
+                    }, 
+                    "name": "Swedish Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Junction", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "81502"
+                    }, 
+                    "name": "St. Mary's Regional Cancer Center at St. Mary's Hospital and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greeley", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80631"
+                    }, 
+                    "name": "North Colorado Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lone Tree", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80124"
+                    }, 
+                    "name": "Sky Ridge Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Longmont", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80501"
+                    }, 
+                    "name": "Hope Cancer Care Center at Longmont United Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Loveland", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80539"
+                    }, 
+                    "name": "McKee Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pueblo", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "81004"
+                    }, 
+                    "name": "St. Mary - Corwin Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Thornton", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80229"
+                    }, 
+                    "name": "North Suburban Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wheat Ridge", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80033"
+                    }, 
+                    "name": "Exempla Lutheran Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Macon", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31208"
+                    }, 
+                    "name": "Medical Center of Central Georgia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60504"
+                    }, 
+                    "name": "Rush-Copley Cancer Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611-3013"
+                    }, 
+                    "name": "Robert H. Lurie Comprehensive Cancer Center at Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evanston", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60201-1781"
+                    }, 
+                    "name": "Evanston Northwestern Healthcare - Evanston Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Joliet", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60435"
+                    }, 
+                    "name": "Joliet Oncology-Hematology Associates, Limited - West"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Libertyville", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60048"
+                    }, 
+                    "name": "North Shore Oncology and Hematology Associates, Limited - Libertyville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "Carle Cancer Center at Carle Foundation Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Methodist Cancer Center at Methodist Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Michigan City", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46360"
+                    }, 
+                    "name": "Saint Anthony Memorial Health Centers"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ames", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50010"
+                    }, 
+                    "name": "McFarland Clinic, PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mason City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50401"
+                    }, 
+                    "name": "Mercy Cancer Center at Mercy Medical Center - North Iowa"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51104"
+                    }, 
+                    "name": "Mercy Medical Center - Sioux City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology Associates, LLP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51104"
+                    }, 
+                    "name": "St. Luke's Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21231-2410"
+                    }, 
+                    "name": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49001"
+                    }, 
+                    "name": "Borgess Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007"
+                    }, 
+                    "name": "Bronson Methodist Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007-3731"
+                    }, 
+                    "name": "West Michigan Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burnsville", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55337"
+                    }, 
+                    "name": "Fairview Ridges Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coon Rapids", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55433"
+                    }, 
+                    "name": "Mercy and Unity Cancer Center at Mercy Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edina", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55435"
+                    }, 
+                    "name": "Fairview Southdale Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fridley", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55432"
+                    }, 
+                    "name": "Mercy and Unity Cancer Center at Unity Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hutchinson", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55350"
+                    }, 
+                    "name": "Hutchinson Area Health Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lichfield", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55355"
+                    }, 
+                    "name": "Meeker County Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maplewood", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55109"
+                    }, 
+                    "name": "HealthEast Cancer Care at St. John's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maplewood", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55109"
+                    }, 
+                    "name": "Minnesota Oncology Hematology, PA - Maplewood"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55407"
+                    }, 
+                    "name": "Virginia Piper Cancer Institute at Abbott - Northwestern Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55415"
+                    }, 
+                    "name": "Hennepin County Medical Center - Minneapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Robbinsdale", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55422-2900"
+                    }, 
+                    "name": "Hubert H. Humphrey Cancer Center at North Memorial Outpatient Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "CCOP - Metro-Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "Park Nicollet Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55102"
+                    }, 
+                    "name": "United Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55102"
+                    }, 
+                    "name": "HealthEast Cancer Care at St. Joseph's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shakopee", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55379"
+                    }, 
+                    "name": "St. Francis Cancer Center at St. Francis Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55101"
+                    }, 
+                    "name": "Regions Hospital Cancer Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Waconia", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55387"
+                    }, 
+                    "name": "Ridgeview Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Woodbury", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55125"
+                    }, 
+                    "name": "Minnesota Oncology Hematology, PA - Woodbury"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Woodbury", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55125"
+                    }, 
+                    "name": "HealthEast Cancer Care at Woodwinds Health Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44710-1799"
+                    }, 
+                    "name": "Aultman Cancer Center at Aultman Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lima", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45801"
+                    }, 
+                    "name": "St. Rita's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033-0850"
+                    }, 
+                    "name": "Penn State Cancer Institute at Milton S. Hershey Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lemoyne", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17043"
+                    }, 
+                    "name": "Central Pennsylvania Hematology and Medical Oncology Associates, PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lewistown", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17044"
+                    }, 
+                    "name": "Lewistown Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19111-2497"
+                    }, 
+                    "name": "Fox Chase Cancer Center - Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reading", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19612-6052"
+                    }, 
+                    "name": "McGlinn Family Regional Cancer Center at Reading Hospital and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "State College", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "16803"
+                    }, 
+                    "name": "Mount Nittany Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Crosse", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54601"
+                    }, 
+                    "name": "Gundersen Lutheran Center for Cancer and Blood"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Medical College of Wisconsin Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Froedtert Hospital and Medical College of Wisconsin"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Study of Initial Treatment With Methotrexate in Large Granular Lymphocytic (LGL) Leukemia", 
+        "overall_official": {
+            "affiliation": "Milton S. Hershey Medical Center", 
+            "last_name": "Thomas P. Loughran, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "We will report the overall response rate below. Complete remission requires that all of the following be present for at least four weeks: The patient must have a normal CBC including neutrophil count > 1500/mm3, lymphocyte count< 4000/mm3, hemoglobin > 11 g/dl, and platelet count > 100,000/mm3. In addition, the patient must have a normal LGL count. A complete response will be attained if CD8+ cells were less than 760/mm\u00b3. A partial response will be defined as achievement of any one of the following in the absence of CR. The response must last for at least four weeks:In patients being treated for severe neutropenia (less than 500 neutrophils/mm3) an improvement to over 500 neutrophils/mm3 will be considered a partial response, as long as that improvement represents at least a 50% impr", 
+            "measure": "Complete, Partial, and Overall Response Rates of Treatment With MTX, and Also With CY for Patients Failing to Respond to MTX", 
+            "safety_issue": "No", 
+            "time_frame": "Assessed during the first 4 months, then at least every three months for two years. Then every six months until five years after study entry, and every 12 months thereafter until full study stop date."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003910"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Clinical Response", 
+            "safety_issue": "No", 
+            "time_frame": "Assessed during the first 4 months of treatment and followed until reaching full study stop date"
+        }, 
+        "source": "Eastern Cooperative Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Eastern Cooperative Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 1999", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2012"
+    }, 
+    "geocoordinates": {
+        "Aultman Cancer Center at Aultman Hospital": "40.799 -81.378", 
+        "Aurora Presbyterian Hospital": "39.729 -104.832", 
+        "Borgess Medical Center": "42.292 -85.587", 
+        "Boulder Community Hospital": "40.015 -105.271", 
+        "Bronson Methodist Hospital": "42.292 -85.587", 
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Colorado Cancer Research Program": "39.739 -104.985", 
+        "CCOP - Metro-Minnesota": "44.96 -93.37", 
+        "Carle Cancer Center at Carle Foundation Hospital": "40.111 -88.207", 
+        "Central Pennsylvania Hematology and Medical Oncology Associates, PC": "40.241 -76.894", 
+        "Evanston Northwestern Healthcare - Evanston Hospital": "42.041 -87.69", 
+        "Exempla Lutheran Medical Center": "39.766 -105.077", 
+        "Fairview Ridges Hospital": "44.768 -93.278", 
+        "Fairview Southdale Hospital": "44.89 -93.35", 
+        "Fox Chase Cancer Center - Philadelphia": "39.952 -75.164", 
+        "Froedtert Hospital and Medical College of Wisconsin": "43.039 -87.906", 
+        "Gundersen Lutheran Center for Cancer and Blood": "43.801 -91.24", 
+        "HealthEast Cancer Care at St. John's Hospital": "44.953 -92.995", 
+        "HealthEast Cancer Care at St. Joseph's Hospital": "44.954 -93.114", 
+        "HealthEast Cancer Care at Woodwinds Health Campus": "44.924 -92.959", 
+        "Hennepin County Medical Center - Minneapolis": "44.98 -93.264", 
+        "Hope Cancer Care Center at Longmont United Hospital": "40.167 -105.102", 
+        "Hubert H. Humphrey Cancer Center at North Memorial Outpatient Center": "45.032 -93.339", 
+        "Hutchinson Area Health Care": "44.888 -94.379", 
+        "Joliet Oncology-Hematology Associates, Limited - West": "41.525 -88.082", 
+        "Lewistown Hospital": "40.599 -77.571", 
+        "McFarland Clinic, PC": "42.023 -93.626", 
+        "McGlinn Family Regional Cancer Center at Reading Hospital and Medical Center": "40.336 -75.927", 
+        "McKee Medical Center": "40.398 -105.075", 
+        "Medical Center of Central Georgia": "32.841 -83.632", 
+        "Medical College of Wisconsin Cancer Center": "43.039 -87.906", 
+        "Meeker County Memorial Hospital": "45.124 -94.53", 
+        "Mercy Cancer Center at Mercy Medical Center - North Iowa": "43.154 -93.201", 
+        "Mercy Medical Center - Sioux City": "42.5 -96.4", 
+        "Mercy and Unity Cancer Center at Mercy Hospital": "45.12 -93.288", 
+        "Mercy and Unity Cancer Center at Unity Hospital": "45.086 -93.263", 
+        "Methodist Cancer Center at Methodist Hospital": "39.769 -86.158", 
+        "Minnesota Oncology Hematology, PA - Maplewood": "44.953 -92.995", 
+        "Minnesota Oncology Hematology, PA - Woodbury": "44.924 -92.959", 
+        "Mount Nittany Medical Center": "40.793 -77.86", 
+        "North Colorado Medical Center": "40.423 -104.709", 
+        "North Shore Oncology and Hematology Associates, Limited - Libertyville": "42.283 -87.953", 
+        "North Suburban Medical Center": "39.868 -104.972", 
+        "Park Nicollet Cancer Center": "44.96 -93.37", 
+        "Penn State Cancer Institute at Milton S. Hershey Medical Center": "40.286 -76.65", 
+        "Penrose Cancer Center at Penrose Hospital": "38.834 -104.821", 
+        "Porter Adventist Hospital": "39.739 -104.985", 
+        "Presbyterian - St. Luke's Medical Center": "39.739 -104.985", 
+        "Regions Hospital Cancer Care Center": "44.954 -93.114", 
+        "Ridgeview Medical Center": "44.846 -93.79", 
+        "Robert H. Lurie Comprehensive Cancer Center at Northwestern University": "41.878 -87.63", 
+        "Rose Medical Center": "39.739 -104.985", 
+        "Rush-Copley Cancer Care Center": "41.761 -88.32", 
+        "Saint Anthony Memorial Health Centers": "41.708 -86.895", 
+        "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins": "39.29 -76.612", 
+        "Siouxland Hematology-Oncology Associates, LLP": "42.5 -96.4", 
+        "Sky Ridge Medical Center": "39.536 -104.896", 
+        "St. Anthony Central Hospital": "39.739 -104.985", 
+        "St. Francis Cancer Center at St. Francis Medical Center": "44.797 -93.527", 
+        "St. Joseph Hospital": "39.739 -104.985", 
+        "St. Luke's Regional Medical Center": "42.5 -96.4", 
+        "St. Mary - Corwin Regional Medical Center": "38.254 -104.609", 
+        "St. Mary's Regional Cancer Center at St. Mary's Hospital and Medical Center": "39.064 -108.551", 
+        "St. Rita's Medical Center": "40.743 -84.105", 
+        "Swedish Medical Center": "39.648 -104.988", 
+        "United Hospital": "44.954 -93.114", 
+        "Virginia Piper Cancer Institute at Abbott - Northwestern Hospital": "44.98 -93.264", 
+        "West Michigan Cancer Center": "42.292 -85.587"
+    }
+}

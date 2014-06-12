@@ -1,0 +1,539 @@
+{
+    "clinical_study": {
+        "@rank": "104399", 
+        "brief_summary": {
+            "textblock": "To determine the safety and immunogenicity of gp160 (MicroGeneSys), rgp120/HIV-1MN\n      (Genentech), and rgp120/HIV-1SF2 (BIOCINE) and their adjuvants in HIV-infected children 1\n      month to 18 years of age.\n\n      The initiation of this immunotherapy trial will provide multiple benefits by assessing in\n      asymptomatic HIV-infected children a therapy currently being tested in their adult\n      counterparts, in the hope of forestalling the progression of HIV immunosuppression and\n      clinical disease."
+        }, 
+        "brief_title": "A Placebo-Controlled, Phase I Clinical Trial to Evaluate the Safety and Immunogenicity of Recombinant Envelope Proteins of HIV-1 gp160 and gp120 in Children >= 1 Month Old With Asymptomatic HIV Infection", 
+        "completion_date": {
+            "#text": "February 1996", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The initiation of this immunotherapy trial will provide multiple benefits by assessing in\n      asymptomatic HIV-infected children a therapy currently being tested in their adult\n      counterparts, in the hope of forestalling the progression of HIV immunosuppression and\n      clinical disease.\n\n      Patients are randomized to receive one of three vaccines (9 patients/vaccine) or the\n      adjuvant placebos (3 patients/vaccine). The vaccines will be studied at both low and high\n      doses. When three of four patients at the low dose of a vaccine have received two\n      immunizations without evidence of dose-limiting toxicity, dose escalation to the higher dose\n      of that vaccine is initiated in subsequent patient cohorts, provided all low dose arms are\n      filled. A total of six immunizations are given, at 0, 4, 8, 12, 16, and 24 weeks. Patients\n      are followed for 24 weeks after the last immunization."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Concurrent Medication: Recommended:\n\n          -  PCP prophylaxis.\n\n        Patients must have:\n\n          -  Documented asymptomatic HIV infection.\n\n          -  CD4+ count as follows:\n\n          -  1-11 months of age must have > 2000 cells/mm3 and >= 30 percent of the total\n             lymphocytes; 12-23 months must have > 1000 cells/mm3 and >= 20 percent of the total\n             lymphocytes; 24 months-6 years must have > 750 cells/mm3 and >= 20 percent of the\n             total lymphocytes; and 7 years and older must have > 500 cells/mm3 and >= 20 percent\n             of the total lymphocytes.\n\n        NOTE:\n\n          -  Patients who received zidovudine for 3 consecutive months immediately prior to study\n             entry may receive only high doses of vaccine.\n\n        Exclusion Criteria\n\n        Co-existing Condition:\n\n        Patients with the following condition are excluded:\n\n          -  Any serious acute infection.\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  Anticipated steroid therapy of > 6 weeks duration.\n\n        Excluded within the past 2 years:\n\n          -  More than one serious proven bacterial infection such as sepsis, pneumonia,\n             meningitis, bone or joint infection, abscess of an internal organ or body cavity\n             (other than otitis media or superficial skin or mucosal abscesses) caused by\n             Haemophilus, Streptococcus, Pneumococcus, or other pyogenic bacteria.\n\n        Prior Medication:\n\n        Excluded:\n\n          -  Antiretroviral therapy or immunomodulators (e.g., IVIG) within 1 month prior to study\n             entry (NOTE: AZT is allowed within 1 month prior to study entry if patient is\n             entering a high-dose arm).\n\n          -  Uninterrupted steroid therapy of > 6 weeks duration."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "18 Years", 
+            "minimum_age": "1 Month"
+        }, 
+        "enrollment": "72", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000762", 
+            "org_study_id": "ACTG 218", 
+            "secondary_id": "11195"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "rgp120/HIV-1MN", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "rgp120/HIV-1 SF-2", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "gp160 Vaccine (MicroGeneSys)", 
+                "intervention_type": "Biological"
+            }
+        ], 
+        "keyword": [
+            "Vaccines, Synthetic", 
+            "HIV Envelope Protein gp160", 
+            "HIV Envelope Protein gp120", 
+            "AIDS Vaccines", 
+            "HIV Therapeutic Vaccine"
+        ], 
+        "lastchanged_date": "May 22, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90801"
+                    }, 
+                    "name": "Long Beach Memorial Med. Ctr., Miller Children's Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900951752"
+                    }, 
+                    "name": "UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900481804"
+                    }, 
+                    "name": "Childrens Hosp. LA - Dept. of Ped., Div. of Clinical Immunology & Allergy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "946091809"
+                    }, 
+                    "name": "Children's Hosp. & Research Ctr. Oakland, Ped. Clinical Research Ctr. & Research Lab."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941430105"
+                    }, 
+                    "name": "UCSF Pediatric AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94110"
+                    }, 
+                    "name": "San Francisco Gen. Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "905022004"
+                    }, 
+                    "name": "Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Farmington", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06032"
+                    }, 
+                    "name": "Univ. of Connecticut Health Ctr., Dept. of Ped."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06504"
+                    }, 
+                    "name": "Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "606143394"
+                    }, 
+                    "name": "Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Univ. of Illinois College of Medicine at Chicago, Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "606371470"
+                    }, 
+                    "name": "Chicago Children's CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "701122699"
+                    }, 
+                    "name": "Tulane/LSU Maternal/Child CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland"
+                    }, 
+                    "name": "Johns Hopkins Hosp. & Health System - Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "021155724"
+                    }, 
+                    "name": "HMS - Children's Hosp. Boston, Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "BMC, Div. of Ped Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01199"
+                    }, 
+                    "name": "Baystate Health, Baystate Med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "016550001"
+                    }, 
+                    "name": "WNE Maternal Pediatric Adolescent AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey"
+                    }, 
+                    "name": "UMDNJ - Robert Wood Johnson"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "071072198"
+                    }, 
+                    "name": "NJ Med. School CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paterson", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07103"
+                    }, 
+                    "name": "St. Joseph's Hosp. & Med. Ctr. of New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11203"
+                    }, 
+                    "name": "SUNY Downstate Med. Ctr., Children's Hosp. at Downstate NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Neck", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11021"
+                    }, 
+                    "name": "North Shore-Long Island Jewish Health System, Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "NYU Med. Ctr., Dept. of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Incarnation Children's Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "Univ. of Rochester ACTG CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }, 
+                    "name": "SUNY Upstate Med. Univ., Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "277103499"
+                    }, 
+                    "name": "DUMC Ped. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "191044318"
+                    }, 
+                    "name": "The Children's Hosp. of Philadelphia IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "191341095"
+                    }, 
+                    "name": "St. Christopher's Hosp. for Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Texas Children's Hosp. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009367344"
+                    }, 
+                    "name": "San Juan City Hosp. PR NICHD CRS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Placebo-Controlled, Phase I Clinical Trial to Evaluate the Safety and Immunogenicity of Recombinant Envelope Proteins of HIV-1 gp160 and gp120 in Children >= 1 Month Old With Asymptomatic HIV Infection", 
+        "overall_official": [
+            {
+                "last_name": "Lambert JS", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "Katz S", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "reference": [
+            {
+                "citation": "Lambert JS, McNamara J, Katz S, Fenton T, Nichols J, Roberts NJ. Safety and immunogenicity of recombinant envelope HIV vaccines in asymptomatic HIV-infected children. Natl Conf Hum Retroviruses Relat Infect (1st). 1993 Dec 12-16:72"
+            }, 
+            {
+                "citation": "Lambert JS, et al. Safety and immunogenicity of recombinant envelope HIV vaccines in asymptomatic HIV infected children. Natl Conf Hum Retroviruses Relat Infect (2nd). 1995 Jan 29-Feb 2:151"
+            }, 
+            {
+                "PMID": "9859958", 
+                "citation": "Lambert JS, McNamara J, Katz SL, Fenton T, Kang M, VanCott TC, Livingston R, Hawkins E, Moye J Jr, Borkowsky W, Johnson D, Yogev R, Duliege AM, Francis D, Gershon A, Wara D, Martin N, Levin M, McSherry G, Smith G. Safety and immunogenicity of HIV recombinant envelope vaccines in HIV-infected infants and children. National Institutes of Health-sponsored Pediatric AIDS Clinical Trials Group (ACTG-218). J Acquir Immune Defic Syndr Hum Retrovirol. 1998 Dec 15;19(5):451-61."
+            }, 
+            {
+                "citation": "Lambert JS, McNamara J, Katz S, Livingston R, Moye J. Safety and immunogenicity of HIV recombinant envelope vaccines in HIV-infected infants and children. Pediatric AIDS Clinical Trials Group Study ACTG 218. American Pediatric Association and Society for Pediatric Research annual meeting; 1996 May 6-10; Washington, D.C. Pediatr AIDS HIV Infect. 1996 Aug;7(4):279 (unnumbered abstract)"
+            }
+        ], 
+        "removed_countries": {
+            "country": "Puerto Rico"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000762"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "16220994", 
+            "citation": "Lambert JS. HIV Vaccines in Infants and Children. Paediatr Drugs. 2005;7(5):267-76."
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Genentech", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "MicroGeneSys Inc (nka Protein Sciences Corporation)", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2012"
+    }, 
+    "geocoordinates": {
+        "BMC, Div. of Ped Infectious Diseases": "42.358 -71.06", 
+        "Baystate Health, Baystate Med. Ctr.": "42.101 -72.59", 
+        "Chicago Children's CRS": "41.878 -87.63", 
+        "Children's Hosp. & Research Ctr. Oakland, Ped. Clinical Research Ctr. & Research Lab.": "37.804 -122.271", 
+        "Childrens Hosp. LA - Dept. of Ped., Div. of Clinical Immunology & Allergy": "34.052 -118.244", 
+        "Columbia IMPAACT CRS": "40.714 -74.006", 
+        "Cook County Hosp.": "41.878 -87.63", 
+        "DUMC Ped. CRS": "35.994 -78.899", 
+        "HMS - Children's Hosp. Boston, Div. of Infectious Diseases": "42.358 -71.06", 
+        "Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases": "33.836 -118.341", 
+        "Incarnation Children's Ctr.": "40.714 -74.006", 
+        "Johns Hopkins Hosp. & Health System - Dept. of Peds., Div. of Infectious Diseases": "39.29 -76.612", 
+        "Long Beach Memorial Med. Ctr., Miller Children's Hosp.": "33.804 -118.158", 
+        "NJ Med. School CRS": "40.736 -74.172", 
+        "NYU Med. Ctr., Dept. of Medicine": "40.714 -74.006", 
+        "North Shore-Long Island Jewish Health System, Dept. of Peds.": "40.801 -73.728", 
+        "SUNY Downstate Med. Ctr., Children's Hosp. at Downstate NICHD CRS": "40.653 -73.959", 
+        "SUNY Upstate Med. Univ., Dept. of Peds.": "43.048 -76.147", 
+        "San Francisco Gen. Hosp.": "37.775 -122.419", 
+        "San Juan City Hosp. PR NICHD CRS": "18.466 -66.106", 
+        "St. Christopher's Hosp. for Children": "39.952 -75.164", 
+        "St. Joseph's Hosp. & Med. Ctr. of New Jersey": "40.917 -74.172", 
+        "Texas Children's Hosp. CRS": "29.76 -95.369", 
+        "The Children's Hosp. of Philadelphia IMPAACT CRS": "39.952 -75.164", 
+        "Tulane/LSU Maternal/Child CRS": "29.951 -90.072", 
+        "UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS": "34.052 -118.244", 
+        "UCSF Pediatric AIDS CRS": "37.775 -122.419", 
+        "UMDNJ - Robert Wood Johnson": "40.486 -74.452", 
+        "Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease": "41.878 -87.63", 
+        "Univ. of Connecticut Health Ctr., Dept. of Ped.": "41.728 -72.84", 
+        "Univ. of Illinois College of Medicine at Chicago, Dept. of Peds.": "41.878 -87.63", 
+        "Univ. of Rochester ACTG CRS": "43.161 -77.611", 
+        "WNE Maternal Pediatric Adolescent AIDS CRS": "42.263 -71.802", 
+        "Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease": "41.308 -72.928"
+    }
+}

@@ -1,0 +1,609 @@
+{
+    "clinical_study": {
+        "@rank": "18542", 
+        "arm_group": [
+            {
+                "arm_group_label": "Marmistat", 
+                "arm_group_type": "Active Comparator", 
+                "description": "10 mg PO BID"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "10 mg PO BID"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Marimastat may stop the growth of lung cancer by stopping blood flow to the\n      tumor. It is not yet known if marimastat is an effective treatment for small cell lung\n      cancer.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of marimastat with a\n      placebo following chemotherapy in treating patients who have small cell lung cancer."
+        }, 
+        "brief_title": "Marimastat Following Chemotherapy in Treating Patients With Small Cell Lung Cancer", 
+        "completion_date": {
+            "#text": "December 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Neoplasms", 
+                "Small Cell Lung Carcinoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine whether treatment with the oral matrix metalloproteinase inhibitor\n      (MMPI) marimastat prolongs overall survival and time to progression in patients with small\n      cell lung cancer who have achieved complete or partial remission after first line\n      chemotherapy, with or without radiotherapy. II. Determine the tolerability and toxicity of\n      prolonged administration of marimastat in patients with small cell lung cancer. III.\n      Determine the effect of prolonged administration of marimastat on the quality of life of\n      patients with small cell lung cancer.\n\n      OUTLINE: This is a randomized, double blind, multicenter, placebo controlled study. Patients\n      are stratified by stage of disease at diagnosis, response to prior\n      chemotherapy/radiotherapy, type of thoracic radiotherapy, and cooperative group. Patients\n      are randomized into two groups. Half of the patients take marimastat orally twice a day\n      (breakfast and evening meal); the other half take placebo orally twice a day (breakfast and\n      evening meal). Treatment continues for 2 years or until documented disease recurrence or\n      progression and institution of further anticancer treatment, occurrence of unacceptable\n      toxicity, initiation of anticoagulant treatment, or development of intercurrent illness. All\n      patients are followed every 6 months until death.\n\n      PROJECTED ACCRUAL: The planned sample size is 360, with an equal number of patients in both\n      arms, accrued at a rate of 240 responders per year (resulting in an accrual period of\n      approximately 1.5 years). The total duration of the study is estimated as 2.3 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically or cytologically proven small cell lung cancer\n        Complete response (CR) or partial response (PR) following first line chemotherapy required\n        Chest x-ray showing CR or PR required. No documented prior brain metastases\n\n        PATIENT CHARACTERISTICS: Age: 16 and over Performance status: ECOG 0-2 Life expectancy: At\n        least 12 weeks Hematopoietic: Not specified Hepatic: Not specified Renal: Not specified\n        Other: Not pregnant or nursing Effective contraception use by men or women of reproductive\n        potential No prior malignancies within 5 years except: Adequately treated nonmelanomatous\n        skin cancer Adequately treated carcinoma in situ of the cervix No other concurrent\n        malignancies No prior diagnosis of breast cancer, melanoma, or hypernephroma No major\n        medical illness that would preclude prolonged administration of marimastat or required\n        follow up No active peptic ulceration or symptoms suggestive of this diagnosis No grade 3\n        or 4 musculoskeletal disorders\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: One prior\n        induction combination chemotherapy regimen required Must be completed prior to\n        randomization Hematologically recovered before randomization Minimum of 4 cycles required\n        No change in regimen due to progression No chemotherapy within 28 days prior to\n        randomization if thoracic radiation is given prior to or concurrent with chemotherapy No\n        prior marimastat Endocrine therapy: Not specified Radiotherapy: Prior radiotherapy allowed\n        Must be completed prior to randomization Last dose of radiation treatment must be within\n        7-14 days prior to randomization if thoracic radiation and/or prophylactic cranial\n        irradiation is given after completion of chemotherapy If severe esophagitis precludes\n        administration of oral medication, randomization may be within 21 days after radiation\n        therapy Surgery: No surgery within 2 weeks prior to randomization Prior complete resection\n        of tumor allowed Other: No other investigational agents within 4 weeks prior to study, and\n        none planned No concurrent coumarin anticoagulants and no coumarin anticoagulants within 4\n        weeks prior to randomization No concurrent antitumor treatment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "16 Years"
+        }, 
+        "enrollment": {
+            "#text": "555", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003011", 
+            "org_study_id": "BR12", 
+            "secondary_id": [
+                "EORTC-08962", 
+                "CAN-NCIC-BR12", 
+                "EORTC-08962B", 
+                "CDR0000065589"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Marmistat", 
+                "description": "10 mg PO BID", 
+                "intervention_name": "marimastat", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "10 mg PO BID", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Marimastat"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "recurrent small cell lung cancer", 
+        "lastchanged_date": "May 30, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/EORTC-08962"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T6G 1Z2"
+                    }, 
+                    "name": "Cross Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Penticton", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V2A 3G6"
+                    }, 
+                    "name": "Penticton Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V5Z 4E6"
+                    }, 
+                    "name": "British Columbia Cancer Agency"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Victoria", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V8R 6V5"
+                    }, 
+                    "name": "British Columbia Cancer Agency - Vancouver Island Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winnipeg", 
+                        "country": "Canada", 
+                        "state": "Manitoba", 
+                        "zip": "R3E 0V9"
+                    }, 
+                    "name": "CancerCare Manitoba"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moncton", 
+                        "country": "Canada", 
+                        "state": "New Brunswick", 
+                        "zip": "E1C 6ZB"
+                    }, 
+                    "name": "Moncton Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moncton", 
+                        "country": "Canada", 
+                        "state": "New Brunswick", 
+                        "zip": "E1C 8X3"
+                    }, 
+                    "name": "Doctor Leon Richard Oncology Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint John", 
+                        "country": "Canada", 
+                        "state": "New Brunswick", 
+                        "zip": "E2L 4L2"
+                    }, 
+                    "name": "Saint John Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Johns", 
+                        "country": "Canada", 
+                        "state": "Newfoundland and Labrador", 
+                        "zip": "A1B 3V6"
+                    }, 
+                    "name": "Newfoundland Cancer Treatment and Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "Canada", 
+                        "state": "Nova Scotia", 
+                        "zip": "B3H 1V7"
+                    }, 
+                    "name": "Nova Scotia Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brampton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L6W 2Z8"
+                    }, 
+                    "name": "William Osler Health Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8V 5C2"
+                    }, 
+                    "name": "Hamilton Regional Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mississauga", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L5B 1B8"
+                    }, 
+                    "name": "Trillium Health Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mississauga", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L5M 2N1"
+                    }, 
+                    "name": "Credit Valley Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newmarket", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L3Y 2P9"
+                    }, 
+                    "name": "York County Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "North York", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M2E 1K1"
+                    }, 
+                    "name": "North York General Hospital, Ontario"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oshawa", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L1G 2B9"
+                    }, 
+                    "name": "Lakeridge Health Oshawa"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ottawa", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "K1H 1C4"
+                    }, 
+                    "name": "Ottawa Regional Cancer Centre - General Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Peterborough", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "K9H 7B6"
+                    }, 
+                    "name": "Peterborough Oncology Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Catharines", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L2R 5K3"
+                    }, 
+                    "name": "Hotel Dieu Health Sciences Hospital - Niagara"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sudbury", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "P3E 5J1"
+                    }, 
+                    "name": "Northeastern Ontario Regional Cancer Centre, Sudbury"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Thunder Bay", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "P7A 7T1"
+                    }, 
+                    "name": "Northwestern Ontario Regional Cancer Centre, Thunder Bay"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M6R 1B5"
+                    }, 
+                    "name": "Saint Joseph's Health Centre - Toronto"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5B 1W8"
+                    }, 
+                    "name": "St. Michael's Hospital - Toronto"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M4C 3E7"
+                    }, 
+                    "name": "Toronto East General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2C4"
+                    }, 
+                    "name": "Toronto General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M4N 3M5"
+                    }, 
+                    "name": "Toronto Sunnybrook Regional Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 1X5"
+                    }, 
+                    "name": "Mount Sinai Hospital - Toronto"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Weston", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M9N 1N8"
+                    }, 
+                    "name": "Humber River Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Windsor", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N8W 2X3"
+                    }, 
+                    "name": "Cancer Care Ontario - Windsor Regional Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fleurimont", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "J1H 5N4"
+                    }, 
+                    "name": "CHUS-Hopital Fleurimont"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2L-4M1"
+                    }, 
+                    "name": "Centre Hospitalier de l'Universite de Montreal"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H4J 1C5"
+                    }, 
+                    "name": "Hopital Du Sacre-Coeur de Montreal"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2W 1S6"
+                    }, 
+                    "name": "McGill University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Quebec City", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "G1S 4L8"
+                    }, 
+                    "name": "Hopital du Saint-Sacrament, Quebec"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ste-Foy", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "G1V 4G5"
+                    }, 
+                    "name": "L'Hopital Laval"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Regina", 
+                        "country": "Canada", 
+                        "state": "Saskatchewan", 
+                        "zip": "S4T 7T1"
+                    }, 
+                    "name": "Allan Blair Cancer Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saskatoon", 
+                        "country": "Canada", 
+                        "state": "Saskatchewan", 
+                        "zip": "S7N 4H4"
+                    }, 
+                    "name": "Saskatoon Cancer Centre"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase III Study of Marimastat in Patients With Small Cell Lung Cancer Following a Response to First Line Chemotherapy", 
+        "overall_official": [
+            {
+                "affiliation": "Free University Medical Center", 
+                "last_name": "Giuseppe Giaccone, MD, PhD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Princess Margaret Hospital, Canada", 
+                "last_name": "Frances A. Shepherd, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "January 2001", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "To determine whether treatment with the oral metalloproteinase inhibitor marimastat prolongs overall survival and time to progression in patients with small cell lung cancer who have achieved complete or partial remission after first line chemotherapy (+I- radiotherapy).", 
+            "measure": "Overall Survival", 
+            "safety_issue": "No", 
+            "time_frame": "4 years"
+        }, 
+        "reference": {
+            "PMID": "10448128", 
+            "citation": "Huisman C, Postmus PE, Giaccone G, Smit EF. Second-line chemotherapy and its evaluation in small cell lung cancer. Cancer Treat Rev. 1999 Aug;25(4):199-206. Review."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003011"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "12431965", 
+                "citation": "Shepherd FA, Giaccone G, Seymour L, Debruyne C, Bezjak A, Hirsh V, Smylie M, Rubin S, Martins H, Lamont A, Krzakowski M, Sadura A, Zee B. Prospective, randomized, double-blind, placebo-controlled trial of marimastat after response to first-line chemotherapy in patients with small-cell lung cancer: a trial of the National Cancer Institute of Canada-Clinical Trials Group and the European Organization for Research and Treatment of Cancer. J Clin Oncol. 2002 Nov 15;20(22):4434-9."
+            }, 
+            {
+                "citation": "Shepherd FA, Giaccone G, Debruyne C, et al.: Randomizd double-blind placebo-controlled trial of marimastat in patients with small cell lung cancer (SCLC) following response to first-line chemotherapy: an NCIC-CTG and EORTC study. [Abstract] Proceedings of the American Society of Clinical Oncology 20: A-11, 4a, 2001."
+            }
+        ], 
+        "source": "NCIC Clinical Trials Group", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NCIC Clinical Trials Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 1997", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2012"
+    }, 
+    "geocoordinates": {
+        "Allan Blair Cancer Centre": "50.455 -104.607", 
+        "British Columbia Cancer Agency": "49.261 -123.114", 
+        "British Columbia Cancer Agency - Vancouver Island Cancer Centre": "48.429 -123.366", 
+        "CHUS-Hopital Fleurimont": "45.406 -71.849", 
+        "Cancer Care Ontario - Windsor Regional Cancer Centre": "42.293 -82.993", 
+        "CancerCare Manitoba": "49.9 -97.137", 
+        "Centre Hospitalier de l'Universite de Montreal": "45.509 -73.554", 
+        "Credit Valley Hospital": "43.589 -79.644", 
+        "Cross Cancer Institute": "53.544 -113.49", 
+        "Doctor Leon Richard Oncology Centre": "46.088 -64.778", 
+        "Hamilton Regional Cancer Centre": "43.244 -79.889", 
+        "Hopital Du Sacre-Coeur de Montreal": "45.509 -73.554", 
+        "Hopital du Saint-Sacrament, Quebec": "46.803 -71.243", 
+        "Hotel Dieu Health Sciences Hospital - Niagara": "43.159 -79.247", 
+        "Humber River Regional Hospital": "43.7 -79.515", 
+        "L'Hopital Laval": "46.773 -71.276", 
+        "Lakeridge Health Oshawa": "43.89 -78.86", 
+        "McGill University": "45.509 -73.554", 
+        "Moncton Hospital": "46.088 -64.778", 
+        "Mount Sinai Hospital - Toronto": "43.653 -79.383", 
+        "Newfoundland Cancer Treatment and Research Foundation": "47.561 -52.713", 
+        "North York General Hospital, Ontario": "43.767 -79.413", 
+        "Northeastern Ontario Regional Cancer Centre, Sudbury": "46.49 -81.01", 
+        "Northwestern Ontario Regional Cancer Centre, Thunder Bay": "48.416 -89.267", 
+        "Nova Scotia Cancer Centre": "44.649 -63.575", 
+        "Ottawa Regional Cancer Centre - General Campus": "45.422 -75.697", 
+        "Penticton Regional Hospital": "49.499 -119.594", 
+        "Peterborough Oncology Clinic": "44.306 -78.322", 
+        "Saint John Regional Hospital": "45.273 -66.063", 
+        "Saint Joseph's Health Centre - Toronto": "43.653 -79.383", 
+        "Saskatoon Cancer Centre": "52.134 -106.648", 
+        "St. Michael's Hospital - Toronto": "43.653 -79.383", 
+        "Toronto East General Hospital": "43.653 -79.383", 
+        "Toronto General Hospital": "43.653 -79.383", 
+        "Toronto Sunnybrook Regional Cancer Centre": "43.653 -79.383", 
+        "Trillium Health Centre": "43.589 -79.644", 
+        "William Osler Health Centre": "43.685 -79.76", 
+        "York County Hospital": "44.053 -79.459"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "clinical_study": {
+        "@rank": "70741", 
+        "arm_group": {
+            "arm_group_label": "Arm I", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive trastuzumab (Herceptin) IV over 90 minutes on days 1, 8, 15, and 22 plus oral R115777 twice daily for 3 weeks. Treatment continues every 28 days in the absence of disease progression or unacceptable toxicity. Cohorts of 3-6 patients receive escalating doses of R115777 until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose at which no more than 1 of 6 patients experiences dose limiting toxicities."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase I trial to study the effectiveness of trastuzumab plus R115777 in treating patients\n      who have advanced or metastatic cancer. Monoclonal antibodies such as trastuzumab can locate\n      tumor cells and either kill them or deliver tumor-killing substances to them without harming\n      normal cells. Drugs used in chemotherapy use different ways to stop tumor cells from\n      dividing so they stop growing or die. Combining trastuzumab with R115777 may kill more tumor\n      cells."
+        }, 
+        "brief_title": "Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer", 
+        "condition": "Cancer", 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the maximum tolerated dose of R115777 when administered with trastuzumab\n      (Herceptin) in patients with advanced or metastatic adenocarcinoma.\n\n      II. Assess the toxicities and pharmacokinetics of this treatment regimen in this patient\n      population.\n\n      III. Determine the antitumor activity of this treatment regimen in these patients.\n\n      IV. Determine the relative biologic endpoints of this regimen and correlate them with\n      toxicity and pharmacokinetic parameters in these patients.\n\n      OUTLINE: This is a dose escalation, multicenter study of R115777.\n\n      Patients receive trastuzumab (Herceptin) IV over 90 minutes on days 1, 8, 15, and 22 plus\n      oral R115777 twice daily for 3 weeks. Treatment continues every 28 days in the absence of\n      disease progression or unacceptable toxicity. Cohorts of 3-6 patients receive escalating\n      doses of R115777 until the maximum tolerated dose (MTD) is determined. The MTD is defined as\n      the dose at which no more than 1 of 6 patients experiences dose limiting toxicities.\n\n      Patients are followed every 30 days until toxicity resolves."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically or cytologically confirmed advanced or metastatic adenocarcinoma\n\n          -  Expression of +1 to 3+ HER2/neu on immunohistochemical or immunocytochemistry\n             staining\n\n          -  No brain metastases unless all of the following is true:\n\n               -  Previously treated\n\n               -  Asymptomatic\n\n               -  Stable dose of decadron\n\n          -  No evidence of edema\n\n        PATIENT CHARACTERISTICS:\n\n          -  Age: 18 and over\n\n          -  Performance status: ECOG 0-2\n\n          -  Life expectancy: At least 12 weeks\n\n          -  Absolute granulocyte count at least 1,500/mm3\n\n          -  Platelet count at least 100,000/mm3\n\n          -  Hemoglobin at least 9.0 g/dL\n\n          -  Bilirubin no greater than 1.5 mg/dL\n\n          -  AST/ALT no greater than 3 times upper limit of normal (ULN) (no greater than 5 times\n             ULN in case of liver involvement)\n\n          -  Creatinine no greater than 1.5 mg/dL\n\n          -  LVEF at least 50% by RVG or MUGA\n\n          -  No uncontrolled unstable angina\n\n          -  No history of congestive heart failure or cardiac ischemia\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  No concurrent active infection or serious systemic disorder that would preclude study\n\n          -  No allergies to imidazole compounds\n\n        PRIOR CONCURRENT THERAPY:\n\n          -  No prior trastuzumab (Herceptin) No other concurrent immunotherapy\n\n          -  At least 4 weeks since prior chemotherapy (6 weeks since mitomycin or nitrosoureas)\n             and recovered\n\n          -  No other concurrent chemotherapy\n\n          -  No concurrent hormonal cancer therapy except LHRH agonists for prostate cancer\n\n          -  No concurrent radiotherapy\n\n          -  No other concurrent experimental medications"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "24", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 2, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005842", 
+            "org_study_id": "CDR0000067858", 
+            "secondary_id": [
+                "UTHSC-IDD-99-26", 
+                "SACI-IDD-99-26", 
+                "NCI-62"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "trastuzumab", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "tipifarnib", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Trastuzumab", 
+                "Tipifarnib"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "stage III colon cancer", 
+            "stage IV colon cancer", 
+            "stage IV breast cancer", 
+            "stage IIIA breast cancer", 
+            "recurrent breast cancer", 
+            "stage III gastric cancer", 
+            "stage IV gastric cancer", 
+            "recurrent gastric cancer", 
+            "occult non-small cell lung cancer", 
+            "stage IIIB breast cancer", 
+            "recurrent non-small cell lung cancer", 
+            "stage III pancreatic cancer", 
+            "recurrent pancreatic cancer", 
+            "stage III rectal cancer", 
+            "stage IV rectal cancer", 
+            "recurrent colon cancer", 
+            "recurrent rectal cancer", 
+            "stage IV anal cancer", 
+            "recurrent anal cancer", 
+            "stage III esophageal cancer", 
+            "stage IV esophageal cancer", 
+            "stage IIIA anal cancer", 
+            "stage IIIB anal cancer", 
+            "recurrent esophageal cancer", 
+            "stage III cervical cancer", 
+            "recurrent cervical cancer", 
+            "stage IVB cervical cancer", 
+            "stage IVA cervical cancer", 
+            "inflammatory breast cancer", 
+            "stage III renal cell cancer", 
+            "stage IV renal cell cancer", 
+            "recurrent renal cell cancer", 
+            "metastatic parathyroid cancer", 
+            "recurrent parathyroid cancer", 
+            "stage III vulvar cancer", 
+            "stage IVB vulvar cancer", 
+            "recurrent vulvar cancer", 
+            "stage III vaginal cancer", 
+            "stage IVA vaginal cancer", 
+            "stage IVB vaginal cancer", 
+            "recurrent vaginal cancer", 
+            "metastatic gastrointestinal carcinoid tumor", 
+            "recurrent gastrointestinal carcinoid tumor", 
+            "localized unresectable adult primary liver cancer", 
+            "advanced adult primary liver cancer", 
+            "recurrent adult primary liver cancer", 
+            "gastrinoma", 
+            "stage III endometrial carcinoma", 
+            "stage IV endometrial carcinoma", 
+            "recurrent endometrial carcinoma", 
+            "small intestine adenocarcinoma", 
+            "unresectable gallbladder cancer", 
+            "recurrent gallbladder cancer", 
+            "unresectable extrahepatic bile duct cancer", 
+            "recurrent extrahepatic bile duct cancer", 
+            "recurrent small intestine cancer", 
+            "stage III adrenocortical carcinoma", 
+            "stage IV adrenocortical carcinoma", 
+            "recurrent adrenocortical carcinoma", 
+            "stage III bladder cancer", 
+            "recurrent bladder cancer", 
+            "stage IV bladder cancer", 
+            "stage III malignant testicular germ cell tumor", 
+            "stage III prostate cancer", 
+            "stage IV prostate cancer", 
+            "recurrent prostate cancer", 
+            "recurrent malignant testicular germ cell tumor", 
+            "insulinoma", 
+            "recurrent islet cell carcinoma", 
+            "stage IV papillary thyroid cancer", 
+            "stage IV follicular thyroid cancer", 
+            "thyroid gland medullary carcinoma", 
+            "anaplastic thyroid cancer", 
+            "recurrent thyroid cancer", 
+            "stage IIIA non-small cell lung cancer", 
+            "stage IIIB non-small cell lung cancer", 
+            "stage IV non-small cell lung cancer", 
+            "stage III salivary gland cancer", 
+            "stage IV salivary gland cancer", 
+            "recurrent salivary gland cancer", 
+            "WDHA syndrome", 
+            "somatostatinoma", 
+            "pancreatic polypeptide tumor", 
+            "glucagonoma", 
+            "stage III follicular thyroid cancer", 
+            "stage III papillary thyroid cancer", 
+            "recurrent urethral cancer", 
+            "distal urethral cancer", 
+            "proximal urethral cancer", 
+            "urethral cancer associated with invasive bladder cancer", 
+            "metastatic transitional cell cancer of the renal pelvis and ureter", 
+            "pulmonary carcinoid tumor", 
+            "stage III mucoepidermoid carcinoma of the oral cavity", 
+            "stage III adenoid cystic carcinoma of the oral cavity", 
+            "stage IV mucoepidermoid carcinoma of the oral cavity", 
+            "stage IV adenoid cystic carcinoma of the oral cavity", 
+            "recurrent mucoepidermoid carcinoma of the oral cavity", 
+            "recurrent adenoid cystic carcinoma of the oral cavity", 
+            "tumors metastatic to brain", 
+            "lung metastases", 
+            "liver metastases", 
+            "bone metastases", 
+            "skin metastases", 
+            "leptomeningeal metastases", 
+            "malignant pericardial effusion", 
+            "malignant pleural effusion", 
+            "newly diagnosed carcinoma of unknown primary", 
+            "recurrent transitional cell cancer of the renal pelvis and ureter", 
+            "carcinoma of the appendix", 
+            "primary peritoneal cavity cancer", 
+            "recurrent carcinoma of unknown primary", 
+            "male breast cancer", 
+            "stage IV pancreatic cancer"
+        ], 
+        "lastchanged_date": "February 8, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/UTHSC-IDD-99-26"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Sam Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78234"
+                    }, 
+                    "name": "Brooke Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78245-3217"
+                    }, 
+                    "name": "Institute for Drug Development"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase I, Pharmacokinetic, and Biologic Correlative Study of R115777 (NSC 702818) and Herceptin in Patients With Advanced Cancer", 
+        "overall_official": {
+            "affiliation": "San Antonio Cancer Institute", 
+            "last_name": "Anthony W. Tolcher, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "February 2004", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005842"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "citation": "Schwartz G, Rowinsky EK, Rha SY, et al.: A phase I, pharmacokinetic, and biologic correlative study of R115777 and trastuzumab (herceptin) in patients with advanced cancer. [Abstract] Proceedings of the American Society of Clinical Oncology 20: A-322, 2001."
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "June 2000", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2007"
+    }, 
+    "geocoordinates": {
+        "Brooke Army Medical Center": "29.47 -98.424", 
+        "Institute for Drug Development": "29.424 -98.494"
+    }
+}

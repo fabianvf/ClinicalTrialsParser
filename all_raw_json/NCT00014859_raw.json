@@ -1,0 +1,260 @@
+{
+    "clinical_study": {
+        "@rank": "99394", 
+        "arm_group": [
+            {
+                "arm_group_label": "I", 
+                "description": "Descriptive cohort of population-based DNA samples from the newborn screening program in Missouri with vital statistics based, linked phenotype data"
+            }, 
+            {
+                "arm_group_label": "II", 
+                "description": "Case-control cohort of infants with and without neonatal respiratory distress syndrome"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "DNA and tracheal aspirate samples"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to test the hypothesis that excess, rare, functionally\n      disruptive single nucleotide polymorphisms (SNPs) characterize genes (e.g., the surfactant\n      protein-B gene)(SFTPB) and gene networks (e.g., the pulmonary surfactant metabolic network)\n      associated with increased risk of neonatal respiratory distress syndrome (RDS)."
+        }, 
+        "brief_title": "Epidemiology of Surfactant Protein-B Deficiency", 
+        "completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Lung Diseases", 
+            "Respiratory Distress Syndrome, Newborn", 
+            "Surfactant Deficiency"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Diseases", 
+                "Respiratory Distress Syndrome, Newborn", 
+                "Respiratory Distress Syndrome, Adult", 
+                "Pulmonary Alveolar Proteinosis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:\n\n      Respiratory distress syndrome is the most frequent respiratory cause of death and morbidity\n      in infants less than 1 year of age in the United States.  Of approximately 28,500 infant\n      deaths in 2006, 5,421 (19.7%) were diagnosed with respiratory distress as either the primary\n      (1,011 - 3.7%) or secondary (4,410 - 16%) cause of death.  Despite improvement in infant\n      mortality rates over the last 20 years, survivors of respiratory distress syndrome with\n      chronic respiratory disease consume twenty times more annualized dollars than unaffected\n      children and 5.9% of all dollars spent on children from 0-18 years of age.  More recent\n      estimates including data from California and New York, the Institute of Medicine, and the\n      2001 Nationwide Inpatient Sample from the Healthcare Cost and Utilization Project suggest\n      that the average cost of hospitalization for each of the 49,900 infants with a diagnosis of\n      respiratory distress syndrome was $56,800 vs. $10,700 for a premature infant without\n      respiratory distress syndrome.  The recent increase in late preterm births has contributed\n      to both the frequency of respiratory distress syndrome and its economic impact.  These\n      medical costs do not include the economic consequences of infant respiratory morbidity for\n      families, e.g., absence from work, and early intervention costs to optimize outcome.  In\n      addition, despite 2-3 fold greater risk of infant mortality for African American infants\n      than European American infants from all other causes, European American infants have greater\n      risk of death from respiratory distress than African American infants, and this increased\n      risk is not attributable to differences in surfactant phospholipid composition, birth\n      weight, gestational age, or confounding socioeconomic factors.  Understanding the genetic\n      mechanisms that cause respiratory distress syndrome is critical for improving outcomes of\n      children in the United States, reducing costs of their health care, and reducing racial\n      disparity in infant mortality.  Since the original description of deficiency of the\n      pulmonary surfactant in premature newborn infants by Avery and Mead in 1959, respiratory\n      distress syndrome has most commonly been attributed to developmental immaturity of pulmonary\n      surfactant production.  Despite improvement in neonatal survival associated with\n      availability of surfactant replacement therapy for premature infants, gender and race based\n      disparities in disease frequency, morbidity and mortality have persisted, an observation\n      that suggests that genetic factors play an important role in disease pathogenesis.  In\n      addition, twin studies indicate high heritability (h2) of neonatal respiratory distress\n      syndrome (0.2 and 0.8).  Recent clinical reports of monogenic causes of neonatal respiratory\n      distress syndrome, statistical association of candidate gene variants with increased disease\n      risk, and studies of targeted gene ablation in murine lineages have also strongly suggested\n      that genetic mechanisms contribute to risk of respiratory distress syndrome in newborn\n      infants.  When we examined genetic variants in large population-based and case-control\n      cohorts, we found that the population-based frequencies of individual, disruptive mutations\n      in 3 candidate genes (SFTPB, SFTPC, and ABCA3) (<2%) account for <0.1% of the population\n      attributable risk in term or near term infants, and that individual, rare, disruptive\n      mutations are not associated with disease in case-control cohorts.  In addition, when we\n      attempted to establish an association between an intermediate biochemical phenotype\n      (surfactant protein-B peptide mobility on western blot) and SFTPB variants (assessed by\n      complete resequencing) in term and near term infants with and without respiratory distress,\n      we failed to identify a SFTPB variant or combination of variants associated with respiratory\n      distress and altered surfactant protein-B structure.  Finally, we have recently found that\n      tagSNPs in genes from gene networks expressed in lung but not part of the pulmonary\n      surfactant network (ion channel, lung remodeling, and unfolded protein response genes)\n      confer race-specific risk of neonatal respiratory distress syndrome.  These studies suggest\n      that variation in SFTPB, SFTPC, and ABCA3 is under significant purifying selection pressure\n      and that the genetic contribution to neonatal respiratory distress syndrome is based on\n      contributions of rare, independent risk alleles in multiple genes and gene networks.\n\n      DESIGN NARRATIVE:\n\n      Rare mutations in the surfactant protein-B gene (SFTPB) and other genes in the pulmonary\n      surfactant metabolic network cause lethal neonatal respiratory distress syndrome in human\n      newborn infants by disrupting metabolism and function of the pulmonary surfactant.  Mutation\n      frequencies (<1-2%) in SFTPB and 2 other candidate genes in the pulmonary surfactant network\n      (SFTPC and ABCA3) do not account for heritability of neonatal respiratory distress syndrome\n      (h2~0.2-0.8) suggested by twin studies.  To develop a comprehensive catalogue of genes and\n      gene networks that account for the heritability of this complex disease, we propose to test\n      the hypothesis that excess, rare, functionally disruptive single nucleotide polymorphisms\n      (SNPs) characterize genes and gene networks associated with increased risk of neonatal\n      respiratory distress syndrome.  Specifically, using an agnostic candidate gene\n      identification algorithm and the Kyoto Encyclopedia of Genes and Genomes (KEGG) Pathway\n      Database, we will select a comprehensive list of genes (~2,000) and their cognate gene\n      networks expressed in human lung.  Next, to identify a subgroup of genes (N=250) and gene\n      networks with excess, rare, disruptive exonic SNPs associated with neonatal respiratory\n      distress syndrome, we will use hybridization selection/exon capture, next-generation\n      sequencing technology, and new statistical strategies (e.g., Combined Multivariate and\n      Collapsing (CMC) method) in a case-control cohort (N=250 cases, 250 controls) sized to\n      provide adequate statistical power (>0.8).  Finally, to validate the highest risk genes and\n      to optimize statistical power to search for epistatic and network x network interactions\n      that confer disease risk, we will use CMC, Bayesian, and logic tree methods to analyze\n      exonic SNPs in a second case-control cohort (N=100 cases, 100 controls) also sized to\n      provide adequate statistical power (>0.8).  Using next-generation sequencing technology and\n      state of the art statistical methods to elucidate the genetic complexity of neonatal\n      respiratory distress syndrome will permit the development of personalized diagnostic tools\n      and preventive therapeutic strategies that target whole gene networks rather than individual\n      genes."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Normal pulmonary function or a diagnosis of RDS\n\n        Exclusion Criteria:\n\n          -  None"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "1 Year", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Cohort I is a population-based cohort from Missouri. Cohort II is a case-control cohort\n        from the Neonatal Intensive Care Unit at St. Louis Children's Hospital and from patients\n        referred from other centers."
+            }
+        }, 
+        "enrollment": {
+            "#text": "5000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 11, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00200915", 
+            "nct_id": "NCT00014859", 
+            "org_study_id": "967", 
+            "secondary_id": "R01HL065174"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Pulmonary Surfactants"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Pulmonary surfactant", 
+            "Surfactant protein B", 
+            "Surfactant protein C", 
+            "ABCA3", 
+            "NKX2-1"
+        ], 
+        "lastchanged_date": "April 22, 2013", 
+        "location": {
+            "contact": {
+                "email": "cole@kids.wustl.edu", 
+                "last_name": "F. Sessions Cole, MD", 
+                "phone": "314-454-6148"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "St. Louis", 
+                    "country": "United States", 
+                    "state": "Missouri", 
+                    "zip": "63110"
+                }, 
+                "name": "Washington University School of Medicine"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Epidemiology of Surfactant Protein-B Deficiency", 
+        "overall_official": {
+            "affiliation": "Washington University School of Medicine", 
+            "last_name": "F. Sessions Cole, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Using custom exon capture, next generation sequencing, and in silico prediction of function, discover statistical associations between gene loci with excess, rare, functionally disruptive variants and risk of neonatal respiratory distress syndrome.", 
+            "measure": "Statistical association of rare, functionally disruptive genomic variant with RDS", 
+            "safety_issue": "No", 
+            "time_frame": "4 weeks"
+        }, 
+        "reference": [
+            {
+                "PMID": "12034561", 
+                "citation": "Nogee LM. Abnormal expression of surfactant protein C and lung disease. Am J Respir Cell Mol Biol. 2002 Jun;26(6):641-4. No abstract available."
+            }, 
+            {
+                "PMID": "12072872", 
+                "citation": "Merchak A, Janssen DJ, Bohlin K, Patterson BW, Zimmermann LJ, Carnielli VP, Hamvas A. Endogenous pulmonary surfactant metabolism is not affected by mode of ventilation in premature infants with respiratory distress syndrome. J Pediatr. 2002 Jun;140(6):693-8."
+            }, 
+            {
+                "PMID": "12902317", 
+                "citation": "Cole FS. Surfactant protein B: unambiguously necessary for adult pulmonary function. Am J Physiol Lung Cell Mol Physiol. 2003 Sep;285(3):L540-2. Review. No abstract available."
+            }, 
+            {
+                "PMID": "15218289", 
+                "citation": "Nogee LM. Genetic mechanisms of surfactant deficiency. Biol Neonate. 2004;85(4):314-8. Epub 2004 Jun 08."
+            }, 
+            {
+                "PMID": "14656744", 
+                "citation": "Hamvas A, Nogee LM, White FV, Schuler P, Hackett BP, Huddleston CB, Mendeloff EN, Hsu FF, Wert SE, Gonzales LW, Beers MF, Ballard PL. Progressive lung disease and surfactant dysfunction with a deletion in surfactant protein C gene. Am J Respir Cell Mol Biol. 2004 Jun;30(6):771-6. Epub 2003 Dec 04."
+            }, 
+            {
+                "PMID": "15756222", 
+                "citation": "Cameron HS, Somaschini M, Carrera P, Hamvas A, Whitsett JA, Wert SE, Deutsch G, Nogee LM. A common mutation in the surfactant protein C gene associated with lung disease. J Pediatr. 2005 Mar;146(3):370-5."
+            }, 
+            {
+                "PMID": "17011330", 
+                "citation": "Palomar LM, Nogee LM, Sweet SC, Huddleston CB, Cole FS, Hamvas A. Long-term outcomes after infant lung transplantation for surfactant protein B deficiency related to other causes of respiratory failure. J Pediatr. 2006 Oct;149(4):548-553."
+            }, 
+            {
+                "PMID": "17027617", 
+                "citation": "Cole FS, Nogee LM, Hamvas A. Defects in Surfactant Synthesis: Clinical Implications. Pediatr Clin North Am. 2006 Oct;53(5):911-927. No abstract available."
+            }, 
+            {
+                "PMID": "20178338", 
+                "citation": "Tomazela DM, Patterson BW, Hanson E, Spence KL, Kanion TB, Salinger DH, Vicini P, Barret H, Heins HB, Cole FS, Hamvas A, MacCoss MJ. Measurement of human surfactant protein-B turnover in vivo from tracheal aspirates using targeted proteomics. Anal Chem. 2010 Mar 15;82(6):2561-7. doi: 10.1021/ac1001433."
+            }, 
+            {
+                "PMID": "20539253", 
+                "citation": "Wambach JA, Yang P, Wegner DJ, An P, Hackett BP, Cole FS, Hamvas A. Surfactant protein-C promoter variants associated with neonatal respiratory distress syndrome reduce transcription. Pediatr Res. 2010 Sep;68(3):216-20. doi: 10.1203/00006450-201011001-00421."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00014859"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "15184218", 
+                "citation": "Hamvas A, Madden KK, Nogee LM, Trusgnich MA, Wegner DJ, Heins HB, Cole FS. Informed consent for genetic research. Arch Pediatr Adolesc Med. 2004 Jun;158(6):551-5."
+            }, 
+            {
+                "PMID": "16211553", 
+                "citation": "Hamvas A, Wegner DJ, Trusgnich MA, Madden K, Heins H, Liu Y, Rice T, An P, Watkins-Torry J, Cole FS. Genetic variant characterization in intron 4 of the surfactant protein B gene. Hum Mutat. 2005 Nov;26(5):494-5."
+            }, 
+            {
+                "PMID": "15338599", 
+                "citation": "Wilson RK, Ley TJ, Cole FS, Milbrandt JD, Clifton S, Fulton L, Fewell G, Minx P, Sun H, McLellan M, Pohl C, Mardis ER. Mutational profiling in the human genome. Cold Spring Harb Symp Quant Biol. 2003;68:23-9. Review. No abstract available."
+            }, 
+            {
+                "PMID": "17391469", 
+                "citation": "Wegner DJ, Hertzberg T, Heins HB, Elmberger G, Maccoss MJ, Carlson CS, Nogee LM, Cole FS, Hamvas A. A major deletion in the surfactant protein-B gene causing lethal respiratory distress. Acta Paediatr. 2007 Apr;96(4):516-20."
+            }, 
+            {
+                "PMID": "17597650", 
+                "citation": "Hamvas A, Wegner DJ, Carlson CS, Bergmann KR, Trusgnich MA, Fulton L, Kasai Y, An P, Mardis ER, Wilson RK, Cole FS. Comprehensive genetic variant discovery in the surfactant protein B gene. Pediatr Res. 2007 Aug;62(2):170-5."
+            }, 
+            {
+                "PMID": "17429902", 
+                "citation": "Saugstad OD, Hansen TW, R\u00f8nnestad A, Nakstad B, T\u00f8ll\u00f8fsrud PA, Reinholt F, Hamvas A, Coles FS, Dean M, Wert SE, Whitsett JA, Nogee LM. Novel mutations in the gene encoding ATP binding cassette protein member A3 (ABCA3) resulting in fatal neonatal lung disease. Acta Paediatr. 2007 Feb;96(2):185-90."
+            }, 
+            {
+                "PMID": "18317237", 
+                "citation": "Garmany TH, Wambach JA, Heins HB, Watkins-Torry JM, Wegner DJ, Bennet K, An P, Land G, Saugstad OD, Henderson H, Nogee LM, Cole FS, Hamvas A. Population and disease-based prevalence of the common mutations associated with surfactant deficiency. Pediatr Res. 2008 Jun;63(6):645-9."
+            }, 
+            {
+                "PMID": "18383112", 
+                "citation": "McBee AD, Wegner DJ, Carlson CS, Wambach JA, Yang P, Heins HB, Saugstad OD, Trusgnich MA, Watkins-Torry J, Nogee LM, Henderson H, Cole FS, Hamvas A. Recombination as a mechanism for sporadic mutation in the surfactant protein-C gene. Pediatr Pulmonol. 2008 May;43(5):443-50."
+            }, 
+            {
+                "PMID": "18776725", 
+                "citation": "Hamvas A, Heins HB, Guttentag SH, Wegner DJ, Trusgnich MA, Bennet KW, Yang P, Carlson CS, An P, Cole FS. Developmental and genetic regulation of human surfactant protein B in vivo. Neonatology. 2009;95(2):117-24. Epub 2008 Sep 6."
+            }, 
+            {
+                "PMID": "19252504", 
+                "citation": "Druley TE, Vallania FL, Wegner DJ, Varley KE, Knowles OL, Bonds JA, Robison SW, Doniger SW, Hamvas A, Cole FS, Fay JC, Mitra RD. Quantification of rare allelic variants from pooled genomic DNA. Nat Methods. 2009 Apr;6(4):263-5. Epub 2009 Mar 1."
+            }, 
+            {
+                "PMID": "19647838", 
+                "citation": "Hamvas A, Nogee LM, Wegner DJ, Depass K, Christodoulou J, Bennetts B, McQuade LR, Gray PH, Deterding RR, Carroll TR, Kammesheidt A, Kasch LM, Kulkarni S, Cole FS. Inherited surfactant deficiency caused by uniparental disomy of rare mutations in the surfactant protein-B and ATP binding cassette, subfamily a, member 3 genes. J Pediatr. 2009 Dec;155(6):854-859.e1. Epub 2009 Aug 3."
+            }, 
+            {
+                "PMID": "22222548", 
+                "citation": "Anadkat JS, Kuzniewicz MW, Chaudhari BP, Cole FS, Hamvas A. Increased risk for respiratory distress among white, male, late preterm and term infants. J Perinatol. 2012 Oct;32(10):780-5. doi: 10.1038/jp.2011.191. Epub 2012 Jan 5."
+            }, 
+            {
+                "PMID": "22337229", 
+                "citation": "Agrawal A, Hamvas A, Cole FS, Wambach JA, Wegner D, Coghill C, Harrison K, Nogee LM. An intronic ABCA3 mutation that is responsible for respiratory disease. Pediatr Res. 2012 Jun;71(6):633-7. doi: 10.1038/pr.2012.21. Epub 2012 Feb 15."
+            }, 
+            {
+                "PMID": "22526637", 
+                "citation": "Bereman MS, Tomazela DM, Heins HS, Simonato M, Cogo PE, Hamvas A, Patterson BW, Cole FS, MacCoss MJ. A method to determine the kinetics of multiple proteins in human infants with respiratory distress syndrome. Anal Bioanal Chem. 2012 Jun;403(8):2397-402. doi: 10.1007/s00216-012-5953-3. Epub 2012 Apr 14."
+            }, 
+            {
+                "PMID": "23166334", 
+                "citation": "Wambach JA, Wegner DJ, Depass K, Heins H, Druley TE, Mitra RD, An P, Zhang Q, Nogee LM, Cole FS, Hamvas A. Single ABCA3 mutations increase risk for neonatal respiratory distress syndrome. Pediatrics. 2012 Dec;130(6):e1575-82. doi: 10.1542/peds.2012-0918. Epub 2012 Nov 19."
+            }
+        ], 
+        "secondary_outcome": {
+            "description": "Using custom exon capture, next generation sequencing, in silico prediction of functional variants, and Metacore for pathway construction, identify statistical associations between risk of neonatal respiratory distress syndrome and pathways with excess, rare functional variants", 
+            "measure": "Statistical associations between risk of neonatal respiratory distress syndrome and excess, rare functional variants in gene pathways", 
+            "safety_issue": "No", 
+            "time_frame": "4 weeks"
+        }, 
+        "source": "Washington University School of Medicine", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2001", 
+        "study_design": "Observational Model: Case Control, Time Perspective: Prospective", 
+        "study_type": "Observational [Patient Registry]", 
+        "target_duration": "4 Weeks", 
+        "verification_date": "April 2013"
+    }, 
+    "geocoordinates": {
+        "Washington University School of Medicine": "38.627 -90.199"
+    }
+}

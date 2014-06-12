@@ -1,0 +1,151 @@
+{
+    "clinical_study": {
+        "@rank": "131398", 
+        "arm_group": {
+            "arm_group_label": "Study", 
+            "arm_group_type": "Experimental", 
+            "description": "See intervention description."
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the\n      development of cancer. Celecoxib may be effective in preventing lung cancer in tobacco\n      smokers.\n\n      PURPOSE: Phase II trial to study the effectiveness of celecoxib in preventing non-small cell\n      lung cancer in tobacco smokers."
+        }, 
+        "brief_title": "Celecoxib in Preventing Non-Small Cell Lung Cancer in Tobacco Smokers", 
+        "completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the efficacy and feasibility of celecoxib for chemoprevention of primary\n           non-small cell lung cancer in high-risk tobacco smokers.\n\n        -  Determine the safety and long-term side effects of this drug in this population.\n\n      OUTLINE: Patients receive oral celecoxib twice daily for 6 months.\n\n      Patients are followed at 2 weeks and then at 6 months.\n\n      PROJECTED ACCRUAL: A total of 20 patients will be accrued for this study within 6 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age > 45\n\n          -  Smoked  > 20 pack years\n\n        Exclusion Criteria:\n\n          -  Concurrent use of NSAIDs\n\n          -  Hypersensitivity to celecoxib\n\n          -  Documented allergic-type reaction to sulfonamides\n\n          -  History of allergic reaction, urticaria or asthma to aspirin or other NSAIDs\n\n          -  History of liver dysfunction\n\n          -  Hypertension or cardiac conditions aggravated by fluid retention and edema\n\n          -  Previous history of gastrointestinal ulceration, bleeding, or perforation\n\n          -  Renal dysfunction\n\n          -  End stage respiratory disease\n\n          -  Unstable angina\n\n          -  Other malignancy\n\n          -  Pregnancy\n\n          -  Concurrent use of medication known to alter or be affected by alteration of the\n             hepatic p450 2C9 and 2D6 enzymes\n\n          -  Patents with concurrent medical conditions that may interfere with completion of\n             tests, therapy, or the follow up schedule"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "45 Years"
+        }, 
+        "enrollment": {
+            "#text": "21", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 11, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00020878", 
+            "org_study_id": "CDR0000068727", 
+            "secondary_id": [
+                "P30CA016042", 
+                "UCLA-0012067", 
+                "NCI-G01-1966"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": "Study", 
+            "description": "Dosing will occur for a total of 6 months.  400 mg by mouth twice daily.", 
+            "intervention_name": "celecoxib", 
+            "intervention_type": "Drug", 
+            "other_name": "Celebrex"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Celecoxib"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "non-small cell lung cancer", 
+        "lastchanged_date": "July 27, 2012", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/UCLA-0012067"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "90095-1781"
+                }, 
+                "name": "Jonsson Comprehensive Cancer Center, UCLA"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Celecoxib for Chemoprevention of Primary Lung Cancer", 
+        "overall_official": {
+            "affiliation": "Jonsson Comprehensive Cancer Center", 
+            "last_name": "Jenny T. Mao, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Evaluate the expression of Cox-2 and PGE2 in the lungs of tobacco smokers.", 
+                "safety_issue": "No", 
+                "time_frame": "6 years"
+            }, 
+            {
+                "measure": "Evaluate the capacity for an oral Cox-2 inhibitor (Celecoxib) to suppress the intrapulmonary formation of PGE2", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 years"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00020878"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Determine the effects of Cox-2 inhibition on biomarkers of field cancerization on histopathologic abnormalities in patients at risk for primary NSCLC", 
+                "safety_issue": "No", 
+                "time_frame": "6 years"
+            }, 
+            {
+                "measure": "Study the potential role of PGE2 and its regulation by Cox-2 specific inhibitors on antitumor immunity within the lung microenvironment", 
+                "safety_issue": "No", 
+                "time_frame": "6 years"
+            }
+        ], 
+        "source": "Jonsson Comprehensive Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Jonsson Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2001", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2012"
+    }, 
+    "geocoordinates": {
+        "Jonsson Comprehensive Cancer Center, UCLA": "34.052 -118.244"
+    }
+}

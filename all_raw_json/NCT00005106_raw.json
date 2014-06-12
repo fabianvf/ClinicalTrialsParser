@@ -1,0 +1,581 @@
+{
+    "clinical_study": {
+        "@rank": "10159", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to look at the effects of different anti-HIV drug combinations\n      on body fat changes in HIV-positive patients who have never received anti-HIV therapy\n      before."
+        }, 
+        "brief_title": "A Comparison of Three Anti-HIV Drug Combinations in HIV-Infected Patients", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients are randomized to receive stavudine plus lamivudine plus nelfinavir, Combivir\n      (zidovudine plus lamivudine) plus nelfinavir, or Combivir plus abacavir. Patients are\n      stratified into 2 groups based on their screening plasma HIV-1 RNA: (1) greater than 1,000\n      up to 100,000 copies/ml or (2) greater than 100,000 up to 200,000 copies/ml. Measurements\n      and evaluations for assessment of body fat composition, virologic and immunologic outcomes,\n      markers of alterations in carbohydrate and lipid metabolism, and safety are performed at\n      Baseline, Weeks 4, 8, 16, 24, and every 12 weeks thereafter until Week 96 or withdrawal. In\n      addition, health-related quality of life and health care resource utilization data are\n      collected at specified treatment visits."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Are at least 18 years old.\n\n          -  Are HIV-positive.\n\n          -  Have a CD4 count greater than 50 cells/mm3.\n\n          -  Have a viral load greater than 1,000 copies/ml but less than 200,000 copies/ml.\n\n          -  Have never received anti-HIV medications before. (However, less than 1 week of\n             therapy with lamivudine or a protease inhibitor and less than 4 weeks of therapy with\n             other nucleoside reverse transcriptase inhibitors [NRTIs] is allowed. No therapy with\n             nonnucleoside reverse transcriptase inhibitors [NNRTIs] is allowed.)\n\n          -  Cannot bear children or agree to use effective methods of birth control during the\n             study. Hormonal methods of birth control (such as birth control pills) are not\n             considered effective for this study.\n\n        Exclusion Criteria\n\n        Patients will not be eligible for this study if they:\n\n          -  Have an active AIDS-defining opportunistic infection or disease that, in the doctor's\n             opinion, would make them unable to participate.\n\n          -  Are unable, in the opinion of the doctor, to follow the dosing schedule and follow-up\n             visit schedule.\n\n          -  Have a substance abuse problem that would interfere with taking the medications\n             correctly or attending the clinic visits.\n\n          -  Are enrolled in another study.\n\n          -  Cannot take medications by mouth or absorb drugs.\n\n          -  Have hepatitis.\n\n          -  Have a serious medical condition such as diabetes, congestive heart failure, or other\n             heart disease.\n\n          -  Need chemotherapy or radiation therapy (except for local treatment of Kaposi's\n             sarcoma).\n\n          -  Are taking certain medications.\n\n          -  Are pregnant or breast-feeding."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "230", 
+        "firstreceived_date": "April 6, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005106", 
+            "org_study_id": "264P", 
+            "secondary_id": "ESS40002"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Lamivudine/Zidovudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Abacavir sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Nelfinavir mesylate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Lamivudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Stavudine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Zidovudine", 
+                "Stavudine", 
+                "Lamivudine", 
+                "Reverse Transcriptase Inhibitors", 
+                "Abacavir", 
+                "Lamivudine, zidovudine drug combination", 
+                "Nelfinavir", 
+                "HIV Protease Inhibitors"
+            ]
+        }, 
+        "keyword": [
+            "Drug Therapy, Combination", 
+            "Zidovudine", 
+            "Stavudine", 
+            "HIV Protease Inhibitors", 
+            "Lamivudine", 
+            "Nelfinavir", 
+            "Reverse Transcriptase Inhibitors", 
+            "Anti-HIV Agents", 
+            "Adipose Tissue", 
+            "Lipodystrophy", 
+            "abacavir"
+        ], 
+        "lastchanged_date": "June 23, 2005", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "352942050"
+                    }, 
+                    "name": "Univ of Alabama at Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85712"
+                    }, 
+                    "name": "Arizona Clinical Research Ctr Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Longbeach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90806"
+                    }, 
+                    "name": "Longbeach Memorial Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900276069"
+                    }, 
+                    "name": "AIDS Healthcare Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095"
+                    }, 
+                    "name": "UCLA Care Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90042"
+                    }, 
+                    "name": "Maxine Liggins"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90004"
+                    }, 
+                    "name": "Good Samaritan Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90008"
+                    }, 
+                    "name": "THE Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "946021018"
+                    }, 
+                    "name": "Highland Gen Hosp / San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94110"
+                    }, 
+                    "name": "San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20007"
+                    }, 
+                    "name": "Georgetown Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Altamonte Springs", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32701"
+                    }, 
+                    "name": "IDC Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33306"
+                    }, 
+                    "name": "Community Health Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33301"
+                    }, 
+                    "name": "Children's Diagnostic Treatment Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "Comprehensive Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33139"
+                    }, 
+                    "name": "South Shore Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Univ of Miami School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32805"
+                    }, 
+                    "name": "Orange County Health Dept"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Plantation", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33324"
+                    }, 
+                    "name": "Immunity Care and Research Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Infectious Disease Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33607"
+                    }, 
+                    "name": "Daniel Seekins"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30308"
+                    }, 
+                    "name": "AIDS Research Consortium of Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30308"
+                    }, 
+                    "name": "Ponce de Leon Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30309"
+                    }, 
+                    "name": "Philip Brachman"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Presbyterian - Saint Luke's Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Cook County Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "HIV Outpatient Clinics / LA State Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64108"
+                    }, 
+                    "name": "Univ of Missouri at Kansas City School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Somers Point", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08244"
+                    }, 
+                    "name": "South Jersey Infectious Diseases Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Asheville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28806"
+                    }, 
+                    "name": "WNC Community Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28232"
+                    }, 
+                    "name": "Carolinas Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44304"
+                    }, 
+                    "name": "Summa Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19102"
+                    }, 
+                    "name": "MCP Hahnemann Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02906"
+                    }, 
+                    "name": "Miriam Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "Univ of Texas Southwestern Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77009"
+                    }, 
+                    "name": "Thomas Street Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "782847881"
+                    }, 
+                    "name": "Univ TX San Antonio Health Science Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Med Specialists"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A 96-Week, Randomized, Open-Label, Multicenter Trial to Evaluate the Safety and Tolerability of the Antiretroviral Activity of Stavudine (40mg BID) Plus Lamivudine (150mg BID) Plus Nelfinavir (1250mg BID) Versus Abacavir (300mg BID) Plus Combivir (3TC 150mg/ZDV 300mg BID) Versus Combivir (3TC 150mg/ZDV 300mg BID) Plus Nelfinavir (1250mg BID) in HIV-1 Infected Subjects", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 4", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005106"
+        }, 
+        "source": "NIH AIDS Clinical Trials Information Service", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Glaxo Wellcome", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 1999", 
+        "study_design": "Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2000"
+    }, 
+    "geocoordinates": {
+        "AIDS Healthcare Foundation": "34.052 -118.244", 
+        "AIDS Research Consortium of Atlanta": "33.749 -84.388", 
+        "Arizona Clinical Research Ctr Inc": "32.222 -110.926", 
+        "Beth Israel Deaconess Med Ctr": "42.358 -71.06", 
+        "Carolinas Med Ctr": "35.227 -80.843", 
+        "Children's Diagnostic Treatment Ctr": "26.122 -80.143", 
+        "Community Health Care": "26.122 -80.143", 
+        "Comprehensive Care Center": "26.122 -80.143", 
+        "Cook County Hosp": "41.878 -87.63", 
+        "Daniel Seekins": "27.951 -82.457", 
+        "Georgetown Univ Med Ctr": "38.895 -77.036", 
+        "Good Samaritan Hosp": "34.052 -118.244", 
+        "HIV Outpatient Clinics / LA State Univ Med Ctr": "29.951 -90.072", 
+        "Hampton Roads Med Specialists": "37.03 -76.345", 
+        "Highland Gen Hosp / San Francisco Gen Hosp": "37.804 -122.271", 
+        "IDC Research Initiative": "28.661 -81.366", 
+        "Immunity Care and Research Inc": "26.128 -80.233", 
+        "Infectious Disease Research Institute": "27.951 -82.457", 
+        "Longbeach Memorial Med Ctr": "33.804 -118.158", 
+        "MCP Hahnemann Univ Hosp": "39.952 -75.164", 
+        "Maxine Liggins": "34.052 -118.244", 
+        "Miriam Hosp": "41.824 -71.413", 
+        "Orange County Health Dept": "28.538 -81.379", 
+        "Philip Brachman": "33.749 -84.388", 
+        "Ponce de Leon Ctr": "33.749 -84.388", 
+        "Rush Presbyterian - Saint Luke's Med Ctr": "41.878 -87.63", 
+        "San Francisco Gen Hosp": "37.775 -122.419", 
+        "South Jersey Infectious Diseases Inc": "39.318 -74.595", 
+        "South Shore Hosp": "25.789 -80.226", 
+        "Summa Health System": "41.081 -81.519", 
+        "THE Clinic": "34.052 -118.244", 
+        "Thomas Street Clinic": "29.76 -95.369", 
+        "UCLA Care Ctr": "34.052 -118.244", 
+        "Univ TX San Antonio Health Science Ctr": "29.424 -98.494", 
+        "Univ of Alabama at Birmingham": "33.521 -86.802", 
+        "Univ of Miami School of Medicine": "25.789 -80.226", 
+        "Univ of Missouri at Kansas City School of Medicine": "39.1 -94.579", 
+        "Univ of Texas Southwestern Med Ctr": "32.803 -96.77", 
+        "WNC Community Health Services": "35.601 -82.554"
+    }
+}

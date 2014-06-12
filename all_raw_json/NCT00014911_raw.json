@@ -1,0 +1,2952 @@
+{
+    "clinical_study": {
+        "@rank": "18623", 
+        "arm_group": {
+            "arm_group_label": "Islet Transplantation", 
+            "arm_group_type": "Experimental", 
+            "description": "All study participants"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to test whether the islet cell transplantation procedures and\n      results from a previous study in Edmonton, Canada, can be repeated. The study also is\n      designed to learn more about diabetes control using islet cell transplantation.\n\n      This is a Phase I/II study (a study that examines effectiveness and looks for side effects).\n      The transplanting of islet cells has been studied in Type 1 diabetic patients whose blood\n      sugar levels will not stay normal, despite intensive insulin therapy. A recent study\n      conducted in Edmonton, Canada, was able to demonstrate that islet transplantation led to\n      insulin independence in a majority of the patients treated. This study extends the results\n      obtained from the Edmonton study, which used islet transplantation in Type 1 diabetic\n      patients with steroid-free immunosuppression."
+        }, 
+        "brief_title": "Islet Transplantation for Type 1 Diabetes", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                        "title": "Islet Transplantation"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "36"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "9.2", 
+                                            "@value": "40.9"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "14"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "22"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "35"
+                                            }
+                                        }, 
+                                        "sub_title": "Race: White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "1"
+                                            }
+                                        }, 
+                                        "sub_title": "Race: Unspecified"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "36"
+                                            }
+                                        }, 
+                                        "sub_title": "Ethnicity: Non-Hispanic"
+                                    }
+                                ]
+                            }, 
+                            "description": "Race/Ethnicity (Reference: Public Health Service [PHS] 398/2590, Revised 6/2009)", 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "19"
+                                            }
+                                        }, 
+                                        "sub_title": "United States"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "4"
+                                            }
+                                        }, 
+                                        "sub_title": "Canada"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "4"
+                                            }
+                                        }, 
+                                        "sub_title": "Germany"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "4"
+                                            }
+                                        }, 
+                                        "sub_title": "Italy"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "5"
+                                            }
+                                        }, 
+                                        "sub_title": "Switzerland"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "10.4", 
+                                            "@value": "27"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "Average number of years at baseline visit since the participant was physician-diagnosed with Type 1 diabetes mellitus (T1DM)", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Number of Years with Diabetes", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "0.1", 
+                                            "@value": "0.5"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "Average daily insulin usage at baseline visit", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Daily Insulin Usage", 
+                            "units": "Units of Insulin/kilogram/day (U/kg/day)"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "30", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "61", 
+                                "group_id_list": {
+                                    "group_id": "O1"
+                                }, 
+                                "non_inferiority": "No", 
+                                "param_type": "Odds Ratio (OR)", 
+                                "param_value": "44"
+                            }
+                        }, 
+                        "description": "Insulin independence: exogenous insulin not required and glycemic control is achieved as defined by maintaining 1.) a blood glycosylated hemoglobin  (HbA1c) level < 6.5% (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher),2) a blood glucose level after an overnight fast not exceeding 140 mg per deciliter (dL) more than three times in any week (Normal: 70 to 120 mg/dL), and 3)not exceeding a 2-hour postprandial blood glucose level of 180 mg/dL more than four times per week (Normal: <140mg/dL if  <=50 years of age, <150 mg/dL for ages 50-60 years and <160 mg/dL for ages 60+)", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                                "title": "Islet Transplantation"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "44"
+                                                    }
+                                                }, 
+                                                "sub_title": "Insulin Independence at One Year"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "14"
+                                                    }
+                                                }, 
+                                                "sub_title": "Insulin Independence with One Transplant"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "17"
+                                                    }
+                                                }, 
+                                                "sub_title": "Insulin Independence with Two Transplants"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "14"
+                                                    }
+                                                }, 
+                                                "sub_title": "Insulin Independence with Three Transplants"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Insulin independence: exogenous insulin not required and glycemic control is achieved as defined by maintaining 1.) a blood glycosylated hemoglobin  (HbA1c) level < 6.5% (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher),2) a blood glucose level after an overnight fast not exceeding 140 mg per deciliter (dL) more than three times in any week (Normal: 70 to 120 mg/dL), and 3)not exceeding a 2-hour postprandial blood glucose level of 180 mg/dL more than four times per week (Normal: <140mg/dL if  <=50 years of age, <150 mg/dL for ages 50-60 years and <160 mg/dL for ages 60+)", 
+                                    "param": "Number", 
+                                    "title": "Percent of Participants That Achieved Insulin Independence With Adequate Control of Blood Glucose Levels at One Year Post Final Islet Transplantation.", 
+                                    "units": "Percent of Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent-to-treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "One year status post participant receipt of final islet transplantation", 
+                        "title": "Percent of Participants That Achieved Insulin Independence With Adequate Control of Blood Glucose Levels at One Year Post Final Islet Transplantation.", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "16", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "44", 
+                                "group_id_list": {
+                                    "group_id": "O1"
+                                }, 
+                                "non_inferiority": "No", 
+                                "param_type": "Odds Ratio (OR)", 
+                                "param_value": "28"
+                            }
+                        }, 
+                        "description": "Partial islet function definition: a fasting  basal C-peptide level  >= 0.3 ng/mL    and a continuing need for insulin or suboptimal glycemic control (Note: C-peptide is a substance that the pancreas releases into the bloodstream in equal amounts to insulin, thereby showing how much insulin the body is making).  Adequate glycemic control is defined by: 1) a blood HbA1c level <6.5%, 2) a blood glucose level after an overnight fast not exceeding 140 mg/dL more than three times in any week and, 3) a 2-hour postprandial blood glucose level not exceeding 180 mg/dL  more than four times per week", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                                "title": "Islet Transplantation"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "28"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Partial islet function definition: a fasting  basal C-peptide level  >= 0.3 ng/mL    and a continuing need for insulin or suboptimal glycemic control (Note: C-peptide is a substance that the pancreas releases into the bloodstream in equal amounts to insulin, thereby showing how much insulin the body is making).  Adequate glycemic control is defined by: 1) a blood HbA1c level <6.5%, 2) a blood glucose level after an overnight fast not exceeding 140 mg/dL more than three times in any week and, 3) a 2-hour postprandial blood glucose level not exceeding 180 mg/dL  more than four times per week", 
+                                    "param": "Number", 
+                                    "title": "Percent of Participants With Partial Islet Function One Year Post Final Islet Transplantation.", 
+                                    "units": "Percent of Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent-to-treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "One year post receipt of final islet transplantation", 
+                        "title": "Percent of Participants With Partial Islet Function One Year Post Final Islet Transplantation.", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "42", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "63", 
+                                "group_id_list": {
+                                    "group_id": "O1"
+                                }, 
+                                "non_inferiority": "No", 
+                                "param_type": "Odds Ratio (OR)", 
+                                "param_value": "58"
+                            }
+                        }, 
+                        "description": "Insulin independence: exogenous insulin not required and glycemic control is achieved as defined by maintaining 1) a blood glycosylated hemoglobin (HbA1c) level < 6.5% (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher),2) a blood glucose level after an overnight fast not exceeding 140 mg per deciliter (dL) more than three times in any week (Normal: 70 to 120 mg/dL), and 3)not exceeding a 2-hour postprandial blood glucose level of 180 mg/dL more than four times per week (Normal: <140mg/dL if  <=50 years of age, <150 mg/dL for ages 50-60 years and <160 mg/dL for ages 60+)", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                                "title": "Islet Transplantation"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "58"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Insulin independence: exogenous insulin not required and glycemic control is achieved as defined by maintaining 1) a blood glycosylated hemoglobin (HbA1c) level < 6.5% (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher),2) a blood glucose level after an overnight fast not exceeding 140 mg per deciliter (dL) more than three times in any week (Normal: 70 to 120 mg/dL), and 3)not exceeding a 2-hour postprandial blood glucose level of 180 mg/dL more than four times per week (Normal: <140mg/dL if  <=50 years of age, <150 mg/dL for ages 50-60 years and <160 mg/dL for ages 60+)", 
+                                    "param": "Number", 
+                                    "title": "Percent of Participants That Achieved Insulin Independence From First Transplant", 
+                                    "units": "Percent of Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent-to-Treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "First transplantation until end of study (up to six years post final transplantation)", 
+                        "title": "Percent of Participants That Achieved Insulin Independence From First Transplant", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "C-peptide is a substance that the pancreas releases into the bloodstream in equal amounts to insulin, thereby showing how much insulin the body is making.  C-peptide secretion is used to measure the function of transplanted islets.  Higher levels indicate better islet function.  Detectable fasting basal levels of C-peptide secretion are >=0.3 ng/ml.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                                "title": "Islet Transplantation"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "36"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "70"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "C-peptide is a substance that the pancreas releases into the bloodstream in equal amounts to insulin, thereby showing how much insulin the body is making.  C-peptide secretion is used to measure the function of transplanted islets.  Higher levels indicate better islet function.  Detectable fasting basal levels of C-peptide secretion are >=0.3 ng/ml.", 
+                                    "param": "Number", 
+                                    "title": "Percent of Participants With Detectable Fasting Basal C-Peptide Levels", 
+                                    "units": "Percent of Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent-to-Treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "Two years post first transplantation", 
+                        "title": "Percent of Participants With Detectable Fasting Basal C-Peptide Levels", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Seven participants from US sites were included in the extended follow-up.  These participants were monitored yearly from year three post last transplantation (the original end of study follow-up)  through August 30, 2010 (up to 9 years post first transplantation), at which point they were transferred to a new protocol (ITN040CT [NCT01309022]).  Glycosylated hemoglobin (HbA1c) is a measure of the average plasma glucose concentration over prolonged periods of time.  (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher)", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                                "title": "Islet Transplantation"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "7"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "6.0", 
+                                                    "@upper_limit": "6.5", 
+                                                    "@value": "6.2"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Seven participants from US sites were included in the extended follow-up.  These participants were monitored yearly from year three post last transplantation (the original end of study follow-up)  through August 30, 2010 (up to 9 years post first transplantation), at which point they were transferred to a new protocol (ITN040CT [NCT01309022]).  Glycosylated hemoglobin (HbA1c) is a measure of the average plasma glucose concentration over prolonged periods of time.  (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher)", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Mean", 
+                                    "title": "HbA1c Plasma Laboratory Values for Participants in the Extended Follow-up Study Phase", 
+                                    "units": "HbA1c Percentage"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent-to-Treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "First transplantation through August 30, 2010 (up to 9 years)", 
+                        "title": "HbA1c Plasma Laboratory Values for Participants in the Extended Follow-up Study Phase", 
+                        "type": "Post-Hoc"
+                    }, 
+                    {
+                        "description": "Seven participants from US sites were included in the extended follow-up.  These participants were monitored yearly from year three post last transplantation (the original end of study follow-up)  through August 30, 2010 (up to 9 years post first transplantation), at which point they were transferred to a new protocol (ITN040CT [NCT01309022]).  Serum creatinine is a measure of renal function.  Normal ranges are from 0.5 to 1.0 mg/dL for females and 0.7 to 1.2 mg/dL for males.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                                "title": "Islet Transplantation"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "7"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "0.7", 
+                                                    "@upper_limit": "1.6", 
+                                                    "@value": "0.9"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Seven participants from US sites were included in the extended follow-up.  These participants were monitored yearly from year three post last transplantation (the original end of study follow-up)  through August 30, 2010 (up to 9 years post first transplantation), at which point they were transferred to a new protocol (ITN040CT [NCT01309022]).  Serum creatinine is a measure of renal function.  Normal ranges are from 0.5 to 1.0 mg/dL for females and 0.7 to 1.2 mg/dL for males.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Mean", 
+                                    "title": "Serum Creatinine Levels for Participants in the Extended Follow-up Study Phase", 
+                                    "units": "mg/dL"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent-to-Treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "First transplantation through August 30, 2010 (up to 9 years)", 
+                        "title": "Serum Creatinine Levels for Participants in the Extended Follow-up Study Phase", 
+                        "type": "Post-Hoc"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Participants received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                        "title": "Islet Transplantation"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Adverse Event"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Lost to Follow-up"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "6", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "2", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Unknown Reasons"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Immunosuppression-related Side Effects"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "36", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "One subject experienced pneumonia, myocardial infarction, and acute renal failure", 
+                                            "@count": "25", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "11", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Nine centers recruited participants 18 to 65 years of age who had Type 1 diabetes mellitus for more than five years, recurrent neuroglycopenia that included reduced awareness of their hypoglycemic episodes or severe glycemic lability, and fulfilled all eligibility criteria. Refer to the Eligibility section for more details."
+            }, 
+            "point_of_contact": {
+                "email": "DAITClinicalTrialsGov@niaid.nih.gov", 
+                "name_or_title": "Associate Director, Clinical Research Program", 
+                "organization": "DAIT/NIAID", 
+                "phone": "301-594-7669"
+            }, 
+            "reported_events": {
+                "desc": "This study graded the severity of adverse events experienced by the study participant according to criteria set forth in the National Cancer Institute's Common Toxicity Criteria Version 2.0 (April 30, 1999)", 
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "Participants  received portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. 25 participants received 2 transplantations and 16 participants received 3 transplantations. Participants received steroid-free post-transplantation immunosuppressive medications:\nDaclizumab 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation.\nSirolimus 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing was adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.\nTacrolimus 1 mg by mouth x1  pre-transplantation followed by 1 mg twice daily post transplantation. Levels were adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                        "title": "Islet Transplantation"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "36.0", 
+                                            "@subjects_at_risk": "36.0"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "133", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "29", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Anaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Iron deficiency anaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "119", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "27", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Leukopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "30", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Lymphopenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "114", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "43", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Thrombocytopenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Bradycardia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Palpitations"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pericardial effusion"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Ear pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vertigo"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vision blurred"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vitreous floaters"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vitreous haemorrhage"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Abdominal distension"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "20", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Abdominal pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Abdominal pain lower"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Abdominal pain upper"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Aphthous stomatitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "52", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "23", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Diarrhoea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Dyspepsia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Flatulence"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Haemorrhoids"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Lip ulceration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Loose stools"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "138", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "33", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Mouth ulceration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "28", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Tongue ulceration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "31", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Asthenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Chest discomfort"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Chest pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "24", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Influenza like illness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Malaise"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Mucosal ulceration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Oedema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Oedema peripheral"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "15", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pyrexia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Rigors"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "4", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "4", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Portal hypertension"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "2", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Hypersensitivity"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Bronchitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Cellulitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Clostridium colitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Folliculitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Fungal infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Herpes simplex"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Herpes zoster"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hordeolum"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Influenza"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Nasopharyngitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Onychomycosis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Rhinitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Sinusitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Tonsillitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Tooth abscess"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Upper respiratory tract infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Urinary tract infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vaginal candidiasis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vaginal mycosis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Viral infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Contusion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Excoriation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Incision site complication"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "14", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Alanine aminotransferase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "17", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Aspartate aminotransferase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Band neutrophil percentage increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood albumin decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood alkaline phosphatase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "18", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood bicarbonate decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood chloride increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood cholesterol increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood lactate dehydrogenase increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Blood urea increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "20", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hepatic enzyme increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "20", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Liver function test abnormal"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Mean cell volume decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "14", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Red blood cell count decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Weight decreased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "White blood cell count decreased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Decreased appetite"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hyperchloraemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "18", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypercholesterolaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hyperglycaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hyperlipidaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypernatraemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypertriglyceridaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypocalcaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "24", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypoglycaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypoglycaemia unawareness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypokalaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "25", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypomagnesaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hyponatraemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypophosphataemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "17", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Back pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Chest wall pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Joint swelling"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Muscle cramp"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Musculoskeletal discomfort"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Musculoskeletal stiffness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Myalgia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pain in extremity"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Amnesia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Burning sensation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "53", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "20", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypoaesthesia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Memory impairment"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Migraine"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Paraesthesia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Tremor"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Anxiety"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "8", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Insomnia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Nocturia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Proteinuria"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Renal cyst"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Menstrual disorder"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Menstruation irregular"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Ovarian cyst"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vaginal discharge"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Dyspnoea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Nasal congestion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "19", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pharyngolaryngeal pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Rhinorrhoea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Sinus congestion"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "25", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Acne"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Dermatitis acneiform"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Dermatitis contact"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "7", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Eczema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Erythema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Ingrowing nail"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Nail disorder"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pruritus"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Purpura"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "18", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Rash"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Rash papular"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Rash pruritic"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Skin lesion"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Haematoma"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hot flush"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypertension"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hypotension"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA 7.0", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "17", 
+                                            "@subjects_at_risk": "36.0"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Anaemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Myocardial infarction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Pericardial effusion", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Vertigo"
+                                    }
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Ascites"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Diarrhoea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Gastritis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Gastrointestinal haemorrhage"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Mouth ulceration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Peritoneal haemorrhage"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Peritonitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Diarrhoea hemorrhage", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Gastroenteritis", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Chest pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pyrexia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Appendiceal abscess"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Cystitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Herpes virus infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pyelonephritis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Upper respiratory tract infection", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Hepatic haematoma"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Hip fracture", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Hyperglycaemia", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": {
+                                                "#text": "Hypoglycaemia", 
+                                                "@vocab": "MedDRA (7.0)"
+                                            }
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Myalgia"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Hepatic haemangioma rupture"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Conversion disorder"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Depression"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Suicidal ideation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "36"
+                                        }, 
+                                        "sub_title": "Renal failure acute"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pneumonitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "36"
+                                            }, 
+                                            "sub_title": "Pulmonary embolism"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA 7.0"
+                }, 
+                "time_frame": "First transplant until end of study (up to 9 years post first transplant)"
+            }
+        }, 
+        "completion_date": {
+            "#text": "August 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": "Diabetes Mellitus, Insulin-Dependent", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This is a Phase I/II study (a study that examines effectiveness and looks for side effects).\n      The transplanting of islet cells has been studied in Type 1 diabetic patients whose blood\n      sugar levels will not stay normal, despite intensive insulin therapy. A recent study\n      conducted in Edmonton, Canada, was able to demonstrate that islet transplantation led to\n      insulin independence in a majority of the patients treated. This study extends the results\n      obtained from the Edmonton study, which used islet transplantation in Type 1 diabetic\n      patients with steroid-free immunosuppression.\n\n      Eligible patients were randomly selected from the total pool of people who applied through\n      the Immune Tolerance Network. Patients will receive at least 10,000 \"islet equivalents\" per\n      kilogram (2.2 pounds) of body weight. This likely will require 2 separate islet infusions\n      from 2 separate donors. Immediately before the first transplant, patients will be given\n      anti-rejection (immune suppressing) drugs, including tacrolimus and sirolimus (orally) and\n      daclizumab (intravenously). The islets will be infused into the liver through a tube placed\n      in the portal vein. Heparin (a medication to prevent blood clots) will be administered with\n      the islet infusion.  A longer-acting form of heparin will also be given by daily injections\n      during the next week after each transplant.  After surgery, patients will receive insulin\n      intravenously for 24 hours. Patients will have an abdominal ultrasound and blood tests to\n      determine liver function. If fewer than 10,000 islets were transplanted, patients will\n      continue insulin treatment, with the dosages adjusted if necessary to account for the\n      transplanted islets. They will take daclizumab every 2 weeks for 8 weeks and tacrolimus and\n      sirolimus daily. Patients will be given antibiotics to prevent infections. Blood tests to\n      determine how much immunosuppressant drug is in the blood will be performed until the drug\n      is at a stable level. Periodically there will be tests to see if the islet cells are\n      functioning. Blood will be drawn to check drug levels and for other tests routinely. Daily\n      insulin requirements will be checked, and these will be recorded monthly. Patients will be\n      followed for at least 1 year post last islet transplantation. Additional follow-up may be\n      provided at least annually for up to 9 years post first transplantation."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Have had Type 1 diabetes mellitus for more than 5 years, and are exhibiting 1 of the\n             following, despite intensive insulin management efforts: a) hypoglycemic unawareness,\n             as defined by inability to sense hypoglycemia until the blood glucose falls to less\n             than 54 mg/dL; b) metabolic instability, with 2 or more episodes of severe\n             hypoglycemia (defined as an event with symptoms consistent with hypoglycemia in which\n             the patient requires the assistance of another person and which is associated with a\n             blood glucose below 54 mg/dL) or 2 or more hospital visits for diabetic ketoacidosis\n             over the last year; or c) despite efforts at optimal glucose control, progressive\n             secondary complications of diabetes as defined by retinopathy, nephropathy, or\n             neuropathy.\n\n          -  Are 18 to 65 years of age.\n\n        Exclusion Criteria\n\n        Patients will not be eligible for this study if they:\n\n          -  Have had severe cardiac disease as defined by: a) recent myocardial infarction within\n             the past 6 months; b) angiographic evidence of non-correctable coronary artery\n             disease; or c) evidence of ischemia on a functional cardiac exam.\n\n          -  Actively abuse alcohol or substances, including cigarette smoking (must not have\n             smoked within the last 6 months).\n\n          -  Have psychiatric problems that prevent them from being a suitable candidate for\n             transplantation (such as schizophrenia, bipolar disorder, or major depression that is\n             not controlled or stable on current medication).\n\n          -  Have a history of not following prescribed regimens.\n\n          -  Have active infection including hepatitis C virus, hepatitis B virus, human\n             immunodeficiency virus (HIV), or Tuberculosis (TB) (or under treatment for suspected\n             TB).\n\n          -  Have a history of malignancy, except squamous or basal skin cancer.\n\n          -  Weigh more than 70 kilograms or have a Body Mass Index (BMI) greater than 26 kg/m^2\n             at time of screening.\n\n          -  Have a C-peptide value of 0.3 ng/ml or more following a 5.0 gram intravenous arginine\n             infusion challenge.\n\n          -  Are unable to provide informed consent.\n\n          -  Have gallstones or hemangioma in liver.\n\n          -  Have untreated proliferative retinopathy.\n\n          -  Are breast-feeding or pregnant, or intend to try and become pregnant (females) or to\n             father a child (males), or fail to follow birth control methods.\n\n          -  Have had a previous transplant, or evidence of anti-human leukocyte antigen (HLA)\n             antibody.\n\n          -  Have an insulin requirement of more that 0.7 International Units (IU)/kilograms/day.\n\n          -  Have a blood glycosylated hemoglobin (HbA1c) higher than 12 percent.\n\n          -  Are unable to reach the hospital for transplantation within 2 hours of notification.\n\n          -  Have untreated or treated hyperlipidemia.\n\n          -  Have a medical condition requiring chronic use of steroids.\n\n          -  Use coumadin or other anticoagulants (aspirin is allowed).\n\n          -  Have Addison's disease.\n\n          -  Have a negative screen for Epstein-Barr virus (EBV)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 13, 2001", 
+        "firstreceived_results_date": "September 13, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00014911", 
+            "org_study_id": "DAIT ITN005CT (DAIT NIS01)"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "Participants will receive portal vein islet infusions (up to 3), e.g., islet transplantations, with a targeted total of exceeding 10,000 islet equivalents per kilogram of body weight (IE/kg) per infusion. Up to three transplants are possible depending on individual results.", 
+                "intervention_name": "Islet Transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "Administered at a dose of 0.2 mg/kg by mouth once pre-transplantation then 0.1 mg/kg daily post-transplantation. Dosing will be adjusted to achieve a trough peripheral blood level of 12-15 ng/mL x3 months after transplantation and 7-12 ng/mL for the remainder of the study.", 
+                "intervention_name": "Sirolimus", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "Administered at a dose of 1 mg by mouth once pre-transplantation followed by 1 mg twice daily post transplantation. Levels will be adjusted to achieve a peripheral blood trough level of 3-6 ng/mL for maintenance immunosuppression.", 
+                "intervention_name": "Tacrolimus", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "Administered at a dose of 1 mg/kg intravenously immediately pre-transplantation and 2, 4, 6, and 8 weeks post-transplantation, totaling 5 doses(over 8 weeks). Further daclizumab dosing may be necessary based on individual results and islet transplantation needs.", 
+                "intervention_name": "Daclizumab", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "An antibacterial used to prevent opportunistic infections", 
+                "intervention_name": "Sulfamethoxazole", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "An antiviral used to kill viruses and stop viral replication", 
+                "intervention_name": "Ganciclovir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "An antibacterial used to prevent opportunistic infections", 
+                "intervention_name": "Trimethoprim", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Islet Transplantation", 
+                "description": "An antiprotozoal used to prevent disease", 
+                "intervention_name": "Pentamidine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Ganciclovir", 
+                "Pentamidine", 
+                "Sulfamethoxazole", 
+                "Trimethoprim", 
+                "Sirolimus", 
+                "Tacrolimus", 
+                "Daclizumab"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "October 19, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "University of Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Massachusetts General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota"
+                    }, 
+                    "name": "University of Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98101"
+                    }, 
+                    "name": "Benaroya Research Institute at Virginia Mason Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta"
+                    }, 
+                    "name": "University of Alberta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Giessen", 
+                        "country": "Germany", 
+                        "zip": "35385"
+                    }, 
+                    "name": "Justus-Leibig University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milan", 
+                        "country": "Italy"
+                    }, 
+                    "name": "University of Milan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Geneva", 
+                        "country": "Switzerland"
+                    }, 
+                    "name": "University of Geneva"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada", 
+                "Germany", 
+                "Italy", 
+                "Switzerland"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Islet Transplantation for Type 1 Diabetic Patients Using the Edmonton Protocol of Steroid Free Immunosuppression (ITN005CT)", 
+        "overall_official": {
+            "affiliation": "University of Alberta", 
+            "last_name": "James Shapiro, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Insulin independence: exogenous insulin not required and glycemic control is achieved as defined by maintaining 1.) a blood glycosylated hemoglobin  (HbA1c) level < 6.5% (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher),2) a blood glucose level after an overnight fast not exceeding 140 mg per deciliter (dL) more than three times in any week (Normal: 70 to 120 mg/dL), and 3)not exceeding a 2-hour postprandial blood glucose level of 180 mg/dL more than four times per week (Normal: <140mg/dL if  <=50 years of age, <150 mg/dL for ages 50-60 years and <160 mg/dL for ages 60+)", 
+            "measure": "Percent of Participants That Achieved Insulin Independence With Adequate Control of Blood Glucose Levels at One Year Post Final Islet Transplantation.", 
+            "safety_issue": "No", 
+            "time_frame": "One year status post participant receipt of final islet transplantation"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00014911"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "17005949", 
+            "citation": "Shapiro AM, Ricordi C, Hering BJ, Auchincloss H, Lindblad R, Robertson RP, Secchi A, Brendel MD, Berney T, Brennan DC, Cagliero E, Alejandro R, Ryan EA, DiMercurio B, Morel P, Polonsky KS, Reems JA, Bretzel RG, Bertuzzi F, Froud T, Kandaswamy R, Sutherland DE, Eisenbarth G, Segal M, Preiksaitis J, Korbutt GS, Barton FB, Viviano L, Seyfert-Margolis V, Bluestone J, Lakey JR. International trial of the Edmonton protocol for islet transplantation. N Engl J Med. 2006 Sep 28;355(13):1318-30."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Partial islet function definition: a fasting  basal C-peptide level  >= 0.3 ng/mL    and a continuing need for insulin or suboptimal glycemic control (Note: C-peptide is a substance that the pancreas releases into the bloodstream in equal amounts to insulin, thereby showing how much insulin the body is making).  Adequate glycemic control is defined by: 1) a blood HbA1c level <6.5%, 2) a blood glucose level after an overnight fast not exceeding 140 mg/dL more than three times in any week and, 3) a 2-hour postprandial blood glucose level not exceeding 180 mg/dL  more than four times per week", 
+                "measure": "Percent of Participants With Partial Islet Function One Year Post Final Islet Transplantation.", 
+                "safety_issue": "No", 
+                "time_frame": "One year post receipt of final islet transplantation"
+            }, 
+            {
+                "description": "Insulin independence: exogenous insulin not required and glycemic control is achieved as defined by maintaining 1) a blood glycosylated hemoglobin (HbA1c) level < 6.5% (Normal:<5.7%; pre-diabetes: 5.7% -6.4%; diabetes: 6.5% or higher),2) a blood glucose level after an overnight fast not exceeding 140 mg per deciliter (dL) more than three times in any week (Normal: 70 to 120 mg/dL), and 3)not exceeding a 2-hour postprandial blood glucose level of 180 mg/dL more than four times per week (Normal: <140mg/dL if  <=50 years of age, <150 mg/dL for ages 50-60 years and <160 mg/dL for ages 60+)", 
+                "measure": "Percent of Participants That Achieved Insulin Independence From First Transplant", 
+                "safety_issue": "No", 
+                "time_frame": "First transplantation until end of study (up to six years post final transplantation)"
+            }, 
+            {
+                "description": "C-peptide is a substance that the pancreas releases into the bloodstream in equal amounts to insulin, thereby showing how much insulin the body is making.  C-peptide secretion is used to measure the function of transplanted islets.  Higher levels indicate better islet function.  Detectable fasting basal levels of C-peptide secretion are >=0.3 ng/ml.", 
+                "measure": "Percent of Participants With Detectable Fasting Basal C-Peptide Levels", 
+                "safety_issue": "No", 
+                "time_frame": "Two years post first transplantation"
+            }
+        ], 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Immune Tolerance Network (ITN)", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "April 2001", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2012"
+    }, 
+    "geocoordinates": {
+        "Benaroya Research Institute at Virginia Mason Research Center": "47.606 -122.332", 
+        "Justus-Leibig University": "50.587 8.691", 
+        "Massachusetts General Hospital": "42.358 -71.06", 
+        "University of Alberta": "53.544 -113.49", 
+        "University of Geneva": "46.198 6.142", 
+        "University of Miami": "25.789 -80.226", 
+        "University of Milan": "45.464 9.188", 
+        "University of Minnesota": "44.98 -93.264", 
+        "Washington University": "38.627 -90.199"
+    }
+}

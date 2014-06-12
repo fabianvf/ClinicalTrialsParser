@@ -1,0 +1,1149 @@
+{
+    "clinical_study": {
+        "@rank": "154992", 
+        "acronym": "POINT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Magnesium", 
+                "arm_group_type": "Active Comparator", 
+                "description": "100 mg/kg magnesium"
+            }, 
+            {
+                "arm_group_label": "0.9 % saline", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "100 mg/kg 0.9 % saline"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to examine the effects of supplemental magnesium on the\n      neurocognitive function of individuals undergoing coronary artery bypass graft (CABG)\n      surgery."
+        }, 
+        "brief_title": "Effects of Magnesium on Individuals Undergoing Coronary Artery Bypass Graft Surgery", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "100 mg/kg magnesium", 
+                            "title": "Magnesium"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "100 mg/kg 0.9 % saline", 
+                            "title": "0.9 % Saline"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "191"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "389"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "78"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "74"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "152"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "120"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "117"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "237"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "8.4", 
+                                                "@value": "68.6"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "8.0", 
+                                                "@value": "68.4"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "8.2", 
+                                                "@value": "68.5"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "54"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "66"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "120"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "144"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "125"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "269"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "191"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "389"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "To characterize cognitive function over time, while minimizing potential redundancy in the cognitive measures, a factor analysis was performed on the cognitive test scores from baseline. We chose a four-factor solution, which represents 4 cognitive domains: verbal memory, abstraction and visuo-spatial orientation (executive function), visual memory and attention and concentration. To quantify overall cognitive function, a baseline cognitive index was first calculated as the mean of the 4 preoperative domain scores. The cognitive index score has a mean of zero and standard deviation of 0.5. Thus, any positive score is above the mean, any negative score is below the mean, and a score of 0.5 represents 1 SD above the mean. A continuous change score was then calculated by subtracting the baseline from the 6-week cognitive index. Negative scores indicate decline and positive scores indicate improvement.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "100 mg/kg magnesium", 
+                                "title": "Magnesium"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "100 mg/kg 0.9 % saline", 
+                                "title": "0.9 % Saline"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "198"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "191"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "0.28", 
+                                                    "@value": "0.07"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "0.28", 
+                                                    "@value": "0.12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "To characterize cognitive function over time, while minimizing potential redundancy in the cognitive measures, a factor analysis was performed on the cognitive test scores from baseline. We chose a four-factor solution, which represents 4 cognitive domains: verbal memory, abstraction and visuo-spatial orientation (executive function), visual memory and attention and concentration. To quantify overall cognitive function, a baseline cognitive index was first calculated as the mean of the 4 preoperative domain scores. The cognitive index score has a mean of zero and standard deviation of 0.5. Thus, any positive score is above the mean, any negative score is below the mean, and a score of 0.5 represents 1 SD above the mean. A continuous change score was then calculated by subtracting the baseline from the 6-week cognitive index. Negative scores indicate decline and positive scores indicate improvement.", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Cognitive Function", 
+                                "units": "Continuous cognitive change score"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "No", 
+                    "time_frame": "Measured at baseline and 6 weeks", 
+                    "title": "Cognitive Function", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "100 mg/kg magnesium", 
+                            "title": "Magnesium"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "100 mg/kg 0.9 % saline", 
+                            "title": "0.9 % Saline"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "198", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "191", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "198", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "191", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Hospital and preoperative clinic"
+            }, 
+            "point_of_contact": {
+                "email": "newma005@mc.duke.edu", 
+                "name_or_title": "Dr. Mark F. Newman", 
+                "organization": "Duke University", 
+                "phone": "919-681-6646"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "100 mg/kg magnesium", 
+                            "title": "Magnesium"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "100 mg/kg 0.9 % saline", 
+                            "title": "0.9 % Saline"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "137", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "109", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Postoperative bleeding"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "11", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypotension"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "16", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "78", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "66", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Atrial fibrillation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Renal Insufficiency"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Pleural effusion"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "37", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "32", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "10", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@events": "10", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Bleeding"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Atrial fibrillation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Ventricular tachycardia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Pacemaker placement"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Cardiac arrest"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Myocardial infarction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Congestive heart failure"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypotension"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Cardiac death"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "GI bleed"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Small bowel obstruction"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Fever"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Urinary tract infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Sternal wound infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Cellulitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Pneumonia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@events": "11", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Stroke"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Renal insufficiency"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Renal failure"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "10", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "10", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Pleural effusion"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "14", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "14", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Respiratory failure"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "198"
+                                                }, 
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "191"
+                                                }
+                                            ], 
+                                            "sub_title": "Respiratory distress"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "198"
+                                            }, 
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "191"
+                                            }
+                                        ], 
+                                        "sub_title": "Reexploration for bleeding"
+                                    }
+                                }, 
+                                "title": "Surgical and medical procedures"
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Coronary Disease", 
+            "Heart Diseases", 
+            "Cardiovascular Diseases", 
+            "Neurologic Manifestations"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Coronary Disease", 
+                "Coronary Artery Disease", 
+                "Heart Diseases", 
+                "Neurologic Manifestations"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:\n\n      Approximately 400,000 individuals undergo heart operations each year and cognitive\n      impairment occurs frequently following surgery. An increasing number of these individuals\n      are elderly and are particularly susceptible to cognitive dysfunction following surgery.\n      Cognitive impairment is most notable in the early stages following heart surgery, but it may\n      persist in some individuals. While many people think cognitive impairment is subtle,\n      transient, or subclinical, perioperative decline is associated with 5-year cognitive\n      deterioration and reduced quality of life. Multiple strategies, both clinical and\n      pharmacological, have been proposed to reduce the central nervous system dysfunction\n      associated with heart surgery. However, most strategies have been unsuccessful, met with\n      limited success, or are unrealistic from a cost or risk-benefit ratio for the majority of\n      people. This study will examine the effectiveness of supplemental magnesium at preventing\n      the cognitive decline associated with heart surgery.\n\n      DESIGN NARRATIVE:\n\n      This study will examine the effect of supplemental magnesium on the neurocognitive function\n      of individuals undergoing CABG surgery. The two hypotheses to be tested include the\n      following: 1) therapeutic levels of magnesium reduce post-operative neurocognitive\n      dysfunction after heart surgery; and 2) therapeutic magnesium levels protect quality of life\n      through reduced cognitive dysfunction after heart surgery. This double-blind study will\n      enroll 400 individuals and randomly assign them to either the treatment group, which will\n      receive 100 mg/kg of magnesium, or to the control group. Anesthesia management will be\n      standardized to minimize any impact that anesthesia may have on neurologic or\n      neuropsychologic outcome. Neurocognitive testing will be conducted prior to surgery, and 6\n      weeks and 1 year following surgery."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Coronary heart disease\n\n        Exclusion Criteria:\n\n          -  Early dementia\n\n          -  History of psychiatric illness"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "55 Years"
+        }, 
+        "enrollment": {
+            "#text": "389", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 8, 2002", 
+        "firstreceived_results_date": "August 5, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00041392", 
+            "org_study_id": "Pro00007128", 
+            "secondary_id": [
+                "R01HL069081", 
+                "R01 HL69081"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Magnesium", 
+                "description": "100 mg/kg", 
+                "intervention_name": "Magnesium", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "0.9 % saline", 
+                "description": "Placebo", 
+                "intervention_name": "0.9% saline", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "July 25, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27710"
+                }, 
+                "name": "Duke University Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "PeriOperative Interventional Neuroprotection Trial (POINT)", 
+        "overall_official": {
+            "affiliation": "Duke University", 
+            "last_name": "Mark F. Newman, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "To characterize cognitive function over time, while minimizing potential redundancy in the cognitive measures, a factor analysis was performed on the cognitive test scores from baseline. We chose a four-factor solution, which represents 4 cognitive domains: verbal memory, abstraction and visuo-spatial orientation (executive function), visual memory and attention and concentration. To quantify overall cognitive function, a baseline cognitive index was first calculated as the mean of the 4 preoperative domain scores. The cognitive index score has a mean of zero and standard deviation of 0.5. Thus, any positive score is above the mean, any negative score is below the mean, and a score of 0.5 represents 1 SD above the mean. A continuous change score was then calculated by subtracting the baseline from the 6-week cognitive index. Negative scores indicate decline and positive scores indicate improvement.", 
+            "measure": "Cognitive Function", 
+            "safety_issue": "No", 
+            "time_frame": "Measured at baseline and 6 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00041392"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Duke University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Duke University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2012"
+    }, 
+    "geocoordinates": {
+        "Duke University Medical Center": "35.994 -78.899"
+    }
+}

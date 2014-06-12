@@ -1,0 +1,386 @@
+{
+    "clinical_study": {
+        "@rank": "15169", 
+        "acronym": "SPORT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Surgery", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Decompressive Laminectomy Fusion-Instrumented Fusion-Non-instrumented"
+            }, 
+            {
+                "arm_group_label": "Non-surgical intervention", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Other. Non-surgical treatments"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study tests the effectiveness of different treatments for the three most commonly\n      diagnosed conditions of the lower backbone (lumbar spine). The purpose is to learn which of\n      two commonly prescribed treatments (surgery and nonsurgical therapy) works better for\n      specific types of low back pain.\n\n      In this part of the study, we will treat patients with spinal stenosis (a narrowing of\n      spaces in the backbone that results in pressure on the spinal cord and/or nerve roots)\n      caused by degenerative spondylolisthesis (a condition in which one vertebra, or spinal bone,\n      slips forward on another) with either surgery or nonsurgical methods.  This study does not\n      cover the cost of treatment."
+        }, 
+        "brief_title": "Spine Patient Outcomes Research Trial (SPORT): Degenerative Spondylolisthesis With Spinal Stenosis", 
+        "completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Spondylolisthesis", 
+            "Spinal Stenosis", 
+            "Low Back Pain"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Back Pain", 
+                "Constriction, Pathologic", 
+                "Low Back Pain", 
+                "Spinal Stenosis", 
+                "Spondylolisthesis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Low back pain is considered one of the most widely experienced health problems in the U.S.\n      and the world. It is the second most frequent condition, after the common cold, for which\n      patients see a physician or lose days from work. Estimated costs to those who are severely\n      disabled from low back pain range from $30-70 billion annually. Rates of spinal surgery in\n      the U.S. have increased sharply over time, and researchers have documented 15-fold\n      geographic variation in rates of these surgeries. In many cases, where one lives and who one\n      sees for the condition appear to determine the rates of surgery. Despite these trends, there\n      is little evidence proving the effectiveness of these therapies over nonsurgical management.\n\n      This study will use the National Spine Network to conduct a multicenter, randomized,\n      controlled trial for the three most common diagnostic groups for which spine surgery is\n      performed: lumbar intervertebral disc herniation (IDH), spinal stenosis (SpS), and spinal\n      stenosis secondary to degenerative spondylolisthesis (DS). This arm of the trial will deal\n      with patients from the third diagnostic group. The study will compare the most commonly used\n      standard surgical treatments to the most commonly used standard nonsurgical treatments. We\n      will conduct the study at 12 sites throughout the United States.\n\n      The primary endpoint of the study will be changes in health-related quality of life as\n      measured by the SF-36 health status questionnaire. Secondary endpoints will include patient\n      satisfaction with treatment, utility for current health in order to estimate\n      quality-adjusted life years (QALYS) as the measure for cost-effectiveness, resource use, and\n      cost.\n\n      We will follow patients at 6 weeks and 3, 6, 12, and 24 months to determine their health\n      status, function, satisfaction, and health care use. We anticipate that we will enroll and\n      randomly allocate a total of 300 study participants in this arm of the trial. We will track\n      an additional observational cohort to assess health and resource outcomes. Enrollment in the\n      Observational cohort has been completed as of February 2003.\n\n      We will integrate data from the trial and observational cohorts to formally estimate the\n      cost-effectiveness of surgical versus nonsurgical interventions for IDH, SpS, and DS. The\n      results of this trial will provide, for the first time, scientific evidence as to the\n      relative effectiveness of surgical versus nonsurgical treatment for these three most\n      commonly diagnosed lumbar spine conditions."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Duration of Symptoms: 12 or more weeks.\n\n          -  Treatments Tried: Nonsteroidal. anti-inflammatory medical therapy and physical\n             therapy.\n\n          -  Surgical Screening: Pain in low back, buttocks, or lower extremity that becomes worse\n             with lumbar extension. Must be confirmed by evidence of central or central-lateral\n             compression of the cauda equina by a degenerative lesion of the facet joint, disc, or\n             ligamentum flavum on MRI, computed tomography scans, or myelograms.\n\n          -  Tests: MRI to confirm diagnosis and level(s).\n\n        Exclusion Criteria:\n\n          -  Previous lumbar spine surgery.\n\n          -  Not a surgical candidate for any of these reasons: Overall health that makes spinal\n             surgery too life-threatening to be an appropriate alternative, patient has improved\n             dramatically with conservative care, or the patient is unable (for any reason) to\n             undergo surgery within 6 months.\n\n          -  Possible pregnancy.\n\n          -  Active malignancy: Patients with a history of any invasive malignancy (except\n             nonmelanoma skin cancer) are ineligible unless they have been treated with curative\n             intent AND have not had any clinical signs or symptoms of the malignancy for at least\n             5 years.\n\n          -  Current fracture, infection, and/or deformity (greater than 15 degrees of lumbar\n             scoliosis, using Cobb measure technique) of the spine.\n\n          -  Age less than 18 years.\n\n          -  Cauda equina syndrome or progressive neurologic deficit (usually requiring urgent\n             surgery).\n\n          -  Unavailability for followup (planning to move, no telephone, etc.) or inability to\n             complete data surveys.\n\n          -  Symptoms less than 12 weeks.\n\n          -  Patient currently enrolled in any experimental \"spine related\" study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "304", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 3, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000409", 
+            "org_study_id": "U01 AR45444 NIAMS-004A", 
+            "secondary_id": "U01AR045444"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Surgery", 
+                "description": "Removal of the hypertrophic inferior and superior articular facets will be performed when they are intruding upon the midline and causing both central and lateral recess stenosis", 
+                "intervention_name": "Decompressive laminectomy", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": [
+                    "Surgery", 
+                    "Non-surgical intervention"
+                ], 
+                "description": "Active physical therapy modality, Education/Counseling with home exercise instruction, and an NSAID if tolerated.  Any non-operative therapies other than these are accepted and collected as data.", 
+                "intervention_name": "Non-surgical treatments", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Surgery", 
+                "description": "In addition to decompressive laminectomy, additional bilateral non-instrumented or instrumented, i.e., posterior pedicle fixation, posterolateral fusion with autogenous bone grafting (utilizing iliac crest harvested from between the tables and/or local bone) will be performed between the transverse processes and the lateral portion of the superior facets of the involved levels.", 
+                "intervention_name": "Fusion--Instrumented", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Surgery", 
+                "description": "additional bilateral non-instrumented or instrumented, i.e., posterior pedicle fixation, posterolateral fusion with autogenous bone grafting (utilizing iliac crest harvested from between the tables and/or local bone) will be performed between the transverse processes and the lateral portion of the superior facets of the involved levels.", 
+                "intervention_name": "Fusion-Non-instrumented", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Intervertebral disc herniation (IDH)", 
+            "Degenerative spondylolisthesis (DS)", 
+            "Spinal stenosis (SpS)", 
+            "Low back pain (LBP)", 
+            "Leg pain", 
+            "Surgical therapy", 
+            "Randomized study", 
+            "Multicenter", 
+            "MRI", 
+            "Nonsurgical therapy"
+        ], 
+        "lastchanged_date": "June 4, 2013", 
+        "link": {
+            "description": "Click here to view the Spine Patient Outcomes Research Trial (SPORT) Web site.", 
+            "url": "http://sport.dartmouth.edu/nsn"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94612"
+                    }, 
+                    "name": "Kaiser Permanente Spine Care Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94143-0728"
+                    }, 
+                    "name": "University of California, San Francisco (UCSF)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Decatur", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30033"
+                    }, 
+                    "name": "Emory University, The Emory Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612-3833"
+                    }, 
+                    "name": "Rush-Presbyterian, St. Luke's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scarborough", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04074"
+                    }, 
+                    "name": "Maine Spine & Rehabilitation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Royal Oak", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48073-9952"
+                    }, 
+                    "name": "William Beaumont Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68154-4438"
+                    }, 
+                    "name": "Nebraska Foundation for Spinal Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }, 
+                    "name": "Dartmouth-Hitchcock Medical Center - Spine Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Hospital for Special Surgery"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10003"
+                    }, 
+                    "name": "New York University, The Hospital for Joint Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Case Western Reserve University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107-4216"
+                    }, 
+                    "name": "Rothman Institute at Thomas Jefferson University"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Spine Patient Outcomes Research Trial (SPORT): A Multicenter Randomized Trial for Degenerative Spondylolisthesis (DS) With Spinal Stenosis (SpS) at L4/L5 Level.", 
+        "overall_official": {
+            "affiliation": "Dartmouth-Hitchcock Medical Center", 
+            "last_name": "James N. Weinstein, DO, MS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Changes in health-related quality of life as measured by the SF-36 health status questionnaire", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline, 6 wks, 3 and 6 mos, Annually thereafter"
+        }, 
+        "reference": [
+            {
+                "PMID": "12065987", 
+                "citation": "Birkmeyer NJ, Weinstein JN, Tosteson AN, Tosteson TD, Skinner JS, Lurie JD, Deyo R, Wennberg JE. Design of the Spine Patient outcomes Research Trial (SPORT). Spine. 2002 Jun 15; 27(12): 1361-72."
+            }, 
+            {
+                "PMID": "10787504", 
+                "citation": "Weinstein JN, Brown PW, Hanscom B, Walsh T, Nelson EC. Designing an ambulatory clinical practice for outcomes improvement: from vision to reality--the Spine Center at Dartmouth-Hitchcock, year one. Qual Manag Health Care. 2000 Winter; 8(2): 1-20. Review."
+            }, 
+            {
+                "PMID": "14520044", 
+                "citation": "Fanciullo GJ, Hanscom B, Weinstein JN, Chawarski MC, Jamison RN, Baird JC. Cluster analysis classification of SF-36 profiles for patients with spinal pain. Spine. 2003 Oct 1;28(19):2276-82."
+            }, 
+            {
+                "PMID": "12642771", 
+                "citation": "Lurie JD, Birkmeyer NJ, Weinstein JN. Rates of advanced spinal imaging and spine surgery. Spine. 2003 Mar 15;28(6):616-20."
+            }, 
+            {
+                "PMID": "12642770", 
+                "citation": "Walsh TL, Hanscom B, Lurie JD, Weinstein JN. Is a condition-specific instrument for patients with low back pain/leg symptoms really necessary? The responsiveness of the Oswestry Disability Index, MODEMS, and the SF-36. Spine. 2003 Mar 15;28(6):607-15."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000409"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "17538085", 
+                "citation": "Weinstein JN, Lurie JD, Tosteson TD, Hanscom B, Tosteson AN, Blood EA, Birkmeyer NJ, Hilibrand AS, Herkowitz H, Cammisa FP, Albert TJ, Emery SE, Lenke LG, Abdu WA, Longley M, Errico TJ, Hu SS. Surgical versus nonsurgical treatment for lumbar degenerative spondylolisthesis. N Engl J Med. 2007 May 31;356(22):2257-70."
+            }, 
+            {
+                "PMID": "19487505", 
+                "citation": "Weinstein JN, Lurie JD, Tosteson TD, Zhao W, Blood EA, Tosteson AN, Birkmeyer N, Herkowitz H, Longley M, Lenke L, Emery S, Hu SS. Surgical compared with nonoperative treatment for lumbar degenerative spondylolisthesis. four-year results in the Spine Patient Outcomes Research Trial (SPORT) randomized and observational cohorts. J Bone Joint Surg Am. 2009 Jun;91(6):1295-304. doi: 10.2106/JBJS.H.00913."
+            }, 
+            {
+                "PMID": "22048651", 
+                "citation": "Tosteson AN, Tosteson TD, Lurie JD, Abdu W, Herkowitz H, Andersson G, Albert T, Bridwell K, Zhao W, Grove MR, Weinstein MC, Weinstein JN. Comparative effectiveness evidence from the spine patient outcomes research trial: surgical versus nonoperative care for spinal stenosis, degenerative spondylolisthesis, and intervertebral disc herniation. Spine (Phila Pa 1976). 2011 Nov 15;36(24):2061-8. doi: 10.1097/BRS.0b013e318235457b."
+            }
+        ], 
+        "secondary_outcome": [
+            {
+                "measure": "Patient satisfaction with treatment", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, 6 wks, 3 mos, Annually thereafter"
+            }, 
+            {
+                "measure": "utility for current health in order to estimate quality-adjusted life years (QALYS) as the measure for cost effectiveness", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, 1 yr, 4 yr"
+            }, 
+            {
+                "measure": "resource utilization", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, 6 wks, 3 and 6 mos, Annually thereafter"
+            }, 
+            {
+                "measure": "cost", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, 6 wks, 3 and 6 mos, Annually thereafter"
+            }
+        ], 
+        "source": "Dartmouth-Hitchcock Medical Center", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "National Institute for Occupational Safety and Health (NIOSH/CDC)", 
+                    "agency_class": "U.S. Fed"
+                }, 
+                {
+                    "agency": "Office of Research on Women's Health (ORWH)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Dartmouth-Hitchcock Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2000", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }, 
+    "geocoordinates": {
+        "Case Western Reserve University": "41.499 -81.695", 
+        "Dartmouth-Hitchcock Medical Center - Spine Center": "43.642 -72.252", 
+        "Emory University, The Emory Clinic": "33.775 -84.296", 
+        "Hospital for Special Surgery": "40.714 -74.006", 
+        "Kaiser Permanente Spine Care Program": "37.804 -122.271", 
+        "Maine Spine & Rehabilitation": "43.59 -70.334", 
+        "Nebraska Foundation for Spinal Research": "41.252 -95.998", 
+        "New York University, The Hospital for Joint Diseases": "40.714 -74.006", 
+        "Rothman Institute at Thomas Jefferson University": "39.952 -75.164", 
+        "Rush-Presbyterian, St. Luke's Medical Center": "41.878 -87.63", 
+        "University of California, San Francisco (UCSF)": "37.775 -122.419", 
+        "Washington University": "38.627 -90.199", 
+        "William Beaumont Hospital": "42.489 -83.145"
+    }
+}

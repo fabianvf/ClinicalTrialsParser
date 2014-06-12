@@ -1,0 +1,2124 @@
+{
+    "clinical_study": {
+        "@rank": "8551", 
+        "arm_group": [
+            {
+                "arm_group_label": "Lurasidone 20 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Lurasidone 20 mg oral tablet"
+            }, 
+            {
+                "arm_group_label": "Lurasidione 40 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Lurasidone 40 mg oral tablet"
+            }, 
+            {
+                "arm_group_label": "Lurasidone 80mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Lurasidone 80mg oral tablet"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate the long-term safety of  SM-13496 in patients with\n      schizophrenia."
+        }, 
+        "brief_title": "Safety and Tolerability Study of Drug to Treat Schizophrenia", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Lurasdione 20 mg oral tablets", 
+                            "title": "Lurasidone 20 mg"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Lurasidone 40 mg oral tablets", 
+                            "title": "Lurasidone 40 mg"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Lurasidone 80mg oral tablets", 
+                            "title": "Lurasidone 80mg"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "32"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "98"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "7.8", 
+                                                "@value": "40.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "12.4", 
+                                                "@value": "42.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "10.7", 
+                                                "@value": "40.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@spread": "10.4", 
+                                                "@value": "41.3"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "11"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "28"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "28"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "70"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "32"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "98"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "The primary objective of this 6-month open-label study was to evaluate the safety of 3 doses of lurasidone.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Lurasdione 20 mg oral tablets", 
+                                "title": "Lurasidone 20 mg"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Lurasidone 40 mg oral tablets", 
+                                "title": "Lurasidone 40 mg"
+                            }, 
+                            {
+                                "@group_id": "O3", 
+                                "description": "Lurasidone 80mg oral tablets", 
+                                "title": "Lurasidone 80mg"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "32"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "33"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "33"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "7.8", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "12.4", 
+                                                    "@value": "22"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@spread": "10.7", 
+                                                    "@value": "18"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "The primary objective of this 6-month open-label study was to evaluate the safety of 3 doses of lurasidone.", 
+                                "param": "Number", 
+                                "title": "Number of Participants With Adverse Events", 
+                                "units": "participants"
+                            }
+                        ]
+                    }, 
+                    "population": "No formal hypothesis testing was performed. However,descriptive statistics were provided and data summarized. Safety analyses were conducted on the safety population, that included all subjects who had received at least 1 dose of open-label study medication.", 
+                    "safety_issue": "Yes", 
+                    "time_frame": "6-months", 
+                    "title": "Number of Participants With Adverse Events", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Lurasdione 20 mg oral tablets", 
+                            "title": "Lurasidone 20 mg"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Lurasidone 40 mg oral tablets", 
+                            "title": "Lurasidone 40 mg"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Lurasidone 80mg oral tablets", 
+                            "title": "Lurasidone 80mg"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "32", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "33", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "33", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "13", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "19", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "11", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "19", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "14", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "22", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "josepine.cucchiaro@sunovion.com", 
+                "name_or_title": "Josephine Cucchiaro, PhD", 
+                "organization": "Sunovion", 
+                "phone": "201-592-2050"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Lurasdione 20 mg oral tablets", 
+                            "title": "Lurasidone 20 mg"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Lurasidone 40 mg oral tablets", 
+                            "title": "Lurasidone 40 mg"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "Lurasidone 80mg oral tablets", 
+                            "title": "Lurasidone 80mg"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "22", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "18", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Ear Pain"
+                                    }
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Eye Pain"
+                                    }
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhoea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Dry Mouth"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspepsia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Salivary Hypersecretion"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Toothache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Oedema Peripheral"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Seasonal Allergy"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Influenza"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Nasopharyngitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Upper Respiratory Tract Infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Urinary Tract Infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Fall"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Skin Laceration"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Blood Creatine Phosphokinase Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Blood Pressure Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Weight Decreased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Weight Increased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Musculoskeletal Pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Musculoskeletal Stiffness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Pain in Extremity"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Akathisia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyskinesia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Sedation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Somnolence"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Agitation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Anxiety"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Depressed Mood"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Insomnia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Suicidal Ideation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Depression"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Oropharyngeal Pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "6"
+                                            }, 
+                                            {
+                                                "@events": "3", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "3"
+                                            }
+                                        ], 
+                                        "sub_title": "Sinus tachycardia"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Fall"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Lower Limb Fracture"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Pelvic Fracture"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Hypokalaemia"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Schizophrenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Suicidal Behavior"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "32"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "33"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "33"
+                                                }
+                                            ], 
+                                            "sub_title": "Suicidal Ideation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "32"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "33"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "33"
+                                            }
+                                        ], 
+                                        "sub_title": "Endotracheal Intubation"
+                                    }
+                                }, 
+                                "title": "Surgical and medical procedures"
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "November 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": "Schizophrenia", 
+        "condition_browse": {
+            "mesh_term": "Schizophrenia"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Successful completion of participation in protocol #D1050049\n\n        Exclusion criteria:\n\n          -  Substance abuse\n\n          -  Prolactin level of \u2265200ng/mL at baseline\n\n          -  Pregnancy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "98", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 16, 2002", 
+        "firstreceived_results_date": "February 16, 2011", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00044005", 
+            "org_study_id": "D1050174"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Lurasidone 20 mg", 
+                "description": "Lurasidone 20mg oral tablet taken once daily for 6-months", 
+                "intervention_name": "Lurasidone 20 mg", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Lurasidione 40 mg", 
+                "description": "Lurasidone 40mg oral tablets taken once daily", 
+                "intervention_name": "Lurasidone 40 mg", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Lurasidone 80mg", 
+                "description": "Lurasidone 80mg oral tablet taken once daily", 
+                "intervention_name": "Lurasidone 80mg", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Schizophrenia", 
+            "Latuda", 
+            "Lurasidone"
+        ], 
+        "lastchanged_date": "March 31, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35209"
+                    }, 
+                    "name": "Birmingham Psychiatry Pharmaceutical"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cerritos", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90703"
+                    }, 
+                    "name": "Institute for Psychopharmacology Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Garden Grove", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92845"
+                    }, 
+                    "name": "CNS Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glendale", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91206"
+                    }, 
+                    "name": "California Clinical Trials Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Mesa", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91942"
+                    }, 
+                    "name": "Optimum Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868"
+                    }, 
+                    "name": "University of California, Irvine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92126"
+                    }, 
+                    "name": "California Neuropsychopharmacology Clinical Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20016"
+                    }, 
+                    "name": "Psychiatric Institute of Washington"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32935"
+                    }, 
+                    "name": "Comprehensive Neuroscience. Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "North Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33161"
+                    }, 
+                    "name": "Segal Institute for Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33613"
+                    }, 
+                    "name": "University of South Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winter Park", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32789"
+                    }, 
+                    "name": "Coordinated Research of Florida, Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96826"
+                    }, 
+                    "name": "Hawaii Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hoffman Estates", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60194"
+                    }, 
+                    "name": "Alexian Brothers Behavioral Health Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakbrook", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60523"
+                    }, 
+                    "name": "American Medical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "North Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89030"
+                    }, 
+                    "name": "Lake Mead Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clementon", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08021"
+                    }, 
+                    "name": "Comprehensive Clinical Research, CNS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kenilworth", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07033"
+                    }, 
+                    "name": "ClinSearch, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19139"
+                    }, 
+                    "name": "Quantum Clinical Services Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19141"
+                    }, 
+                    "name": "Albert Einstein Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78756"
+                    }, 
+                    "name": "FutureSearch Trials"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78756"
+                    }, 
+                    "name": "Community Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellaire", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77401"
+                    }, 
+                    "name": "Claghorn Lesem Research Clinic, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "St. Paul Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Falls Church", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22041"
+                    }, 
+                    "name": "CNS, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53210"
+                    }, 
+                    "name": "Medstream, Inc."
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Randomized, Open-Label, Dose-Blinded, Multicenter, 6-Month Study of Safety and Tolerability of 3 Dose Levels of SM-13496 (Lurasidone) in Patients With Schizophrenia", 
+        "overall_official": {
+            "affiliation": "Sunovion", 
+            "last_name": "Medical Director, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "November 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The primary objective of this 6-month open-label study was to evaluate the safety of 3 doses of lurasidone.", 
+            "measure": "Number of Participants With Adverse Events", 
+            "safety_issue": "Yes", 
+            "time_frame": "6-months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00044005"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Sunovion", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sunovion", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }, 
+    "geocoordinates": {
+        "Albert Einstein Medical Center": "39.952 -75.164", 
+        "Alexian Brothers Behavioral Health Hospital": "42.063 -88.123", 
+        "American Medical Research": "41.605 -88.563", 
+        "Birmingham Psychiatry Pharmaceutical": "33.521 -86.802", 
+        "CNS Network": "33.774 -117.941", 
+        "CNS, Inc.": "38.882 -77.171", 
+        "California Clinical Trials Medical Group": "34.143 -118.255", 
+        "California Neuropsychopharmacology Clinical Research Institute": "32.715 -117.157", 
+        "Claghorn Lesem Research Clinic, Inc.": "29.706 -95.459", 
+        "ClinSearch, Inc.": "40.676 -74.291", 
+        "Community Clinical Research": "30.267 -97.743", 
+        "Comprehensive Clinical Research, CNS": "39.812 -74.983", 
+        "Comprehensive Neuroscience. Inc.": "28.084 -80.608", 
+        "Coordinated Research of Florida, Inc": "28.6 -81.339", 
+        "FutureSearch Trials": "30.267 -97.743", 
+        "Hawaii Research Center": "21.307 -157.858", 
+        "Institute for Psychopharmacology Research": "33.858 -118.065", 
+        "Lake Mead Hospital": "36.199 -115.118", 
+        "Medstream, Inc.": "43.039 -87.906", 
+        "Optimum Health Services": "32.768 -117.023", 
+        "Psychiatric Institute of Washington": "38.895 -77.036", 
+        "Quantum Clinical Services Group": "39.952 -75.164", 
+        "Segal Institute for Clinical Research": "25.89 -80.187", 
+        "St. Paul Medical Center": "32.803 -96.77", 
+        "University of California, Irvine": "33.788 -117.853", 
+        "University of South Florida": "27.951 -82.457"
+    }
+}

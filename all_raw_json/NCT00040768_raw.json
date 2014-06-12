@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "114581", 
+        "arm_group": {
+            "arm_group_label": "Treatment (bortezomib)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive bortezomib IV over 3-5 seconds on days 1, 4, 8, and 11. Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients who received prior bortezomib and achieved at least a partial response of at least 6 months duration may also receive therapy as above."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase II trial to study the effectiveness of bortezomib in treating patients who have stage\n      IIIB, stage IV, or recurrent non-small cell lung cancer. Bortezomib may interfere with the\n      growth of tumor cells by blocking certain enzymes necessary for tumor cell growth"
+        }, 
+        "brief_title": "Bortezomib in Treating Patients With Advanced Non-small Cell Lung Cancer", 
+        "condition": [
+            "Recurrent Non-small Cell Lung Cancer", 
+            "Stage IIIB Non-small Cell Lung Cancer", 
+            "Stage IV Non-small Cell Lung Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. Determine the response rate, time to progression, and survival of patients with advanced\n      non-small cell lung cancer treated with bortezomib.\n\n      II. Determine the toxicity of this drug in these patients. III. Correlate toxicity and\n      activity of this drug with markers of proteasome inhibition in blood and peripheral\n      mononuclear cells in these patients.\n\n      OUTLINE:\n\n      Patients receive bortezomib IV over 3-5 seconds on days 1, 4, 8, and 11. Courses repeat\n      every 21 days in the absence of disease progression or unacceptable toxicity. Patients who\n      received prior bortezomib and achieved at least a partial response of at least 6 months\n      duration may also receive therapy as above."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically or cytologically confirmed non-small cell lung cancer\n\n               -  Mixed tumors allowed unless small cell elements are present\n\n          -  Stage IIIB or IV or recurrent disease\n\n          -  At least 1 measurable lesion \u2265 20 mm by conventional techniques OR \u2265 10 mm by spiral\n             CT scan\n\n          -  No known brain metastases\n\n          -  Performance status - ECOG 0-1\n\n          -  More than 3 months\n\n          -  Absolute neutrophil count \u2265 1,500/mm^3\n\n          -  Platelet count \u2265 100,000/mm^3\n\n          -  Bilirubin \u2264 2 mg/dL\n\n          -  AST and ALT \u2264 2.5 times upper limit of normal (ULN) (5 times  ULN if liver\n             involvement present)\n\n          -  Creatinine \u2264 2 mg/dL\n\n          -  Creatinine clearance \u2265 60 mL/min\n\n          -  No symptomatic congestive heart failure\n\n          -  No unstable angina pectoris\n\n          -  No cardiac arrhythmia\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  No peripheral neuropathy > grade 1\n\n          -  No other concurrent uncontrolled illness\n\n          -  No ongoing or active infection\n\n          -  No psychiatric illness or social situation that would preclude study participation\n\n          -  No more than 1 prior chemotherapy regimen\n\n               -  Two prior chemotherapy regimens allowed provided 1 of the 2 regimens was\n                  gefitinib monotherapy as second-line therapy\n\n          -  At least 4 weeks since prior chemotherapy (6 weeks for carmustine, mitomycin,  or\n             nitrosoureas) and recovered\n\n          -  At least 4 weeks since prior radiotherapy (except localized radiotherapy for  symptom\n             relief) and recovered\n\n          -  Prior bortezomib allowed provided patient achieved at least a partial response (of at\n             least 6 months duration), received no other therapy since the last dose of\n             bortezomib, and has no residual toxicity greater than grade 1\n\n          -  No other concurrent investigational or commercial agents or therapies for  malignancy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "35", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 8, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00040768", 
+            "org_study_id": "NCI-2012-02470", 
+            "secondary_id": [
+                "UPCC 06501", 
+                "CDR0000069405"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": "Treatment (bortezomib)", 
+            "description": "Given IV", 
+            "intervention_name": "bortezomib", 
+            "intervention_type": "Drug", 
+            "other_name": [
+                "LDP 341", 
+                "MLN341", 
+                "VELCADE"
+            ]
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Bortezomib"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "January 15, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "Abramson Cancer Center of The University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase II Study Of PS-341 In Metastatic Non-Small Cell Lung Cancer", 
+        "overall_official": {
+            "affiliation": "Abramson Cancer Center of the University of Pennsylvania", 
+            "last_name": "James Stevenson", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2006", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Overall response rate to PS-341 therapy", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 4 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00040768"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Kaplan-Meier estimates of survival (overall, progression free) and 95% confidence intervals will be calculated.", 
+                "measure": "Progression-free survival", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 4 months"
+            }, 
+            {
+                "description": "Kaplan-Meier estimates of survival (overall, progression free) and 95% confidence intervals will be calculated.", 
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 4 hours"
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "April 2002", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013", 
+        "why_stopped": "Administratively complete."
+    }, 
+    "geocoordinates": {
+        "Abramson Cancer Center of The University of Pennsylvania": "39.952 -75.164"
+    }
+}

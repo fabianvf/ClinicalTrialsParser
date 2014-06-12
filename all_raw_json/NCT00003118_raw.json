@@ -1,0 +1,640 @@
+{
+    "clinical_study": {
+        "@rank": "30338", 
+        "arm_group": [
+            {
+                "arm_group_label": "Chemotherapy + Radiation + Surgery", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "Surgery", 
+                "arm_group_type": "Active Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor\n      cells. It is not yet known whether surgery is more effective with or without chemotherapy\n      and radiation therapy for cancer of the esophagus.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of surgery with or without\n      combination chemotherapy and radiation therapy in treating patients who have cancer of the\n      esophagus that can be surgically removed."
+        }, 
+        "brief_title": "Surgery With or Without Chemotherapy and Radiation Therapy in Treating Patients With Cancer of the Esophagus", 
+        "completion_date": {
+            "#text": "March 2000", 
+            "@type": "Actual"
+        }, 
+        "condition": "Esophageal Cancer", 
+        "condition_browse": {
+            "mesh_term": "Esophageal Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Compare overall five-year survival rates and treatment failures in patients\n      receiving neoadjuvant cisplatin (CDDP) plus fluorouracil (5-FU) with concomitant\n      radiotherapy followed by surgical resection versus patients receiving surgery alone. II.\n      Assess and compare the toxicities of each approach. III. Compare the incidence and pattern\n      of local (gastric or esophageal bed or regional lymph nodes) and distant (supraclavicular\n      lymph node, liver, peritoneal carcinomatosis, or lung, brain, etc.) recurrence. IV. Evaluate\n      the prognostic ability of noninvasive and minimally invasive pretreatment staging with\n      regard to survival and recurrence. V. Evaluate the ability of preresection adjuvant\n      chemotherapy with concomitant radiation therapy to render tumors to lower stages. VI.\n      Evaluate the impact of lymph nodes on survival and recurrence.\n\n      OUTLINE: This a two arm, randomized study. Patients are stratified by: cell type of cancer\n      (squamous cell vs adenocarcinoma); lymph nodes (positive vs negative); and stage (invasive\n      vs noninvasive). Patients in arm I undergo chemotherapy and radiotherapy within 24 hours of\n      each other. Chemotherapy consists of cisplatin (CDDP) by bolus IV infusion over 30 minutes\n      on day 1 and again on day 29. Fluorouracil (5-FU) is administered by continuous IV infusion\n      for 4 days (on days 1-4 and 29-32) after completion of cisplatin. Radiotherapy is\n      administered on days 1-5, 8-12, 15-19, 22-26, and 29-33, with a boost on days 36-38. If\n      there is no disease progression or unresectable disease, surgery is performed within 3-8\n      weeks following completion of therapy. Patients in arm II undergo surgery alone no later\n      than 6 weeks postrandomization. Patients are followed at least every 3 months for two years,\n      then every 6 months for the next two years, and annually thereafter.\n\n      PROJECTED ACCRUAL: There will be 500 patients accrued into this study within 5 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed squamous cell carcinoma or\n        adenocarcinoma of the thoracic esophagus or gastroesophageal junction Stages I, IIA, IIB,\n        or III Tumor must be considered surgically resectable No positive supraclavicular nodes\n        (greater than 1.5 cm by CT) or palpable supraclavicular nodes No positive (greater than\n        1.5 cm by CT) nodes in levels 15-20 Lymph node involvement in levels 15, 16, and 20 that\n        are no greater than 1.5 cm by CT allowed Patient without radiographical evidence of lymph\n        node involvement in levels 15, 16, and 20 that are proven positive at time of presurgical\n        staging also allowed Radiographically positive lymph node involvement in levels 17-19\n        allowed only if proven to be negative by biopsy No positive lymph node involvement in\n        levels 17-19 even if there was no radiographic evidence of lymph node involvement No\n        tumors with greater than 2 cm distal spread into the gastric cardia No distant metastases\n        (suspicious lesions on CT should be tested by ultrasound, MRI or biopsy)\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: Not specified Life\n        expectancy: Not specified Hematopoietic: Absolute granulocyte count at least 1,800/mm3\n        Platelet count at least 100,000/mm3 Hepatic: If alkaline phosphatase is greater than 3\n        times normal, must undergo esophagoscopy with biopsy, barium esophagogram, CT scan of the\n        chest and upper abdomen, and bone scan Renal: Creatinine clearance at least 50 mL/min\n        Other: No other prior malignancy unless disease free for greater than 5 years\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior\n        chemotherapy for this malignancy Endocrine therapy: Not specified Radiotherapy: No prior\n        radiotherapy that would overlap the field(s) treated in this study Surgery: Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "500", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003118", 
+            "org_study_id": "CDR0000065873", 
+            "secondary_id": [
+                "U10CA031946", 
+                "CLB-C9781", 
+                "E-C9781", 
+                "NCCTG-C9781", 
+                "RTOG-9716"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Chemotherapy + Radiation + Surgery", 
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Chemotherapy + Radiation + Surgery", 
+                "intervention_name": "fluorouracil", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Chemotherapy + Radiation + Surgery", 
+                    "Surgery"
+                ], 
+                "intervention_name": "surgical procedure", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Chemotherapy + Radiation + Surgery", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cisplatin", 
+                "Fluorouracil"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "stage I esophageal cancer", 
+            "stage II esophageal cancer", 
+            "stage III esophageal cancer", 
+            "squamous cell carcinoma of the esophagus", 
+            "adenocarcinoma of the esophagus"
+        ], 
+        "lastchanged_date": "September 27, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92093-0658"
+                    }, 
+                    "name": "University of California San Diego Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115-0128"
+                    }, 
+                    "name": "UCSF Cancer Center and Cancer Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wilmington", 
+                        "country": "United States", 
+                        "state": "Delaware", 
+                        "zip": "19899"
+                    }, 
+                    "name": "CCOP - Christiana Care Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20307-5000"
+                    }, 
+                    "name": "Walter Reed Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33140"
+                    }, 
+                    "name": "CCOP - Mount Sinai Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }, 
+                    "name": "University of Chicago Cancer Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "University of Illinois at Chicago Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "University of Iowa Hospitals and Clinics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01655"
+                    }, 
+                    "name": "University of Massachusetts Memorial Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "University of Minnesota Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65203"
+                    }, 
+                    "name": "Ellis Fischel Cancer Center - Columbia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Barnes-Jewish Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198-3330"
+                    }, 
+                    "name": "University of Nebraska Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89106"
+                    }, 
+                    "name": "CCOP - Southern Nevada Cancer Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }, 
+                    "name": "Norris Cotton Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mount Holly", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08060"
+                    }, 
+                    "name": "Fox Chase Cancer Center at Virtua-Memorial Hospital Burlington County"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paterson", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07503"
+                    }, 
+                    "name": "St. Joseph's Hospital and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "CCOP - North Shore University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "North Shore University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Memorial Sloan-Kettering Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Medical Center, NY"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "New York Presbyterian Hospital - Cornell Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "University of Rochester Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York - Upstate Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599-7295"
+                    }, 
+                    "name": "Lineberger Comprehensive Cancer Center, UNC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27104-4241"
+                    }, 
+                    "name": "CCOP - Southeast Cancer Control Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157-1082"
+                    }, 
+                    "name": "Comprehensive Cancer Center of Wake Forest University Baptist Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19102-1192"
+                    }, 
+                    "name": "Hahnemann University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02903"
+                    }, 
+                    "name": "Rhode Island Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425-0721"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38103"
+                    }, 
+                    "name": "University of Tennessee, Memphis Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burlington", 
+                        "country": "United States", 
+                        "state": "Vermont", 
+                        "zip": "05401-3498"
+                    }, 
+                    "name": "Vermont Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298-0037"
+                    }, 
+                    "name": "MBCCOP - Massey Cancer Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Prospective Randomized Phase III Trial Comparing Trimodality Therapy (Cisplatin, 5-FU, Radiotherapy, and Surgery) to Surgery Alone for Esophageal Cancer", 
+        "overall_official": [
+            {
+                "affiliation": "University of Maryland Greenebaum Cancer Center", 
+                "last_name": "Mark J. Krasna, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Mayo Clinic", 
+                "last_name": "Richard M. Goldberg, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "University of Virginia", 
+                "last_name": "Tyvin A. Rich, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "James P. Wilmot Cancer Center", 
+                "last_name": "Richard H. Feins, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": "March 2000", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003118"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "18309943", 
+                "citation": "Tepper J, Krasna MJ, Niedzwiecki D, Hollis D, Reed CE, Goldberg R, Kiel K, Willett C, Sugarbaker D, Mayer R. Phase III Trial of Trimodality Therapy With Cisplatin, Fluorouracil, Radiotherapy, and Surgery Compared With Surgery Alone for Esophageal Cancer: CALGB 9781. J Clin Oncol. 2008 Mar 1;26(7):1086-92."
+            }, 
+            {
+                "citation": "Krasna M, Tepper JE, Niedzwiecki D, et al.: Trimodality therapy is superior to surgery alone in esophageal cancer: results of CALGB 9781. [Abstract] American Society of Clinical Oncology 2006 Gastrointestinal Cancers Symposium, 26-28 January 2006, San Francisco, California. A-4, 2006."
+            }, 
+            {
+                "citation": "Tepper JE, Krasna M, Niedzwiecki D, et al.: Superiority of trimodality therapy to surgery alone in esophageal cancer: results of CALGB 9781. [Abstract] J Clin Oncol 24 (Suppl 18): A-4012, 2006."
+            }
+        ], 
+        "source": "Alliance for Clinical Trials in Oncology", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "North Central Cancer Treatment Group", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Radiation Therapy Oncology Group", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Eastern Cooperative Oncology Group", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Alliance for Clinical Trials in Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 1997", 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013", 
+        "why_stopped": "completed administratively due to poor acrual"
+    }, 
+    "geocoordinates": {
+        "Barnes-Jewish Hospital": "38.627 -90.199", 
+        "CCOP - Christiana Care Health Services": "39.746 -75.547", 
+        "CCOP - Mount Sinai Medical Center": "25.791 -80.13", 
+        "CCOP - North Shore University Hospital": "40.798 -73.7", 
+        "CCOP - Southeast Cancer Control Consortium": "36.1 -80.244", 
+        "CCOP - Southern Nevada Cancer Research Foundation": "36.115 -115.173", 
+        "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C.": "43.048 -76.147", 
+        "Comprehensive Cancer Center of Wake Forest University Baptist Medical Center": "36.1 -80.244", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Duke Comprehensive Cancer Center": "35.994 -78.899", 
+        "Ellis Fischel Cancer Center - Columbia": "38.952 -92.334", 
+        "Fox Chase Cancer Center at Virtua-Memorial Hospital Burlington County": "39.995 -74.787", 
+        "Hahnemann University Hospital": "39.952 -75.164", 
+        "Lineberger Comprehensive Cancer Center, UNC": "35.913 -79.056", 
+        "MBCCOP - Massey Cancer Center": "37.541 -77.436", 
+        "Marlene & Stewart Greenebaum Cancer Center, University of Maryland": "39.29 -76.612", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006", 
+        "Mount Sinai Medical Center, NY": "40.714 -74.006", 
+        "New York Presbyterian Hospital - Cornell Campus": "40.714 -74.006", 
+        "Norris Cotton Cancer Center": "43.642 -72.252", 
+        "North Shore University Hospital": "40.798 -73.7", 
+        "Rhode Island Hospital": "41.824 -71.413", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "St. Joseph's Hospital and Medical Center": "40.917 -74.172", 
+        "State University of New York - Upstate Medical University": "43.048 -76.147", 
+        "UCSF Cancer Center and Cancer Research Institute": "37.775 -122.419", 
+        "University of California San Diego Cancer Center": "32.839 -117.277", 
+        "University of Chicago Cancer Research Center": "41.878 -87.63", 
+        "University of Illinois at Chicago Health Sciences Center": "41.878 -87.63", 
+        "University of Iowa Hospitals and Clinics": "41.661 -91.53", 
+        "University of Massachusetts Memorial Medical Center": "42.263 -71.802", 
+        "University of Minnesota Cancer Center": "44.98 -93.264", 
+        "University of Nebraska Medical Center": "41.252 -95.998", 
+        "University of Rochester Cancer Center": "43.161 -77.611", 
+        "University of Tennessee, Memphis Cancer Center": "35.15 -90.049", 
+        "Vermont Cancer Center": "44.476 -73.212", 
+        "Walter Reed Army Medical Center": "38.895 -77.036"
+    }
+}

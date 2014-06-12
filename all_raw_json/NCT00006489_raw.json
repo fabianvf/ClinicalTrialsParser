@@ -1,0 +1,195 @@
+{
+    "clinical_study": {
+        "@rank": "149916", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Naltrexone alone"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Naltrexone with CBT for PTSD"
+            }, 
+            {
+                "arm_group_label": "3", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Placebo with CBT for PTSD"
+            }, 
+            {
+                "arm_group_label": "4", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo alone"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will evaluate naltrexone and cognitive-behavioral therapy treatments for alcohol\n      dependence and post-traumatic stress disorder (PTSD).  Subjects will be randomly assigned a\n      6-month treatment of either: 1) naltrexone alone, 2) naltrexone with PTSD psychosocial\n      therapy, 3) a placebo with PTSD psychosocial therapy, or 4) placebo alone.  An enhanced\n      medication management intervention will accompany all treatment conditions.  Follow-up\n      assessments will be completed at 9 and 12 months after treatment."
+        }, 
+        "brief_title": "Treatment for Alcoholism and Post-Traumatic Stress Disorder (Naltrexone)", 
+        "completion_date": {
+            "#text": "February 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Alcoholism", 
+            "Alcohol Dependence", 
+            "Post-Traumatic Stress Disorder"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Alcoholism", 
+                "Stress Disorders, Post-Traumatic", 
+                "Stress Disorders, Traumatic"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Meets criteria for alcohol dependence and post-traumatic stress disorder.\n\n          -  Heavy drinking in the past 30 days (an average of more than 12 alcohol drinks per\n             week with at least 1 day of 4 or more drinks).\n\n          -  Successfully complete medical detoxification.\n\n          -  Exhibit clinically significant trauma-related symptoms.\n\n          -  Live in a commutable distance to the University of Pennsylvania and agree to\n             follow-up visits.\n\n          -  Aged between 18 and 65 years old.\n\n          -  Able to provide an informed consent.\n\n          -  Speak and read English.\n\n        Exclusion Criteria:\n\n          -  Current diagnosis of any substance dependence other than alcohol, nicotine, or\n             cannabis.\n\n          -  Evidence of opiate use in the past 30 days.\n\n          -  Significant risk of violence or history of serious violent behavior during the past\n             year.\n\n          -  Continued contact with an intimate partner if assault by the partner is the index\n             trauma.\n\n          -  Changes in dosage or medication for any SSRI treatment in the three months prior to\n             entering the study.\n\n          -  Unstable or serious medical illness.\n\n          -  Current severe psychiatric symptom.\n\n          -  Mental retardation or another pervasive developmental disorder.\n\n          -  Use of an investigational medication in the past 30 days.\n\n          -  Pregnant, nursing or not using reliable contraception."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "167", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 8, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006489", 
+            "org_study_id": "NIAAAFOA12428", 
+            "secondary_id": [
+                "R01AA012428", 
+                "NIH grant R01-AA-012428"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "2", 
+                    "3"
+                ], 
+                "description": "Twelve weekly 90-minute individual therapy sessions followed by (6) 90-minute sessions every other week", 
+                "intervention_name": "Cognitive-Behavioral Therapy", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "Daily dosing 100 mg for 24 weeks", 
+                "intervention_name": "Naltrexone", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "4", 
+                "description": "Pill Placebo daily dosing 24 weeks", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Naltrexone"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Alcoholism", 
+            "Alcohol Dependence", 
+            "Post-Traumatic Stress Disorder", 
+            "Naltrexone", 
+            "Cognitive Behavior Therapy"
+        ], 
+        "lastchanged_date": "July 3, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "Center for Anxiety, University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Naltrexone and Cognitive-Behavioral Therapy for Patients With Alcoholism and Post-Traumatic Stress Disorder", 
+        "overall_official": {
+            "affiliation": "University of Pennsylvania", 
+            "last_name": "Edna B. Foa, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "February 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "PTSD Symptom Scale - Interview", 
+                "safety_issue": "No", 
+                "time_frame": "9 and 12 months"
+            }, 
+            {
+                "measure": "Drinking Time Line Follow-back", 
+                "safety_issue": "No", 
+                "time_frame": "9 and 12 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006489"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Beck Depression Inventory", 
+                "safety_issue": "No", 
+                "time_frame": "9 and 12 months"
+            }, 
+            {
+                "measure": "Penn Alcohol Cravings Scale", 
+                "safety_issue": "No", 
+                "time_frame": "9 and 12 months"
+            }, 
+            {
+                "measure": "Sheehan Disability Scale", 
+                "safety_issue": "No", 
+                "time_frame": "9 and 12 months"
+            }
+        ], 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2000", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Factorial Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2011"
+    }, 
+    "geocoordinates": {
+        "Center for Anxiety, University of Pennsylvania": "39.952 -75.164"
+    }
+}

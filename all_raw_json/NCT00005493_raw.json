@@ -1,0 +1,84 @@
+{
+    "clinical_study": {
+        "@rank": "156629", 
+        "brief_summary": {
+            "textblock": "To analyze existing data from the Physicians Health Study (PHS), a randomized primary\n      prevention trial of low-dose aspirin and beta carotene conducted among 22,071 U.S. male\n      physicians, to address questions concerning aspirin and cardiovascular (CV) disease that\n      could not adequately be addressed during the randomized aspirin period."
+        }, 
+        "brief_title": "Observational Aspirin Use and CVD in the Physicians' Health Study", 
+        "completion_date": "March 2001", 
+        "condition": [
+            "Cardiovascular Diseases", 
+            "Coronary Disease", 
+            "Heart Diseases", 
+            "Myocardial Infarction", 
+            "Cerebrovascular Accident"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Coronary Disease", 
+                "Coronary Artery Disease", 
+                "Heart Diseases", 
+                "Infarction", 
+                "Myocardial Infarction", 
+                "Cerebral Infarction", 
+                "Stroke"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "DESIGN NARRATIVE:\n\n      The aspirin component of the trial was terminated on January 25, 1988, due to a demonstrated\n      benefit of aspirin on myocardial infarction. At that time, however, the number of strokes\n      and CV deaths experienced by trial participants was inadequate to definitively evaluate\n      these endpoints. The beta carotene component of the trial continued uninterrupted until its\n      scheduled termination in December, 1996. During this period detailed information continued\n      to be collected on post-trial aspirin use through annual questionnaires. As of October,\n      1995, the number of deaths, including cardiovascular deaths, had increased fourfold from\n      that in the randomized period, and the number of strokes had increased 3.5 times.  The\n      investigators used data from both the randomized aspirin period and the observational period\n      following the trial to assess the impact of aspirin use on cardiovascular and total\n      mortality, and the long-term impact of aspirin use on subsequent stroke and MI. The methods\n      included analyses of both randomized aspirin assignment and of time-varying aspirin use, as\n      assessed on the annual questionnaires. Because of the potential for bias, the propensity for\n      aspirin use, particularly during the observational period was taken into account.  Analyses\n      included use of proportional hazards models allowing for both time-varying effects of\n      aspirin use and controlling for time-varying confounders, as well as more complex procedures\n      using causal modeling."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "No eligibility criteria"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "firstreceived_date": "May 25, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005493", 
+            "org_study_id": "5010"
+        }, 
+        "lastchanged_date": "June 23, 2005", 
+        "overall_official": {
+            "affiliation": "Brigham and Women's Hospital", 
+            "last_name": "Nancy Cook"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "reference": [
+            {
+                "PMID": "10761956", 
+                "citation": "Cook NR, Hebert PR, Manson JE, Buring JE, Hennekens CH. Self-selected posttrial aspirin use and subsequent cardiovascular disease and mortality in the physicians' health study. Arch Intern Med. 2000 Apr 10;160(7):921-8."
+            }, 
+            {
+                "PMID": "12034583", 
+                "citation": "Cook NR, Cole SR, Hennekens CH. Use of a marginal structural model to determine the effect of aspirin on cardiovascular mortality in the Physicians' Health Study. Am J Epidemiol. 2002 Jun 1;155(11):1045-53."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005493"
+        }, 
+        "source": "National Heart, Lung, and Blood Institute (NHLBI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "April 1998", 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "August 2004"
+    }, 
+    "geocoordinates": {}
+}

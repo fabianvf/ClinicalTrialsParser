@@ -1,0 +1,151 @@
+{
+    "clinical_study": {
+        "@rank": "54", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing\n      so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of high-dose cytarabine plus idarubicin\n      in treating patients with newly diagnosed acute or chronic myelogenous leukemia or\n      myelodysplastic syndrome."
+        }, 
+        "brief_title": "Chemotherapy in Treating Patients With Newly Diagnosed Acute or Chronic Myelogenous Leukemia or Myelodysplastic Syndrome", 
+        "completion_date": {
+            "#text": "March 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Leukemia", 
+            "Myelodysplastic Syndromes", 
+            "Neutropenia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelogenous, Chronic, BCR-ABL Positive", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia", 
+                "Neutropenia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Evaluate the effect of combined intensive induction and postremission therapy\n      with high-dose cytarabine plus a single high dose of idarubicin in patients with previously\n      untreated acute myelogenous leukemia (AML). II. Identify cytogenetic, molecular, or\n      immunophenotypic markers in AML patients for use in the study of residual disease.\n\n      OUTLINE: All patients receive high dose cytarabine for 5 days and idarubicin on the third\n      day as induction chemotherapy. Patients who achieve a complete remission (CR) proceed to\n      consolidation chemotherapy, as follows: cytarabine and etoposide for 5 days; and, for\n      patients aged 60 and under, cytarabine for 4 days, with idarubicin on the third day.\n      Patients eligible for the second consolidation course may have peripheral blood stem cells\n      collected following this regimen. Patients with an HLA-compatible donor then proceed to\n      allogeneic bone marrow transplantation, while patients over age 60, those with the t(8;21)\n      or inv16 cytogenetic abnormality, and those without an HLA-compatible donor receive\n      maintenance therapy with the humanized monoclonal antibody M195 twice weekly for 3 weeks,\n      then monthly for 5 months. G-CSF is administered with each chemotherapy regimen. Patients\n      are followed for survival.\n\n      PROJECTED ACCRUAL: 60 patients will be entered over 3 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: One of the following hematologic malignancies that is ineligible\n        for higher priority protocols and confirmed at Memorial Hospital: Acute myelogenous\n        leukemia Accelerated or blastic phase (greater than 10% blasts in marrow) chronic\n        myelogenous leukemia Poor-risk myelodysplastic syndrome, defined as: Refractory anemia\n        with excess blasts (RAEB) with at least 10% marrow blasts and cytopenia requiring therapy\n        RAEB in transformation Chronic myelomonocytic leukemia No acute promyelocytic leukemia\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: Not specified Hematopoietic:\n        Not specified Hepatic: Bilirubin no greater than 2.0 mg/dL Transaminases no greater than 3\n        times normal Renal: Creatinine no greater than 2.0 mg/dL OR Creatinine clearance greater\n        than 60 mL/min Cardiovascular: No cardiomyopathy No symptomatic congestive heart failure\n        Other: No concurrent active malignancy No pregnant or nursing women\n\n        PRIOR CONCURRENT THERAPY: No prior therapy except biologic agent alone or hydroxyurea"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002800", 
+            "org_study_id": "96-044", 
+            "secondary_id": [
+                "CDR0000064897", 
+                "NCI-V96-0941"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "lintuzumab", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "cytarabine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "idarubicin", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cytarabine", 
+                "Etoposide", 
+                "Idarubicin", 
+                "Lenograstim"
+            ]
+        }, 
+        "keyword": [
+            "accelerated phase chronic myelogenous leukemia", 
+            "blastic phase chronic myelogenous leukemia", 
+            "untreated adult acute myeloid leukemia", 
+            "refractory anemia with excess blasts", 
+            "refractory anemia with excess blasts in transformation", 
+            "chronic myelomonocytic leukemia", 
+            "de novo myelodysplastic syndromes", 
+            "neutropenia"
+        ], 
+        "lastchanged_date": "July 1, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/MSKCC-96044"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10021"
+                }, 
+                "name": "Memorial Sloan-Kettering Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "PHASE II STUDY OF HIGH DOSE CYTARABINE COMBINED WITH A SINGLE HIGH DOSE OF IDARUBICIN FOR NEWLY DIAGNOSED PATIENTS WITH AML: THE AML-3 PROTOCOL", 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Peter Maslak, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2003", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002800"
+        }, 
+        "source": "Memorial Sloan-Kettering Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 1996", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }, 
+    "geocoordinates": {
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006"
+    }
+}

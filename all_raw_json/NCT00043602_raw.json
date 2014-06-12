@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "3451", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants will receive clinician-managed interpersonal psychotherapy"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Participants will receive standard interpersonal psychotherapy"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This 12-week study will evaluate the effectiveness of Clinician-Managed Interpersonal\n      Psychotherapy (CM-IPT) in treating postpartum depression and will compare CM-IPT to standard\n      IPT."
+        }, 
+        "brief_title": "Clinician Managed Interpersonal Psychotherapy", 
+        "completion_date": {
+            "#text": "December 2007", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Depression", 
+            "Depression, Postpartum"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Depression", 
+                "Depressive Disorder", 
+                "Depression, Postpartum"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "CM-IPT is delivered in 12 sessions over the course of a year. Standard IPT is delivered in\n      12 sessions in the first 12 weeks after treatment assignment."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Women between 8 and 24 weeks postpartum\n\n          -  Meet DSM-IV criteria for Major Depression\n\n          -  Hamilton Rating Scale for Depression score of 12 or more\n\n        Exclusion criteria:\n\n          -  Active substance abuse\n\n          -  Psychotic disorders"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "140", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 9, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00043602", 
+            "org_study_id": "R01 MH59668", 
+            "secondary_id": [
+                "R01MH059668", 
+                "DSIR 83-ATAS"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "2", 
+                "description": "Participants will receive 12 sessions of IPT over 12 weeks.", 
+                "intervention_name": "Standard interpersonal psychotherapy (IPT)", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "1", 
+                "description": "Participants will receive 12 sessions of CM-IPT over 1 year.", 
+                "intervention_name": "Clinician managed interpersonal psychotherapy (CM-IPT)", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "September 25, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Iowa City", 
+                    "country": "United States", 
+                    "state": "Iowa", 
+                    "zip": "52242"
+                }, 
+                "name": "University of Iowa"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Clinician Managed Interpersonal Psychotherapy", 
+        "overall_official": {
+            "affiliation": "University of Iowa", 
+            "last_name": "Scott P. Stuart, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 0", 
+        "primary_completion_date": {
+            "#text": "December 2007", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Hamilton Rating Scale for Depression", 
+            "safety_issue": "No", 
+            "time_frame": "Measured at Week 12"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00043602"
+        }, 
+        "responsible_party": {
+            "name_title": "Scott Stuart", 
+            "organization": "University of Iowa"
+        }, 
+        "source": "University of Iowa", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of Mental Health (NIMH)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Iowa", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }, 
+    "geocoordinates": {
+        "University of Iowa": "41.661 -91.53"
+    }
+}
