@@ -1,0 +1,136 @@
+{
+    "clinical_study": {
+        "@rank": "15224", 
+        "acronym": "TEMPEST", 
+        "arm_group": [
+            {
+                "arm_group_label": "SB424323, 500 mg BID", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "SB424323, 125 mg BID", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to gain additional safety information as well as to determine\n      after the study drug has been given to patients who have undergone total hip replacement\n      surgery, whether the study drug is effective in preventing late deep vein thrombosis (blood\n      clots in legs) or pulmonary embolism (blood clots in lungs)."
+        }, 
+        "brief_title": "ThromboEmbolism Prevention Efficacy and Safety Trial (TEMPEST)", 
+        "completion_date": {
+            "#text": "May 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": "Arthroplasty", 
+        "condition_browse": {
+            "mesh_term": "Thromboembolism"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients scheduled for primary elective unilateral total hip arthroplasty (i.e. first\n             time the hip is being replaced on the operative side).\n\n          -  Patients who have given written informed consent to participate in this study.\n\n        Exclusion Criteria:\n\n          -  Patients with a contraindication to contrast venography\n\n          -  Patients with an increased risk of bleeding.\n\n          -  Patients with a predefined risk for prethrombotic episodes or a history of\n             thrombophilia.\n\n          -  Other inclusion or exclusion criteria to be determined by the physician and study\n             sponsor."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "35 Years"
+        }, 
+        "enrollment": {
+            "#text": "343", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 9, 2002", 
+        "id_info": {
+            "nct_id": "NCT00041509", 
+            "org_study_id": "424323/025"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "SB424323, 500 mg BID", 
+                    "SB424323, 125 mg BID"
+                ], 
+                "description": "500 mg, oral, BID for 28 days or 125 mg, oral, BID for 28 days", 
+                "intervention_name": "SB-424323", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "matching placebo, oral, BID for 28 days", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "venous thromboembolism", 
+            "thromboembolism", 
+            "pulmonary embolism", 
+            "deep vein thrombosis"
+        ], 
+        "lastchanged_date": "June 30, 2011", 
+        "number_of_arms": "3", 
+        "official_title": "ThromboEMbolism Prevention Efficacy and Safety Trial (TEMPEST): A Double-blind Four-week Study to Assess the Efficacy, Safety, and Tolerability of SB-424323 in the Extended Prophylaxis of Patients Following Total Hip Arthroplasty", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Food and Drug Administration", 
+                "Australia: Department of Health and Ageing Therapeutic Goods Administration"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Incidence of VTE during the 28-day treatment period, including death due to VTE", 
+            "measure": "VTE", 
+            "safety_issue": "No", 
+            "time_frame": "28 day treatment period"
+        }, 
+        "removed_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Canada"
+            ]
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00041509"
+        }, 
+        "responsible_party": {
+            "name_title": "Cheri Hudson; Clinical Disclosure Advisor", 
+            "organization": "GSK Clinical Disclosure"
+        }, 
+        "secondary_outcome": {
+            "description": "The incidence of the types of VTE including, DVT (deep vein thrombosis), symptomatic VTE, PE] and anti-IIa activity", 
+            "measure": "types of VTE", 
+            "safety_issue": "No", 
+            "time_frame": "28 day treatment period"
+        }, 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2011"
+    }, 
+    "geocoordinates": {}
+}

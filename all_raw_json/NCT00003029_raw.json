@@ -1,0 +1,319 @@
+{
+    "clinical_study": {
+        "@rank": "48806", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one drug and giving drugs in different ways\n      may kill more tumor cells. It is not yet known whether fluorouracil plus cisplatin are more\n      effective than fluorouracil alone in treating patients with metastatic cancer of the\n      pancreas.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of fluorouracil with or\n      without cisplatin in treating patients who have advanced or metastatic cancer of the\n      pancreas."
+        }, 
+        "brief_title": "Fluorouracil With or Without Cisplatin in Treating Patients With Advanced or Metastatic Cancer of the Pancreas", 
+        "condition": "Pancreatic Cancer", 
+        "condition_browse": {
+            "mesh_term": "Pancreatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Confirm the value of chronomodulated infusion with respect to survival in patients with\n           locally advanced or metastatic pancreatic cancer.\n\n        -  Test the value of adding cisplatin to fluorouracil in extending survival in these\n           patients.\n\n      OUTLINE: This is a multicenter, randomized study.\n\n      The study design is a 2 X 2 factorial such that patients are allocated to one of 4 treatment\n      groups involving the use or absence of chronomodulation and cisplatin (CDDP). Treatment in\n      each of the 4 groups is repeated for 3 courses where each course is a 5-day course of\n      treatment.\n\n      Patients in the first group receive a chronomodulated schedule based on delivery of\n      fluorouracil (FU). Patients in the second group receive a chronomodulated schedule of FU and\n      CDDP. Patients in the third and fourth experimental groups receive flat schedules of FU\n      alone or FU and CDDP, respectively. Dosages of FU are increased across the three courses\n      whereas dosages of CDDP remain constant.\n\n      Treatment is continued until disease progression, severe toxicity, or complete remission for\n      more than 4 months occurs.\n\n      PROJECTED ACCRUAL: 200 patients will be accrued."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologic or cytologic proof of adenocarcinoma of the exocrine pancreas or of a\n             metastasis associated with a radiologically identified pancreatic tumor\n\n          -  Locally advanced and/or metastatic pancreatic cancer\n\n          -  No measurable or evaluable target lesion is required\n\n          -  No brain metastasis\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  Karnofsky 40%-100%\n\n        Hematopoietic:\n\n          -  WBC at least 3,000/mm^3\n\n          -  Neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n        Hepatic:\n\n          -  Bilirubin no greater than 3 times normal\n\n        Renal:\n\n          -  Creatinine no greater than 1.24 mg/dL OR\n\n          -  Creatinine clearance at least 80 mL/min\n\n        Cardiovascular:\n\n          -  No overt cardiac disease\n\n        Other:\n\n          -  No peripheral neuropathy\n\n          -  No uncontrolled infectious or chronic disease\n\n          -  No second primary except in situ carcinoma of the cervix, or basal or squamous cell\n             carcinoma of the skin\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  No concurrent immunologic therapy\n\n        Chemotherapy:\n\n          -  No prior chemotherapy allowed\n\n        Endocrine therapy:\n\n          -  No concurrent hormonal therapy\n\n          -  At least 2 weeks since corticoid treatment\n\n        Radiotherapy:\n\n          -  No prior radiotherapy allowed except as an analgesic treatment on metastasis\n\n        Surgery:\n\n          -  Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "200", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003029", 
+            "org_study_id": "EORTC-05962", 
+            "secondary_id": "EORTC-05962"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "fluorouracil", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cisplatin", 
+                "Fluorouracil"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "stage III pancreatic cancer", 
+            "adenocarcinoma of the pancreas", 
+            "stage IV pancreatic cancer"
+        ], 
+        "lastchanged_date": "June 29, 2012", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/EORTC-05962"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Haine Saint Paul", 
+                        "country": "Belgium", 
+                        "zip": "7100"
+                    }, 
+                    "name": "Hopital de Jolimont"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liege", 
+                        "country": "Belgium", 
+                        "zip": "B 4000"
+                    }, 
+                    "name": "Les Cliniques Saint-Joseph ASBL"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bayonne", 
+                        "country": "France", 
+                        "zip": "64109"
+                    }, 
+                    "name": "Centre Hospitalier de la Cote Basque"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clermont-Ferrand", 
+                        "country": "France", 
+                        "zip": "63011"
+                    }, 
+                    "name": "Centre Jean Perrin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21079"
+                    }, 
+                    "name": "Centre de Lutte Contre le Cancer, Georges-Francois Leclerc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Levallois-Perret", 
+                        "country": "France", 
+                        "zip": "92300"
+                    }, 
+                    "name": "Hopital Perpetuel Secours"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Limoges", 
+                        "country": "France", 
+                        "zip": "87042"
+                    }, 
+                    "name": "Centre Hospital Regional Universitaire de Limoges"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Metz", 
+                        "country": "France", 
+                        "zip": "55038"
+                    }, 
+                    "name": "Hopital Notre-Dame de Bon Secours"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montlucon", 
+                        "country": "France", 
+                        "zip": "03109"
+                    }, 
+                    "name": "Centre Hospitalier de Montlucon"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Neuilly sur Seine", 
+                        "country": "France", 
+                        "zip": "92200"
+                    }, 
+                    "name": "Clinique Hartmann"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75475"
+                    }, 
+                    "name": "Hopital Saint-Louis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75674"
+                    }, 
+                    "name": "Hopital Cochin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Cloud", 
+                        "country": "France", 
+                        "zip": "92211"
+                    }, 
+                    "name": "Centre Rene Huguenin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Etienne", 
+                        "country": "France", 
+                        "zip": "42055"
+                    }, 
+                    "name": "Hopital Bellevue"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67010"
+                    }, 
+                    "name": "Clinique de l'Orangerie"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France", 
+                        "zip": "94804"
+                    }, 
+                    "name": "Hopital Paul Brousse"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Holon", 
+                        "country": "Israel", 
+                        "zip": "58100"
+                    }, 
+                    "name": "Wolfson Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chieti", 
+                        "country": "Italy", 
+                        "zip": "66100"
+                    }, 
+                    "name": "Universita G.D'Annunzio Di Chieti"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amadora", 
+                        "country": "Portugal", 
+                        "zip": "P-2700"
+                    }, 
+                    "name": "Hospital Fernando Fonseca"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Belgium", 
+                "France", 
+                "Israel", 
+                "Italy", 
+                "Portugal"
+            ]
+        }, 
+        "official_title": "Infusional 5-Fluorouracil With or Without Cisplatin and With or Without Chronomodulation Against Locally-Advanced or Metastatic Pancreatic Cancer. A Multicenter Randomized Phase III Trial.", 
+        "overall_official": {
+            "affiliation": "Institut de Cancerologie et D'Immunogenetique at Hopital Paul-Brousse", 
+            "last_name": "Francis Levi, MD, PhD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "July 2003", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003029"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "European Organisation for Research and Treatment of Cancer - EORTC", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "European Organisation for Research and Treatment of Cancer - EORTC", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 1997", 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2012"
+    }, 
+    "geocoordinates": {
+        "Centre Hospital Regional Universitaire de Limoges": "45.834 1.261", 
+        "Centre Hospitalier de Montlucon": "46.34 2.607", 
+        "Centre Hospitalier de la Cote Basque": "43.493 -1.475", 
+        "Centre Jean Perrin": "45.777 3.087", 
+        "Centre Rene Huguenin": "48.848 2.208", 
+        "Centre de Lutte Contre le Cancer, Georges-Francois Leclerc": "47.322 5.041", 
+        "Clinique Hartmann": "48.885 2.269", 
+        "Clinique de l'Orangerie": "48.583 7.748", 
+        "Hopital Bellevue": "45.44 4.387", 
+        "Hopital Cochin": "48.857 2.352", 
+        "Hopital Notre-Dame de Bon Secours": "49.12 6.177", 
+        "Hopital Paul Brousse": "48.793 2.359", 
+        "Hopital Perpetuel Secours": "48.893 2.288", 
+        "Hopital Saint-Louis": "48.857 2.352", 
+        "Hopital de Jolimont": "50.453 4.191", 
+        "Hospital Fernando Fonseca": "38.762 -9.24", 
+        "Les Cliniques Saint-Joseph ASBL": "50.633 5.58", 
+        "Universita G.D'Annunzio Di Chieti": "42.352 14.167", 
+        "Wolfson Medical Center": "32.016 34.787"
+    }
+}

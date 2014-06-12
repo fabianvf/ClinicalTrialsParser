@@ -1,0 +1,176 @@
+{
+    "clinical_study": {
+        "@rank": "57285", 
+        "arm_group": [
+            {
+                "arm_group_label": "Tenofovir DF", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Participants received tenofovir DF 300 mg for 14 days"
+            }, 
+            {
+                "arm_group_label": "Tenofovir alafenamide 50 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants received tenofovir alafenamide 50 mg for 14 days"
+            }, 
+            {
+                "arm_group_label": "Tenofovir alafenamide 150 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants received tenofovir alafenamide 150 mg for 14 days"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study evaluated two doses of tenofovir alafenamide versus tenofovir disoproxil fumarate\n      (tenofovir DF)."
+        }, 
+        "brief_title": "A Dose Escalation Study of Tenofovir Alafenamide in Treatment-Naive Patients", 
+        "completion_date": {
+            "#text": "February 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n          -  HIV-1 RNA levels greater than or equal to 30,000 copies/mL\n\n          -  CD4 count greater than or equal to 200 cells/mm3\n\n          -  Serum creatinine <1.5 mg/dl\n\n          -  Hepatic transaminases less than or equal to 2.5 times the upper limit of normal\n\n          -  Total bilirubin less than or equal to 1.5 mg/dL\n\n          -  Adequate hematologic function\n\n          -  Serum amylase less than or equal to 1.5 times the upper limit of normal\n\n          -  Serum phosphate greater than or equal to 2.2 mg/dL\n\n          -  Not pregnant\n\n        Exclusion Criteria\n\n          -  Prior treatment with antiretroviral therapy\n\n          -  Immunization within 30 days  of study entry\n\n          -  A new AIDS defining condition within 30 days of study entry\n\n          -  Receiving nephrotoxic agents, probenecid,  chemotherapeutic agents, corticosteroids,\n             interleukin-2"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 13, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00036634", 
+            "org_study_id": "GS-120-1101"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Tenofovir DF", 
+                "description": "Tenofovir DF tablet administered orally once daily", 
+                "intervention_name": "Tenofovir DF", 
+                "intervention_type": "Drug", 
+                "other_name": "Viread\u00ae"
+            }, 
+            {
+                "arm_group_label": [
+                    "Tenofovir alafenamide 50 mg", 
+                    "Tenofovir alafenamide 150 mg"
+                ], 
+                "description": "Tenofovir alafenamide tablet(s) administered orally once daily", 
+                "intervention_name": "Tenofovir alafenamide", 
+                "intervention_type": "Drug", 
+                "other_name": "GS-7340"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Tenofovir", 
+                "Tenofovir disoproxil"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "treatment naive", 
+        "lastchanged_date": "January 13, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Stanford Positive Care Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60610"
+                    }, 
+                    "name": "Protocare Trials Chicago Center for Clinical Trials"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Rockefeller University Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Phase 1/2, Randomized, Double-Blind, Active Controlled, Dose Escalation Study of the Safety, Tolerance, Pharmacokinetic,, and Antiviral Activity of GS-7340-02 in Antiretroviral-Naive Patients Who Are Chronically Infected With HIV-1", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "February 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "DAVG2 was defined as the time-weighted average between baseline value through the last available value up to week 2 minus the baseline value.", 
+            "measure": "Time-weighted average change from baseline through Week 2 (DAVG2) for HIV-1 RNA (log10 copies/mL)", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline to Week 2"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00036634"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Change from baseline in HIV-1 RNA (log10 copies/mL)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 2"
+            }, 
+            {
+                "measure": "Change from baseline in CD4 cell count (cells/mm3)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 2"
+            }
+        ], 
+        "source": "Gilead Sciences", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gilead Sciences", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "March 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }, 
+    "geocoordinates": {
+        "Protocare Trials Chicago Center for Clinical Trials": "41.878 -87.63", 
+        "Rockefeller University Hospital": "40.714 -74.006", 
+        "Stanford Positive Care Program": "37.442 -122.143"
+    }
+}

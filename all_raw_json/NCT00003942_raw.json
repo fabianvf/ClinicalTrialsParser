@@ -1,0 +1,185 @@
+{
+    "clinical_study": {
+        "@rank": "70734", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Inserting the gene for RevM10 into a person's peripheral stem cells may improve\n      the body's ability to fight cancer or make the cancer more sensitive to chemotherapy.\n\n      PURPOSE: Phase I/II trial to study the effectiveness of RevM10-treated stem cells plus\n      chemotherapy and peripheral stem cell transplantation in treating patients who have\n      HIV-related non-Hodgkin's lymphoma."
+        }, 
+        "brief_title": "Gene Therapy, Chemotherapy, and Peripheral Stem Cell Transplantation in Treating Patients With HIV-Related Non-Hodgkin's Lymphoma", 
+        "condition": "Lymphoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lymphoma", 
+                "Lymphoma, Non-Hodgkin"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the safety of infusion of RevM10 or RevM10/polAS transduced\n      hematopoietic stem cells (HSC) in addition to high dose chemotherapy and standard peripheral\n      blood stem cell support in patients with HIV-1 related non-Hodgkin's lymphoma. II. Determine\n      gene marking of lymphocytes and myeloid cells in peripheral blood, bone marrow, and/or lymph\n      nodes after infusion of RevM10-HSC or RevM10/polAS-HSC in these patients. III. Determine the\n      antiretroviral effect of this treatment in these patients.\n\n      OUTLINE: This is a multicenter study. Patients receive mobilization therapy and undergo\n      leukapheresis according to a standard protocol. High dose chemotherapy is administered on\n      days -7 to -1, also according to a standard protocol. On day 0, autologous hematopoietic\n      stem cells transduced with genes RevM10 or RevM10/polAS are infused. Unmodified autologous\n      peripheral blood stem cells are reinfused on day 1. Patients are followed daily for 2 weeks,\n      weekly for 2 weeks, monthly for 1 year, then annually thereafter.\n\n      PROJECTED ACCRUAL: Approximately 15 patients will be accrued for this study within 14\n      months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: HIV-1 infection documented by ELISA and Western blot\n        Histologically proven non-Hodgkin's lymphoma showing at least partial response to standard\n        chemotherapy regimen Poor prognosis in first chemotherapy induced remission Increased LDH\n        AND/OR Stage III or IV AND/OR Reduced performance status (ECOG 2 or worse) OR Response but\n        no complete remission following four courses of standard chemotherapy OR Responding\n        relapse after primary therapy No primary CNS lymphoma No uncontrolled meningeal lymphoma\n        at mobilization\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: See Disease Characteristics\n        Life expectancy: Not specified Hematopoietic: Absolute neutrophil count at least 1500/mm3\n        Platelet count at least 100,000/mm3 CD4 count at least 100/mm3 Hepatic: Bilirubin less\n        than 2 mg/dL (unless taking indinavir) SGOT and SGPT less than 2 times normal No hepatitis\n        Renal: Creatinine less than 2.0 mg/dL Pulmonary: DLCO greater than 60% Other: Not pregnant\n        or nursing Fertile patients must use effective contraception No active Mycobacterium\n        avium-intracellulare infection or CMV disease No cerebral toxoplasmosis or cryptococcal\n        meningitis At least 6 months since prior alcohol or substance abuse At least 1 year since\n        CNS disease or seizures No other medical condition that would preclude study\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: See Disease\n        Characteristics No concurrent chemotherapy for Kaposi's sarcoma Endocrine therapy: Not\n        specified Radiotherapy: Not specified Surgery: Not specified Other: At least 30 days since\n        prior treatment for serious opportunistic infections"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "15", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003942", 
+            "org_study_id": "CDR0000067135", 
+            "secondary_id": [
+                "SYSTEMIX-105", 
+                "UCLA-HSPC-980303601D", 
+                "NCI-G99-1549"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "RevM10 gene", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "RevM10/polAS gene", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "in vitro-treated peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "keyword": [
+            "AIDS-related peripheral/systemic lymphoma", 
+            "AIDS-related diffuse large cell lymphoma", 
+            "AIDS-related immunoblastic large cell lymphoma", 
+            "AIDS-related small noncleaved cell lymphoma", 
+            "AIDS-related diffuse mixed cell lymphoma", 
+            "AIDS-related diffuse small cleaved cell lymphoma", 
+            "AIDS-related lymphoblastic lymphoma"
+        ], 
+        "lastchanged_date": "December 3, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/SYSTEMIX-105"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "University of Alabama Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Cedars-Sinai Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095-1781"
+                    }, 
+                    "name": "Jonsson Comprehensive Cancer Center, UCLA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Division of Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Massachusetts General Hospital Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198-3330"
+                    }, 
+                    "name": "University of Nebraska Medical Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Phase I/II Study of the Safety and Feasibility of REVM10 or REVM10/ANTISENSE POL 1 Transduced Hematopoietic Stem Cells (HSC) in HIV-1 Related Non-Hodgkin's Lymphoma Patients Already Being Treated With High Dose Chemotherapy and Peripheral Blood Stem Cell Support", 
+        "overall_official": {
+            "affiliation": "Systemix", 
+            "last_name": "Tyler Martin, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003942"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Systemix", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 1998", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2000"
+    }, 
+    "geocoordinates": {
+        "Cedars-Sinai Medical Center": "34.052 -118.244", 
+        "Division of Oncology": "37.442 -122.143", 
+        "Jonsson Comprehensive Cancer Center, UCLA": "34.052 -118.244", 
+        "Massachusetts General Hospital Cancer Center": "42.358 -71.06", 
+        "University of Alabama Comprehensive Cancer Center": "33.521 -86.802", 
+        "University of Nebraska Medical Center": "41.252 -95.998"
+    }
+}

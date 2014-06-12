@@ -1,0 +1,707 @@
+{
+    "clinical_study": {
+        "@rank": "111221", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the safety, tolerability and antiviral activity\n      between once-daily (QD) and twice-daily (BID) dosing of lopinavir/ritonavir and to further\n      characterize the pharmacokinetics of once-daily dosing of lopinavir/ritonavir."
+        }, 
+        "brief_title": "Study of Lopinavir, Ritonavir, Tenofovir and Emtricitabine in HIV-Infected Antiretroviral Na\u00efve Subjects", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Subject is at least 18 years of age.\n\n          -  If female, subject is not of childbearing potential, defined as postmenopausal for at\n             least 1 year or surgically sterile (bilateral tubal ligation, bilateral oophorectomy\n             or hysterectomy), or is of childbearing potential and practicing one of the following\n             methods of birth control: *condoms, sponge, foams, jellies, diaphragm or intrauterine\n             device (IUD) *contraceptives (oral or parenteral) for three months prior to study\n             drug administration) *a vasectomized partner *total abstinence from sexual\n             intercourse\n\n          -  If female, the results of a urine pregnancy test performed at screening (urine\n             specimen obtained no earlier than 28 days prior to study drug administration) and a\n             urine pregnancy test performed on Study Day -1 are both negative and the subject\n             agrees to use a barrier method of contraception throughout the study.\n\n          -  Subject is not breast-feeding.\n\n          -  Vital signs, physical examination and laboratory results do not exhibit evidence of\n             acute illness.\n\n          -  Subject has no significant history of cardiac, renal, neurologic, psychiatric,\n             oncologic, endocrinologic, metabolic or hepatic disease that would adversely affect\n             his/her participating in this study.\n\n          -  Subject does not require and agrees not to take any of the following medications for\n             the duration of the study:  midazolam, triazolam, terfenadine, astemizole, cisapride,\n             pimozide, propafenone, flecainide, certain ergot derivatives (ergotamine,\n             dihydroergotamine, ergonovine, and methylergonovine), rifampin, lovastatin,\n             simvastatin, and St. John\u2019s wort.\n\n          -  Subject agrees not to take any medication during the study, including\n             over-the-counter medicine, herbal medications, alcohol or recreational drugs without\n             the knowledge and permission of the principal investigator.\n\n          -  Subject has a Karnofsky Score greater than or equal to 70\n\n          -  Subject has not been treated for an active AIDS-defining opportunistic infection\n             within 30 days of screening.  Subjects who are on stable maintenance therapy for an\n             opportunistic infection may be enrolled after consultation with Abbott.\n\n          -  Subject is naive to antiretroviral treatment (< 7 days ARV treatment).\n\n          -  Subject has a plasma HIV RNA level of greater than 1,000 copies/mL at screening.\n\n          -  Subject agrees to take all doses of the lopinavir/ritonavir from the bottles provided\n             by the sponsor (rather than take doses from a personal \u201cdosette\u201d box).\n\n          -  Subject has voluntarily signed and dated an informed consent form, approved by an\n             Institutional Review Board (IRB)/Independent Ethics Committee (IEC), after the nature\n             of the study has been explained and the subject has had the opportunity to ask\n             questions.  The informed consent must be signed before any study-specific procedures\n             are performed.\n\n        Exclusion Criteria:\n\n          -  Subject has a history of an allergic reaction or significant sensitivity to\n             lopinavir/ritonavir, tenofovir or emtricitabine or to drugs similar to study drug.\n\n          -  Subject has a recent (within the past 6 months) history of drug and/or alcohol abuse.\n\n          -  Subject has a positive result on the screening tests for drugs of abuse.\n\n          -  Subject has a history of substance abuse or psychiatric illness that could preclude\n             adherence with the protocol.\n\n          -  Screening laboratory analyses show any of the following abnormal laboratory results:\n              *Hemoglobin \u2264 8.0 g/dL *Absolute neutrophil count \u2264 750 cells/\u00b5L   *Platelet count \u2264\n             50,000 per mL   *ALT or AST \u2265 3.0 x Upper Limit of Normal (ULN)   *Creatinine \u2265 1.5 x\n             Upper Limit of Normal (ULN)\n\n          -  Subject has received any investigational drug within 30 days prior to study drug\n             administration.\n\n          -  For any reason, subject is considered by the investigator to be an unsuitable\n             candidate for the study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "200", 
+        "firstreceived_date": "August 15, 2002", 
+        "id_info": {
+            "nct_id": "NCT00043966", 
+            "org_study_id": "M02-418"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Lopinavir/ritonavir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Tenofovir DF", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Emtricitabine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Ritonavir", 
+                "Lopinavir", 
+                "Tenofovir", 
+                "Tenofovir disoproxil", 
+                "Emtricitabine"
+            ]
+        }, 
+        "keyword": "treatment naive", 
+        "lastchanged_date": "July 26, 2006", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix,", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85006"
+                    }, 
+                    "name": "Phoenix Body Positive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90211"
+                    }, 
+                    "name": "Pacific Oaks Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fountain Valley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92708"
+                    }, 
+                    "name": "Orange County Center for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90813"
+                    }, 
+                    "name": "Living Hope Clinical Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }, 
+                    "name": "AIDS Healthcare Foundation Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Altamonte Springs", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32701"
+                    }, 
+                    "name": "IDS Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlantis", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33462"
+                    }, 
+                    "name": "South Florida Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Myers", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33901"
+                    }, 
+                    "name": "Associates in Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft. Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33311"
+                    }, 
+                    "name": "Comprehensive Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft. Lauderdale,", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "Gary J. Richmond, MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Plantation", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33317"
+                    }, 
+                    "name": "Morris, Sklaver, Mestre & Denney, M.D., PA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Safety Harbor", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34695"
+                    }, 
+                    "name": "Health Positive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Infectious Disease Research Institute, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vero Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32960"
+                    }, 
+                    "name": "Treasure Coast Infectious Disease Consultants"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30308"
+                    }, 
+                    "name": "AIDS Research Consortium of Atlanta Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita,", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "Donna E. Sweet, MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70115"
+                    }, 
+                    "name": "Drs. Combs and Lutz"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07102-9880"
+                    }, 
+                    "name": "St. Michael's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "Polari Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem,", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157-1042"
+                    }, 
+                    "name": "Wake Forest University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44304"
+                    }, 
+                    "name": "Akron Infectious Disease, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74114"
+                    }, 
+                    "name": "Associates in Medical and Mental Health, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97209-2535"
+                    }, 
+                    "name": "The Research & Education Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Triangle Medical"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia,", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Philadelphia FIGHT"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78705"
+                    }, 
+                    "name": "Central Texas Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77004"
+                    }, 
+                    "name": "Joseph C. Gathe, Jr, MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77098"
+                    }, 
+                    "name": "Southampton Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Medical Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Darlinghurst", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2010"
+                    }, 
+                    "name": "Holdsworth House General Practice"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Darlinghurst", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2010"
+                    }, 
+                    "name": "Ground Zero Medical Centre / AIDS Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "state": "Cedex 10", 
+                        "zip": "75475"
+                    }, 
+                    "name": "Hopital Saint Louis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "state": "Cedex 12", 
+                        "zip": "75571"
+                    }, 
+                    "name": "Hopital Saint Antoine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "state": "Cedex 20", 
+                        "zip": "75970"
+                    }, 
+                    "name": "Hopital Tenon"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Le Kremlin Bicetre", 
+                        "country": "France", 
+                        "zip": "94272"
+                    }, 
+                    "name": "CHU Kremlin Bicetre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice", 
+                        "country": "France", 
+                        "zip": "06202"
+                    }, 
+                    "name": "Hopital l'Archet"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75018"
+                    }, 
+                    "name": "Hopital Bichat"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Frankfurt", 
+                        "country": "Germany", 
+                        "zip": "D-60590"
+                    }, 
+                    "name": "Klinikum J.W. Goethe Universitat"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Koln", 
+                        "country": "Germany", 
+                        "zip": "D-505924"
+                    }, 
+                    "name": "Klinik I fur Innere Medizin der Universitat zu Koln"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tan Tock Seng", 
+                        "country": "Singapore", 
+                        "zip": "308433"
+                    }, 
+                    "name": "Tan Tock Seng Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Badalona", 
+                        "country": "Spain", 
+                        "zip": "08916"
+                    }, 
+                    "name": "Hospital Germans Trias I Pujol"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08907"
+                    }, 
+                    "name": "L'Hospitalet de Llobregat"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08025"
+                    }, 
+                    "name": "Hospital de la Santa Creu i Sant Pau"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08035"
+                    }, 
+                    "name": "Hospital Vall D'Hebron"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }, 
+                    "name": "Hospital 12 de Octubre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28046"
+                    }, 
+                    "name": "Hospital La Paz"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28935"
+                    }, 
+                    "name": "Hospital de Mostolesi"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "E. Sussex", 
+                        "country": "United Kingdom", 
+                        "zip": "BN2 3EW"
+                    }, 
+                    "name": "Brighton General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "SE5 9RS"
+                    }, 
+                    "name": "The Caldecot Centre King's Healthcare NHS Trust"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "NW3 2QG"
+                    }, 
+                    "name": "Royal Free Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "SW10 9TH"
+                    }, 
+                    "name": "St. Stephen's Centre Chelsea & Westminster Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "W2 1NY"
+                    }, 
+                    "name": "St. Mary Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "France", 
+                "Germany", 
+                "Singapore", 
+                "Spain", 
+                "United Kingdom"
+            ]
+        }, 
+        "official_title": "A Randomized, Open-Label Study of 800 Mg Lopinavir/200 Mg Ritonavir QD in Combination With Tenofovir and Emtricitabine Vs. 400 Mg Lopinavir /100 Mg Ritonavir BID in Combination With Tenofovir and Emtricitabine in HIV-Infected Antiretroviral Na\u00efve Subjects", 
+        "overall_official": {
+            "affiliation": "Global Project Head, Antiviral Global Project Team", 
+            "last_name": "Scott Brun, M.D.", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "primary_outcome": {
+            "measure": "Proportion of subjects with plasma HIV RNA level below 50 copies/mL at week 48"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00043966"
+        }, 
+        "source": "Abbott", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Abbott", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "July 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2006"
+    }, 
+    "geocoordinates": {
+        "AIDS Healthcare Foundation Research Center": "34.052 -118.244", 
+        "AIDS Research Consortium of Atlanta Inc.": "33.749 -84.388", 
+        "Akron Infectious Disease, Inc.": "41.081 -81.519", 
+        "Associates in Medical and Mental Health, P.C.": "36.154 -95.993", 
+        "Associates in Research": "26.641 -81.872", 
+        "Brighton General Hospital": "50.929 0.276", 
+        "CHU Kremlin Bicetre": "48.81 2.357", 
+        "Central Texas Clinical Research": "30.267 -97.743", 
+        "Comprehensive Care Center": "26.122 -80.143", 
+        "Donna E. Sweet, MD": "37.692 -97.337", 
+        "Drs. Combs and Lutz": "29.951 -90.072", 
+        "Gary J. Richmond, MD": "26.122 -80.143", 
+        "Ground Zero Medical Centre / AIDS Research Initiative": "-33.881 151.219", 
+        "Hampton Roads Medical Specialists": "37.03 -76.345", 
+        "Health Positive": "27.991 -82.693", 
+        "Holdsworth House General Practice": "-33.881 151.219", 
+        "Hopital Bichat": "48.857 2.352", 
+        "Hopital Saint Antoine": "48.857 2.352", 
+        "Hopital Saint Louis": "48.857 2.352", 
+        "Hopital Tenon": "48.857 2.352", 
+        "Hopital l'Archet": "43.696 7.266", 
+        "Hospital 12 de Octubre": "40.417 -3.7", 
+        "Hospital Germans Trias I Pujol": "41.45 2.247", 
+        "Hospital La Paz": "40.417 -3.7", 
+        "Hospital Vall D'Hebron": "41.388 2.17", 
+        "Hospital de Mostolesi": "40.417 -3.7", 
+        "Hospital de la Santa Creu i Sant Pau": "41.388 2.17", 
+        "IDS Research Initiative": "28.661 -81.366", 
+        "Infectious Disease Research Institute, Inc.": "27.951 -82.457", 
+        "Joseph C. Gathe, Jr, MD": "29.76 -95.369", 
+        "Klinik I fur Innere Medizin der Universitat zu Koln": "50.958 6.92", 
+        "Klinikum J.W. Goethe Universitat": "50.111 8.682", 
+        "L'Hospitalet de Llobregat": "41.388 2.17", 
+        "Living Hope Clinical Foundation": "33.804 -118.158", 
+        "Morris, Sklaver, Mestre & Denney, M.D., PA": "26.128 -80.233", 
+        "Orange County Center for Special Immunology": "33.709 -117.954", 
+        "Pacific Oaks Research": "34.074 -118.4", 
+        "Philadelphia FIGHT": "39.952 -75.164", 
+        "Phoenix Body Positive": "33.448 -112.074", 
+        "Polari Medical Group": "40.714 -74.006", 
+        "Royal Free Hospital": "51.508 -0.128", 
+        "South Florida Clinical Research": "26.591 -80.101", 
+        "Southampton Medical Group": "29.76 -95.369", 
+        "St. Mary Hospital": "51.508 -0.128", 
+        "St. Michael's Medical Center": "40.736 -74.172", 
+        "St. Stephen's Centre Chelsea & Westminster Hospital": "51.508 -0.128", 
+        "Tan Tock Seng Hospital": "1.322 103.847", 
+        "The Caldecot Centre King's Healthcare NHS Trust": "51.508 -0.128", 
+        "The Research & Education Group": "45.523 -122.676", 
+        "Treasure Coast Infectious Disease Consultants": "27.639 -80.397", 
+        "Triangle Medical": "39.952 -75.164", 
+        "Wake Forest University School of Medicine": "36.1 -80.244"
+    }
+}

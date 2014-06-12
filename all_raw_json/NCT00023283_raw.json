@@ -1,0 +1,151 @@
+{
+    "clinical_study": {
+        "@rank": "139802", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Standard Medical Management with once-weekly medication dispensing"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Experimental", 
+                "description": "Standard Medical Management with thrice-weekly medication dispensing"
+            }, 
+            {
+                "arm_group_label": "3", 
+                "arm_group_type": "Experimental", 
+                "description": "Enhanced Medical Management with thrice-weekly medication dispensing"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the Standard Medical Management (SMM) vs. SMM\n      enhanced with additional education about addiction and recovery (Enhanced Medical\n      Management, EMM)"
+        }, 
+        "brief_title": "Counseling Conditions for Buprenorphine in a Primary Care Clinic - 1", 
+        "condition": [
+            "Heroin Dependence", 
+            "Opioid-Related Disorders", 
+            "Substance Abuse, Intravenous"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Heroin Dependence", 
+                "Opioid-Related Disorders", 
+                "Substance Abuse, Intravenous", 
+                "Substance-Related Disorders"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "A randomized trial, in a hospital primary care clinic, for 24 weeks, of 168 opioid-dependent\n      subjects, maintained on buprenorphine 3x/week, and counseled with Standard or Enhanced\n      Medical Management.  SMM is a brief intervention similar to that provided by primary\n      practitioners to patients with chronic medical conditions such as diabetes.  EMM is an\n      intervention that provides education about the recovery process and advice about lifestyle\n      changes and 12-step participation.  Outcome measures include reduction in opioid use and\n      abstinence from opioids, documented by 3x/week urine testing and self report."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria: Subjects meeting FDA criteria for opioid agonist maintenance treatment\n        and DSM-IV criteria for opioid dependence will be eligible for the study.  Women of\n        childbearing age will be included provided they agree to adequate contraception and to\n        monthly pregnancy monitoring throughout the study.\n\n        Exclusion criteria include: pregnancy, current dependence on alcohol, benzodiazepines or\n        sedatives; current suicide or homicide risk; current psychotic disorder or major\n        depression; inability to read or understand English; life-threatening or unstable medical\n        problems."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "0", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 30, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00023283", 
+            "org_study_id": "NIDA-9803-1", 
+            "secondary_id": "R01-9803-1"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "1", 
+                "2", 
+                "3"
+            ], 
+            "description": "Experimental Standard Medical Management with once-weekly medication dispensing\nExperimental Standard Medical Management with thrice-weekly medication dispensing\nExperimental Enhanced Medical Management with thrice-weekly medication dispensing", 
+            "intervention_name": "Buprenorphine", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Buprenorphine"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "December 30, 2008", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New Haven", 
+                    "country": "United States", 
+                    "state": "Connecticut", 
+                    "zip": "06519"
+                }, 
+                "name": "APT Residential Services Division"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Counseling Conditions for Thrice Weekly Buprenorphine in a Primary Care Clinic", 
+        "overall_contact": {
+            "email": "richard.schottenfeld@yale.edu", 
+            "last_name": "Richard Schottenfeld, M.D.", 
+            "phone": "(203)974-7349"
+        }, 
+        "overall_official": {
+            "affiliation": "Yale University", 
+            "last_name": "Richard Schottenfeld, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_outcome": [
+            {
+                "measure": "Self-reported frequency of illicit opioid use", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "measure": "Percentage of opioid-negative urine specimens", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "measure": "Maximum number of weeks abstinent from illicit opioids", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00023283"
+        }, 
+        "responsible_party": {
+            "name_title": "Richard S. Schottenfeld, MD", 
+            "organization": "Yale University School of Medicine"
+        }, 
+        "source": "National Institute on Drug Abuse (NIDA)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Yale University", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Institute on Drug Abuse (NIDA)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2008"
+    }, 
+    "geocoordinates": {
+        "APT Residential Services Division": "41.308 -72.928"
+    }
+}

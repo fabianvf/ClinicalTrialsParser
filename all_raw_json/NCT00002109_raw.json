@@ -1,0 +1,696 @@
+{
+    "clinical_study": {
+        "@rank": "15171", 
+        "brief_summary": {
+            "textblock": "To confirm results from a previous study in which the combination of thymopentin plus\n      zidovudine ( AZT ), an antiretroviral agent, slowed disease progression in HIV-infected\n      asymptomatic patients. To evaluate the efficacy and safety of thymopentin in HIV-infected\n      asymptomatic patients receiving either monotherapy with AZT, didanosine ( ddI ), or\n      stavudine ( d4T ), or combination antiretroviral therapy with AZT / ddI or AZT / zalcitabine\n      ( ddC )."
+        }, 
+        "brief_title": "Double-Blind Study of Timunox (Thymopentin) in Asymptomatic HIV-Infected Patients Receiving Either Mono (AZT or ddI) or Combination (AZT / ddI or AZT / ddC) Anti-Retroviral Therapy", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients must have:\n\n          -  Asymptomatic HIV infection.\n\n          -  CD4 count 100-400 cells/mm3.\n\n          -  No HIV-associated neurologic abnormalities or constitutional symptoms.\n\n          -  No oral hairy leukoplakia.\n\n          -  At least 6 months of prior AZT.\n\n        Exclusion Criteria\n\n        Co-existing Condition:\n\n        Patients with the following symptoms or conditions are excluded:\n\n          -  Abnormal chest x-ray, consistent with active opportunistic infection.\n\n          -  Hypersensitivity to thymopentin.\n\n          -  Significant chronic underlying medical illness.\n\n          -  Grade 2 or worse peripheral neuropathy.\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  HIV vaccines.\n\n          -  Investigational or non-FDA approved medication.\n\n          -  Immunomodulatory therapies.\n\n          -  Experimental therapies.\n\n          -  Any antiretroviral therapy other than AZT, ddI, ddC, d4T, or 3TC.\n\n        Patients with the following prior conditions are excluded:\n\n          -  Herpes zoster (within the past year).\n\n          -  Recurrent (> one episode) oral candidiasis (confirmed).\n\n          -  Vulvovaginal candidiasis (persistent, frequent, or poorly responsive to therapy).\n\n          -  Bacillary angiomatosis.\n\n          -  Listeriosis.\n\n          -  Idiopathic thrombocytopenia purpura.\n\n        Prior Medication:\n\n        Excluded at any time prior to study entry:\n\n        More than one dose of thymopentin.\n\n        Excluded within 30 days prior to study entry:\n\n          -  HIV vaccines.\n\n          -  Investigational or non-FDA approved medication.\n\n          -  Immunomodulatory therapies.\n\n          -  Experimental therapies.\n\n          -  Any antiretroviral therapy other than AZT, ddI, ddC, d4T, or 3TC.\n\n        Required:\n\n          -  Prior AZT (>= 300 mg/day) for at least 6 months; on current regimen (any combination\n             of approved nucleoside analogues) for at least 4 weeks.\n\n        Significant active alcohol or drug abuse."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002109", 
+            "org_study_id": "015H", 
+            "secondary_id": "07.32.033-93"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Thymopentin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Stavudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Zidovudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Zalcitabine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Didanosine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Zalcitabine", 
+                "Didanosine", 
+                "Zidovudine", 
+                "Stavudine", 
+                "Thymopentin"
+            ]
+        }, 
+        "keyword": [
+            "Thymopentin", 
+            "Zalcitabine", 
+            "Didanosine", 
+            "Drug Therapy, Combination", 
+            "Zidovudine", 
+            "Stavudine"
+        ], 
+        "lastchanged_date": "June 23, 2005", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85013"
+                    }, 
+                    "name": "Fisher Med Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Irvine", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92718"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90036"
+                    }, 
+                    "name": "Beer Med Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pasadena", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90112"
+                    }, 
+                    "name": "Gottlieb Med Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Redwood City", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94063"
+                    }, 
+                    "name": "AIDS Community Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92102"
+                    }, 
+                    "name": "HIV Research Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }, 
+                    "name": "Conant Med Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }, 
+                    "name": "Kaiser Permanente Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sherman Oaks", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91403"
+                    }, 
+                    "name": "Pacific Oaks Med Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90502"
+                    }, 
+                    "name": "Harbor - UCLA Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenwich", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06830"
+                    }, 
+                    "name": "Dr Gary Blick"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20003"
+                    }, 
+                    "name": "Dr Larry Bruni"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20037"
+                    }, 
+                    "name": "Novum Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coral Gables", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33146"
+                    }, 
+                    "name": "Community Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33334"
+                    }, 
+                    "name": "Stratogen of Ft Lauderdale"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33140"
+                    }, 
+                    "name": "Stratogen of South Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Infectious Disease Research Institute Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Saint Joseph's Hosp / Infectious Disease Rsch Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30327"
+                    }, 
+                    "name": "West Paces Clinical Research Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Presbyterian - Saint Luke's Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60657"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Infectious Diseases Research Clinic / Indiana Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "Univ of Kansas School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brookline", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02445"
+                    }, 
+                    "name": "CRI of New England"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "641082792"
+                    }, 
+                    "name": "Kansas City AIDS Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63108"
+                    }, 
+                    "name": "Systemic Mycoses Pathogen Study Group / Wash Univ Sch of Med"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87108"
+                    }, 
+                    "name": "Lovelace Scientific Resource"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Van Etten Hosp / Bronx Municipal Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "New York Hosp - Cornell Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10001"
+                    }, 
+                    "name": "Dr David DiPietro"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10010"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10014"
+                    }, 
+                    "name": "Dr Howard A Grossman"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "Dr Patrick Hennessey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stony Brook", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "117948153"
+                    }, 
+                    "name": "SUNY / Health Sciences Ctr at Stony Brook"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Cleveland Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "741141325"
+                    }, 
+                    "name": "Associates Med and Mental Health"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97232"
+                    }, 
+                    "name": "Dr Joel Godbey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19146"
+                    }, 
+                    "name": "Graduate Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Philadelphia FIGHT"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15206"
+                    }, 
+                    "name": "Novum Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78751"
+                    }, 
+                    "name": "Central Texas Med Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75219"
+                    }, 
+                    "name": "Nelson-Tebedo Community Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75219"
+                    }, 
+                    "name": "Dr Christopher McNulty"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77006"
+                    }, 
+                    "name": "Houston Clinical Research Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Med Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kirkland", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98034"
+                    }, 
+                    "name": "Novum Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio Piedras", 
+                        "country": "Puerto Rico", 
+                        "zip": "00935"
+                    }, 
+                    "name": "Univ of Puerto Rico Med Sciences Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00902"
+                    }, 
+                    "name": "Initiativa Comunitaria de Investigacion"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "Double-Blind Study of Timunox (Thymopentin) in Asymptomatic HIV-Infected Patients Receiving Either Mono (AZT or ddI) or Combination (AZT/ddI or AZT/ddC) Anti-Retroviral Therapy", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002109"
+        }, 
+        "source": "NIH AIDS Clinical Trials Information Service", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Immunobiology Research Institute", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 1996"
+    }, 
+    "geocoordinates": {
+        "AIDS Community Research Consortium": "37.485 -122.236", 
+        "Associates Med and Mental Health": "36.154 -95.993", 
+        "Beer Med Group": "34.052 -118.244", 
+        "CRI of New England": "42.332 -71.121", 
+        "Central Texas Med Foundation": "30.267 -97.743", 
+        "Cleveland Clinic": "41.499 -81.695", 
+        "Community Research Initiative": "25.721 -80.268", 
+        "Conant Med Group": "37.775 -122.419", 
+        "Ctr for Special Immunology": "40.714 -74.006", 
+        "Dr Christopher McNulty": "32.803 -96.77", 
+        "Dr David DiPietro": "40.714 -74.006", 
+        "Dr Gary Blick": "41.039 -73.614", 
+        "Dr Howard A Grossman": "40.714 -74.006", 
+        "Dr Joel Godbey": "45.523 -122.676", 
+        "Dr Larry Bruni": "38.895 -77.036", 
+        "Dr Patrick Hennessey": "40.714 -74.006", 
+        "Fisher Med Group": "33.448 -112.074", 
+        "Gottlieb Med Group": "34.148 -118.145", 
+        "Graduate Hosp": "39.952 -75.164", 
+        "HIV Research Group": "32.715 -117.157", 
+        "Hampton Roads Med Specialists": "37.03 -76.345", 
+        "Harbor - UCLA Med Ctr": "33.836 -118.341", 
+        "Houston Clinical Research Network": "29.76 -95.369", 
+        "Infectious Disease Research Institute Inc": "27.951 -82.457", 
+        "Infectious Diseases Research Clinic / Indiana Univ Hosp": "39.769 -86.158", 
+        "Initiativa Comunitaria de Investigacion": "18.466 -66.106", 
+        "Kaiser Permanente Med Ctr": "37.775 -122.419", 
+        "Kansas City AIDS Research Consortium": "39.1 -94.579", 
+        "Lovelace Scientific Resource": "35.084 -106.651", 
+        "Nelson-Tebedo Community Clinic": "32.803 -96.77", 
+        "New York Hosp - Cornell Med Ctr": "40.714 -74.006", 
+        "Northwestern Univ Med Ctr": "41.878 -87.63", 
+        "Novum Inc": "47.681 -122.209", 
+        "Pacific Oaks Med Group": "34.149 -118.451", 
+        "Philadelphia FIGHT": "39.952 -75.164", 
+        "Rush Presbyterian - Saint Luke's Med Ctr": "41.878 -87.63", 
+        "SUNY / Health Sciences Ctr at Stony Brook": "40.926 -73.141", 
+        "Saint Joseph's Hosp / Infectious Disease Rsch Institute": "27.951 -82.457", 
+        "Stratogen of Ft Lauderdale": "26.122 -80.143", 
+        "Stratogen of South Florida": "25.791 -80.13", 
+        "Systemic Mycoses Pathogen Study Group / Wash Univ Sch of Med": "38.627 -90.199", 
+        "Univ of Kansas School of Medicine": "37.692 -97.337", 
+        "Univ of Puerto Rico Med Sciences Campus": "18.397 -66.05", 
+        "Van Etten Hosp / Bronx Municipal Hosp Ctr": "40.85 -73.867", 
+        "West Paces Clinical Research Inc": "33.749 -84.388"
+    }
+}

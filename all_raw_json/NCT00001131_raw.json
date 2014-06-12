@@ -1,0 +1,161 @@
+{
+    "clinical_study": {
+        "@rank": "52164", 
+        "arm_group": [
+            {
+                "arm_group_label": "A", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients will recieve a daily, self-administered subcutaneous injection of IL-2 while continuing treatment with their current oral anti-HIV medications"
+            }, 
+            {
+                "arm_group_label": "B", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients will only follow their current oral anti-HIV medication regimen. No additional IL-2 injection will be given."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to find out if the immune systems of HIV-positive patients can\n      be improved by treatment with anti-HIV medications plus interleukin-2 (IL-2) in the early\n      stages of HIV infection.\n\n      IL-2 is a protein found naturally in the blood that can help boost the immune system. HIV\n      spreads throughout the body by invading CD4 cells, which are cells of the immune system that\n      fight infection. Doctors hope that adding IL-2 to a current anti-HIV drug combination can\n      help restore the CD4 cell count and the immune functions. This study will look at how the\n      HIV virus acts during the early stages of HIV infection, how the immune system responds to\n      HIV, and what impact early treatment with anti-HIV medications has on the course of HIV\n      infection."
+        }, 
+        "brief_title": "Effectiveness of Interleukin-2 (IL-2) Plus Anti-HIV Therapy in HIV-Positive Patients", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "At the time of initial HIV infection, CD4 cells are susceptible to infection, and the virus\n      infects many T cells during the first 4 to 6 weeks. Many of these infected cells\n      subsequently maintain the virus in a latent state. Immune reconstitution with daily low-dose\n      IL-2 therapy is intended to correct or improve the deficiency in CD4 cells, while\n      maintaining a high frequency of CD8+ HIV-specific CTL and increasing natural killer (NK)\n      cells. After a year of HAART plus IL-2, it may be possible to discontinue HAART while\n      maintaining IL-2 stimulatory therapy, and the immune reactivity repaired and stimulated by\n      IL-2 should be able to contain the virus and maintain latency.\n\n      Patients are randomized to add IL-2 to their current HAART regimen or simply to remain on\n      their current HAART regimen. IL-2 therapy is initiated at Month 3 of HAART. IL-2 is injected\n      subcutaneously daily for 9 months, in addition to HAART.  After completion of this 1-year\n      treatment period, patients are evaluated for discontinuation of HAART. Patients with a viral\n      load below 50 copies/ml throughout HAART plus IL-2, a CD4 count of at least 500 cells/mm3,\n      and no onset of opportunistic infections may have HAART discontinued and IL-2 continued as\n      monotherapy for an additional 6 months. After completing 6 months of IL-2 monotherapy,\n      eligible patients may have IL-2 therapy discontinued."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  HIV-infected.\n\n          -  Viral load of 5,000 copies/ml or less within 3 months.\n\n          -  Completed at least 3 months of anti-HIV medications.\n\n          -  Have a refrigerator to store the needles for IL-2 shots.\n\n        Exclusion Criteria\n\n          -  Glucocorticoids or other drugs that affect the immune system such as INF-alpha,\n             G-CSF, or GM-CSF."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "42", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 17, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00001131", 
+            "org_study_id": "AI-06-001", 
+            "secondary_id": "AIEDRP AI-06-001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "A", 
+                "description": "Subcutaneous injection of IL-2 in the amount of 2.0 X 10^6 mIU per day for the entire duration of therapy", 
+                "intervention_name": "Aldesleukin", 
+                "intervention_type": "Drug", 
+                "other_name": "Chiron IL-2"
+            }, 
+            {
+                "arm_group_label": [
+                    "A", 
+                    "B"
+                ], 
+                "description": "Current HAART regimen to be continued for duration of therapy or until certain criteria specified by the study is met", 
+                "intervention_name": "HAART", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Aldesleukin", 
+                "Interleukin-2"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Interleukin-2", 
+            "Drug Therapy, Combination", 
+            "Drug Administration Schedule", 
+            "Viremia", 
+            "T-Lymphocytes, Cytotoxic", 
+            "Anti-HIV Agents", 
+            "Treatment Experienced"
+        ], 
+        "lastchanged_date": "September 4, 2013", 
+        "link": [
+            {
+                "description": "Click here for more information about Aldesleukin", 
+                "url": "http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=21"
+            }, 
+            {
+                "description": "Haga clic aqu\u00ed para ver informaci\u00f3n sobre este ensayo cl\u00ednico en espa\u00f1ol.", 
+                "url": "http://aidsinfo.nih.gov/clinicaltrials/htmltrials_sp.asp?an=1233"
+            }
+        ], 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Baltimore", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "21205"
+                }, 
+                "name": "Johns Hopkins Hosp"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Procedure for Initiation, Administration, and Discontinuation of Interleukin-2 (IL-2) Therapy in Conjunction With Highly Active Antiretroviral Therapy", 
+        "overall_official": {
+            "last_name": "Joseph B Margolick", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "primary_outcome": [
+            {
+                "measure": "Augmentation and extention of HTL response", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Reduction in extent of damage and acceleration of immune system recovery", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Delay of and reduction in recurrent viremia compared to historical controls", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00001131"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "May 2004", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }, 
+    "geocoordinates": {
+        "Johns Hopkins Hosp": "39.29 -76.612"
+    }
+}

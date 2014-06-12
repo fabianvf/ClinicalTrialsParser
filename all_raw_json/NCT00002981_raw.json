@@ -1,0 +1,150 @@
+{
+    "clinical_study": {
+        "@rank": "136390", 
+        "arm_group": {
+            "arm_group_label": "PET Scan", 
+            "arm_group_type": "Experimental", 
+            "description": "Each patient receives C11-methionine intravenously. PET imaging begins immediately after injection for approximately 60 minutes total using standard imaging procedures. Immediately following the completion of imaging after C11-methionine administration, each patient receives FDG intravenously. PET imaging begins approximately 45 minutes thereafter for approximately 60 minutes using standard imaging procedures."
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: New imaging procedures, such as PET scan, may improve the ability to detect new\n      or recurrent prostate cancer."
+        }, 
+        "brief_title": "PET Scan in Treating Patients With Metastatic Prostate Cancer", 
+        "completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Measure the pharmacokinetics, whole body retention of isotope, and biodistribution of\n           C11-methionine and FDG by PET imaging and serial sampling of blood in men with\n           progressive prostate cancer.\n\n        -  Explore metabolism of each PET scan by comparing the sensitivity of C11-methionine or\n           FDG by PET scanning in androgen independent prostate cancer metastases with the\n           sensitivity of C11-methionine or FDG in androgen dependent metastases on a site by site\n           basis.\n\n        -  Compare C11-methionine and FDG PET scanning to standard of care diagnostic studies\n           which include the Tc 99m bone scan, computed tomography, and magnetic resonance\n           imaging.\n\n      Patients fast for 6 hours prior to PET imaging with the exception of liberal water intake\n      which is encouraged. A two way catheter is placed in the urinary bladder, and continuous\n      isotonic saline irrigation is performed throughout scan acquisition to reduce the\n      interference in imaging lesions in the pelvic lymph nodes and adjacent pelvic bones caused\n      by radiation excreted in urine held in the bladder.\n\n      Each patient receives C11-methionine intravenously. PET imaging begins immediately after\n      injection for approximately 60 minutes total using standard imaging procedures. Immediately\n      following the completion of imaging after C11-methionine administration, each patient\n      receives FDG intravenously. PET imaging begins approximately 45 minutes thereafter for\n      approximately 60 minutes using standard imaging procedures."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed prostate adenocarcinoma\n\n          -  Must have an at least 50% increase in PSA which is sustained for a minimum of 3\n             observations obtained at least 1 week apart\n\n          -  Must have development of new lesions on bone scintigraphy or greater than 50%\n             increase in measurable disease on CT or MRI scan\n\n          -  Metastatic disease\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  Not specified\n\n        Performance status:\n\n          -  Karnofsky greater than 60%\n\n        Hematopoietic:\n\n          -  ANC greater than 1,000/mm^3\n\n          -  Platelet count greater than 100,000/mm^3\n\n        Hepatic:\n\n          -  Not specified\n\n        Renal:\n\n          -  Not specified\n\n        Cardiovascular:\n\n          -  No clinically significant cardiac disease\n\n        Pulmonary:\n\n          -  No clinically significant pulmonary disease\n\n        Other:\n\n          -  No active infection not controlled by antibiotics\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy\n\n          -  Not specified\n\n        Chemotherapy\n\n          -  Not specified\n\n        Endocrine therapy\n\n          -  Not specified\n\n        Radiotherapy\n\n          -  Not specified\n\n        Surgery\n\n          -  Not specified"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "173", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002981", 
+            "org_study_id": "97-007", 
+            "secondary_id": [
+                "P30CA008748", 
+                "MSKCC-97007", 
+                "NCI-G97-1232"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "PET Scan", 
+                "intervention_name": "positron emission tomography", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "PET Scan", 
+                "intervention_name": "fludeoxyglucose F 18", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "arm_group_label": "PET Scan", 
+                "intervention_name": "methionine C 11", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "adenocarcinoma of the prostate", 
+            "stage IV prostate cancer", 
+            "recurrent prostate cancer"
+        ], 
+        "lastchanged_date": "January 31, 2014", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/MSKCC-97007"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10021"
+                }, 
+                "name": "Memorial Sloan-Kettering Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "11C-Methionine and 2-18F-Fluoro-2-Deoxy-D-Glucose PET Imaging in Patients With Progressive Prostate Cancer", 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Steven M. Larson, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Pharmacokinetics", 
+                "safety_issue": "No", 
+                "time_frame": "3 years"
+            }, 
+            {
+                "measure": "Metabolism", 
+                "safety_issue": "No", 
+                "time_frame": "3 years"
+            }, 
+            {
+                "measure": "Comparison of the sensitivity of PET imaging with FDG with standard of care diagnostic methods", 
+                "safety_issue": "No", 
+                "time_frame": "3 years"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002981"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Memorial Sloan-Kettering Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1997", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }, 
+    "geocoordinates": {
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006"
+    }
+}

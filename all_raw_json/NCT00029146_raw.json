@@ -1,0 +1,1971 @@
+{
+    "clinical_study": {
+        "@rank": "77522", 
+        "acronym": "COSS", 
+        "arm_group": [
+            {
+                "arm_group_label": "Surgical group", 
+                "arm_group_type": "Experimental", 
+                "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy"
+            }, 
+            {
+                "arm_group_label": "Non-surgical group", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Receives best current practice medical therapy"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine if extracranial-intracranial bypass surgery when\n      added to best medical therapy can reduce the subsequent risk of ipsilateral stroke in\n      high-risk patients with recently symptomatic carotid occlusion and increased cerebral oxygen\n      extraction fraction measured by positron emission tomography (PET)."
+        }, 
+        "brief_title": "Carotid Occlusion Surgery Study", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                            "title": "Surgical Group"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Receives best current practice medical therapy", 
+                            "title": "Non-surgical Group"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "97"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "98"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "195"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "76"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "71"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "147"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "27"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "48"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "9", 
+                                                "@value": "58"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9", 
+                                                "@value": "58"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "9", 
+                                                "@value": "58"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "28"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "37"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "65"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "69"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "61"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "130"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "93"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "94"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "187"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "United States"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "8"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Canada"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-10.4", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "13.8", 
+                                "estimate_desc": "Positive indicates lower rate in surgical group", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors. The test statistic was calculated as the difference in estimated rates divided by the standard error of that difference.  The 2-sided z-statistic was compared to a standard unit normal distribution.The study was terminated early for futility after 195 of the planned 372 participants were enrolled.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.78", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "1.7"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions.Proportions expressed as percentages for reporting purposes. Ipsilateral ischemic stroke is defined as the clinical diagnosis of a focal neurological deficit due to cerebral ischemia clinically localizable within the internal carotid artery territory distally to the symptomatic occluded internal carotid artery that lasts for more than 24 hours.\tAll stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "12.8", 
+                                                        "@upper_limit": "29.2", 
+                                                        "@value": "21.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "13.9", 
+                                                        "@upper_limit": "31.6", 
+                                                        "@value": "22.7"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions.Proportions expressed as percentages for reporting purposes. Ipsilateral ischemic stroke is defined as the clinical diagnosis of a focal neurological deficit due to cerebral ischemia clinically localizable within the internal carotid artery territory distally to the symptomatic occluded internal carotid artery that lasts for more than 24 hours.\tAll stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-surgery; Non-surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-randomization", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within 2 yrs of randomization", 
+                        "title": "Surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-surgery; Non-surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-randomization", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-9.2", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "16.1", 
+                                "estimate_desc": "Positive indicates lower rate in surgical group", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.59", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "3.5"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions. All stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "14.8", 
+                                                        "@upper_limit": "32.0", 
+                                                        "@value": "23.4"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "17.6", 
+                                                        "@upper_limit": "36.2", 
+                                                        "@value": "26.9"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions. All stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "All Stroke", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within 2 yrs of randomization", 
+                        "title": "All Stroke", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-9.0", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "2.6", 
+                                "estimate_desc": "Negative indicates lower rate in non-surgical group", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors. The test statistic was calculated as the difference in estimated rates divided by the standard error of that difference.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.27", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "-3.2"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions. Disabling stroke is defined as a modified Barthel Index of <12/20 at the first scheduled return visit more than 3 months after the stroke occurred", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.8", 
+                                                        "@upper_limit": "10.4", 
+                                                        "@value": "5.9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0", 
+                                                        "@upper_limit": "5.6", 
+                                                        "@value": "2.4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions. Disabling stroke is defined as a modified Barthel Index of <12/20 at the first scheduled return visit more than 3 months after the stroke occurred", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Disabling Stroke", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within two years after randomization", 
+                        "title": "Disabling Stroke", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-2.5", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "5.2", 
+                                "estimate_desc": "Positive indicates lower rate in surgical group", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors. The test statistic was calculated as the difference in estimated rates divided by the standard error of that difference.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.50", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "1.3"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions. Fatal stroke is a stroke that in the investigator\u2019s opinion led directly to the participants death within 30 days of occurrence", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0", 
+                                                        "@upper_limit": "3.1", 
+                                                        "@value": "1.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0", 
+                                                        "@upper_limit": "5.6", 
+                                                        "@value": "2.4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions. Fatal stroke is a stroke that in the investigator\u2019s opinion led directly to the participants death within 30 days of occurrence", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Fatal Stroke", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within 2 years after randomization", 
+                        "title": "Fatal Stroke", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-1.2", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "9.7", 
+                                "estimate_desc": "Positive indicates lower rate in surgical group", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors. The test statistic was calculated as the difference in estimated rates divided by the standard error of that difference.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.13", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "4.0"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions. Death of any cause", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0", 
+                                                        "@upper_limit": "3.1", 
+                                                        "@value": "1.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.2", 
+                                                        "@upper_limit": "9.9", 
+                                                        "@value": "5.1"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions. Death of any cause", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Death", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within 2 years after randomization", 
+                        "title": "Death", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-6.5", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "19.6", 
+                                "estimate_desc": "Positive indicates lower rate in surgical group", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors. The test statistic was calculated as the difference in estimated rates divided by the standard error of that difference.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": ".33", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "6.5"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions. Any stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "14.8", 
+                                                        "@upper_limit": "32.0", 
+                                                        "@value": "23.4"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "20.1", 
+                                                        "@upper_limit": "39.8", 
+                                                        "@value": "29.9"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions. Any stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Any Stroke or Death", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within 2 years after randomization", 
+                        "title": "Any Stroke or Death", 
+                        "type": "Post-Hoc"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-20.6", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "7.3", 
+                                "estimate_desc": "Negative indicates lower rate in non-surgical group. In this case, lower rate is worse since Rankin 0-1 indicates a good outcome.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Fisher Exact", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.41", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "-6.6"
+                            }
+                        }, 
+                        "description": "Proportion with modified Rankin score, dichotomized 0 or 1 vs 2-6.The modifed Rankin (0-6) describes the degree of functional disability. A lower score indicates less functional disability.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "39.5", 
+                                                        "@upper_limit": "59.4", 
+                                                        "@value": "49.5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "33.1", 
+                                                        "@upper_limit": "52.7", 
+                                                        "@value": "42.9"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Proportion with modified Rankin score, dichotomized 0 or 1 vs 2-6.The modifed Rankin (0-6) describes the degree of functional disability. A lower score indicates less functional disability.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Modified Rankin 0-1", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values", 
+                        "title": "Modified Rankin 0-1", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-8.2", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "16.9", 
+                                "estimate_desc": "Positive indicates lower rate in surgical group In this case, lower rate is worse since Rankin 0-2 indicates a good outcome.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Fisher Exact", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.70", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "4.4"
+                            }
+                        }, 
+                        "description": "Proportion with Modified Rankin score at 2 yrs, dichotomized 0-2 vs 3-6. The modifed Rankin (0-6) describes the degree of functional disability. A lower score indicates less functional disability.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "61.0", 
+                                                        "@upper_limit": "79.2", 
+                                                        "@value": "70.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "65.9", 
+                                                        "@upper_limit": "83.1", 
+                                                        "@value": "74.5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Proportion with Modified Rankin score at 2 yrs, dichotomized 0-2 vs 3-6. The modifed Rankin (0-6) describes the degree of functional disability. A lower score indicates less functional disability.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Modified Rankin 0-2", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values", 
+                        "title": "Modified Rankin 0-2", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Fisher's Exact Test", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.85"
+                            }
+                        }, 
+                        "description": "Modified Barthel Index dichotomized 19-20 vs <= 18. The modifed Barthel Index(0-20) describes the degree of independence in day-to-day self-care activities. A higher score indicates greater independence.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "70.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "71.4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Modified Barthel Index dichotomized 19-20 vs <= 18. The modifed Barthel Index(0-20) describes the degree of independence in day-to-day self-care activities. A higher score indicates greater independence.", 
+                                    "param": "Number", 
+                                    "title": "Modified Barthel Index 19-20", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values", 
+                        "title": "Modified Barthel Index 19-20", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.54", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "0.07", 
+                                "estimate_desc": "Negative indicates lower score in non-surgical group.A higher score indicates better quality of life", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "t-test, 2 sided", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.13", 
+                                "param_type": "Mean Difference (Final Values)", 
+                                "param_value": "-0.24"
+                            }
+                        }, 
+                        "description": "Summary Stroke Specific Quality of Life score (1-4) askes how self-reported overall quality of life compares with with that before stroke. A higher score indicates is better.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "97"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "3.60", 
+                                                        "@upper_limit": "4.04", 
+                                                        "@value": "3.82"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "3.37", 
+                                                        "@upper_limit": "3.79", 
+                                                        "@value": "3.58"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Summary Stroke Specific Quality of Life score (1-4) askes how self-reported overall quality of life compares with with that before stroke. A higher score indicates is better.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Mean", 
+                                    "title": "Summary SS-QOL Score", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat principle.All participants analyzed in the group to which they were originally randomized.", 
+                        "safety_issue": "No", 
+                        "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values", 
+                        "title": "Summary SS-QOL Score", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-10.7", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "13.7", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Rates for each group were based on product limit estimates of 2-year rates and their standard errors. The test statistic was calculated as the difference in estimated rates divided by the standard error of that difference.", 
+                                "method": "2-sided z-statistic", 
+                                "method_desc": "The difference in estimated rates divided by the standard error of that difference was compared to a standard unit normal distribution.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.81", 
+                                "param_type": "Difference in estimated 2 yr rates", 
+                                "param_value": "1.5"
+                            }
+                        }, 
+                        "description": "2 yr Kaplan-Meier estimates of the proportions.Proportions expressed as percentages for reporting purposes. Ipsilateral ischemic stroke is defined as the clinical diagnosis of a focal neurological deficit due to cerebral ischemia clinically localizable within the internal carotid artery territory distally to the symptomatic occluded internal carotid artery that lasts for more than 24 hours.\tAll stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                    "title": "Surgical Group"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Receives best current practice medical therapy", 
+                                    "title": "Non-surgical Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "93"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "12.4", 
+                                                        "@upper_limit": "29.1", 
+                                                        "@value": "20.8"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "13.3", 
+                                                        "@upper_limit": "31.2", 
+                                                        "@value": "22.3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "2 yr Kaplan-Meier estimates of the proportions.Proportions expressed as percentages for reporting purposes. Ipsilateral ischemic stroke is defined as the clinical diagnosis of a focal neurological deficit due to cerebral ischemia clinically localizable within the internal carotid artery territory distally to the symptomatic occluded internal carotid artery that lasts for more than 24 hours.\tAll stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-surgery; Non-surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-randomization", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "On-treatment analysis removing four participants assigned to the surgical group who never underwent surgery and censoring on the day of surgery three participants assigned to the nonsurgical group who underwent EC-IC bypass surgery.", 
+                        "safety_issue": "No", 
+                        "time_frame": "within 2 years of randomization", 
+                        "title": "Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-surgery; Non-surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-randomization", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                                "title": "Surgical Group"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "97"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "14"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Any Stroke or Death Within 30 Days After Surgery", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention-to-treat. All assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "within 30 days after surgery", 
+                        "title": "Any Stroke or Death Within 30 Days After Surgery", 
+                        "type": "Other Pre-specified"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                            "title": "Surgical Group"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Receives best current practice medical therapy", 
+                            "title": "Non-surgical Group"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "2", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "1", 
+                                            "@group_id": "P2"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Lost to Follow-up"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "97", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "98", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "95", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "97", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "powersw@neurology.unc.edu", 
+                "name_or_title": "William J. Powers, MD", 
+                "organization": "University of North Carolina at Chapel HIll"
+            }, 
+            "reported_events": {
+                "desc": "Only serious adverse events were assessed", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Assigned to undergo extracranial-intracranial arterial bypass in addition to best current practice medical therapy", 
+                            "title": "Surgical Group"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Receives best current practice medical therapy", 
+                            "title": "Non-surgical Group"
+                        }
+                    ]
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "97"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "98"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Deep venous thrombosis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Pulmonary embolism"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypotension"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Myocardial ischemia/infarction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Atrial fibrillation/flutter"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "97"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "98"
+                                            }
+                                        ], 
+                                        "sub_title": "Hypoglycemia"
+                                    }
+                                }, 
+                                "title": "Endocrine disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatal stroke"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "13", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "13", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Non-fatal Stroke"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Transient ischemic attack"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Epidural/subdural hematoma"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "97"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "98"
+                                                }
+                                            ], 
+                                            "sub_title": "Seizure"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "97"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "98"
+                                            }
+                                        ], 
+                                        "sub_title": "Respiratory distress"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "97"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "98"
+                                            }
+                                        ], 
+                                        "sub_title": "Surgical site infection"
+                                    }
+                                }, 
+                                "title": "Surgical and medical procedures"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }, 
+                "time_frame": "Surgical group: Within 30 days after surgery for 93 operated and within 30 days after randomization for 4 not operated  Non-surgical group: Within 30 days after randomization"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Ischemic Attack, Transient", 
+            "Cerebral Infarction"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cerebral Infarction", 
+                "Stroke", 
+                "Ischemic Attack, Transient", 
+                "Infarction", 
+                "Ischemia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The overall purpose of this research is to determine if a surgical operation called\n      \"Extracranial-Intracranial Bypass\" can reduce the chance of a subsequent stroke in someone\n      who has complete blockage in one main artery in the neck (the carotid artery) that supplies\n      blood to the brain and has already suffered a small stroke. This surgery involves taking an\n      artery from the scalp outside the skull, making a small hole in the skull and then\n      connecting the scalp artery to a brain artery inside the skull. In this way the blockage of\n      the carotid artery in the neck is bypassed and more blood can flow to the brain. In some\n      people natural bypass arteries develop and the brain is already getting plenty of blood.\n      These people have a low risk of stroke if they take medicine. In other people, no natural\n      bypass arteries develop so less blood flows to their brains. This second group has a much\n      higher risk of stroke while taking medicine, as high as 25-50% within the next two years. It\n      is this second group of people who may benefit from having the bypass operation and who are\n      the candidates for this study.\n\n      This bypass surgery is considered experimental because it is not generally performed for\n      this condition and it is unknown whether it leads to a decrease, an increase or no change in\n      the risk of stroke. In order to determine if people fit into this second group of people who\n      may benefit from the bypass operation they need to have a test called a PET scan. The PET\n      scan measures the amount of blood that is getting to the brain and the amount of oxygen that\n      the brain is using. The PET scan uses radioactive oxygen and water and is experimental (not\n      approved by the United States Food and Drug Administration). If the PET scan shows that less\n      blood is getting to the brain, there will be a 50-50 chance (like a coin toss) of receiving\n      the bypass surgery or not. There will then be follow-up visits to the clinic one month later\n      and then every three months for two years to check on the appropriate medical treatment that\n      everyone will receive and to determine who has had a stroke.\n\n      The study hypothesis is that extracranial-intracranial bypass surgery when added to best\n      medical therapy can reduce by 40 percent  subsequent stroke within  two years in\n      participants with recent TIA ('ministroke\") or stroke (</= 120 days) due to blockage of the\n      carotid artery and reduced blood flow to the brain measured by PET."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Vascular imaging demonstrating occlusion of one or both internal carotid arteries.\n\n          -  Transient ischemic attack (TIA) or ischemic stroke in the hemispheric carotid\n             territory of one occluded carotid artery.\n\n          -  Most recent qualifying TIA or stroke occurring within 120 days prior to projected\n             performance date of PET.\n\n          -  Modified Barthel Index > 12/20 (60/100).\n\n          -  Language comprehension intact, motor aphasia mild or absent.\n\n          -  Age 18-85 inclusive.\n\n          -  Competent to give informed consent.\n\n          -  Legally an adult.\n\n          -  Geographically accessible and reliable for follow-up.\n\n        Exclusion Criteria:\n\n          -  Non-atherosclerotic carotid vascular disease. Blood dyscrasias: Polycythemia vera\n             ,essential thrombocytosis, sickle cell disease (SS or SC).\n\n          -  Known heart disease likely to cause cerebral ischemia (echocardiography not\n             required). This includes the following conditions ONLY: Prosthetic valve, Infective\n             endocarditis, Left atrial or ventricular thrombus, Sick sinus syndrome, Myxoma,\n             Cardiomyopathy with ejection fraction <25%. This is an all-inclusive list. The\n             following conditions are NOT EXCLUSIONS: Atrial fibrillation, patent foramen ovale,\n             atrial septal aneurysm.\n\n          -  Other non-atherosclerotic condition likely to cause focal cerebral ischemia.\n\n          -  Any condition likely to lead to death within 2 years.\n\n          -  Other neurological disease that would confound follow-up assessment.\n\n          -  Pregnancy.\n\n          -  Subsequent cerebrovascular surgery planned which might alter cerebral hemodynamics.\n\n          -  Any condition which in the participating surgeon's judgment makes the subject an\n             unsuitable surgical candidate.\n\n          -  Participation in any other experimental treatment trial.\n\n          -  Participation within the previous 12 months in any experimental study that included\n             exposure to ionizing radiation.\n\n          -  Acute, progressing or unstable neurological deficit. Neurological deficit must be\n             stable for 72 hours prior to the performance of PET.\n\n          -  If supplemental arteriography is required, allergy to iodine or x-ray contrast media,\n             serum creatinine > 3.0 mg/dl or other contraindication to arteriography.\n\n          -  If aspirin is to be used as antithrombotic therapy in the perioperative period, those\n             with allergy or contraindication to aspirin are ineligible.\n\n          -  Medical indication for treatment with anticoagulant drugs, ticlopidine, clopidogrel\n             or other antithrombotic medications such that these medications cannot be replaced\n             with aspirin in the perioperative period as deemed necessary by the COSS neurosurgeon\n             if the participant is randomized to surgical treatment.\n\n          -  Remediable medical conditions. Patients with the following conditions can become\n             eligible if the exclusion criterion no longer applies within 120 days of onset of the\n             most recent qualifying event: Uncontrolled diabetes mellitus (FBS > 300 mg%/16.7\n             mmol/L), Uncontrolled hypertension (systolic BP>180, diastolic BP >110), Unstable\n             angina, Uncontrolled hypotension (diastolic BP < 65)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "700", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 8, 2002", 
+        "firstreceived_results_date": "January 17, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00029146", 
+            "org_study_id": "R01NS042167", 
+            "secondary_id": "R01NS041895"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Surgical group", 
+                "description": "Surgical anastomosis of a superficial temporal artery branch to a middle cerebral artery branch through a small craniectomy plus best current practice medical therapy", 
+                "intervention_name": "extracranial-intracranial bypass surgery", 
+                "intervention_type": "Procedure", 
+                "other_name": [
+                    "EC-IC Arterial Bypass", 
+                    "STA-MCA Bypass"
+                ]
+            }, 
+            {
+                "arm_group_label": "Non-surgical group", 
+                "description": "best current practice medical therapy", 
+                "intervention_name": "best medical therapy", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stroke", 
+            "transient ischemic attack (TIA)", 
+            "carotid arteries", 
+            "cerebral infarction"
+        ], 
+        "lastchanged_date": "March 24, 2012", 
+        "link": {
+            "description": "Full list of actively recruiting sites", 
+            "url": "http://www.cosstrial.org/coss/pccs.asp"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "St. Louis", 
+                    "country": "United States", 
+                    "state": "Missouri", 
+                    "zip": "63110"
+                }, 
+                "name": "Washington University School of Medicine"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Carotid Occlusion Surgery Study", 
+        "overall_official": {
+            "affiliation": "University of North Carolina, Chapel Hill", 
+            "last_name": "William J. Powers, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "2 yr Kaplan-Meier estimates of the proportions.Proportions expressed as percentages for reporting purposes. Ipsilateral ischemic stroke is defined as the clinical diagnosis of a focal neurological deficit due to cerebral ischemia clinically localizable within the internal carotid artery territory distally to the symptomatic occluded internal carotid artery that lasts for more than 24 hours.\tAll stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+            "measure": "Surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-surgery; Non-surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-randomization", 
+            "safety_issue": "No", 
+            "time_frame": "within 2 yrs of randomization"
+        }, 
+        "reference": [
+            {
+                "PMID": "9757852", 
+                "citation": "Grubb RL Jr, Derdeyn CP, Fritsch SM, Carpenter DA, Yundt KD, Videen TO, Spitznagel EL, Powers WJ. Importance of hemodynamic factors in the prognosis of symptomatic carotid occlusion. JAMA. 1998 Sep 23-30;280(12):1055-60."
+            }, 
+            {
+                "PMID": "10809195", 
+                "citation": "Derdeyn CP, Gage BF, Grubb RL Jr, Powers WJ. Cost-effectiveness analysis of therapy for symptomatic carotid occlusion: PET screening before selective extracranial-to-intracranial bypass versus medical treatment. J Nucl Med. 2000 May;41(5):800-7."
+            }, 
+            {
+                "PMID": "11390318", 
+                "citation": "Adams HP Jr, Powers WJ, Grubb RL Jr, Clarke WR, Woolson RF. Preview of a new trial of extracranial-to-intracranial arterial anastomosis: the carotid occlusion surgery study. Neurosurg Clin N Am. 2001 Jul;12(3):613-24, ix-x."
+            }, 
+            {
+                "PMID": "15709726", 
+                "citation": "Grubb RL Jr, Powers WJ, Derdeyn CP, Adams HP Jr, Clarke WR. The Carotid Occlusion Surgery Study. Neurosurg Focus. 2003 Mar 15;14(3):e9."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00029146"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of North Carolina, Chapel Hill", 
+            "investigator_full_name": "William Powers", 
+            "investigator_title": "Professor of Neurology", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "2 yr Kaplan-Meier estimates of the proportions. All stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours", 
+                "measure": "All Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "within 2 yrs of randomization"
+            }, 
+            {
+                "description": "2 yr Kaplan-Meier estimates of the proportions. Disabling stroke is defined as a modified Barthel Index of <12/20 at the first scheduled return visit more than 3 months after the stroke occurred", 
+                "measure": "Disabling Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "within two years after randomization"
+            }, 
+            {
+                "description": "2 yr Kaplan-Meier estimates of the proportions. Fatal stroke is a stroke that in the investigator's opinion led directly to the participants death within 30 days of occurrence", 
+                "measure": "Fatal Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "within 2 years after randomization"
+            }, 
+            {
+                "description": "2 yr Kaplan-Meier estimates of the proportions. Death of any cause", 
+                "measure": "Death", 
+                "safety_issue": "No", 
+                "time_frame": "within 2 years after randomization"
+            }, 
+            {
+                "description": "Proportion with modified Rankin score, dichotomized 0 or 1 vs 2-6.The modifed Rankin (0-6) describes the degree of functional disability. A lower score indicates less functional disability.", 
+                "measure": "Modified Rankin 0-1", 
+                "safety_issue": "No", 
+                "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values"
+            }, 
+            {
+                "description": "Proportion with Modified Rankin score at 2 yrs, dichotomized 0-2 vs 3-6. The modifed Rankin (0-6) describes the degree of functional disability. A lower score indicates less functional disability.", 
+                "measure": "Modified Rankin 0-2", 
+                "safety_issue": "No", 
+                "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values"
+            }, 
+            {
+                "description": "Modified Barthel Index dichotomized 19-20 vs <= 18. The modifed Barthel Index(0-20) describes the degree of independence in day-to-day self-care activities. A higher score indicates greater independence.", 
+                "measure": "Modified Barthel Index 19-20", 
+                "safety_issue": "No", 
+                "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values"
+            }, 
+            {
+                "description": "Summary Stroke Specific Quality of Life score (1-4) askes how self-reported overall quality of life compares with with that before stroke. A higher score indicates is better.", 
+                "measure": "Summary SS-QOL Score", 
+                "safety_issue": "No", 
+                "time_frame": "at 2 years after randomization or end of trial. Worst case imputed for death and missing values"
+            }, 
+            {
+                "description": "2 yr Kaplan-Meier estimates of the proportions.Proportions expressed as percentages for reporting purposes. Ipsilateral ischemic stroke is defined as the clinical diagnosis of a focal neurological deficit due to cerebral ischemia clinically localizable within the internal carotid artery territory distally to the symptomatic occluded internal carotid artery that lasts for more than 24 hours.\tAll stroke is defined as the clinical diagnosis of a focal deficit due to ischemia or hemorrhage clinically localizable to the brain that lasts for more than 24 hours. Death is of any cause.", 
+                "measure": "Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-surgery; Non-surgical Group:Ipsilateral Ischemic Stroke in 2 Yrs From Randomization and All Stroke & Death Through 30d Post-randomization", 
+                "safety_issue": "No", 
+                "time_frame": "within 2 years of randomization"
+            }
+        ], 
+        "source": "University of North Carolina, Chapel Hill", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institute of Neurological Disorders and Stroke (NINDS)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "Washington University School of Medicine", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Iowa", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of North Carolina, Chapel Hill", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2012", 
+        "why_stopped": "Pre-specified futility boundary was reached."
+    }, 
+    "geocoordinates": {
+        "Washington University School of Medicine": "38.627 -90.199"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "clinical_study": {
+        "@rank": "74088", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Chemoprotective drugs, such as amifostine, may protect normal\n      cells from the bad side effects of chemotherapy.\n\n      PURPOSE: Randomized phase I trial to study the effectiveness of amifostine in treating\n      patients who are receiving chemotherapy for recurrent or refractory solid tumors."
+        }, 
+        "brief_title": "Chemotherapy and Amifostine in Treating Patients With Recurrent or Refractory Solid Tumors", 
+        "condition": [
+            "Drug/Agent Toxicity by Tissue/Organ", 
+            "Unspecified Adult Solid Tumor, Protocol Specific"
+        ], 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Evaluate the ability of amifostine to facilitate increased dose escalation of\n      gemcitabine and cisplatin. II. Compare the dose limiting toxicities of gemcitabine and\n      cisplatin administered with and without amifostine in these patients. III. Determine the\n      maximum tolerated dose of gemcitabine and cisplatin administered with amifostine in these\n      patients. IV. Determine whether synergy is produced by administering gemcitabine and\n      cisplatin on the same day.\n\n      OUTLINE: This is a two stage study. The first stage is a randomized study, and the second\n      stage is a dose escalation study. In the first stage of the study, patients receive either\n      intravenous gemcitabine/amifostine/cisplation (GAP) or gemcitabine/cisplatin (GP) in the\n      first cycle. Patients are administered the other arm in the second cycle. In the second\n      stage of the study (dose escalation), the initial dose of GP or GAP is given on days 1 and 8\n      every 28 days. Dose escalation is carried out in cohorts of 3 patients per dose level. If 1\n      of 3 patients experiences dose limiting toxicity (DLT), then 3 more patients are accrued at\n      the same dose level. The maximum tolerated dose (MTD) is defined as the lowest dose at which\n      2 of 6 or 2 of 3 patients experience DLT. Patients experiencing grade 3 or 4 toxicity or\n      tumor progression are removed from the study. Patients will be reassessed every 12 weeks.\n\n      PROJECTED ACCRUAL: A total of 32 patients will be accrued over 12-24 months in the first\n      stage of this study, and 9-12 patients will be accrued for the second stage.."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically proven recurrent or refractory solid tumors\n        Platinum sensitive\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance Status: ECOG 0-2 Life Expectancy:\n        Not specified Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count\n        at least 100,000/mm3 Hepatic: Bilirubin less than 1.5 mg/dL SGOT less than 3 times upper\n        limit of normal Renal: Creatinine no greater than 1.5 mg/dL Other: No psychosis No\n        significant medical illness No sensory neuropathy greater than grade 2\n\n        PRIOR CONCURRENT THERAPY: At least 3 weeks since prior therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "44", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003144", 
+            "org_study_id": "CDR0000065927", 
+            "secondary_id": [
+                "P30CA016087", 
+                "NYU-9722", 
+                "ALZA-97-011-ii", 
+                "NCI-V97-1363"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "amifostine trihydrate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "gemcitabine hydrochloride", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Gemcitabine", 
+                "Cisplatin", 
+                "Amifostine"
+            ]
+        }, 
+        "keyword": [
+            "unspecified adult solid tumor, protocol specific", 
+            "drug/agent toxicity by tissue/organ"
+        ], 
+        "lastchanged_date": "March 25, 2011", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/NYU-9722"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10016"
+                }, 
+                "name": "NYU School of Medicine's Kaplan Comprehensive Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Phase I Study of Amifostine (Ethyol) as a Cytoprotector of Gemcitabine/Cisplatin Combination", 
+        "overall_official": {
+            "affiliation": "New York University School of Medicine", 
+            "last_name": "Franco M. Muggia, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "April 2001", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003144"
+        }, 
+        "source": "New York University School of Medicine", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "New York University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 1997", 
+        "study_design": "Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2011"
+    }, 
+    "geocoordinates": {
+        "NYU School of Medicine's Kaplan Comprehensive Cancer Center": "40.714 -74.006"
+    }
+}

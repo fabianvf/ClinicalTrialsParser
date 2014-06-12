@@ -1,0 +1,931 @@
+{
+    "clinical_study": {
+        "@rank": "101111", 
+        "arm_group": {
+            "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+            "arm_group_type": "Experimental", 
+            "description": "This is a stratified single-armed phase II study designed to investigate the safety and efficacy of hematopoietic cell allografts administered after nonmyeloablative cytoreduction."
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Giving low doses of chemotherapy, such as melphalan and fludarabine, and a\n      monoclonal antibody, such as alemtuzumab, before a donor bone marrow or peripheral blood\n      stem cell transplant helps stop the growth of cancer cells. It also stops the patient's\n      immune system from rejecting the donor's stem cells. The donated stem cells may replace the\n      patient's immune system and help destroy any remaining cancer cells (graft-versus-tumor\n      effect). Sometimes the transplanted cells from a donor can also make an immune response\n      against the body's normal cells. Giving cyclosporine after the transplant may stop this from\n      happening.\n\n      PURPOSE: This phase II trial is studying how well fludarabine, melphalan, alemtuzumab, and\n      peripheral stem cell transplant work in treating patients with hematologic cancer."
+        }, 
+        "brief_title": "Melphalan, Fludarabine, and Alemtuzumab Followed by Peripheral Stem Cell Transplant in Treating Patients With Hematologic Cancer", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "This is a stratified single-armed phase II study designed to investigate the safety and efficacy of hematopoietic cell allografts administered after nonmyeloablative cytoreduction.", 
+                        "title": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "51"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "3"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "46"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "15", 
+                                            "@value": "42.9"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "15"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "36"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "51"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "This is a stratified single-armed phase II study designed to investigate the safety and efficacy of hematopoietic cell allografts administered after nonmyeloablative cytoreduction.", 
+                                "title": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "50"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "37"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Overall Survival", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Population is defined as all participants who received transplant as per protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "12 months post transplant", 
+                        "title": "Overall Survival", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "This is a stratified single-armed phase II study designed to investigate the safety and efficacy of hematopoietic cell allografts administered after nonmyeloablative cytoreduction.", 
+                                "title": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "50"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "30"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Overall Survival", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Population is defined as all participants who received transplant as per protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "24 months post transplant", 
+                        "title": "Overall Survival", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Grade III-IV Acute Graft-versus-Host Disease", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "title": "Matched Related Patients"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "25"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "1"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Grade III-IV Acute Graft-versus-Host Disease", 
+                                    "param": "Number", 
+                                    "title": "Acute Graft-versus-Host Disease Matched Related Patients", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "The number of matched related patients was analyzed as per protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 4 months post transplant", 
+                        "title": "Acute Graft-versus-Host Disease Matched Related Patients", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Grade III-IV Acute Graft-versus-Host Disease", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "title": "Unrelated and Mismatched Related Patients"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "25"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "3"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Grade III-IV Acute Graft-versus-Host Disease", 
+                                    "param": "Number", 
+                                    "title": "Acute Graft-versus-Host Disease Unrelated and Mismatched Related Patients", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "The number of unrelated and mismatched patients was analyzed as per protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 4 months post transplant", 
+                        "title": "Acute Graft-versus-Host Disease Unrelated and Mismatched Related Patients", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "title": "Matched Related Patients"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "25"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "0"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Extensive Chronic Graft-versus-Host Disease Matched Related Patients", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "The number of matched related patients was analyzed as per protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 2 years post transplant", 
+                        "title": "Extensive Chronic Graft-versus-Host Disease Matched Related Patients", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "title": "Unrelated and Mismatched Related Patients"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "25"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "2"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Extensive Chronic Graft-versus-Host Disease Unrelated and Mismatched Related Patients", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "The number of unrelated and mismatched patients was analyzed as per protocol.", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 2 years post transplant", 
+                        "title": "Extensive Chronic Graft-versus-Host Disease Unrelated and Mismatched Related Patients", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "This is a stratified single-armed phase II study designed to investigate the safety and efficacy of hematopoietic cell allografts administered after nonmyeloablative cytoreduction.", 
+                        "title": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": {
+                                        "@count": "1", 
+                                        "@group_id": "P1"
+                                    }
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "51", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "50", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Enrolled participants receive preparative cytoreduction prior to transplant.", 
+                "recruitment_details": "Protocol Open to Accrual 07/31/2001 Protocol Closed to Accrual 05/23/2006 Primary Completion Date 04/14/2009 Recruitment Location is medical clinic"
+            }, 
+            "point_of_contact": {
+                "email": "castro-h@mskcc.org", 
+                "name_or_title": "Dr. Hugo Castro-Malaspina", 
+                "organization": "Memorial Sloan-Kettering Cancer Center", 
+                "phone": "212-639-8197"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "This is a stratified single-armed phase II study designed to investigate the safety and efficacy of hematopoietic cell allografts administered after nonmyeloablative cytoreduction.", 
+                        "title": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "43", 
+                                            "@subjects_at_risk": "50"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "Transfusion (PLT/BMT)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "9", 
+                                            "@subjects_at_risk": "50"
+                                        }, 
+                                        "sub_title": "Stomatitis/BMT"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "Bilirubin increased"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "Alkaline phosphatase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "32", 
+                                            "@subjects_at_risk": "50"
+                                        }, 
+                                        "sub_title": "Creatinine increased"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "13", 
+                                            "@subjects_at_risk": "50"
+                                        }, 
+                                        "sub_title": "Hypoxia"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "3", 
+                                            "@subjects_at_risk": "50"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "50"
+                                        }, 
+                                        "sub_title": "Constitut symp, other"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "Infection with grade 3/4 neut"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "50"
+                                            }, 
+                                            "sub_title": "Infection w.out neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCAE (2.0)"
+                }, 
+                "time_frame": "Weekly during the first 3 months post transplant, every 6 weeks during months 3-6 and then 3 month intervals for 1 year post transplant"
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Leukemia", 
+            "Lymphoma", 
+            "Multiple Myeloma and Plasma Cell Neoplasm", 
+            "Myelodysplastic Syndromes", 
+            "Myelodysplastic/Myeloproliferative Neoplasms"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Neoplasms", 
+                "Leukemia", 
+                "Lymphoma", 
+                "Multiple Myeloma", 
+                "Neoplasms, Plasma Cell", 
+                "Plasmacytoma", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia", 
+                "Myeloproliferative Disorders", 
+                "Myelodysplastic-Myeloproliferative Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      Overall survival-12 months\n\n      Overall survival-24 months\n\n      Acute Graft-versus-Host Disease Matched Related patients-up to 4 months post transplant\n\n      Acute Graft-versus-Host Disease Unrelated and Mismatched related patients- up to 4 months\n      post transplant\n\n      Chronic Graft-versus-Host Disease  Matched Related patients- up to 2 years post transplant\n\n      Chronic Graft-versus-host disease  Unrelated and Mismatched related patients- up to 2 years\n      post transplant\n\n        -  OUTLINE: Patients are stratified according to donor type (HLA-matched related vs\n           HLA-matched unrelated, single HLA-allele disparate related, or unmatched)\n           (HLA-mismatched related or matched unrelated donor stratum closed to accrual as of\n           1/11/06).\n\n      Patients receive a nonmyeloablative regimen comprising alemtuzumab IV over 8 hours on days\n      -8 to -5, fludarabine IV over 30 minutes on days -8 to -4, and melphalan IV over 30 minutes\n      on days -3 and -2. Allogeneic peripheral blood stem cells or bone marrow is infused on day\n      0.\n\n      Patients receive graft-versus host disease prophylaxis comprising cyclosporine IV every 12\n      hours beginning on day -1 and continuing orally as tolerated until day 100.\n\n      Patients are followed every 6 weeks for 6 months, every 3 months for 6 months, every 3-6\n      months for 1 year, and then annually thereafter or as clinically indicated.\n\n      PROJECTED ACCRUAL: A maximum of 50 patients (25 HLA-matched related and 25 HLA-mismatched\n      related or matched unrelated) will be accrued for this study within 2 years (HLA-mismatched\n      related or matched unrelated donor stratum closed to accrual as of 1/11/06)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "INCLUSION CRITERIA:\n\n          -  Disease criteria: This trial is primarily designed for: 1) patients with relapsed or\n             primary refractory non-Hodgkin's lymphoma, 2) chemosensitive relapsed or refractory\n             acute and chronic lymphocytic leukemias, 3) relapsed or primary refractory Hodgkin's\n             Disease, or advanced (Durie-Salmon stage II or III) multiple myeloma, advanced\n             Waldenstrom macroglobulinemia, who, by virtue of advanced age, intensity of prior\n             radiation and/or chemotherapy, history of prior toxicity associated with\n             chemo/radiotherapy or existing organ dysfunction, would be at undue risk of regimen\n             associated mortality if transplanted according to protocols involving myeloablative\n             conditioning regimens.\n\n          -  Patients with aggressive NHL histologies must have chemo/radiosensitive disease, or\n             have non-progressive disease, or have stable disease on therapy, and be ineligible\n             for an autologous HSC transplant because of disease in the marrow.\n\n          -  Patients with chronic myeloid leukemia and high risk forms of acute myelogenous\n             leukemia or myelodysplastic syndromes are also eligible in the absence of an\n             alternative active higher priority allogeneic transplant protocol for which they are\n             eligible.\n\n          -  Age criteria: Patients may be up to 70 years of age. There is no lower age threshold.\n             Patients above the age of 70 may also participate, after evaluation and approval by\n             the BMT Service attendings.\n\n          -  Absence of active or uncontrolled bacterial, viral, or fungal infection that would\n             contraindicate the use of myelosuppressive chemotherapy.\n\n          -  Patients must have a healthy HLA-compatible donor, either a matched or single HLA\n             allele disparate related donor or a similarly compatible unrelated donor recruited\n             through the National Marrow Donor Program. Related donors must be willing to\n             participate as research subjects and be willing to receive G-CSF to mobilize PBPC and\n             undergo leukapheresis to donate PBSC. Unrelated donors identified by the NMDP may\n             elect to donate either PBSC after treatment with G-CSF, or bone marrow. These\n             unrelated donors will provide informed consent and their PBSC or bone marrow\n             donations will be obtained at a qualified donor center participating in the NMDP.\n\n          -  Each patient must be willing to participate as a research subject and must sign an\n             informed consent form after discussion of the nature and risks of the study prior to\n             entering the protocol. Parents or legal guardians of patients who are minors will\n             sign the consent form for these patients after discussion of the nature and risks of\n             the study.\n\n        EXCLUSION CRITERIA:\n\n          -  Female patients who are pregnant or lactating.\n\n          -  Active or uncontrolled viral (including HIV-1), bacterial or fungal infection.\n\n          -  Severe renal insufficiency (creatinine >2.0 or creatinine clearance < 30mL/minute)\n\n          -  Severe hepatic dysfunction, as defined by: total bilirubin greater than 2.5 mg/dL and\n             AST and ALT >3xnl, unless the liver is involved with disease.\n\n          -  Severe cardiac insufficiency, defined as a resting left ventricular ejection of less\n             than 30% as measured by echocardiography or radionuclide cardiac angiography.\n             Patients on cardiac medications for congestive heart failure are eligible, as long as\n             their LVEF is greater than 30% on medication.\n\n          -  Severe pulmonary insufficiency, as defined by an adjusted diffusing capacity of less\n             than 40% of predicted value.\n\n          -  Karnofsky or Lansky score <40%"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "51", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 7, 2001", 
+        "firstreceived_results_date": "November 27, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00027560", 
+            "org_study_id": "01-092", 
+            "secondary_id": [
+                "MSKCC-01092", 
+                "NCI-G01-2028"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+                "description": "Consenting individuals will receive pretransplant immunosuppressive cytoreduction, which will consist of 4 days of Campath-1H, 5 days of fludarabine, and two days of melphalan. All therapy should be completed approximately 24-36 hours before administration of the primary allograft.\nCampath-1H (20mg/dose/day) will be administered for each of four days from day -8 to day -5, inclusive. Each dose will be infused intravenously over 8 hours.", 
+                "intervention_name": "alemtuzumab", 
+                "intervention_type": "Biological", 
+                "other_name": "Campath"
+            }, 
+            {
+                "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+                "description": "Patients will be treated with Cyclosporine as prophylaxis against GvHD. Cyclosporine will be initiated at least 1 day prior to transplant at a dose of 1.5 mg / kg IV q12h (3 mg / kg / day = total daily dose). Dose will thereafter be adjusted to maintain a trough serum level of 200-300 ng /ml. Cyclosporine will be administered intravenously until the patient tolerates full alimentation, at which time conversion to oral dosing to sustain therapeutic levels will be initiated according to standard BMT service guidelines.", 
+                "intervention_name": "cyclosporine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+                "description": "Fludarabine, 25mg/m2/d will be administered for each of five days from day -8 to day -4, inclusive. Each dose will be infused intravenously over 30 minutes.", 
+                "intervention_name": "fludarabine phosphate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+                "description": "Melphalan will be administered intravenously over 30 minutes on each of two days from day -3 to day -2, inclusive. The dose for recipients of HLA-matched related grafts will be 50 mg/m2/day x 2. The dose for recipients of HLA-matched unrelated and HLA-single allele disparate related or unrelated marrow or PBSC transplants will be 70 mg/m2/day x 2.", 
+                "intervention_name": "melphalan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+                "intervention_name": "allogeneic bone marrow transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "TREATMENT OF LYMPHOHEMATOPOIETIC MALIGNANCIES", 
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclosporins", 
+                "Cyclosporine", 
+                "Melphalan", 
+                "Fludarabine monophosphate", 
+                "Campath 1G", 
+                "Vidarabine", 
+                "Fludarabine", 
+                "Alemtuzumab"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "recurrent childhood acute lymphoblastic leukemia", 
+            "recurrent adult Hodgkin lymphoma", 
+            "refractory multiple myeloma", 
+            "stage II multiple myeloma", 
+            "stage III multiple myeloma", 
+            "recurrent childhood lymphoblastic lymphoma", 
+            "recurrent childhood acute myeloid leukemia", 
+            "recurrent adult acute myeloid leukemia", 
+            "recurrent adult acute lymphoblastic leukemia", 
+            "relapsing chronic myelogenous leukemia", 
+            "refractory chronic lymphocytic leukemia", 
+            "recurrent/refractory childhood Hodgkin lymphoma", 
+            "recurrent grade 1 follicular lymphoma", 
+            "recurrent grade 2 follicular lymphoma", 
+            "recurrent grade 3 follicular lymphoma", 
+            "recurrent adult diffuse small cleaved cell lymphoma", 
+            "recurrent adult diffuse mixed cell lymphoma", 
+            "recurrent adult diffuse large cell lymphoma", 
+            "recurrent adult immunoblastic large cell lymphoma", 
+            "recurrent adult lymphoblastic lymphoma", 
+            "recurrent adult Burkitt lymphoma", 
+            "previously treated myelodysplastic syndromes", 
+            "recurrent childhood small noncleaved cell lymphoma", 
+            "recurrent childhood large cell lymphoma", 
+            "recurrent mantle cell lymphoma", 
+            "Waldenstr\u00f6m macroglobulinemia", 
+            "childhood chronic myelogenous leukemia", 
+            "atypical chronic myeloid leukemia, BCR-ABL1 negative", 
+            "myelodysplastic/myeloproliferative neoplasm, unclassifiable", 
+            "recurrent marginal zone lymphoma", 
+            "recurrent small lymphocytic lymphoma", 
+            "extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue", 
+            "nodal marginal zone B-cell lymphoma", 
+            "splenic marginal zone lymphoma", 
+            "adult acute myeloid leukemia with 11q23 (MLL) abnormalities", 
+            "childhood myelodysplastic syndromes"
+        ], 
+        "lastchanged_date": "December 3, 2012", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/MSKCC-01092"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10021"
+                }, 
+                "name": "Memorial Sloan-Kettering Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase II Trial Of Non-Myeloablative Regimen Combining Melphalan, Fludarabine, And Anti-CD52 Monoclonal Antibody (CAMPATH-1H) Followed By An Unmodified Hematopoietic Cell Transplant From An HLA Compatible Related Or Unrelated Donor For Treatment Of Lymphohematopoietic Malignancies", 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Hugo R. Castro-Malaspina, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Overall Survival", 
+                "safety_issue": "No", 
+                "time_frame": "12 months post transplant"
+            }, 
+            {
+                "measure": "Overall Survival", 
+                "safety_issue": "No", 
+                "time_frame": "24 months post transplant"
+            }, 
+            {
+                "description": "Grade III-IV Acute Graft-versus-Host Disease", 
+                "measure": "Acute Graft-versus-Host Disease Matched Related Patients", 
+                "safety_issue": "No", 
+                "time_frame": "up to 4 months post transplant"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00027560"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Grade III-IV Acute Graft-versus-Host Disease", 
+                "measure": "Acute Graft-versus-Host Disease Unrelated and Mismatched Related Patients", 
+                "safety_issue": "No", 
+                "time_frame": "up to 4 months post transplant"
+            }, 
+            {
+                "measure": "Extensive Chronic Graft-versus-Host Disease Matched Related Patients", 
+                "safety_issue": "No", 
+                "time_frame": "up to 2 years post transplant"
+            }, 
+            {
+                "measure": "Extensive Chronic Graft-versus-Host Disease Unrelated and Mismatched Related Patients", 
+                "safety_issue": "No", 
+                "time_frame": "up to 2 years post transplant"
+            }
+        ], 
+        "source": "Memorial Sloan-Kettering Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2001", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2012"
+    }, 
+    "geocoordinates": {
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006"
+    }
+}

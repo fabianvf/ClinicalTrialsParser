@@ -1,0 +1,2294 @@
+{
+    "clinical_study": {
+        "@rank": "13566", 
+        "arm_group": [
+            {
+                "arm_group_label": "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                "arm_group_type": "Experimental", 
+                "description": "Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles"
+            }, 
+            {
+                "arm_group_label": "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine", 
+                "arm_group_type": "Experimental", 
+                "description": "Docetaxel 60 mg/m^2 intravenous day 1, capecitabine 937.5 mg/m^2 orally twice daily day 2-15 for 4 cycles"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will assess the usefulness of a technique called complementary deoxyribonucleic\n      acid (cDNA) microarray-an examination of a wide array of genes to identify\n      disease-associated patterns-for measuring tumor response to chemotherapy in breast cancer\n      patients.  The study will look for \"markers\" that can help select the most effective type of\n      chemotherapy.  It will also evaluate the safety and effectiveness of a new drug combination\n      of capecitabine and docetaxel.\n\n      Patients age 18 years and older with stage II or III breast cancer whose tumor is 2\n      centimeters or larger may be eligible for this study.  Those enrolled will be treated with\n      surgery, standard chemotherapy using doxorubicin (Adriamycin) and cyclophosphamide\n      (Cytoxan), and the capecitabine and docetaxel combination.\n\n      Patients will have a physical examination, mammogram and magnetic resonance imaging to\n      evaluate their tumor before beginning treatment.  They will then have four 21-day treatment\n      cycles of docetaxel and capecitabine, as follows: docetaxel intravenously (through a vein)\n      on day 1 and capecitabine pills (by mouth) twice a day from days 2 through 15.  No drugs\n      will be given from days 16 through 21.  This regimen will be repeated four times, after\n      which the tumor will be re-evaluated by physical examination, mammogram, and magnetic\n      resonance imaging.\n\n      Patients will then have surgery to remove the cancer-either lumpectomy with removal of the\n      underarm lymph nodes; mastectomy and removal of the underarm lymph nodes; or modified\n      radical mastectomy.  After recovery, they will have four more cycles of chemotherapy, this\n      time with a doxorubicin and cyclophosphamide.  Both drugs will be given intravenously on day\n      1 of four 21-day cycles.\n\n      Some patients who had a mastectomy (depending on their tumor characteristics and whether\n      tumor cells were found in their lymph nodes) and all those who had a lumpectomy will also\n      have radiation therapy.  Patients with hormone receptor-positive tumors will also receive\n      tamoxifen treatment for 5 years.\n\n      In addition to the above procedures, all patients will have tumor biopsies (removal of a\n      small piece of tumor tissue) before beginning treatment, on day 1 of cycle 1, before cycle\n      2, and at the time of surgery, and physical examinations, chest X-rays, bone scans,\n      computerized tomography (CT) scans, electrocardiograms, multi-gated acquisition scan-MUGA\n      (nuclear medicine test of cardiac function) or echocardiograms of heart function, mammograms\n      and blood tests at various times during the study.  Patients will be followed at National\n      Institutes of Health (NIH) for 3 years after diagnosis with physical examinations, blood\n      tests, X-rays, and computed tomography (CT) scans.\n\n      Although it is not known whether this treatment will help an individual patient's cancer,\n      possible benefits are tumor shrinkage and decreased risk of disease recurrence.  In\n      addition, the information gained about genetic changes after chemotherapy will help\n      determine if additional studies on the use of cDNA microarray to measure tumor response are\n      warranted."
+        }, 
+        "brief_title": "Primary Chemotherapy With Docetaxel-Capecitabine and Doxorubicin-Cyclophosphamide in Breast Cancer", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Docetaxel/Capecitabine - A- Docetaxel 75 mg/m^2 intravenous day 1,capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles. Docetaxel/Capecitabine - B- Docetaxel 60 mg/m^2 intravenous day 1 capecitabine 937.5 mg/m^2 orally twice daily day 2-15", 
+                        "title": "Docetaxel/Capecitabine - A & B"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "30"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "29"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "1"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "9.80", 
+                                            "@value": "50"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "3"
+                                            }
+                                        }, 
+                                        "sub_title": "Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "27"
+                                            }
+                                        }, 
+                                        "sub_title": "Not Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Ethnicity (NIH/OMB)", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "15"
+                                            }
+                                        }, 
+                                        "sub_title": "White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "6"
+                                            }
+                                        }, 
+                                        "sub_title": "African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "6"
+                                            }
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "3"
+                                            }
+                                        }, 
+                                        "sub_title": "Hispanic"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "30"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Here is the number of participants with adverse events.  For the detailed list of adverse events see the adverse event module.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles Once the dose was deemed to be too toxic, subsequent patients were enrolled on dose B.", 
+                                    "title": "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Docetaxel 60 mg/m^2 intravenous day 1 capecitabine 937.5 mg/m^2 orally twice daily day 2-15", 
+                                    "title": "Dose B-Cohort 2-Arm 2 Reduced Dose-Docetaxel & Capecitabine"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Here is the number of participants with adverse events.  For the detailed list of adverse events see the adverse event module.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With Adverse Events", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "6 years", 
+                        "title": "Number of Participants With Adverse Events", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Overall response rate is defined as the percentage of participants with a CR (complete disappearance of all target lesions), PR (a 30% decrease in the sum of the longest diameter of target lesions) determined by clinical measurements per the Response Evaluation Criteria in Solid Tumors (RECIST) and/or a complete pathologic response (disappearance of all invasive tumor pathologically or presence of ductal carcinoma in situ) per the Chevallier criteria. For details about the RECIST or Chevallier criteria  see the protocol link module.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles Docetaxel 60 mg/m^2 intravenous day 1 capecitabine 937.5 mg/m^2 orally twice daily day 2-15", 
+                                "title": "Dose A & B-Cohort 1 & 2-Arm 1& 2-Docetaxel & Capecitabine"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "29"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "31"
+                                                    }
+                                                }, 
+                                                "sub_title": "Complete Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "59"
+                                                    }
+                                                }, 
+                                                "sub_title": "Partial Response"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "10"
+                                                    }
+                                                }, 
+                                                "sub_title": "Complete pathologic response"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Overall response rate is defined as the percentage of participants with a CR (complete disappearance of all target lesions), PR (a 30% decrease in the sum of the longest diameter of target lesions) determined by clinical measurements per the Response Evaluation Criteria in Solid Tumors (RECIST) and/or a complete pathologic response (disappearance of all invasive tumor pathologically or presence of ductal carcinoma in situ) per the Chevallier criteria. For details about the RECIST or Chevallier criteria  see the protocol link module.", 
+                                    "param": "Number", 
+                                    "title": "Overall Clinical Response Rate", 
+                                    "units": "Percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Combined data from 2 dose levels in 29 evaluable patients.", 
+                        "safety_issue": "No", 
+                        "time_frame": "6 years", 
+                        "title": "Overall Clinical Response Rate", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Patients were classified as responders or non-responders based on change in tumor size by clinical exam and pathologic response.For instance, patients with a pathological complete response, micro-invasive disease at surgery, or clinical complete response after four cycles of treatment were considered responders. Changes in gene expression associated with treatment was assessed before/after chemotherapy. All gene expression summary intensities below 50 were thresholded to the value of 50 and genes showing variability significantly smaller than the median gene variability were screened out.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles", 
+                                    "title": "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Docetaxel 60 mg/m^2 intravenous day 1, capecitabine 937.5 mg/m^2 orally twice daily day 2-15", 
+                                    "title": "Dose B-Cohort 2-Arm 2 Reduced Dose-Docetaxel & Capecitabine"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "10"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "8"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "7"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Responders"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "2"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "13"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Non-responders"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Patients were classified as responders or non-responders based on change in tumor size by clinical exam and pathologic response.For instance, patients with a pathological complete response, micro-invasive disease at surgery, or clinical complete response after four cycles of treatment were considered responders. Changes in gene expression associated with treatment was assessed before/after chemotherapy. All gene expression summary intensities below 50 were thresholded to the value of 50 and genes showing variability significantly smaller than the median gene variability were screened out.", 
+                                    "param": "Number", 
+                                    "title": "Complementary Deoxyribonucleic Acid (cDNA) Expression", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "6 years", 
+                        "title": "Complementary Deoxyribonucleic Acid (cDNA) Expression", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Patients were classified as responders or non-responders based on change in tumor size by clinical exam and pathologic response.For instance, patients with a pathological complete response, micro-invasive disease at surgery, or clinical complete response after four cycles of treatment were considered responders. Changes in gene expression associated with treatment was assessed before/after chemotherapy. All gene expression summary intensities below 50 were thresholded to the value of 50 and genes showing variability significantly smaller than the median gene variability were screened out.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles", 
+                                "title": "Dose A & B-Cohort 1 & 2-Arm 1 & 2-Docetaxel & Capecitabine"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "21"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "8"
+                                                    }
+                                                }, 
+                                                "sub_title": "Responders"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@value": "13"
+                                                    }
+                                                }, 
+                                                "sub_title": "Non-responders"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Patients were classified as responders or non-responders based on change in tumor size by clinical exam and pathologic response.For instance, patients with a pathological complete response, micro-invasive disease at surgery, or clinical complete response after four cycles of treatment were considered responders. Changes in gene expression associated with treatment was assessed before/after chemotherapy. All gene expression summary intensities below 50 were thresholded to the value of 50 and genes showing variability significantly smaller than the median gene variability were screened out.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants, e.g. Responders and Non-responders With a Percent Change in Expression Patterns After Chemotherapy With Changes in Expression Patterns After Chemotherapy in Preclinical Models", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Specimens from 21 patients. Analysis was \"per protocol\" and included only those patients with adequate RNA (ribonucleic acid) for analysis. Since both had the same intervention, the sample size was small, and a dose response was not expected, all patients were analyzed together.", 
+                        "safety_issue": "No", 
+                        "time_frame": "6 years", 
+                        "title": "Number of Participants, e.g. Responders and Non-responders With a Percent Change in Expression Patterns After Chemotherapy With Changes in Expression Patterns After Chemotherapy in Preclinical Models", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles Once the dose was deemed to be too toxic, subsequent patients were enrolled on dose B.", 
+                            "title": "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Docetaxel 60 mg/m^2 intravenous day 1 capecitabine 937.5 mg/m^2 orally twice daily day 2-15", 
+                            "title": "Dose B-Cohort 2-Arm 2 Reduced Dose-Docetaxel & Capecitabine"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P2"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "9", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "zujewskij@mail.nih.gov", 
+                "name_or_title": "JoAnne Zujewski, M.D.", 
+                "organization": "National Cancer Institute, National Institutes of Health", 
+                "phone": "301-435-9207"
+            }, 
+            "reported_events": {
+                "desc": "CTC version 2.0 criteria for adverse event report. If a specific description was not available in the standard \u2018CTC\u201d criteria the event was categorized by the major class and \u201cother\u201d.", 
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "Docetaxel/Capecitabine - A- Docetaxel 75 mg/m^2 intravenous day 1,capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles. Docetaxel/Capecitabine - B- Docetaxel 60 mg/m2 intravenous day 1 capecitabine 937.5 mg/m2 orally twice daily day 2-15", 
+                        "title": "Docetaxel/Capecitabine - A & B"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "29", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hematologic-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Lymphatics"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Lymphatics-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Vaginal bleeding"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "3", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Palpitation"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Hearing-Other"
+                                    }
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dry eye"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Ocular-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Tearing (watery eyes)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Vision-blurred vision"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "24", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Diarrhea (without colostomy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Abdominal pain or cramping"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "15", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Constipation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dyspepsia/heartburn"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dysphagia, esophagitis, odynophagia (painful swallowing)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Flatulence"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "GI-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Mouth dryness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "34", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis (oral/pharyngeal mucositis)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis (oral/pharyngeal mucositis) for BMT"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "21", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Taste disturbance (dysgeusia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "21", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "15", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Chest pain (non-cardiac and non-pleuritic)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Edema"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "53", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "18", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Fatigue (lathargy, malaise, asthenia)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Fever (in absence of neutropenia, where neutropenia is defined as AGC<1.0x109/L)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Pain-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Syndromes-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Allergic reaction/hypersensitivity (including drug fever)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Allergic rhinitis (including sneezing, nasal stuffiness, postnasal drip)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Allergy-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "18", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Infection without neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Infection, Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Injection site reaction"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Bilirubin"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Creatinine"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "39", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hemoglobin (hgb)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "103", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "21", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Leukocytes (total WBC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "71", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "25", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Neutrophils/granulocytes (ANC/AGC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Platelets"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Weight loss"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Alkaline phosphatase"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "36", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hyperuricemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypoalbuminemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypomagnesemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hyponatremia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypophosphatemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Metabolic-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Arthralgia (joint pain)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Bone pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Muscle weakness (not due to neuropathy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "17", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Myalgia (muscle ache)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Memory loss"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Depressed level of consciousness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dizziness/lightheadedness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Neuropathy motor"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "17", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Neuro-sensory"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Insomnia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "9", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Mood alteration-anxiety/agitation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Mood alteration-depression"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hematuria (in absence of vaginal bleeding)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Renal/GU-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dysmenorrhea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Irregular menses (change from baseline)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Libido"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Sexual/reproductive function-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dyspnea (shortness of breath)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypoxia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Pulmonary-Other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "26", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "22", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Alopecia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dermatitis, focal (associated with high-dose chemotherapy and bone marrow transplant)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dry skin"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "26", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hand-foot skin reaction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "11", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "10", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Nail changes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Pigmentation changes (e.g., vitiligo)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Pruritis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Radiation dermatitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Rash/desquamation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Skin-Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Sweating (diaphoresis)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hot flashes/flashes"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypotension"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Phlebitis (superficial)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "29", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "description": "(fever of unknown origin without clinically or microbiologically documented infection)", 
+                                            "sub_title": "Febrile neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Lymphatics"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Diarrhea (without colostomy)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Abdominal pain or cramping"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Colitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Dehydration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Stomatitis/pharyngitis (oral/pharyngeal/mucositis)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "3", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "3", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Fatigue (lethargy, malaise, asthenia)"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "2", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Allergic reaction/hypersensitivity (including drug fever)"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Infection, Other"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Infection (documented clinically or microbiologically) with grade 3 or 4 neutropenia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Infection without neutropenia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Injection site reaction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Wound-infectious"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Wound-non-infectious"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "44", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Leukocytes (total WBC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "135", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "26", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Neutrophils/granulocytes (ANC/AGC)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "SGOT (AST)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "SGPT (ALT)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "13", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hyponatremia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hypophosphatemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Myalgia (muscle ache)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Arthralgia (joint pain)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Bone pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Neuropathy-sensory"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Syncope"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Mood alteration-depression"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Urinary frequency/urgency"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Pleural effusion (non-malignant)"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "13", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Hand/foot skin reaction"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Urticaria (hives, welts, wheals)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            "sub_title": "Anorexia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "2", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "30"
+                                        }, 
+                                        "sub_title": "Thrombosis/embolism"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0"
+                }, 
+                "time_frame": "6 years"
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Breast Cancer", 
+            "Breast Neoplasm"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Breast Neoplasms", 
+                "Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This phase II trial in patients with stage II and stage III breast cancer will test the\n      feasibility of using cDNA microarray as a measure of a tumor's biological response to\n      chemotherapeutic agents by characterizing the cDNA expression patterns in breast cancer\n      before and after primary chemotherapy.  Thirty-six patients receive docetaxel/capecitabine\n      induction chemotherapy followed by surgery and doxorubicin/cyclophosphamide adjuvant therapy\n      (TX/AC).  We will determine the response rate of TX induction therapy and the toxicities of\n      the sequential combinations (TX/AC).  We will also obtain tumor tissue for correlative\n      biological determinations."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        Stage II or III breast cancer with a tumor size of greater than 2 cm.  Patients with a\n        previous biopsy are eligible provided adequate tumor tissue remains for biopsy in this\n        study.\n\n        At least 18 years of age.\n\n        Adequate hematopoietic function as defined by absolute neutrophil count greater than\n        1200/mm^3 and platelet count greater than 100,000/mm^3.\n\n        Adequate renal function as defined by creatinine less than 1.6 mg/dL.\n\n        Adequate hepatic function as defined by total (T.) bilirubin less than 1.4 mg/dL and serum\n        glutamic oxaloacetic transaminase (SGOT)/serum glutamic pyruvic transaminase (SGPT) less\n        than 1.5 times the upper limit of normal and alkaline phosphatase less than 2.5 times\n        upper limit of normal\n\n        Zubrod Performance status 0-2.\n\n        EXCLUSION CRITERIA:\n\n        Medical or psychiatric condition that, in the opinion of the Principal Investigator, would\n        preclude chemotherapy administration.  Patients may be evaluated by psychiatry or medical\n        subspecialties as appropriate.\n\n        Pregnant or lactating women\n\n        Known bleeding disorders\n\n        Hypersensitivity to Tween 80 (Polysorbate)\n\n        Cardiac ejection fraction below normal limits, myocardial infarction within the past 12\n        months, or symptomatic arrhythmia requiring medical intervention.\n\n        Prior chemotherapy or hormonal therapy for breast cancer.  Patients treated with hormonal\n        chemoprevention (tamoxifen or raloxifene) will be eligible.\n\n        Active malignancy diagnosed within the last 5 years.  (Cervical cancer or non-melanomatous\n        skin cancer that has been treated with curative intent will be eligible)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 13, 2000", 
+        "firstreceived_results_date": "February 14, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00020241", 
+            "nct_id": "NCT00005908", 
+            "org_study_id": "000149", 
+            "secondary_id": "00-C-0149"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                "description": "Dose A-Cohort 1 Docetaxel 75 mg/m^2 intravenous day 1", 
+                "intervention_name": "Docetaxel - Dose A", 
+                "intervention_type": "Drug", 
+                "other_name": "Taxotere/Xeloda"
+            }, 
+            {
+                "arm_group_label": [
+                    "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                    "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine"
+                ], 
+                "description": "1 mg orally daily for five years", 
+                "intervention_name": "Anastrozole", 
+                "intervention_type": "Drug", 
+                "other_name": "Arimidex"
+            }, 
+            {
+                "arm_group_label": [
+                    "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                    "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine"
+                ], 
+                "description": "600 mg/m^2 will be diluted in 100 mL 0.9% normal saline (NS) and administered intravenously over 30 minutes on day 1", 
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug", 
+                "other_name": "Cytoxan"
+            }, 
+            {
+                "arm_group_label": "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine", 
+                "description": "Dose B - Cohort 2 Docetaxel 60 mg/m^2 intravenous day 1", 
+                "intervention_name": "Docetaxel - Dose B", 
+                "intervention_type": "Drug", 
+                "other_name": "Taxotere"
+            }, 
+            {
+                "arm_group_label": [
+                    "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                    "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine"
+                ], 
+                "description": "60 mg/m^2 will be administered as a slow intravenous push on day 1", 
+                "intervention_name": "Doxorubicin hydrochloride", 
+                "intervention_type": "Drug", 
+                "other_name": "Adriamycin"
+            }, 
+            {
+                "arm_group_label": [
+                    "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                    "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine"
+                ], 
+                "description": "20 mg/day orally for five years", 
+                "intervention_name": "Tamoxifen Citrate", 
+                "intervention_type": "Drug", 
+                "other_name": "Nolvadex"
+            }, 
+            {
+                "arm_group_label": "Dose B-Cohort 2-Arm 2 Reduced dose-Docetaxel & Capecitabine", 
+                "description": "Dose B - Cohort 2 capecitabine 937.5 mg/m^2 orally twice daily day 2-15", 
+                "intervention_name": "Capecitabine - Dose B", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine", 
+                "description": "capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles", 
+                "intervention_name": "Capecitabine - Dose A", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclophosphamide", 
+                "Fluorouracil", 
+                "Docetaxel", 
+                "Anastrozole", 
+                "Capecitabine", 
+                "Doxorubicin", 
+                "Tamoxifen"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "cDNA Microarray", 
+            "Stage II and Stage III Breast Cancer", 
+            "Biological Response", 
+            "Molecular Profiling", 
+            "Fine Needle Aspirate", 
+            "Breast Cancer"
+        ], 
+        "lastchanged_date": "March 13, 2013", 
+        "link": {
+            "description": "RECIST", 
+            "url": "http://ctep.cancer.gov"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20889"
+                }, 
+                "name": "National Naval Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Pilot Trial of Sequential Primary (Neoadjuvant) Combination Chemotherapy With Docetaxel/Capecitabine (TX) and Doxorubicin/Cyclophosphamide (AC) in Primary Breast Cancer With Evaluation of Chemotherapy Effects on Gene Expression", 
+        "overall_official": {
+            "affiliation": "National Cancer Institute (NCI), National Institutes of Health (NIH)", 
+            "last_name": "JoAnne Zujewski, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Here is the number of participants with adverse events.  For the detailed list of adverse events see the adverse event module.", 
+                "measure": "Number of Participants With Adverse Events", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 years"
+            }, 
+            {
+                "description": "Overall response rate is defined as the percentage of participants with a CR (complete disappearance of all target lesions), PR (a 30% decrease in the sum of the longest diameter of target lesions) determined by clinical measurements per the Response Evaluation Criteria in Solid Tumors (RECIST) and/or a complete pathologic response (disappearance of all invasive tumor pathologically or presence of ductal carcinoma in situ) per the Chevallier criteria. For details about the RECIST or Chevallier criteria  see the protocol link module.", 
+                "measure": "Overall Clinical Response Rate", 
+                "safety_issue": "No", 
+                "time_frame": "6 years"
+            }, 
+            {
+                "description": "Patients were classified as responders or non-responders based on change in tumor size by clinical exam and pathologic response.For instance, patients with a pathological complete response, micro-invasive disease at surgery, or clinical complete response after four cycles of treatment were considered responders. Changes in gene expression associated with treatment was assessed before/after chemotherapy. All gene expression summary intensities below 50 were thresholded to the value of 50 and genes showing variability significantly smaller than the median gene variability were screened out.", 
+                "measure": "Complementary Deoxyribonucleic Acid (cDNA) Expression", 
+                "safety_issue": "No", 
+                "time_frame": "6 years"
+            }, 
+            {
+                "description": "Patients were classified as responders or non-responders based on change in tumor size by clinical exam and pathologic response.For instance, patients with a pathological complete response, micro-invasive disease at surgery, or clinical complete response after four cycles of treatment were considered responders. Changes in gene expression associated with treatment was assessed before/after chemotherapy. All gene expression summary intensities below 50 were thresholded to the value of 50 and genes showing variability significantly smaller than the median gene variability were screened out.", 
+                "measure": "Number of Participants, e.g. Responders and Non-responders With a Percent Change in Expression Patterns After Chemotherapy With Changes in Expression Patterns After Chemotherapy in Preclinical Models", 
+                "safety_issue": "No", 
+                "time_frame": "6 years"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "7563172", 
+                "citation": "Elledge RM, Gray R, Mansour E, Yu Y, Clark GM, Ravdin P, Osborne CK, Gilchrist K, Davidson NE, Robert N, et al. Accumulation of p53 protein as a possible predictor of response to adjuvant combination chemotherapy with cyclophosphamide, methotrexate, fluorouracil, and prednisone for breast cancer. J Natl Cancer Inst. 1995 Aug 16;87(16):1254-6. No abstract available."
+            }, 
+            {
+                "PMID": "8912545", 
+                "citation": "MacGrogan G, Mauriac L, Durand M, Bonichon F, Trojani M, de Mascarel I, Coindre JM. Primary chemotherapy in breast invasive carcinoma: predictive value of the immunohistochemical detection of hormonal receptors, p53, c-erbB-2, MiB1, pS2 and GST pi. Br J Cancer. 1996 Nov;74(9):1458-65."
+            }, 
+            {
+                "PMID": "10334533", 
+                "citation": "Harvey JM, Clark GM, Osborne CK, Allred DC. Estrogen receptor status by immunohistochemistry is superior to the ligand-binding assay for predicting response to adjuvant endocrine therapy in breast cancer. J Clin Oncol. 1999 May;17(5):1474-81."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005908"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "National Institutes of Health Clinical Center (CC)", 
+            "investigator_full_name": "Jo Anne Zujewski, M.D.", 
+            "investigator_title": "Principal Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "results_reference": {
+            "PMID": "20012355", 
+            "citation": "Korde LA, Lusa L, McShane L, Lebowitz PF, Lukes L, Camphausen K, Parker JS, Swain SM, Hunter K, Zujewski JA. Gene expression pathway analysis to predict response to neoadjuvant docetaxel and capecitabine for breast cancer. Breast Cancer Res Treat. 2010 Feb;119(3):685-99. doi: 10.1007/s10549-009-0651-3. PubMed PMID: 20012355."
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "June 2000", 
+        "study_design": "Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }, 
+    "geocoordinates": {
+        "National Naval Medical Center": "38.985 -77.095"
+    }
+}

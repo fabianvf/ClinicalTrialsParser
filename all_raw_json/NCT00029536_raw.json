@@ -1,0 +1,428 @@
+{
+    "clinical_study": {
+        "@rank": "60663", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Progesterone Lozenges"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Matched Placebo"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "There is considerable evidence to suggest that natural progesterone has anti-seizure\n      properties.  The purpose of this study is to determine if progesterone supplement during the\n      second half of the menstrual cycle lessens seizure frequency in women with epilepsy."
+        }, 
+        "brief_title": "Progesterone vs Placebo Therapy for Women With Epilepsy", 
+        "completion_date": {
+            "#text": "June 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": "Epilepsy", 
+        "condition_browse": {
+            "mesh_term": "Epilepsy"
+        }, 
+        "detailed_description": {
+            "textblock": "This is a 6-month study.  The first 3 months will gather baseline information on seizures,\n      antiepileptic drug levels , menstrual cycles, hormone levels, emotional function, and\n      quality of life.  The second 3 months will assess the effects of treatment on these\n      parameters."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "INCLUSION:\n\n          1. Subject must be between the ages of 13 and 45.\n\n          2. Subject must have a history of seizures (documented by EEG).\n\n          3. Subject must have had at least 2 seizures or auras per month during the past 3\n             months.\n\n          4. Subject must be on stable antiepileptic drug therapy for at least 2 months.\n\n          5. Subject must have cycle intervals between 21 and 35 days during 6 months prior to\n             entry.\n\n        EXCLUSION:\n\n          1. Subject that is pregnant or lactating.\n\n          2. Subject that is on major tranquilizers, antidepressant medications, or reproductive\n             hormones.\n\n          3. Subject that is unable to document seizures."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "45 Years", 
+            "minimum_age": "13 Years"
+        }, 
+        "enrollment": {
+            "#text": "462", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 15, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00029536", 
+            "org_study_id": "2001P-0001408", 
+            "secondary_id": [
+                "NINDS NS39466", 
+                "CRC"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "1", 
+                "2"
+            ], 
+            "description": "200mg Progesterone Lozenges and Matched Placebo Lozenges", 
+            "intervention_name": "Natural Progesterone", 
+            "intervention_type": "Biological"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Progesterone"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Epilepsy", 
+            "Seizure", 
+            "Hormone", 
+            "Progesterone", 
+            "Catamenial"
+        ], 
+        "lastchanged_date": "July 20, 2010", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }, 
+                    "name": "University of Southern California, Keck School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Emory University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "Johns Hopkins Bayview Medical Center; Johns Hopkins Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "University of Maryland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Medical Center, Harvard Neuroendocrine Unit"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Brigham and Women's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "MINCEP Epilepsy Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }, 
+                    "name": "Dartmouth-Hitchcock Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "New York Presbyterian Hospital- Weill Medical College of Cornell University, Comprehensive Epilepsy Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Ohio State University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Thomas Jefferson University Hospital, Comprehensive Epilepsy Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlottesville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22908"
+                    }, 
+                    "name": "University of Virginia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3A 2B4"
+                    }, 
+                    "name": "Montreal Neurological Institute"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Phase 3 Study of Progesterone vs Placebo Therapy", 
+        "overall_official": {
+            "affiliation": "Beth Israel Deaconess Medical Center", 
+            "last_name": "Andrew G Herzog, M.D., M.Sc.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Number of women who show a greater than 50% decline in average daily seizure frequency", 
+            "safety_issue": "Yes", 
+            "time_frame": "9 years"
+        }, 
+        "reference": [
+            {
+                "PMID": "7675223", 
+                "citation": "Herzog AG. Progesterone therapy in women with complex partial and secondary generalized seizures. Neurology. 1995 Sep;45(9):1660-2."
+            }, 
+            {
+                "PMID": "10371551", 
+                "citation": "Herzog AG. Progesterone therapy in women with epilepsy: a 3-year follow-up. Neurology. 1999 Jun 10;52(9):1917-8. No abstract available."
+            }, 
+            {
+                "PMID": "9579954", 
+                "citation": "Herzog AG, Klein P, Ransil BJ. Three patterns of catamenial epilepsy. Epilepsia. 1997 Oct;38(10):1082-8."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00029536"
+        }, 
+        "responsible_party": {
+            "name_title": "Andrew G. Herzog, MD", 
+            "organization": "Beth Israel Deaconess Medical Center"
+        }, 
+        "results_reference": {
+            "PMID": "15349872", 
+            "citation": "Herzog AG, Harden CL, Liporace J, Pennell P, Schomer DL, Sperling M, Fowler K, Nikolov B, Shuman S, Newman M. Frequency of catamenial seizure exacerbation in women with localization-related epilepsy. Ann Neurol. 2004 Sep;56(3):431-4."
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Number of women who show a >50% decline in average daily seizure frequency for the most severe seizure type.", 
+                "safety_issue": "Yes", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Number of women who show a greater than 50% decline in average daily seizure frequency for secondary generalized, complex partial and simple partial seizures considered separately", 
+                "safety_issue": "Yes", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Number of women who show a decline in average daily seizure frequency.", 
+                "safety_issue": "Yes", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Change in average daily seizure frequency during the entire cycle.", 
+                "safety_issue": "Yes", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Change in average daily seizure frequency during the period of progesterone use (Day 14 to -1) and no progesterone use (Day 1 to 13).", 
+                "safety_issue": "No", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Change in seizure severity on treatment versus baseline.", 
+                "safety_issue": "No", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Change in quality of life score.", 
+                "safety_issue": "No", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Association of change in seizure frequency with changes in serum levels of progesterone, allopregnanolone, estradiol and estradiol/progesterone.", 
+                "safety_issue": "No", 
+                "time_frame": "9 years"
+            }, 
+            {
+                "measure": "Association of change in seizure frequency with changes in serum levels of antiepileptic drugs", 
+                "safety_issue": "Yes", 
+                "time_frame": "9 years"
+            }
+        ], 
+        "source": "Beth Israel Deaconess Medical Center", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Brigham and Women's Hospital", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Columbia University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Dartmouth-Hitchcock Medical Center", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Emory University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Johns Hopkins University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "MINCEP Epilepsy Care", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Montreal Neurological Institute and Hospital", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Ohio State University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Thomas Jefferson University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Maryland", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Southern California", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Virginia", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Weill Medical College of Cornell University", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Beth Israel Deaconess Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2000", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2010"
+    }, 
+    "geocoordinates": {
+        "Beth Israel Deaconess Medical Center, Harvard Neuroendocrine Unit": "42.358 -71.06", 
+        "Brigham and Women's Hospital": "42.358 -71.06", 
+        "Columbia Medical Center": "40.714 -74.006", 
+        "Dartmouth-Hitchcock Medical Center": "43.642 -72.252", 
+        "Emory University School of Medicine": "33.749 -84.388", 
+        "Henry Ford Hospital": "42.331 -83.046", 
+        "Johns Hopkins Bayview Medical Center; Johns Hopkins Hospital": "39.29 -76.612", 
+        "MINCEP Epilepsy Care": "44.98 -93.264", 
+        "Montreal Neurological Institute": "45.509 -73.554", 
+        "New York Presbyterian Hospital- Weill Medical College of Cornell University, Comprehensive Epilepsy Center": "40.714 -74.006", 
+        "Ohio State University": "39.961 -82.999", 
+        "Thomas Jefferson University Hospital, Comprehensive Epilepsy Center": "39.952 -75.164", 
+        "University of Maryland": "39.29 -76.612", 
+        "University of Southern California, Keck School of Medicine": "34.052 -118.244", 
+        "University of Virginia": "38.029 -78.477"
+    }
+}

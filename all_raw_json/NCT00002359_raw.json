@@ -1,0 +1,728 @@
+{
+    "clinical_study": {
+        "@rank": "99355", 
+        "brief_summary": {
+            "textblock": "To determine the effect of HIV-1 immunogen (Remune) on AIDS-free survival, defined as the\n      time prior to development of an AIDS-defining condition or death."
+        }, 
+        "brief_title": "A Multicenter, Double-Blind, Phase III, Adjuvant-Controlled Study of the Effect of 10 Units of HIV-1 Immunogen (Remune) Compared to Incomplete Freund's Adjuvant (IFA) Alone Every 12 Weeks on AIDS-Free Survival in Subjects With HIV Infection and CD4 T-Lymphocytes Between 300 and 549 Cells/microL Rega", 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients receive 10 units of HIV-1 immunogen in IFA or IFA alone every 12 weeks, then are\n      followed for 104-148 weeks."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Concurrent Medication:\n\n        Allowed:\n\n          -  Antiretrovirals if on a stable dose for at least the past 3 months.\n\n        Patients must have:\n\n          -  HIV-1 infection with CD4 count 300-549 cells/mm3.\n\n          -  No AIDS-defining condition.\n\n          -  Been on a stable dose of antiretroviral for the past 3 months, if taking\n             antiretrovirals.\n\n        NOTE:\n\n          -  KS is permitted if not requiring systemic therapy.\n\n        Prior Medication:\n\n        Allowed:\n\n          -  Prior antiretrovirals.\n\n        Exclusion Criteria\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  Systemic chemotherapy for KS.\n\n          -  Treatment for malignancy other than basal cell or squamous cell carcinoma of the skin\n             or carcinoma in situ of the cervix.\n\n        Patients with the following prior conditions are excluded:\n\n          -  History of any illness that would interfere with study.\n\n          -  Acute infection requiring prescription therapy within the past month, other than\n             genital herpes and oral or vaginal candidiasis.\n\n        Prior Medication:\n\n        Excluded:\n\n          -  Prior HIV-1 Immunogen. Unwilling to use effective safe sex practices. Active\n             substance abuse."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "3000", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002359", 
+            "org_study_id": "092", 
+            "secondary_id": "806"
+        }, 
+        "intervention": {
+            "intervention_name": "HIV-1 Immunogen", 
+            "intervention_type": "Biological"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Freund's Adjuvant"
+        }, 
+        "keyword": [
+            "Vaccines, Synthetic", 
+            "Viral Vaccines", 
+            "HIV-1", 
+            "AIDS-Related Complex", 
+            "AIDS Vaccines", 
+            "Salk HIV Immunogen"
+        ], 
+        "lastchanged_date": "June 23, 2005", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85016"
+                    }, 
+                    "name": "Phoenix Body Positive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Irvine", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92718"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Cedars Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90028"
+                    }, 
+                    "name": "Jeffrey Goodman Special Care Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90036"
+                    }, 
+                    "name": "Kraus Med Partners"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Redwood City", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94063"
+                    }, 
+                    "name": "AIDS Community Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20009"
+                    }, 
+                    "name": "Whitman Walker Clinic Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20037"
+                    }, 
+                    "name": "George Washington Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20037"
+                    }, 
+                    "name": "Anderson Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "North Broward Hosp District"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33140"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "North Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33179"
+                    }, 
+                    "name": "The Coleman Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33617"
+                    }, 
+                    "name": "Clinical Pharmacology Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30308"
+                    }, 
+                    "name": "AIDS Research Consortium of Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60657"
+                    }, 
+                    "name": "Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60657"
+                    }, 
+                    "name": "Chicago AIDS Research Alliance"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46219"
+                    }, 
+                    "name": "Community Hosp Indianapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "UKSM-W Med Practice Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536"
+                    }, 
+                    "name": "Univ of Kentucky / Division of ID Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02210"
+                    }, 
+                    "name": "JSI Research and Training Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brookline Village", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02445"
+                    }, 
+                    "name": "Community Research Initiative of New England"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Holyoke", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01040"
+                    }, 
+                    "name": "Providence Mercy Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hosp / Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State Univ / WSU / DMC HIV / AIDS Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55407"
+                    }, 
+                    "name": "Abbott Northwestern Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64111"
+                    }, 
+                    "name": "Kansas City AIDS Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63108"
+                    }, 
+                    "name": "Washington Univ / St Louis Connect Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10456"
+                    }, 
+                    "name": "Bronx Lebanon Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10031"
+                    }, 
+                    "name": "Dr Barbara Justice"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Cornell Univ Med College"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "Anderson Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10019"
+                    }, 
+                    "name": "St Luke's - Roosevelt Hosp Ctr / Div of Infect Dis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14620"
+                    }, 
+                    "name": "Community Health Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28207"
+                    }, 
+                    "name": "Nalle Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45267"
+                    }, 
+                    "name": "Univ of Cincinnati Med Ctr / Holmes Division"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Ohio State Univ / Division of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73117"
+                    }, 
+                    "name": "Univ of Oklahoma"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97210"
+                    }, 
+                    "name": "The Research and Education Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19146"
+                    }, 
+                    "name": "The Graduate Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15218"
+                    }, 
+                    "name": "Anderson Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pawtucket", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02860"
+                    }, 
+                    "name": "Mem Hosp of Rhode Island"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "Med Univ of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37212"
+                    }, 
+                    "name": "Vanderbilt Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "Metroplex Clinical Research Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77555"
+                    }, 
+                    "name": "Univ of Texas Med Branch Ctr for Clinical Studies"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77027"
+                    }, 
+                    "name": "ONCOL Med Associates / PA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84108"
+                    }, 
+                    "name": "Univ of Utah Med School / Clinical Trials Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Annandale", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22003"
+                    }, 
+                    "name": "Infectious Disease Physicians Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Med Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norfolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23507"
+                    }, 
+                    "name": "Eastern Virginia Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Novum Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53203"
+                    }, 
+                    "name": "Wisconsin AIDS Research Consortium"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Multicenter, Double-Blind, Phase III, Adjuvant-Controlled Study of the Effect of 10 Units of HIV-1 Immunogen (Remune) Compared to Incomplete Freund's Adjuvant (IFA) Alone Every 12 Weeks on AIDS-Free Survival in Subjects With HIV Infection and CD4 T-Lymphocytes Between 300 and 549 Cells/microL Regardless of Concomitant HIV Therapies", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "reference": {
+            "PMID": "11056590", 
+            "citation": "Kahn JO, Cherng DW, Mayer K, Murray H, Lagakos S. Evaluation of HIV-1 immunogen, an immunologic modifier, administered to patients infected with HIV having 300 to 549 x 10(6)/L CD4 cell counts: A randomized controlled trial. JAMA. 2000 Nov 1;284(17):2193-202. Erratum in: JAMA 2001 May 2;285(17):2197."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002359"
+        }, 
+        "source": "NIH AIDS Clinical Trials Information Service", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "The Immune Response Corporation", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 1997"
+    }, 
+    "geocoordinates": {
+        "AIDS Community Research Consortium": "37.485 -122.236", 
+        "AIDS Research Consortium of Atlanta": "33.749 -84.388", 
+        "Abbott Northwestern Hosp": "44.98 -93.264", 
+        "Anderson Clinical Research": "40.441 -79.996", 
+        "Bronx Lebanon Hosp Ctr": "40.85 -73.867", 
+        "Cedars Sinai Med Ctr": "34.052 -118.244", 
+        "Chicago AIDS Research Alliance": "41.878 -87.63", 
+        "Clinical Pharmacology Services": "27.951 -82.457", 
+        "Community Health Network": "43.161 -77.611", 
+        "Community Hosp Indianapolis": "39.769 -86.158", 
+        "Community Research Initiative of New England": "42.332 -71.121", 
+        "Cornell Univ Med College": "40.714 -74.006", 
+        "Ctr for Special Immunology": "41.878 -87.63", 
+        "Dr Barbara Justice": "40.714 -74.006", 
+        "Eastern Virginia Med School": "36.851 -76.286", 
+        "George Washington Univ Med Ctr": "38.895 -77.036", 
+        "Hampton Roads Med Specialists": "37.03 -76.345", 
+        "Henry Ford Hosp / Infectious Diseases": "42.331 -83.046", 
+        "Infectious Disease Physicians Inc": "38.83 -77.196", 
+        "JSI Research and Training Institute": "42.358 -71.06", 
+        "Jeffrey Goodman Special Care Clinic": "34.052 -118.244", 
+        "Kansas City AIDS Research Consortium": "39.1 -94.579", 
+        "Kraus Med Partners": "34.052 -118.244", 
+        "Med Univ of South Carolina": "32.777 -79.931", 
+        "Mem Hosp of Rhode Island": "41.879 -71.383", 
+        "Metroplex Clinical Research Ctr": "32.803 -96.77", 
+        "Mount Sinai Med Ctr": "40.714 -74.006", 
+        "Nalle Clinic": "35.227 -80.843", 
+        "North Broward Hosp District": "26.122 -80.143", 
+        "Novum Inc": "47.606 -122.332", 
+        "ONCOL Med Associates / PA": "29.76 -95.369", 
+        "Ohio State Univ / Division of Infectious Disease": "39.961 -82.999", 
+        "Phoenix Body Positive": "33.448 -112.074", 
+        "Providence Mercy Hosp": "42.204 -72.616", 
+        "Rush Med Ctr": "41.878 -87.63", 
+        "St Luke's - Roosevelt Hosp Ctr / Div of Infect Dis": "40.714 -74.006", 
+        "The Coleman Institute": "25.89 -80.187", 
+        "The Graduate Hosp": "39.952 -75.164", 
+        "The Research and Education Group": "45.523 -122.676", 
+        "UKSM-W Med Practice Association": "37.692 -97.337", 
+        "Univ of Cincinnati Med Ctr / Holmes Division": "39.103 -84.512", 
+        "Univ of Kentucky / Division of ID Research": "38.041 -84.504", 
+        "Univ of Oklahoma": "35.468 -97.516", 
+        "Univ of Texas Med Branch Ctr for Clinical Studies": "29.301 -94.798", 
+        "Univ of Utah Med School / Clinical Trials Ctr": "40.761 -111.891", 
+        "Vanderbilt Univ Med Ctr": "36.166 -86.784", 
+        "Washington Univ / St Louis Connect Care": "38.627 -90.199", 
+        "Wayne State Univ / WSU / DMC HIV / AIDS Program": "42.331 -83.046", 
+        "Whitman Walker Clinic Inc": "38.895 -77.036", 
+        "Wisconsin AIDS Research Consortium": "43.039 -87.906"
+    }
+}

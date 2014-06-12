@@ -1,0 +1,155 @@
+{
+    "clinical_study": {
+        "@rank": "112880", 
+        "arm_group": {
+            "arm_group_label": "Treatment (arsenic trioxide)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive arsenic trioxide IV over 1 hour on days 1-5. Treatment repeats every 28 days for a minimum of 2 courses in the absence of disease progression or unacceptable toxicity. Patients who achieve complete response receive 2 additional courses."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase II trial to study the effectiveness of arsenic trioxide in treating patients who have\n      recurrent cancer of the bladder or urinary tract. Arsenic trioxide may kill tumor cells that\n      have become resistant to standard chemotherapy regimens."
+        }, 
+        "brief_title": "Arsenic Trioxide in Treating Patients With Urothelial Cancer", 
+        "condition": [
+            "Recurrent Transitional Cell Cancer of the Renal Pelvis and Ureter", 
+            "Recurrent Urethral Cancer", 
+            "Transitional Cell Carcinoma of the Bladder", 
+            "Ureter Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Urinary Bladder Neoplasms", 
+                "Carcinoma", 
+                "Carcinoma, Transitional Cell", 
+                "Ureteral Neoplasms", 
+                "Urethral Neoplasms", 
+                "Kidney Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To determine the efficacy of arsenic trioxide in patients with measurable urothelial\n      carcinoma of the bladder, urethra, ureter, or renal pelvis.\n\n      II. To determine the toxicity of arsenic trioxide administered to patients with urothelial\n      cancer.\n\n      OUTLINE:\n\n      Patients receive arsenic trioxide IV over 1 hour on days 1-5. Treatment repeats every 28\n      days for a minimum of 2 courses in the absence of disease progression or unacceptable\n      toxicity. Patients who achieve complete response receive 2 additional courses.\n\n      Patients are followed every 2 months for 1 year after registration and then every 6 months\n      for 1 year or until disease progression or relapse."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Diagnosis of transitional cell carcinoma of the bladder, urethra, ureter or renal\n             pelvis; histologic documentation of metastatic/recurrent disease is not required;\n             clinical staging, but not pathological staging, is required\n\n          -  Patients must have relapsed from or failed to achieve a complete or partial response\n             after one chemotherapy regimen, which must have included one of the following\n             chemotherapy agents: cisplatin, carboplatin paclitaxel, or gemcitabine\n\n          -  >= 4 weeks since prior RT or chemotherapy\n\n          -  Patients must have measurable disease\n\n          -  CTC (ECOG) Performance Status =< 1\n\n          -  No evidence of NYHA functional class III or IV heart disease\n\n          -  Baseline EKG with QTc < 500 ms\n\n          -  Non-pregnant and not nursing, as chemotherapy is thought to present substantial risk\n             to the fetus/infant; men and women of reproductive potential may not participate\n             unless they have agreed to use an effective contraceptive method while in this study\n\n          -  Granulocytes > 1500/ml\n\n          -  Platelet count > 100,000/ml\n\n          -  Bilirubin =< Upper limits of normal (ULN)\n\n          -  Serum Creatinine < 2.0 x ULN"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "35", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 2, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00009867", 
+            "org_study_id": "NCI-2012-02789", 
+            "secondary_id": [
+                "CALGB-99903", 
+                "U10CA031946"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": "Treatment (arsenic trioxide)", 
+            "description": "Given IV", 
+            "intervention_name": "arsenic trioxide", 
+            "intervention_type": "Drug", 
+            "other_name": [
+                "Arsenic (III) Oxide", 
+                "Arsenic Sesquioxide", 
+                "Arsenous Acid Anhydride", 
+                "AS2O3", 
+                "Trisenox"
+            ]
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Arsenic trioxide"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "June 3, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Chicago", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60606"
+                }, 
+                "name": "Cancer and Leukemia Group B"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A PHASE II STUDY OF ARSENIC TRIOXIDE (NSC #706363, IND #57974) IN UROTHELIAL CANCER", 
+        "overall_official": {
+            "affiliation": "Cancer and Leukemia Group B", 
+            "last_name": "Dean Bajorin", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "95% confidence intervals will be computed using binomial distribution.", 
+                "measure": "Objective response", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 years"
+            }, 
+            {
+                "description": "Reported by type, frequency and severity.", 
+                "measure": "Toxicity graded using the CTC", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 2 years"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00009867"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Estimated using the Kaplan-Meier method.", 
+                "measure": "Time to disease progression", 
+                "safety_issue": "No", 
+                "time_frame": "From the initiation of treatment to the date of progressive disease, assessed up to 2 years"
+            }, 
+            {
+                "description": "Estimated using the Kaplan-Meier method.", 
+                "measure": "Duration of objective response", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 years"
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "December 2000", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }, 
+    "geocoordinates": {
+        "Cancer and Leukemia Group B": "41.878 -87.63"
+    }
+}

@@ -1,0 +1,457 @@
+{
+    "clinical_study": {
+        "@rank": "148209", 
+        "arm_group": {
+            "arm_group_label": "Arm I", 
+            "arm_group_type": "Experimental", 
+            "description": "See arm description."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase I trial to study the effectiveness of tirapazamine plus cyclophosphamide in treating\n      children who have refractory solid tumors. Drugs used in chemotherapy use different ways to\n      stop tumor cells from dividing so they stop growing or die. Combining more than one drug may\n      kill more tumor cells."
+        }, 
+        "brief_title": "Tirapazamine Plus Cyclophosphamide in Treating Children With Refractory Solid Tumors", 
+        "condition": "Unspecified Childhood Solid Tumor, Protocol Specific", 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the maximum tolerated dose and the dose limiting toxicity of tirapazamine when\n      administered with cyclophosphamide as intravenous infusions to children with refractory\n      solid tumors.\n\n      II. Determine the incidence and severity of other toxicities of tirapazamine and\n      cyclophosphamide in these patients.\n\n      III. Determine a safe and tolerable dose of tirapazamine administered with cyclophosphamide\n      for a phase II study for the same indications.\n\n      IV. Determine the pharmacokinetics of tirapazamine in children and adolescents receiving the\n      combination of tirapazamine and cyclophosphamide.\n\n      V. Determine the preliminary evidence of antitumor activity of tirapazamine and\n      cyclophosphamide.\n\n      OUTLINE: This is a dose escalation study.\n\n      Patients receive tirapazamine by 2 hour intravenous infusion (hours 0-2) followed 2 hours\n      later by a 30 minute intravenous infusion of cyclophosphamide. This course is repeated every\n      3 weeks in patients with partial/complete response or stable disease for a maximum of 1\n      year. Cohorts of 3-6 patients each are treated at each dose level of tirapazamine. Dose\n      escalation of tirapazamine occurs when 0 of 3 patients or 1 of 6 patients has experienced\n      dose limiting toxicity (DLT). If DLT is experienced in 1 of 3 patients at a given dose\n      level, up to 3 additional patients are treated at that same dose level. If none of the 3\n      additional patients at that dose level experiences DLT, the dose is escalated. If DLT is\n      experienced in 1 or more of the additional 3 patients, the maximum tolerated dose (MTD) has\n      been exceeded and 3 patients are treated at the next lower dose level (defined as the MTD).\n      A total of six patients are treated at the MTD. If DLT is proved to be neutropenia, patients\n      must then also meet the additional eligibility criteria listed for stratum 2. If neutropenia\n      continues to be the DLT in stratum 2, then additional patients receive subcutaneous\n      filgrastim (granulocyte colony-stimulating factor; G-CSF) beginning 24 hours after\n      cyclophosphamide. A second MTD may be determined for chemotherapy with G-CSF. Patients are\n      followed every 6 months for 4 years, and then annually thereafter."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed solid tumor that is refractory to conventional therapy or\n             for which no effective therapy is known\n\n          -  Brain tumors eligible Brainstem gliomas may waive histological verification\n             requirement\n\n          -  Neurologic deficits associated with CNS malignancies must be stable for a minimum of\n             4 weeks prior to study\n\n          -  No leukemia Stratum 2\n\n          -  No marrow involvement\n\n        PATIENT CHARACTERISTICS:\n\n          -  Age: 21 and under\n\n          -  Performance status: Karnofsky or Lansky 50-100%\n\n          -  Life expectancy: At least 8 weeks\n\n          -  Absolute neutrophil count at least 1,000/mm3\n\n          -  Platelet count at least 75,000/mm3\n\n          -  Hemoglobin at least 9 g/dL\n\n          -  Bilirubin less than 1.5 mg/dL\n\n          -  SGPT less than 5 times normal\n\n          -  Creatinine normal for age OR creatinine clearance at least 70 mL/min\n\n          -  Shortening fraction at least 27% of normal OR ejection fraction greater than 50% of\n             normal\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test required\n\n        PRIOR CONCURRENT THERAPY:\n\n          -  No concurrent anticancer therapy\n\n          -  At least 6 months since bone marrow transplant and no evidence of graft versus host\n             disease\n\n          -  At least 1 week since growth factors\n\n          -  No concurrent granulocyte colony-stimulating factor\n\n          -  Recovered from prior immunotherapy\n\n          -  Stratum 2: No prior bone marrow transplantation (with or without total body\n             irradiation)\n\n          -  At least 6 weeks since prior nitrosourea\n\n          -  At least 2 weeks since other prior myelosuppressive chemotherapy\n\n          -  Dexamethasone must be a stable or decreasing dose for 2 weeks prior to study\n\n          -  Recovered from prior chemotherapy\n\n          -  Stratum 2: No more than 2 prior chemotherapy regimens\n\n          -  At least 2 weeks since local palliative radiotherapy (small port)\n\n          -  At least 6 months since prior substantial bone marrow radiation (e.g., cross-\n             sectional radiotherapy [greater than 24 Gy], total body irradiation, hemi- pelvic\n             radiotherapy)\n\n          -  Recovered from prior radiotherapy\n\n          -  Stratum 2: No prior central axis radiation"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "21 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003288", 
+            "org_study_id": "NCI-2012-01837", 
+            "secondary_id": [
+                "POG-9675", 
+                "CDR0000066219"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "intervention_name": "tirapazamine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclophosphamide", 
+                "Tirapazamine", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "unspecified childhood solid tumor, protocol specific", 
+        "lastchanged_date": "February 4, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/POG-9675"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "University of Alabama Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92093-0658"
+                    }, 
+                    "name": "University of California San Diego Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Lucile Packard Children's Hospital at Stanford"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Sylvester Cancer Center, University of Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Emory University Hospital - Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Children's Memorial Hospital, Chicago"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "Johns Hopkins Oncology Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }, 
+                    "name": "Floating Hospital for Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Children's Hospital of Michigan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216-4505"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63104"
+                    }, 
+                    "name": "Cardinal Glennon Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "Hackensack University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York - Upstate Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38105-2794"
+                    }, 
+                    "name": "Saint Jude Children's Research Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235-9154"
+                    }, 
+                    "name": "Simmons Cancer Center - Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Cook Children's Medical Center - Fort Worth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78284"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Midwest Children's Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 1X8"
+                    }, 
+                    "name": "Hospital for Sick Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3T 1C5"
+                    }, 
+                    "name": "Hopital Sainte Justine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3H 1P3"
+                    }, 
+                    "name": "Montreal Children's Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Trial of Tirapazamine and Cyclophosphamide in Children With Refractory Solid Tumors", 
+        "overall_official": {
+            "affiliation": "Simmons Cancer Center", 
+            "last_name": "Victor Aquino, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003288"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "August 1998", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2000"
+    }, 
+    "geocoordinates": {
+        "Baylor College of Medicine": "29.76 -95.369", 
+        "Cardinal Glennon Children's Hospital": "38.627 -90.199", 
+        "Children's Hospital of Michigan": "42.331 -83.046", 
+        "Children's Memorial Hospital, Chicago": "41.878 -87.63", 
+        "Cook Children's Medical Center - Fort Worth": "32.725 -97.321", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Duke Comprehensive Cancer Center": "35.994 -78.899", 
+        "Emory University Hospital - Atlanta": "33.749 -84.388", 
+        "Floating Hospital for Children": "42.358 -71.06", 
+        "Hackensack University Medical Center": "40.886 -74.043", 
+        "Hopital Sainte Justine": "45.509 -73.554", 
+        "Hospital for Sick Children": "43.653 -79.383", 
+        "Johns Hopkins Oncology Center": "39.29 -76.612", 
+        "Lucile Packard Children's Hospital at Stanford": "37.442 -122.143", 
+        "Midwest Children's Cancer Center": "43.039 -87.906", 
+        "Montreal Children's Hospital": "45.509 -73.554", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "Saint Jude Children's Research Hospital": "35.15 -90.049", 
+        "Simmons Cancer Center - Dallas": "32.803 -96.77", 
+        "State University of New York - Upstate Medical University": "43.048 -76.147", 
+        "Sylvester Cancer Center, University of Miami": "25.789 -80.226", 
+        "University of Alabama Comprehensive Cancer Center": "33.521 -86.802", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California San Diego Cancer Center": "32.839 -117.277", 
+        "University of Kansas Medical Center": "39.114 -94.627", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "Washington University School of Medicine": "38.627 -90.199"
+    }
+}

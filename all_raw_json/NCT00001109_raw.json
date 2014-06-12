@@ -1,0 +1,637 @@
+{
+    "clinical_study": {
+        "@rank": "15155", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to learn more about some of the immune cells in the blood (CD4\n      cells, for example) of healthy children in order to better understand the differences in the\n      blood cells of children infected with HIV.\n\n      Because children's bodies are still developing, their cells are different from those of\n      adults, and their bodies respond differently to infections such as HIV. In order to\n      understand how immune cells grow and mature so that they can fight HIV, it is important to\n      see how these cells behave in normal children."
+        }, 
+        "brief_title": "A Blood Test to Look at Cells of the Immune System in Healthy Children", 
+        "condition": [
+            "HIV Infections", 
+            "HIV Seronegativity"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Early in life, the cells involved in immune selection differentiate into CD4+ and CD8+\n      cells. Currently there is insufficient information on the cell maturation and activation of\n      these peripheral blood mononuclear cell (PBMC) subsets in normal children. The critical need\n      for this information has been brought about by the pediatric HIV/AIDS epidemic, which\n      requires the measurement of peripheral blood CD4+ T cells and other cells types for\n      interpretation of HIV disease progression. The immunopathogenesis of pediatric HIV infection\n      differs from that in adults but is not well understood. In order to better understand HIV\n      disease progression in HIV-infected children, these PBMC subsets must be studied in normal\n      children so that control values can be established.\n\n      Healthy infants, children, and adolescents presenting for routine care or elective surgery\n      have a single blood sample obtained. Blood is used for complete blood count, peripheral\n      blood mononuclear cell flow analysis for surface markers, and plasma and cell storage.\n      Demographic information including age, sex, race, and ethnicity is obtained at the time of\n      the blood draw. The reason for the patient's visit is also documented. No study drugs are\n      administered or supplied as part of this study. Statistical analysis is used to estimate the\n      median distribution of each CD4 and CD8 subset."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        A child may be eligible for this study if he/she:\n\n          -  Is 0 - 18 years old.\n\n          -  Is HIV-negative and is born to an HIV-negative mother.\n\n          -  Is healthy (no serious infection or disease).\n\n          -  Has signed informed consent of a parent or legal guardian if under 18.\n\n        Exclusion Criteria\n\n        A child will not be eligible for this study if he/she:\n\n          -  Is pregnant or breast-feeding.\n\n          -  Has already completed this study once before.\n\n          -  Is taking prescription medications other than prescription vitamins."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "18 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": "630", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00001109", 
+            "org_study_id": "ACTG P1009", 
+            "secondary_id": "PACTG P1009"
+        }, 
+        "keyword": [
+            "Monocytes", 
+            "Flow Cytometry", 
+            "HIV Seronegativity", 
+            "Phenotype", 
+            "Lymphocyte Subsets"
+        ], 
+        "lastchanged_date": "July 29, 2008", 
+        "link": {
+            "description": "Haga clic aqu\u00ed para ver informaci\u00f3n sobre este ensayo cl\u00ednico en espa\u00f1ol.", 
+            "url": "http://aidsinfo.nih.gov/clinicaltrials/htmltrials_sp.asp?an=1195"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "Univ of Alabama at Birmingham - Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mobile", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36604"
+                    }, 
+                    "name": "Univ of South Alabama"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "920930672"
+                    }, 
+                    "name": "UCSD Med Ctr / Pediatrics / Clinical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "905022004"
+                    }, 
+                    "name": "Harbor - UCLA Med Ctr / UCLA School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900481804"
+                    }, 
+                    "name": "Cedars Sinai / UCLA Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }, 
+                    "name": "Los Angeles County - USC Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941430105"
+                    }, 
+                    "name": "UCSF / Moffitt Hosp - Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "200102916"
+                    }, 
+                    "name": "Children's Hosp of Washington DC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20060"
+                    }, 
+                    "name": "Howard Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33311"
+                    }, 
+                    "name": "North Broward Hosp District"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32209"
+                    }, 
+                    "name": "Univ of Florida Health Science Ctr / Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33161"
+                    }, 
+                    "name": "Univ of Miami (Pediatric)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Riviera Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33404"
+                    }, 
+                    "name": "Palm Beach County Health Dept"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31901"
+                    }, 
+                    "name": "The Med Ctr Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "606143394"
+                    }, 
+                    "name": "Chicago Children's Memorial Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "606371470"
+                    }, 
+                    "name": "Univ of Chicago Children's Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60608"
+                    }, 
+                    "name": "Mt Sinai Hosp Med Ctr / Dept of Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "701122699"
+                    }, 
+                    "name": "Tulane Univ / Charity Hosp of New Orleans"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "701122699"
+                    }, 
+                    "name": "Tulane Univ Hosp of New Orleans"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "212874933"
+                    }, 
+                    "name": "Johns Hopkins Hosp - Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "021155724"
+                    }, 
+                    "name": "Children's Hosp of Boston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01199"
+                    }, 
+                    "name": "Baystate Med Ctr of Springfield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "016550001"
+                    }, 
+                    "name": "Univ of Massachusetts Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39213"
+                    }, 
+                    "name": "Univ of Mississippi Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "089030019"
+                    }, 
+                    "name": "UMDNJ - Robert Wood Johnson Med School / Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "071032714"
+                    }, 
+                    "name": "Univ of Medicine & Dentistry of New Jersey / Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07103"
+                    }, 
+                    "name": "Saint Joseph's Hosp and Med Ctr/UMDNJ - New Jersey Med Schl"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Children's Hosp at Albany Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10457"
+                    }, 
+                    "name": "Bronx Lebanon Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "Montefiore Med Ctr Adolescent AIDS Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Great Neck", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11021"
+                    }, 
+                    "name": "North Shore Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Hyde Park", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11040"
+                    }, 
+                    "name": "Schneider Children's Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10037"
+                    }, 
+                    "name": "Harlem Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "Bellevue Hosp / New York Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "146420001"
+                    }, 
+                    "name": "Univ of Rochester Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stony Brook", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "117948111"
+                    }, 
+                    "name": "State Univ of New York at Stony Brook"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "277103499"
+                    }, 
+                    "name": "Duke Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "191044318"
+                    }, 
+                    "name": "Children's Hosp of Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "294253312"
+                    }, 
+                    "name": "Med Univ of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Texas Children's Hosp / Baylor Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "981050371"
+                    }, 
+                    "name": "Children's Hospital & Medical Center / Seattle ACTU"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bayamon", 
+                        "country": "Puerto Rico", 
+                        "zip": "00956"
+                    }, 
+                    "name": "Ramon Ruiz Arnau Univ Hosp / Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009367344"
+                    }, 
+                    "name": "San Juan City Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009365067"
+                    }, 
+                    "name": "Univ of Puerto Rico / Univ Children's Hosp AIDS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "Mononuclear Cell Phenotyping in Normal Children", 
+        "overall_official": [
+            {
+                "last_name": "W Shearer", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "H Rosenblatt", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00001109"
+        }, 
+        "results_reference": {
+            "PMID": "14610491", 
+            "citation": "Shearer WT, Rosenblatt HM, Gelman RS, Oyomopito R, Plaeger S, Stiehm ER, Wara DW, Douglas SD, Luzuriaga K, McFarland EJ, Yogev R, Rathore MH, Levy W, Graham BL, Spector SA; Pediatric AIDS Clinical Trials Group. Lymphocyte subsets in healthy children from birth through 18 years of age: the Pediatric AIDS Clinical Trials Group P1009 study. J Allergy Clin Immunol. 2003 Nov;112(5):973-80."
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "October 2004"
+    }, 
+    "geocoordinates": {
+        "Baystate Med Ctr of Springfield": "42.101 -72.59", 
+        "Bellevue Hosp / New York Univ Med Ctr": "40.714 -74.006", 
+        "Bronx Lebanon Hosp Ctr": "40.85 -73.867", 
+        "Cedars Sinai / UCLA Med Ctr": "34.052 -118.244", 
+        "Chicago Children's Memorial Hosp": "41.878 -87.63", 
+        "Children's Hosp at Albany Med Ctr": "42.653 -73.756", 
+        "Children's Hosp of Boston": "42.358 -71.06", 
+        "Children's Hosp of Philadelphia": "39.952 -75.164", 
+        "Children's Hosp of Washington DC": "38.895 -77.036", 
+        "Children's Hospital & Medical Center / Seattle ACTU": "47.606 -122.332", 
+        "Cook County Hosp": "41.878 -87.63", 
+        "Duke Univ Med Ctr": "35.994 -78.899", 
+        "Harbor - UCLA Med Ctr / UCLA School of Medicine": "34.052 -118.244", 
+        "Harlem Hosp Ctr": "40.714 -74.006", 
+        "Howard Univ Hosp": "38.895 -77.036", 
+        "Johns Hopkins Hosp - Pediatric": "39.29 -76.612", 
+        "Los Angeles County - USC Med Ctr": "34.052 -118.244", 
+        "Med Univ of South Carolina": "32.777 -79.931", 
+        "Montefiore Med Ctr Adolescent AIDS Program": "40.85 -73.867", 
+        "Mt Sinai Hosp Med Ctr / Dept of Pediatrics": "41.878 -87.63", 
+        "North Broward Hosp District": "26.122 -80.143", 
+        "North Shore Univ Hosp": "40.801 -73.728", 
+        "Palm Beach County Health Dept": "26.775 -80.058", 
+        "Ramon Ruiz Arnau Univ Hosp / Pediatrics": "18.369 -66.166", 
+        "Saint Joseph's Hosp and Med Ctr/UMDNJ - New Jersey Med Schl": "40.736 -74.172", 
+        "San Juan City Hosp": "18.466 -66.106", 
+        "Schneider Children's Hosp": "40.735 -73.688", 
+        "State Univ of New York at Stony Brook": "40.926 -73.141", 
+        "Texas Children's Hosp / Baylor Univ": "29.76 -95.369", 
+        "The Med Ctr Inc": "32.461 -84.988", 
+        "Tulane Univ / Charity Hosp of New Orleans": "29.951 -90.072", 
+        "Tulane Univ Hosp of New Orleans": "29.951 -90.072", 
+        "UCSD Med Ctr / Pediatrics / Clinical Sciences": "32.839 -117.277", 
+        "UCSF / Moffitt Hosp - Pediatric": "37.775 -122.419", 
+        "UMDNJ - Robert Wood Johnson Med School / Pediatrics": "40.486 -74.452", 
+        "Univ of Alabama at Birmingham - Pediatric": "33.521 -86.802", 
+        "Univ of Chicago Children's Hosp": "41.878 -87.63", 
+        "Univ of Florida Health Science Ctr / Pediatrics": "30.332 -81.656", 
+        "Univ of Massachusetts Med School": "42.263 -71.802", 
+        "Univ of Medicine & Dentistry of New Jersey / Univ Hosp": "40.736 -74.172", 
+        "Univ of Miami (Pediatric)": "25.789 -80.226", 
+        "Univ of Mississippi Med Ctr": "32.299 -90.185", 
+        "Univ of Puerto Rico / Univ Children's Hosp AIDS": "18.466 -66.106", 
+        "Univ of Rochester Med Ctr": "43.161 -77.611", 
+        "Univ of South Alabama": "30.694 -88.043"
+    }
+}

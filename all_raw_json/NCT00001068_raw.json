@@ -1,0 +1,577 @@
+{
+    "clinical_study": {
+        "@rank": "114515", 
+        "brief_summary": {
+            "textblock": "To determine the influence of virus load, CD4 count, biologic phenotype, and presence of\n      symptomatic disease on the response of HIV-infected patients to a new therapeutic regimen.\n      PER AMENDMENT 8/27/96: To extend the availability of currently assigned ACTG 303 treatment\n      for 6 months."
+        }, 
+        "brief_title": "A Study of Disease Progression and Anti-HIV Treatments", 
+        "completion_date": {
+            "#text": "October 1998", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome", 
+                "Disease Progression"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients must have:\n\n          -  Prior participation on protocol ACTG 175.\n\n        PER AMENDMENT 8/27/96:\n\n          -  Patients must be on study/on treatment at the time the protocol study treatment is\n             extended."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "12 Years"
+        }, 
+        "enrollment": "210", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00001068", 
+            "org_study_id": "ACTG 303", 
+            "secondary_id": "11278"
+        }, 
+        "intervention": {
+            "intervention_name": "Lamivudine", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Lamivudine"
+        }, 
+        "keyword": [
+            "Zalcitabine", 
+            "Didanosine", 
+            "Drug Therapy, Combination", 
+            "AIDS-Related Complex", 
+            "Antiviral Agents", 
+            "Zidovudine", 
+            "Lamivudine"
+        ], 
+        "lastchanged_date": "May 1, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "Alabama Therapeutics CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095"
+                    }, 
+                    "name": "UCLA CARE Center CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }, 
+                    "name": "USC CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }, 
+                    "name": "Stanford CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California"
+                    }, 
+                    "name": "Ucsd, Avrc Crs"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94110"
+                    }, 
+                    "name": "Ucsf Aids Crs"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Jose", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95128"
+                    }, 
+                    "name": "Santa Clara Valley Med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }, 
+                    "name": "San Mateo County AIDS Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90502"
+                    }, 
+                    "name": "Harbor-UCLA Med. Ctr. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado"
+                    }, 
+                    "name": "University of Colorado Hospital CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Univ. of Miami AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30365"
+                    }, 
+                    "name": "Emory Univ. Hemophilia Program Office"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern University CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Univ. Med. Ctr. ACTG CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp. CORE Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana"
+                    }, 
+                    "name": "Indiana Univ. School of Medicine, Infectious Disease Research Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana"
+                    }, 
+                    "name": "Tulane Hemophilia Treatment Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "Johns Hopkins Adult AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Massachusetts General Hospital ACTG CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts"
+                    }, 
+                    "name": "Beth Israel Deaconess - East Campus A0102 CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "Bmc Actg Crs"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts"
+                    }, 
+                    "name": "Beth Israel Deaconess Med. Ctr., ACTG CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "University of Minnesota, ACTU"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri"
+                    }, 
+                    "name": "St. Louis ConnectCare, Infectious Diseases Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri"
+                    }, 
+                    "name": "Washington U CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198"
+                    }, 
+                    "name": "Univ. of Nebraska Med. Ctr., Durham Outpatient Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "SUNY - Buffalo, Erie County Medical Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "NY Univ. HIV/AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Cornell University A2201"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10003"
+                    }, 
+                    "name": "Beth Israel Med. Ctr. (Mt. Sinai)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "Univ. of Rochester ACTG CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599"
+                    }, 
+                    "name": "Unc Aids Crs"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28203"
+                    }, 
+                    "name": "Carolinas HealthCare System, Carolinas Med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greensboro", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27401"
+                    }, 
+                    "name": "Regional Center for Infectious Disease, Wendover Medical Center CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45267"
+                    }, 
+                    "name": "Univ. of Cincinnati CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Case CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "The Ohio State Univ. AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Hosp. of the Univ. of Pennsylvania CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98122"
+                    }, 
+                    "name": "University of Washington AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00936"
+                    }, 
+                    "name": "Puerto Rico-AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mbeya", 
+                        "country": "Tanzania"
+                    }, 
+                    "name": "Mbeya Med. Research Program, Mbeya Referral Hosp. CRS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Tanzania"
+            ]
+        }, 
+        "official_title": "Influence of Risk Status for Disease Progression on the Response to Antiretroviral Interventions: A Follow-up Study to ACTG 175", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "reference": {
+            "PMID": "11018853", 
+            "citation": "Albrecht MA, Hughes MD, Liou SH, Katzenstein DA, Murphy R, Balfour HH, Para MF, Valdez H, Hammer SM; ACTG 303 Study Team. Effect of lamivudine in HIV-infected persons with prior exposure to zidovudine/didanosine or zidovudine/zalcitabine. AIDS Res Hum Retroviruses. 2000 Sep 20;16(14):1337-44."
+        }, 
+        "removed_countries": {
+            "country": "Puerto Rico"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00001068"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2012"
+    }, 
+    "geocoordinates": {
+        "Alabama Therapeutics CRS": "33.521 -86.802", 
+        "Beth Israel Deaconess - East Campus A0102 CRS": "42.358 -71.06", 
+        "Beth Israel Deaconess Med. Ctr., ACTG CRS": "42.358 -71.06", 
+        "Beth Israel Med. Ctr. (Mt. Sinai)": "40.714 -74.006", 
+        "Bmc Actg Crs": "42.358 -71.06", 
+        "Carolinas HealthCare System, Carolinas Med. Ctr.": "35.227 -80.843", 
+        "Case CRS": "41.499 -81.695", 
+        "Cook County Hosp. CORE Ctr.": "41.878 -87.63", 
+        "Cornell University A2201": "40.714 -74.006", 
+        "Emory Univ. Hemophilia Program Office": "33.749 -84.388", 
+        "Harbor-UCLA Med. Ctr. CRS": "33.836 -118.341", 
+        "Hosp. of the Univ. of Pennsylvania CRS": "39.952 -75.164", 
+        "Indiana Univ. School of Medicine, Infectious Disease Research Clinic": "39.769 -86.158", 
+        "Johns Hopkins Adult AIDS CRS": "39.29 -76.612", 
+        "Massachusetts General Hospital ACTG CRS": "42.358 -71.06", 
+        "Mbeya Med. Research Program, Mbeya Referral Hosp. CRS": "-8.9 33.45", 
+        "NY Univ. HIV/AIDS CRS": "40.714 -74.006", 
+        "Northwestern University CRS": "41.878 -87.63", 
+        "Puerto Rico-AIDS CRS": "18.466 -66.106", 
+        "Regional Center for Infectious Disease, Wendover Medical Center CRS": "36.073 -79.792", 
+        "Rush Univ. Med. Ctr. ACTG CRS": "41.878 -87.63", 
+        "SUNY - Buffalo, Erie County Medical Ctr.": "42.886 -78.878", 
+        "San Mateo County AIDS Program": "37.429 -122.169", 
+        "Santa Clara Valley Med. Ctr.": "37.339 -121.895", 
+        "St. Louis ConnectCare, Infectious Diseases Clinic": "38.627 -90.199", 
+        "Stanford CRS": "37.442 -122.143", 
+        "The Ohio State Univ. AIDS CRS": "39.961 -82.999", 
+        "Tulane Hemophilia Treatment Ctr.": "29.951 -90.072", 
+        "UCLA CARE Center CRS": "34.052 -118.244", 
+        "USC CRS": "34.052 -118.244", 
+        "Ucsd, Avrc Crs": "32.715 -117.157", 
+        "Ucsf Aids Crs": "37.775 -122.419", 
+        "Unc Aids Crs": "35.913 -79.056", 
+        "Univ. of Cincinnati CRS": "39.103 -84.512", 
+        "Univ. of Miami AIDS CRS": "25.789 -80.226", 
+        "Univ. of Nebraska Med. Ctr., Durham Outpatient Ctr.": "41.252 -95.998", 
+        "Univ. of Rochester ACTG CRS": "43.161 -77.611", 
+        "University of Colorado Hospital CRS": "39.729 -104.832", 
+        "University of Minnesota, ACTU": "44.98 -93.264", 
+        "University of Washington AIDS CRS": "47.606 -122.332", 
+        "Washington U CRS": "38.627 -90.199"
+    }
+}

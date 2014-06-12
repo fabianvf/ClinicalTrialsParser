@@ -1,0 +1,115 @@
+{
+    "clinical_study": {
+        "@rank": "52236", 
+        "arm_group": [
+            {
+                "arm_group_label": "B", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo (immunogen vehicle) combined with gemcitabine."
+            }, 
+            {
+                "arm_group_label": "A", 
+                "arm_group_type": "Experimental", 
+                "description": "500 \u00b5g G17DT immunogen combined with gemcitabine."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will test whether the G17DT Immunogen, when administered in combination with\n      chemotherapy, is an effective and safe treatment for pancreatic cancer."
+        }, 
+        "brief_title": "Safety and Efficacy of G17DT Immunogen Combined With Gemcitabine vs. Gemcitabine in the Treatment of Advanced Pancreatic Carcinoma", 
+        "completion_date": {
+            "#text": "October 2007", 
+            "@type": "Actual"
+        }, 
+        "condition": "Pancreatic Cancer", 
+        "condition_browse": {
+            "mesh_term": "Pancreatic Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Clinical diagnosis of pancreatic adenocarcinoma and unsuitable for pancreatic tumor\n             resection\n\n          -  Life expectancy of at least 3 months\n\n          -  Functional status by Karnofsky Index of at least 70\n\n        Exclusion criteria:\n\n          -  Prior treatment with chemotherapy, radiotherapy, or anti-cancer immunotherapy\n\n          -  Chronic use of corticosteroids, except for inhaled corticosteroids used for asthma or\n             chronic obstructive pulmonary disease\n\n          -  Immunodeficiency\n\n          -  Bone marrow transplant within past year\n\n          -  Brain metastasis"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "394", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 16, 2002", 
+        "has_expanded_access": "Yes", 
+        "id_info": {
+            "nct_id": "NCT00044031", 
+            "org_study_id": "PC4"
+        }, 
+        "intervention": {
+            "arm_group_label": "A", 
+            "intervention_name": "G17DT Immunogen", 
+            "intervention_type": "Biological"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Gemcitabine", 
+                "Gastrins"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "pancreatic cancer", 
+            "G17DT", 
+            "gemcitabine"
+        ], 
+        "lastchanged_date": "April 16, 2014", 
+        "number_of_arms": "2", 
+        "official_title": "Prospective, Randomized, Controlled, Double-Blind, Multi-National, Multi-Center Study of G17DT Immunogen in Combination With Gemcitabine Versus Placebo in Combination With Gemcitabine in Previously Untreated Subjects With Locally Advanced (Nonresectable Stage II and III), Recurrent Disease Following Primary Resection, or Metastatic (Stage IV) Adenocarcinoma of the Pancreas (Protocol No. PC4)", 
+        "overall_official": {
+            "affiliation": "Christie Hospital, Manchester", 
+            "last_name": "R Hawkins, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "April 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Survival", 
+            "safety_issue": "Yes", 
+            "time_frame": "Up to 12 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00044031"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Adverse events, defined as any event involving adverse reactions, illnesses with onset during the study, or exacerbations of pre-existing illnesses, were assessed at each visit.", 
+            "measure": "Number of Participants with Serious and Non-Serious Adverse Events", 
+            "safety_issue": "Yes", 
+            "time_frame": "Up to 12 months"
+        }, 
+        "source": "Cancer Advances Inc.", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Cancer Advances Inc.", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }, 
+    "geocoordinates": {}
+}

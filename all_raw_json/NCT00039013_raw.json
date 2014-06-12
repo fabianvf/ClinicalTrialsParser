@@ -1,0 +1,1724 @@
+{
+    "clinical_study": {
+        "@rank": "21983", 
+        "arm_group": [
+            {
+                "arm_group_label": "AC2993 5 mcg (0.02 mL)", 
+                "arm_group_type": "Experimental", 
+                "description": "Placebo, then AC2993 5 mcg, then AC2993 5 mcg"
+            }, 
+            {
+                "arm_group_label": "AC2993 10mcg (0.04 mL)", 
+                "arm_group_type": "Experimental", 
+                "description": "Placebo, then AC2993 5 mcg, then AC2993 10 mcg"
+            }, 
+            {
+                "arm_group_label": "Placebo 0.02 mL", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo 0.02 mL, then Placebo 0.02 mL, then Placebo 0.02 mL"
+            }, 
+            {
+                "arm_group_label": "Placebo 0.04 mL", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo 0.02 mL, then Placebo 0.02 mL, then Placebo 0.04 mL"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This is a multicenter, randomized, blinded, placebo-controlled study to assess the effects\n      on glucose control of AC2993 as compared to placebo in patients with type 2 diabetes.\n      Patients will be randomized into one of two AC2993 treatment arms or to placebo treatment\n      and will continue with their required existing diabetes medication (metformin) throughout\n      the study."
+        }, 
+        "brief_title": "Evaluation of the Effect on Glucose Control of AC2993 in Patients With Type 2 Diabetes Mellitus Treated With Metformin", 
+        "completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": "Diabetes Mellitus, Type 2", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 2"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Subjects with Type 2 diabetes mellitus\n\n          -  Treated with metformin within a defined dose range for at least 3 months prior to\n             screening\n\n          -  BMI= 27-45 kg/m2\n\n          -  HbA1c value between 7.5% and 11%\n\n        Exclusion Criteria:\n\n          -  Treated with oral anti-diabetic medications other than metformin within 3 months of\n             screening\n\n          -  Patients treated previously with AC2993\n\n          -  Patients presently treated with insulin"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "16 Years"
+        }, 
+        "enrollment": {
+            "#text": "336", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 6, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00039013", 
+            "org_study_id": "2993-112"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "AC2993 5 mcg (0.02 mL)", 
+                "description": "Placebo Lead In (0.02 mL) for 4 weeks / AC2993 5mcg (0.02 mL) for 4 weeks / AC2993 5mcg (0.02 mL) for 26 weeks - All are subcutaneously injected twice daily", 
+                "intervention_name": "AC2993", 
+                "intervention_type": "Drug", 
+                "other_name": "synthetic exendin-4"
+            }, 
+            {
+                "arm_group_label": "AC2993 10mcg (0.04 mL)", 
+                "description": "Placebo Lead In (0.02 mL) for 4 weeks / AC2993 5 mcg (0.02 mL) for 4 weeks / AC2993 10 mcg (0.04 mL) for 26 weeks - All are subcutaneously injected twice daily", 
+                "intervention_name": "AC2993", 
+                "intervention_type": "Drug", 
+                "other_name": "synthetic exendin-4"
+            }, 
+            {
+                "arm_group_label": "Placebo 0.02 mL", 
+                "description": "Placebo Lead In (0.02 mL) for 4 weeks / Placebo (0.02 mL) for 4 weeks / Placebo (0.02 mL) for 26 weeks - All are subcutaneously injected twice daily", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo 0.04 mL", 
+                "description": "Placebo Lead In (0.02 mL) for 4 weeks / Placebo mcg (0.02 mL) for 4 weeks / Placebo (0.04 mL) for 26 weeks - All are subcutaneously injected twice daily", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Exenatide", 
+                "Metformin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "June 4, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Anniston", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36207"
+                    }, 
+                    "name": "Pinnacle Research Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35235"
+                    }, 
+                    "name": "Alabama Clinical Therapeutics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35206"
+                    }, 
+                    "name": "Parkway Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eclectic", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36024"
+                    }, 
+                    "name": "Eclectic Family Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Haleyville", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35565"
+                    }, 
+                    "name": "Winston Physician Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hueytown", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35023"
+                    }, 
+                    "name": "Simon Williamson Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montgomery", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36106"
+                    }, 
+                    "name": "Extended Arm Physicians/ Southern Drug"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tallassee", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36078"
+                    }, 
+                    "name": "Southern Drug Research Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mesa", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85201"
+                    }, 
+                    "name": "Clinic of Physicians and Surgeons, Ltd."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mesa", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85204"
+                    }, 
+                    "name": "ANA Ventures, LLC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85020"
+                    }, 
+                    "name": "Physicians at the Peak"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85016"
+                    }, 
+                    "name": "Lovelace Scientific Resources-Phoenix"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85712"
+                    }, 
+                    "name": "Advanced Clinical Therapeutics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "CAVHS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "Physicians Group Research Clinic, LLC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Anaheim", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92801"
+                    }, 
+                    "name": "Advanced Clinical Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bakersfield", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93309"
+                    }, 
+                    "name": "Mitchell Research Group, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burlingame", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94010"
+                    }, 
+                    "name": "William Zigrang, M.D."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chula Vista", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91910"
+                    }, 
+                    "name": "International Clinical Research Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Colton", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92324"
+                    }, 
+                    "name": "Arrowhead Regional Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fresno", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93720"
+                    }, 
+                    "name": "Valley Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rancho Mirage", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92270"
+                    }, 
+                    "name": "Elke Jost-Vu, M.D."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Redwood City", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94062"
+                    }, 
+                    "name": "Comprehensive Diabetes-Endocrine Medical Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92108"
+                    }, 
+                    "name": "Radiant Research-San Diego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103"
+                    }, 
+                    "name": "nTouch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92161"
+                    }, 
+                    "name": "Veterans Medical Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Mateo", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94401"
+                    }, 
+                    "name": "Diabetes Research Institute of Mills Peninsula"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Ana", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92701"
+                    }, 
+                    "name": "Advanced Clinical Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Signal Hill", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90755"
+                    }, 
+                    "name": "West Coast Clinical Trials"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vista", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92083"
+                    }, 
+                    "name": "Protocare Trials at Sharp Mission Park"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Walnut Creek", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94598"
+                    }, 
+                    "name": "Diablo Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20037"
+                    }, 
+                    "name": "George Washington University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20003-4393"
+                    }, 
+                    "name": "Medstar Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft. Myers", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33901"
+                    }, 
+                    "name": "Internal Medical Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32605"
+                    }, 
+                    "name": "Clin Sci International"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32610-0226"
+                    }, 
+                    "name": "University of FL"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jupiter", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33458"
+                    }, 
+                    "name": "Jupiter Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33176"
+                    }, 
+                    "name": "Baptist Diabetes Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Tampa Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Palm Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33407"
+                    }, 
+                    "name": "Radiant Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Palm Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33401"
+                    }, 
+                    "name": "Metabolic Research Institute, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Decatur", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30033"
+                    }, 
+                    "name": "nTouch Research Corporation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96813"
+                    }, 
+                    "name": "East-West Medical Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meridian", 
+                        "country": "United States", 
+                        "state": "Idaho", 
+                        "zip": "83642"
+                    }, 
+                    "name": "St. Luke's Family Health"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Belvidere", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61008"
+                    }, 
+                    "name": "University Primary Care Center at Belvidere"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60610"
+                    }, 
+                    "name": "Illinois Center for Clinical Trials"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60602"
+                    }, 
+                    "name": "Northwestern Memorial Physicians Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Libertyville", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60048"
+                    }, 
+                    "name": "Winchester Research Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Libertyville", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60048"
+                    }, 
+                    "name": "Lake Forest Internal Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Wayne", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46804"
+                    }, 
+                    "name": "Medical Group of Fort Wayne"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46222"
+                    }, 
+                    "name": "American Health Network"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46260"
+                    }, 
+                    "name": "Center for Metabolic and Hormonal Disorders"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "South Bend", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46601"
+                    }, 
+                    "name": "nTouch Research-South Bend"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40503"
+                    }, 
+                    "name": "Kentucky Diabetes Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536-9841"
+                    }, 
+                    "name": "University of Kentucky Metabolic Research Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40223"
+                    }, 
+                    "name": "MedResearch, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Metairie", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70001"
+                    }, 
+                    "name": "Drug Research Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "New Orleans Institute of Clinical Investigation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70121"
+                    }, 
+                    "name": "Ochsner Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21229"
+                    }, 
+                    "name": "St. Agnes Health Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lanham", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20706"
+                    }, 
+                    "name": "Doctors Research Associates of Maryland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bloomfield Hills", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48302"
+                    }, 
+                    "name": "Grunberger Diabetes Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Rapids", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49506"
+                    }, 
+                    "name": "Grand Rapids Associated Interns"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chesterfield", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63017"
+                    }, 
+                    "name": "Diabetes and Endocrinology Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rolla", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65401"
+                    }, 
+                    "name": "Mid Missouri Research Specialists, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "Radiant Research-St. Louis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Peters", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63376"
+                    }, 
+                    "name": "Midwest Pharmaceutical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Butte", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59701"
+                    }, 
+                    "name": "Mercury Street Medical"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89102"
+                    }, 
+                    "name": "Lovelace Scientific Resources-Las Vegas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jersey City", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07306"
+                    }, 
+                    "name": "HIS Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moorestown", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08057"
+                    }, 
+                    "name": "Radiant Research-Moorestown"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Passaic", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07055"
+                    }, 
+                    "name": "New Jersey Physicians"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87108"
+                    }, 
+                    "name": "Lovelace Scientific Resources"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11230"
+                    }, 
+                    "name": "Medical Network Services, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10033"
+                    }, 
+                    "name": "Heights Medical Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10025"
+                    }, 
+                    "name": "St. Lukes Roosevelt Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Naomi Berrie Diabetes Center at Columbia University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14609"
+                    }, 
+                    "name": "Rochester Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yonkers", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10710"
+                    }, 
+                    "name": "DOCS at Beth Israel Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28211"
+                    }, 
+                    "name": "Charlotte Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28209"
+                    }, 
+                    "name": "Metrolina Medical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27713"
+                    }, 
+                    "name": "UNC Diabetes Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hickory", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28601"
+                    }, 
+                    "name": "Unifour Medical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wilmington", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28412"
+                    }, 
+                    "name": "New Hanover Medical Research Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27103"
+                    }, 
+                    "name": "Piedmont Medical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44124"
+                    }, 
+                    "name": "Rapid Medical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Ohio State University-Division of Endocrinology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43212"
+                    }, 
+                    "name": "Radiant Research-Columbus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mentor", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44060"
+                    }, 
+                    "name": "University Mednet"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73103"
+                    }, 
+                    "name": "COR Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73112"
+                    }, 
+                    "name": "nTouch Research Corporation-Oklahoma City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74104"
+                    }, 
+                    "name": "Utica Park Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Medford", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97504"
+                    }, 
+                    "name": "Medford Medical Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97232"
+                    }, 
+                    "name": "Legacy Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon"
+                    }, 
+                    "name": "Radiant Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Camp Hill", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17011"
+                    }, 
+                    "name": "Physicians for Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19146"
+                    }, 
+                    "name": "Philadelphia Health Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Thomas Jefferson University Diabetes Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tipton", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "16684"
+                    }, 
+                    "name": "Tipton Medical and Diagnostic Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02914"
+                    }, 
+                    "name": "Safe Harbor Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29407"
+                    }, 
+                    "name": "Radiant Research-Charleston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chester", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29706"
+                    }, 
+                    "name": "CNS Clinical Trials"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mt. Pleasant", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29464"
+                    }, 
+                    "name": "Coastal Carolina Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38305"
+                    }, 
+                    "name": "Integrity Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johnson City", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37601"
+                    }, 
+                    "name": "Harmony Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kingsport", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37660"
+                    }, 
+                    "name": "Holston Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Knoxville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37909"
+                    }, 
+                    "name": "Endocrine Consultants of ET"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78705"
+                    }, 
+                    "name": "Central Texas Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75251"
+                    }, 
+                    "name": "Rafael Canadas M.D., P.A."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "El Paso", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "79912"
+                    }, 
+                    "name": "Internal Medicine Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "El Paso", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "79905"
+                    }, 
+                    "name": "Texas Tech University Health Sciences-Internal Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Irving", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75038"
+                    }, 
+                    "name": "North Texas Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kingsville", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78363"
+                    }, 
+                    "name": "Dr. Humberto Bruschetta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "McAllen", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78503"
+                    }, 
+                    "name": "South Texas Applied Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229-3894"
+                    }, 
+                    "name": "Diabetes and Glandular Disease Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas"
+                    }, 
+                    "name": "SAM Clinical Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78207"
+                    }, 
+                    "name": "University of Texas Health Sciences Center-Texas Diabetes Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84124"
+                    }, 
+                    "name": "Salt Lake Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kirkland", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98034"
+                    }, 
+                    "name": "Evergreen Diabetes & Endocrinology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olympia", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98502"
+                    }, 
+                    "name": "West Olympia Internal Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Renton", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98055"
+                    }, 
+                    "name": "Rainier Clinical Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99204"
+                    }, 
+                    "name": "Julia M. Hutchinson, M.D."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99201"
+                    }, 
+                    "name": "Northside Internal Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99202"
+                    }, 
+                    "name": "Rockwood Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wenatchee", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98801"
+                    }, 
+                    "name": "Wenatchee Valley Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "West Virginia", 
+                        "zip": "25304"
+                    }, 
+                    "name": "CAMC Clinical Trials Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "West Virginia", 
+                        "zip": "25301"
+                    }, 
+                    "name": "Hyperion Clinical Research"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Phase 3, Randomized, Triple-Blind, Parallel-Group, Long-Term, Placebo-Controlled, Multicenter Study to Examine the Effect on Glucose Control (HbA1c) of AC2993 Given Two Times a Day in Subjects With Type 2 Diabetes Mellitus Treated With Metformin Alone", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Change in HbA1c from from baseline, measured from Visit 3 (Day 1) to study termination (Week 30).", 
+            "measure": "Change in HbA1c (glycosylated hemoglobin) from baseline to study termination (Week 30)", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline (Day 1), Week 30"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00039013"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Change in HbA1c from baseline, measured from Visit 3 (Day 1) to each of the intermediate visits (Baseline (Day 1), Week 2, Week 4, Week, 6, Week 12, Week 18, and Week 24)", 
+                "measure": "Change in HbA1c from baseline (Day 1) to each of the intermediate visits", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (Day 1), Week 2, Week 4, Week, 6, Week 12, Week 18, Week 24"
+            }, 
+            {
+                "description": "The number of subjects achieving HbA1c target values of < 7% and < 8% by study termination (Week 30)", 
+                "measure": "The number of subjects achieving HbA1c target values of < 7% and < 8% by Week 30", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (Day 1) and Week 30"
+            }, 
+            {
+                "description": "The number of subjects achieving HbA1c reductions of > 0.5% and > 1.0% by study termination (Week 30)", 
+                "measure": "The number of subjects achieving HbA1c reductions of > 0.5% and > 1.0% by Week 30", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (Day 1), and Week 30"
+            }, 
+            {
+                "description": "The time it takes subjects to achieve HbA1c target values of < 7% and < 8%", 
+                "measure": "The time to achieve specific HbA1c target values of < 7% and < 8%", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (Day 1), Week 2, Week 4, Week, 6, Week 12, Week 18, Week 24, Week 30"
+            }, 
+            {
+                "description": "The time it takes subjects to achieve HbA1c reductions of 0.5% or more and >1.0% or more", 
+                "measure": "The time to achieve HbA1c reductions of 0.5% or more and >1.0% or more", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (Day 1), Week 2, Week 4, Week, 6, Week 12, Week 18, Week 24, Week 30"
+            }, 
+            {
+                "description": "Change in body weight (kg) from Baseline to each intermediate visit and Week 30", 
+                "measure": "Change in body weight from Baseline to each intermediate visit and Week 30", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (Day 1), Week 2, Week 4, Week, 6, Week 12, Week 18, Week 24, Week 30"
+            }
+        ], 
+        "source": "AstraZeneca", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "AstraZeneca", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "March 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2014"
+    }, 
+    "geocoordinates": {
+        "ANA Ventures, LLC": "33.415 -111.831", 
+        "Advanced Clinical Research Institute": "33.746 -117.868", 
+        "Advanced Clinical Therapeutics": "32.222 -110.926", 
+        "Alabama Clinical Therapeutics": "33.521 -86.802", 
+        "American Health Network": "39.769 -86.158", 
+        "Arrowhead Regional Medical Center": "34.074 -117.314", 
+        "Baptist Diabetes Associates": "25.789 -80.226", 
+        "CAMC Clinical Trials Center": "38.35 -81.633", 
+        "CAVHS": "34.746 -92.29", 
+        "CNS Clinical Trials": "34.705 -81.214", 
+        "COR Clinical Research": "35.468 -97.516", 
+        "Center for Metabolic and Hormonal Disorders": "39.769 -86.158", 
+        "Central Texas Clinical Research": "30.267 -97.743", 
+        "Charlotte Clinical Research": "35.227 -80.843", 
+        "Clin Sci International": "29.652 -82.325", 
+        "Clinic of Physicians and Surgeons, Ltd.": "33.415 -111.831", 
+        "Coastal Carolina Research Center": "32.794 -79.863", 
+        "Comprehensive Diabetes-Endocrine Medical Associates": "37.485 -122.236", 
+        "DOCS at Beth Israel Medical Center": "40.931 -73.899", 
+        "Diabetes Research Institute of Mills Peninsula": "37.563 -122.326", 
+        "Diabetes and Endocrinology Specialists": "38.663 -90.577", 
+        "Diabetes and Glandular Disease Clinic": "29.424 -98.494", 
+        "Diablo Clinical Research": "37.906 -122.065", 
+        "Doctors Research Associates of Maryland": "38.967 -76.862", 
+        "Dr. Humberto Bruschetta": "27.516 -97.856", 
+        "Drug Research Services": "29.984 -90.153", 
+        "East-West Medical Research Institute": "21.307 -157.858", 
+        "Eclectic Family Care": "32.635 -86.034", 
+        "Elke Jost-Vu, M.D.": "33.74 -116.413", 
+        "Endocrine Consultants of ET": "35.961 -83.921", 
+        "Evergreen Diabetes & Endocrinology": "47.681 -122.209", 
+        "Extended Arm Physicians/ Southern Drug": "32.367 -86.3", 
+        "George Washington University": "38.895 -77.036", 
+        "Grand Rapids Associated Interns": "42.963 -85.668", 
+        "Grunberger Diabetes Medical Center": "42.584 -83.245", 
+        "HIS Clinical Research": "40.728 -74.078", 
+        "Harmony Clinical Research": "36.313 -82.353", 
+        "Heights Medical Care": "40.714 -74.006", 
+        "Henry Ford Health System": "42.331 -83.046", 
+        "Holston Medical Group": "36.548 -82.562", 
+        "Hyperion Clinical Research": "38.35 -81.633", 
+        "Illinois Center for Clinical Trials": "41.878 -87.63", 
+        "Integrity Clinical Research": "35.615 -88.814", 
+        "Internal Medical Associates": "26.641 -81.872", 
+        "Internal Medicine Associates": "31.759 -106.487", 
+        "International Clinical Research Network": "32.64 -117.084", 
+        "Julia M. Hutchinson, M.D.": "47.659 -117.426", 
+        "Jupiter Research Institute": "26.934 -80.094", 
+        "Kentucky Diabetes Center": "38.041 -84.504", 
+        "Lake Forest Internal Medicine": "42.283 -87.953", 
+        "Legacy Clinical Research": "45.523 -122.676", 
+        "Lovelace Scientific Resources": "35.084 -106.651", 
+        "Lovelace Scientific Resources-Las Vegas": "36.115 -115.173", 
+        "Lovelace Scientific Resources-Phoenix": "33.448 -112.074", 
+        "MedResearch, Inc.": "38.253 -85.758", 
+        "Medford Medical Clinic": "42.327 -122.876", 
+        "Medical Group of Fort Wayne": "41.079 -85.139", 
+        "Medical Network Services, P.C.": "40.653 -73.959", 
+        "Medstar Clinical Research": "38.895 -77.036", 
+        "Mercury Street Medical": "46.004 -112.534", 
+        "Metabolic Research Institute, Inc.": "26.715 -80.053", 
+        "Metrolina Medical Research": "35.227 -80.843", 
+        "Mid Missouri Research Specialists, Inc.": "37.951 -91.771", 
+        "Midwest Pharmaceutical Research": "38.778 -90.605", 
+        "Mitchell Research Group, Inc.": "35.373 -119.019", 
+        "Naomi Berrie Diabetes Center at Columbia University": "40.714 -74.006", 
+        "New Hanover Medical Research Associates": "34.226 -77.945", 
+        "New Jersey Physicians": "40.857 -74.128", 
+        "New Orleans Institute of Clinical Investigation": "29.951 -90.072", 
+        "North Texas Clinical Research": "32.814 -96.949", 
+        "Northside Internal Medicine": "47.659 -117.426", 
+        "Northwestern Memorial Physicians Group": "41.878 -87.63", 
+        "Ochsner Clinic": "29.951 -90.072", 
+        "Ohio State University-Division of Endocrinology": "39.961 -82.999", 
+        "Parkway Medical Center": "33.521 -86.802", 
+        "Philadelphia Health Associates": "39.952 -75.164", 
+        "Physicians Group Research Clinic, LLC": "34.746 -92.29", 
+        "Physicians at the Peak": "33.448 -112.074", 
+        "Physicians for Clinical Research": "40.24 -76.92", 
+        "Piedmont Medical Research": "36.1 -80.244", 
+        "Pinnacle Research Group": "33.66 -85.832", 
+        "Protocare Trials at Sharp Mission Park": "33.2 -117.243", 
+        "Radiant Research": "45.523 -122.676", 
+        "Radiant Research-Charleston": "32.777 -79.931", 
+        "Radiant Research-Columbus": "39.961 -82.999", 
+        "Radiant Research-Moorestown": "39.969 -74.949", 
+        "Radiant Research-San Diego": "32.715 -117.157", 
+        "Radiant Research-St. Louis": "38.627 -90.199", 
+        "Rafael Canadas M.D., P.A.": "32.803 -96.77", 
+        "Rainier Clinical Research Center": "47.483 -122.217", 
+        "Rapid Medical Research": "41.499 -81.695", 
+        "Rochester Clinical Research": "43.161 -77.611", 
+        "Rockwood Clinic": "47.659 -117.426", 
+        "SAM Clinical Research Center": "29.424 -98.494", 
+        "Safe Harbor Clinical Research": "41.814 -71.37", 
+        "Salt Lake Research": "40.761 -111.891", 
+        "Simon Williamson Clinic": "33.451 -86.997", 
+        "South Texas Applied Research": "26.203 -98.23", 
+        "Southern Drug Research Network": "32.536 -85.893", 
+        "St. Agnes Health Care": "39.29 -76.612", 
+        "St. Luke's Family Health": "43.612 -116.392", 
+        "St. Lukes Roosevelt Hospital": "40.714 -74.006", 
+        "Tampa Medical Group": "27.951 -82.457", 
+        "Texas Tech University Health Sciences-Internal Medicine": "31.759 -106.487", 
+        "Thomas Jefferson University Diabetes Research Center": "39.952 -75.164", 
+        "Tipton Medical and Diagnostic Center": "40.636 -78.296", 
+        "UNC Diabetes Care Center": "35.994 -78.899", 
+        "Unifour Medical Research": "35.733 -81.341", 
+        "University Mednet": "41.666 -81.34", 
+        "University Primary Care Center at Belvidere": "42.264 -88.844", 
+        "University of FL": "29.652 -82.325", 
+        "University of Kentucky Metabolic Research Group": "38.041 -84.504", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of Texas Health Sciences Center-Texas Diabetes Institute": "29.424 -98.494", 
+        "Utica Park Clinic": "36.154 -95.993", 
+        "Valley Research": "36.748 -119.772", 
+        "Veterans Medical Research Foundation": "32.715 -117.157", 
+        "Wenatchee Valley Clinic": "47.423 -120.31", 
+        "West Coast Clinical Trials": "33.804 -118.168", 
+        "West Olympia Internal Medicine": "47.038 -122.901", 
+        "William Zigrang, M.D.": "37.584 -122.366", 
+        "Winchester Research Group": "42.283 -87.953", 
+        "Winston Physician Services": "34.226 -87.621", 
+        "nTouch": "32.715 -117.157", 
+        "nTouch Research Corporation": "33.775 -84.296", 
+        "nTouch Research Corporation-Oklahoma City": "35.468 -97.516", 
+        "nTouch Research-South Bend": "41.683 -86.25"
+    }
+}

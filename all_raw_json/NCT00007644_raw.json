@@ -1,0 +1,1019 @@
+{
+    "clinical_study": {
+        "@rank": "74126", 
+        "acronym": "PIVOT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Radical Prostatectomy", 
+                "arm_group_type": "Other", 
+                "description": "Surgical removal of the prostate"
+            }, 
+            {
+                "arm_group_label": "Watchful Waiting", 
+                "arm_group_type": "No Intervention", 
+                "description": "Closely watching, waiting and treating symptoms if and when cancer progresses"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Radical prostatectomy provides potentially curative removal of the cancer. However, it\n      subjects patients to the morbidity and mortality of the surgery and may be neither necessary\n      nor effective. Expectant management does not offer potential cure. However, it provides\n      palliative therapy for symptomatic or metastatic disease progression, avoids potentially\n      excessive and morbid interventions in asymptomatic patients, and emphasizes management\n      approaches for focus on relieving symptoms while minimizing therapeutic complications.\n\n      The primary objective of this study is to determine which of two strategies is superior for\n      the management of clinically localized CAP: 1) radical prostatectomy with early aggressive\n      intervention for disease persistence or recurrence, 2) expectant management with reservation\n      of therapy for palliative treatment of symptomatic or metastatic disease progression.\n      Outcomes include total mortality, CAP mortality, disease free and progression free survival,\n      morbidity, quality of life, and cost effectiveness."
+        }, 
+        "brief_title": "Prostate Cancer Intervention Versus Observation Trial (PIVOT)", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Surgical removal of the prostate", 
+                            "title": "Radical Prostatectomy"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Closely watching, waiting and treating symptoms if and when cancer progresses", 
+                            "title": "Watchful Waiting"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "364"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "367"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "731"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "122"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "131"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "253"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "242"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "236"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "478"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "5.2", 
+                                                "@value": "67.0"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "5.6", 
+                                                "@value": "66.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "5.4", 
+                                                "@value": "66.9"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "364"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "367"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "731"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "364"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "367"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "731"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Annually, from date of randomization until the date of death from any cause, assessed up to 8 years.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Annual", 
+                        "title": "All Cause Mortality", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Bi-annually, from date of randomization until the date of death from any cause, assessed up to 8 years.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Surgical removal of the prostate", 
+                                    "title": "Radical Prostatectomy"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Closely watching, waiting and treating symptoms if and when cancer progresses", 
+                                    "title": "Watchful Waiting"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "364"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "367"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "41.9", 
+                                                        "@upper_limit": "52.1", 
+                                                        "@value": "47.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "44.8", 
+                                                        "@upper_limit": "55.0", 
+                                                        "@value": "49.9"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Bi-annually, from date of randomization until the date of death from any cause, assessed up to 8 years.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Number", 
+                                    "title": "All Cause Mortality", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "bi-annual", 
+                        "title": "All Cause Mortality", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Surgical removal of the prostate", 
+                            "title": "Radical Prostatectomy"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Closely watching, waiting and treating symptoms if and when cancer progresses", 
+                            "title": "Watchful Waiting"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "364", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "367", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "364", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "367", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "A total of 13,022 men were entered into study logs as potentially eligible.  Based upon further chart review, 6707 met age, comorbidity and prostate cancer specific criteria and received detailed information about the study.  From these, 5023 were considered likely to be eligible and a total of 731 men agreed to participate.", 
+                "recruitment_details": "Enrollment begain in November 1994 and ended in January 2002 with follow-up through January 2010.  We recruited men from 44 Department of Veterans Affairs sites and 8 National Cancer Institute sites."
+            }, 
+            "point_of_contact": {
+                "email": "timothy.wilt@va.gov", 
+                "name_or_title": "Timothy Wilt, MD", 
+                "organization": "Minneapolis VA Medical Center", 
+                "phone": "612-467-2158"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Surgical removal of the prostate", 
+                            "title": "Radical Prostatectomy"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Closely watching, waiting and treating symptoms if and when cancer progresses", 
+                            "title": "Watchful Waiting"
+                        }
+                    ]
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "171", 
+                                                "@subjects_at_risk": "364"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "183", 
+                                                "@subjects_at_risk": "367"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "171", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "171", 
+                                                "@subjects_at_risk": "364"
+                                            }, 
+                                            {
+                                                "@events": "183", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "183", 
+                                                "@subjects_at_risk": "367"
+                                            }
+                                        ], 
+                                        "sub_title": "Death"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "Primary Hypothesis: To determine whether radical prostatectomy or expectant management is\n      more effective in reducing mortality and extending life.\n\n      Secondary Hypothesis: To determine which treatment strategy is superior in terms of prostate\n      specific cancer mortality, quality of life, occurrence or recurrence of symptoms and need\n      for cancer treatment.\n\n      Intervention:  1)  Radical prostatectomy, plus intervention for evidence of disease\n      persistence or recurrence, 2)  Expectant management with palliative therapy reserved for\n      symptomatic or metastatic disease progression.\n\n      Primary Outcomes: All cause mortality.\n\n      Study Abstract: Cancer of the prostate (CAP) is the most common nondermatologic and the\n      second most frequent cause of cancer deaths in men.  No cure is currently possible for\n      disseminated disease.  Cancer confined to the prostate is believed to be curable, with the\n      most frequently recommended therapy being surgical extirpation of the tumor with radical\n      prostatectomy.  However, despite increasing cancer detection and aggressive surgical\n      treatment, population-based mortality rates from prostate cancer have not decreased, neither\n      nationally nor in states with high rates of radical prostatectomy.  Existing evidence does\n      not demonstrate the superiority of this procedure compared to expectant management in the\n      treatment of localized prostate cancer.  Data from case series suggest that either treatment\n      approach provides equivalent all-cause as well as prostate cancer specific mortality.  The\n      only randomized trial was limited by a small sample size but the results favored expectant\n      management.\n\n      Radical prostatectomy provides potentially curative removal of the cancer.  However, it\n      subjects patients to the morbidity and mortality of the surgery and may be neither necessary\n      nor effective.  Expectant management does not offer potential cure.  However, it provides\n      palliative therapy for symptomatic or metastatic disease progression, avoids potentially\n      excessive and morbid interventions in asymptomatic patients, and emphasizes management\n      approaches for focus on relieving symptoms while minimizing therapeutic complications.\n\n      The primary objective of this study is to determine which of two strategies is superior for\n      the management of clinically localized CAP: 1) radical prostatectomy with early aggressive\n      intervention for disease persistence or recurrence, 2) expectant management with reservation\n      of therapy for palliative treatment of symptomatic or metastatic disease progression.\n      Outcomes include total mortality, CAP mortality, disease free and progression free survival,\n      morbidity, quality of life, and cost effectiveness."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with clinically localized CAP\n\n          -  Diagnosis of Prostate Cancer within previous 6 months\n\n          -  Age 75 years or younger\n\n        Exclusion Criteria:\n\n        PSA > 50 ng/ml Bone scan consistent with metastatic disease Other evidence that cancer of\n        the prostate is not clinically localized Diagnosis of prostate cancer greater than 12\n        months ago Life expectancy less than 10 years Serum creatinine greater than 3 mg/dl\n        Myocardial infarction within last 6 months Unstable angina New York Heart Association\n        Class III or IV congestive heart failure Severe pulmonary disease Lifer failure Severe\n        dementia Debilitating illness Malignancies, except for nonmelanomatous skin cancer, in the\n        last 5 years"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "731", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 29, 2000", 
+        "firstreceived_results_date": "August 15, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00002606", 
+            "nct_id": "NCT00007644", 
+            "org_study_id": "407"
+        }, 
+        "intervention": {
+            "arm_group_label": "Radical Prostatectomy", 
+            "description": "Surgical removal of the prostate", 
+            "intervention_name": "Radical prostatectomy", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "cancer of the prostate (CAP)", 
+            "cancer treatment", 
+            "chronic diseases", 
+            "expectant management", 
+            "genitourinary", 
+            "prostate", 
+            "prostate specific cancer mortality", 
+            "radical prostatectomy"
+        ], 
+        "lastchanged_date": "April 24, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "VA Medical Center, Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "No. Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72114-1706"
+                    }, 
+                    "name": "Central Arkansas VHS Eugene J. Towbin Healthcare Ctr, Little Rock"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90822"
+                    }, 
+                    "name": "VA Medical Center, Long Beach"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94121"
+                    }, 
+                    "name": "VA Medical Center, San Francisco"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sepulveda", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91343"
+                    }, 
+                    "name": "VA Greater Los Angeles HCS, Sepulveda"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33612"
+                    }, 
+                    "name": "James A. Haley Veterans Hospital, Tampa"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boise", 
+                        "country": "United States", 
+                        "state": "Idaho", 
+                        "zip": "83702"
+                    }, 
+                    "name": "VA Medical Center, Boise"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Jesse Brown VAMC (WestSide Division)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202-2884"
+                    }, 
+                    "name": "Richard Roudebush VA Medical Center, Indianapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52246-2208"
+                    }, 
+                    "name": "VA Medical Center, Iowa City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40502"
+                    }, 
+                    "name": "VA Medical Center, Lexington"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shreveport", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71101"
+                    }, 
+                    "name": "Overton Brooks VA Medical Center, Shreveport"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48113"
+                    }, 
+                    "name": "VA Ann Arbor Healthcare System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55417"
+                    }, 
+                    "name": "Minneapolis VA Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Orange", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07018"
+                    }, 
+                    "name": "VA New Jersey Health Care System, East Orange"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "VA Stratton Medical Center, Albany"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10468"
+                    }, 
+                    "name": "VA Medical Center, Bronx"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11209"
+                    }, 
+                    "name": "New York Harbor Health Care System, Brooklyn"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "VA Western New York Healthcare System at Buffalo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "VA Medical Center, Syracuse"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "VA Medical Center, Oklahoma City"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201"
+                    }, 
+                    "name": "VA Medical Center, Portland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15240"
+                    }, 
+                    "name": "VA Pittsburgh Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02908"
+                    }, 
+                    "name": "VA Medical Center, Providence"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38104"
+                    }, 
+                    "name": "VA Medical Center, Memphis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75216"
+                    }, 
+                    "name": "VA North Texas Health Care System, Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76504"
+                    }, 
+                    "name": "Central Texas Veterans Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23667"
+                    }, 
+                    "name": "VA Medical Center, Hampton"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98108"
+                    }, 
+                    "name": "VA Puget Sound Health Care System, Seattle"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clarksburg", 
+                        "country": "United States", 
+                        "state": "West Virginia", 
+                        "zip": "26301"
+                    }, 
+                    "name": "VA Medical Center, Clarksburg"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madison", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53705"
+                    }, 
+                    "name": "Wlliam S. Middleton Memorial Veterans Hospital, Madison"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "CSP #407 - Prostate Cancer Intervention Versus Observation Trial (PIVOT): A Randomized Trial Comparing Radical Prostatectomy Versus Palliative Expectant Management for the Treatment of Clinically Localized Prostate Cancer", 
+        "overall_official": {
+            "affiliation": "Minneapolis VA Health Care System", 
+            "last_name": "Timothy J. Wilt, MD MPH", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "January 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Annually, from date of randomization until the date of death from any cause, assessed up to 8 years.", 
+                "measure": "All Cause Mortality", 
+                "safety_issue": "No", 
+                "time_frame": "Annual"
+            }, 
+            {
+                "description": "Bi-annually, from date of randomization until the date of death from any cause, assessed up to 8 years.", 
+                "measure": "All Cause Mortality", 
+                "safety_issue": "No", 
+                "time_frame": "bi-annual"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00007644"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "7577210", 
+                "citation": "Moon TD, Brawer MK, Wilt TJ. Prostate Intervention Versus Observation Trial (PIVOT): a randomized trial comparing radical prostatectomy with palliative expectant management for treatment of clinically localized prostate cancer. PIVOT Planning Committee. J Natl Cancer Inst Monogr. 1995;(19):69-71. No abstract available."
+            }, 
+            {
+                "PMID": "7638470", 
+                "citation": "Wilt TJ, Brawer MK. Early intervention or expectant management for prostate cancer. The Prostate Cancer Intervention Versus Observation Trial (PIVOT): a randomized trial comparing radical prostatectomy with expectant management for the treatment of clinically localized prostate cancer. Semin Urol. 1995 May;13(2):130-6. No abstract available."
+            }, 
+            {
+                "PMID": "9268976", 
+                "citation": "Wilt TJ, Brawer MK. The Prostate Cancer Intervention Versus Observation Trial (PIVOT). Oncology (Huntingt). 1997 Aug;11(8):1133-9; discussion 1139-40, 1143. Review."
+            }, 
+            {
+                "PMID": "9674725", 
+                "citation": "Wilt TJ. Prostate cancer screening: practice what the evidence preaches. Am J Med. 1998 Jun;104(6):602-4. No abstract available."
+            }, 
+            {
+                "PMID": "10866876", 
+                "citation": "Wilt TJ. Uncertainty in prostate cancer care: the physician's role in clearing the confusion. JAMA. 2000 Jun 28;283(24):3258-60. No abstract available."
+            }, 
+            {
+                "PMID": "10717606", 
+                "citation": "Wilt TJ. Prostate carcinoma practice patterns: what do they tell us about the diagnosis, treatment, and outcomes of patients with prostate carcinoma? Cancer. 2000 Mar 15;88(6):1277-81. No abstract available."
+            }, 
+            {
+                "PMID": "11828353", 
+                "citation": "Wilt TJ. Clarifying uncertainty regarding detection and treatment of early-stage prostate cancer. Semin Urol Oncol. 2002 Feb;20(1):10-7. Review."
+            }, 
+            {
+                "PMID": "18695131", 
+                "citation": "Wilt TJ. SPCG-4: a needed START to PIVOTal data to promote and protect evidence-based prostate cancer care. J Natl Cancer Inst. 2008 Aug 20;100(16):1123-5. Epub 2008 Aug 11. No abstract available."
+            }, 
+            {
+                "PMID": "16406915", 
+                "citation": "Kaplan SA, McConnell JD, Roehrborn CG, Meehan AG, Lee MW, Noble WR, Kusek JW, Nyberg LM Jr; Medical Therapy of Prostatic Symptoms (MTOPS) Research Group. Combination therapy with doxazosin and finasteride for benign prostatic hyperplasia in patients with lower urinary tract symptoms and a baseline total prostate volume of 25 ml or greater. J Urol. 2006 Jan;175(1):217-20; discussion 220-1."
+            }, 
+            {
+                "PMID": "22808955", 
+                "citation": "Wilt TJ, Brawer MK, Jones KM, Barry MJ, Aronson WJ, Fox S, Gingrich JR, Wei JT, Gilhooly P, Grob BM, Nsouli I, Iyer P, Cartagena R, Snider G, Roehrborn C, Sharifi R, Blank W, Pandya P, Andriole GL, Culkin D, Wheeler T; Prostate Cancer Intervention versus Observation Trial (PIVOT) Study Group. Radical prostatectomy versus observation for localized prostate cancer. N Engl J Med. 2012 Jul 19;367(3):203-13. doi: 10.1056/NEJMoa1113162. Erratum in: N Engl J Med. 2012 Aug 9;367(6):582."
+            }, 
+            {
+                "PMID": "22983306", 
+                "citation": "Wilt TJ. Implications of the prostate intervention versus observation trial (PIVOT). Asian J Androl. 2012 Nov;14(6):815. doi: 10.1038/aja.2012.103. Epub 2012 Sep 17."
+            }, 
+            {
+                "PMID": "23271771", 
+                "citation": "Wilt TJ. The Prostate Cancer Intervention Versus Observation Trial: VA/NCI/AHRQ Cooperative Studies Program #407 (PIVOT): design and baseline results of a randomized controlled trial comparing radical prostatectomy with watchful waiting for men with clinically localized prostate cancer. J Natl Cancer Inst Monogr. 2012 Dec;2012(45):184-90. doi: 10.1093/jncimonographs/lgs041."
+            }, 
+            {
+                "PMID": "23988464", 
+                "citation": "Barry MJ, Andriole GL, Culkin DJ, Fox SH, Jones KM, Carlyle MH, Wilt TJ. Ascertaining cause of death among men in the Prostate Cancer Intervention Versus Observation Trial. Clin Trials. 2013;10(6):907-14. doi: 10.1177/1740774513498008. Epub 2013 Aug 29."
+            }, 
+            {
+                "PMID": "24594482", 
+                "citation": "Wilt TJ, Scardino PT, Carlsson SV, Basch E. Prostate-specific antigen screening in prostate cancer: perspectives on the evidence. J Natl Cancer Inst. 2014 Mar 1;106(3):dju010. doi: 10.1093/jnci/dju010. Epub 2014 Mar 4."
+            }
+        ], 
+        "source": "Department of Veterans Affairs", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Agency for Healthcare Research and Quality (AHRQ)", 
+                    "agency_class": "U.S. Fed"
+                }, 
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Department of Veterans Affairs", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "November 1994", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }, 
+    "geocoordinates": {
+        "Central Arkansas VHS Eugene J. Towbin Healthcare Ctr, Little Rock": "34.77 -92.267", 
+        "Central Texas Veterans Health Care System": "31.098 -97.343", 
+        "James A. Haley Veterans Hospital, Tampa": "27.951 -82.457", 
+        "Jesse Brown VAMC (WestSide Division)": "41.878 -87.63", 
+        "Minneapolis VA Health Care System": "44.98 -93.264", 
+        "New York Harbor Health Care System, Brooklyn": "40.653 -73.959", 
+        "Overton Brooks VA Medical Center, Shreveport": "32.525 -93.75", 
+        "Richard Roudebush VA Medical Center, Indianapolis": "39.769 -86.158", 
+        "VA Ann Arbor Healthcare System": "42.281 -83.743", 
+        "VA Greater Los Angeles HCS, Sepulveda": "34.162 -118.283", 
+        "VA Medical Center, Birmingham": "33.521 -86.802", 
+        "VA Medical Center, Boise": "43.613 -116.211", 
+        "VA Medical Center, Bronx": "40.85 -73.867", 
+        "VA Medical Center, Clarksburg": "39.281 -80.345", 
+        "VA Medical Center, Hampton": "37.03 -76.345", 
+        "VA Medical Center, Iowa City": "41.661 -91.53", 
+        "VA Medical Center, Lexington": "38.041 -84.504", 
+        "VA Medical Center, Long Beach": "33.804 -118.158", 
+        "VA Medical Center, Memphis": "35.15 -90.049", 
+        "VA Medical Center, Oklahoma City": "35.468 -97.516", 
+        "VA Medical Center, Portland": "45.523 -122.676", 
+        "VA Medical Center, Providence": "41.824 -71.413", 
+        "VA Medical Center, San Francisco": "37.775 -122.419", 
+        "VA Medical Center, Syracuse": "43.048 -76.147", 
+        "VA New Jersey Health Care System, East Orange": "40.767 -74.205", 
+        "VA North Texas Health Care System, Dallas": "32.803 -96.77", 
+        "VA Pittsburgh Health Care System": "40.441 -79.996", 
+        "VA Puget Sound Health Care System, Seattle": "47.606 -122.332", 
+        "VA Stratton Medical Center, Albany": "42.653 -73.756", 
+        "VA Western New York Healthcare System at Buffalo": "42.886 -78.878", 
+        "Wlliam S. Middleton Memorial Veterans Hospital, Madison": "43.073 -89.401"
+    }
+}

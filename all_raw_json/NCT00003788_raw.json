@@ -1,0 +1,182 @@
+{
+    "clinical_study": {
+        "@rank": "148219", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Photodynamic therapy uses light and drugs that make cancer cells more sensitive\n      to light to kill tumor cells. It is not yet known if the addition of photodynamic therapy to\n      combined therapy with surgery, radiation therapy, and chemotherapy is more effective than\n      combined therapy alone for supratentorial gliomas.\n\n      PURPOSE: Randomized phase III trial to study the effectiveness of surgery, radiation\n      therapy, and chemotherapy with or without photodynamic therapy in treating patients who have\n      newly diagnosed or recurrent malignant supratentorial gliomas."
+        }, 
+        "brief_title": "Surgery, Radiation Therapy, and Chemotherapy With or Without Photodynamic Therapy in Treating Patients With Newly Diagnosed or Recurrent Malignant Supratentorial Gliomas", 
+        "condition": "Brain and Central Nervous System Tumors", 
+        "condition_browse": {
+            "mesh_term": [
+                "Brain Neoplasms", 
+                "Nervous System Neoplasms", 
+                "Central Nervous System Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine whether the addition of photodynamic therapy to standard brain tumor care\n           (surgical resection, postoperative radiotherapy, and chemotherapy) will result in a\n           significant prolongation of time to recurrence and survival in newly diagnosed\n           malignant supratentorial gliomas.\n\n        -  Compare the effect of high or low light dose photodynamic therapy on survival of\n           patients with recurrent malignant supratentorial gliomas.\n\n      OUTLINE: This is a randomized, multicenter, two part study. Patients are stratified\n      according to clinical center.\n\n      Newly diagnosed patients (Study 1)\n\n        -  Patients are randomized to receive either high light dose photodynamic therapy (arm I)\n           or no photodynamic therapy (arm II):\n\n             -  Arm I: Patients receive porfimer sodium (Photofrin) IV one day prior to surgery.\n                Craniotomy and tumor resection are performed. Upon completion of resection,\n                patients undergo intracavitary photoillumination with a high light dose.\n\n             -  Arm II: Craniotomy and tumor resection are performed. Postoperatively, all\n                patients receive external beam radiotherapy 5 days per week for 5-6 weeks. After\n                completing radiotherapy, patients receive nitrosourea (carmustine or lomustine)\n                chemotherapy.\n\n      Recurrent tumor patients (Study 2)\n\n        -  Patients receive Photofrin IV one day prior to surgery. Craniotomy and tumor resection\n           are performed.\n\n             -  Arm I: Patients receive high dose light therapy during surgery.\n\n             -  Arm II: Patients receive low dose light therapy during surgery. Patients receive\n                chemotherapy with procarbazine for 28 days beginning 2-4 weeks after surgery.\n                Courses repeat every 56 days in the absence of disease progression or unacceptable\n                toxicity.\n\n      Patients are followed on both studies at 4 weeks postsurgery, then every 3 months until\n      death or for 1 year after study closure.\n\n      PROJECTED ACCRUAL: A minimum of 150 patients with newly diagnosed tumor will be accrued for\n      this study within 4 years (Study 1). A maximum of 120 patients with recurrent disease will\n      be accrued within 4.5 years (Study 2)"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed newly diagnosed or recurrent supratentorial glioblastoma or\n             malignant astrocytoma\n\n               -  Grade 3 or 4 astrocytoma as defined by the Daumas-Duport classification\n\n          -  Suitable for radical resection on the basis of imaging studies\n\n          -  Patients with recurrent disease must have failed surgery and radiotherapy\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  Karnofsky 60-100% for newly diagnosed tumor\n\n          -  Karnofsky 70-100% for recurrent tumor\n\n        Life expectancy:\n\n          -  At least 3 months\n\n        Hematopoietic:\n\n          -  Recurrent tumor:\n\n               -  WBC at least 2,000/mm^3\n\n               -  Platelet count at least 80,000/mm^3\n\n        Hepatic:\n\n          -  Recurrent tumor:\n\n               -  PT/PTT no greater than 1.5 times upper limit of normal (ULN)\n\n               -  Bilirubin and LFTs less than 2 times ULN\n\n               -  Alkaline phosphatase no greater than 3 times ULN\n\n               -  GGT no greater than 3 times ULN\n\n        Renal:\n\n          -  Creatinine no greater than 2 mg/dL\n\n        Other:\n\n          -  Not pregnant or nursing\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  Not specified\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  See Disease Characteristics\n\n          -  No prior cranial radiotherapy for newly diagnosed tumor\n\n        Surgery:\n\n          -  See Disease Characteristics"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "270", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003788", 
+            "org_study_id": "CDR0000066927", 
+            "secondary_id": [
+                "HEALTHONE-43892", 
+                "HEALTHONE-1A", 
+                "HEALTHONE-CA43892", 
+                "RPCI-DS-9802", 
+                "NCI-V99-1525"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "carmustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "lomustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "porfimer sodium", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "procarbazine hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "neoadjuvant therapy", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "surgical procedure", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carmustine", 
+                "Lomustine", 
+                "Procarbazine", 
+                "Dihematoporphyrin Ether", 
+                "Trioxsalen"
+            ]
+        }, 
+        "keyword": [
+            "recurrent adult brain tumor", 
+            "adult glioblastoma", 
+            "adult anaplastic astrocytoma", 
+            "adult giant cell glioblastoma", 
+            "adult gliosarcoma"
+        ], 
+        "lastchanged_date": "November 5, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/HEALTHONE-43892"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Englewood", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80110"
+                    }, 
+                    "name": "Rocky Mountain Neurological Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15224"
+                    }, 
+                    "name": "Western Pennsylvania Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5B 1A6"
+                    }, 
+                    "name": "St. Michael's Hospital-Annex"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "official_title": "Prospective Clinical Trials in the Use of Photodynamic Therapy (PDT) for the Treatment of Malignant Supratentorial Brain Tumors", 
+        "overall_official": {
+            "affiliation": "Colorado Health Foundation", 
+            "last_name": "Fred W. Hetzel, PhD, JD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003788"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Colorado Health Foundation", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 1998", 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2003"
+    }, 
+    "geocoordinates": {
+        "Rocky Mountain Neurological Associates": "39.648 -104.988", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "St. Michael's Hospital-Annex": "43.653 -79.383", 
+        "Western Pennsylvania Hospital": "40.441 -79.996"
+    }
+}

@@ -1,0 +1,2071 @@
+{
+    "clinical_study": {
+        "@rank": "146588", 
+        "acronym": "VADT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard glycemic control", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Standard glycemic control to maintain HbA1c between 8.0-9.0%. Metformin 500 mg Rosiglitazone 4 mg Glimepiride 2 mg Insulin 1 unit 9 lbs"
+            }, 
+            {
+                "arm_group_label": "Intensive glycemic control", 
+                "arm_group_type": "Experimental", 
+                "description": "Intensive glycemic control lower HbA1c below 6.0%. Metformin 500 mg (go up to 2000 mg) Rosiglitazone 4 mg bid Glimepiride 8 mg Insulin 1 unit 9 lbs add one injection to Arm 1"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study is a prospective, 2-arm, randomized controlled trial to determine whether\n      glycemic control, achieved through intensification of treatment, is effective in preventing\n      clinical macrovascular complications in patients with type 2 DM who are no longer responsive\n      to oral agents alone. The study consists of a two-year accrual period and five years of\n      follow-up (7 years total) of 1700 patients across 20 centers. We have powered the study to\n      detect a 21% reduction in the primary event rate. Additional study goals are to determine\n      whether the expenditures, discomfort, and adverse effects associated with intensive\n      intervention are justified in terms of their clinical benefits, considering both\n      macrovascular and microvascular complications."
+        }, 
+        "brief_title": "Glycemic Control and Complications in Diabetes Mellitus Type 2 (VADT)", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Standard glycemic control to maintain HbA1c between 8.0-9.0%. Metformin 500 mg Rosiglitazone 4 mg Glimepiride 2 mg Insulin 1 unit 9 lbs", 
+                            "title": "Arm 1/Standard Glycemic Control"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Intensive glycemic control lower HbA1c below 6.0%. Metformin 500 mg (go up to 2000 mg) Rosiglitazone 4 mg bid Glimepiride 8 mg Insulin 1 unit 9 lbs add one injection to Standard glycemic control", 
+                            "title": "Arm 2/Intensive Glycemic Control"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "899"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "892"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "1791"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "606"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "612"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1218"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "293"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "280"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "573"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "9.0", 
+                                                "@value": "60.3"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9.0", 
+                                                "@value": "60.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "9.0", 
+                                                "@value": "60.4"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "52"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "873"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "866"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1739"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "899"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "892"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "1791"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "Our study had several limitations. Since we were studying veterans, the patients were predominantly men, and extrapolation of our findings to women must be done with caution.Changes in therapeutic agents have occurred since the design of our protocol", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": ".79", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": ".99", 
+                                "estimate_desc": "N/A", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "It was hypothesized 21% reduction in intensive glycemic control group compared to standard control group on primary cardiovascular composite outcomes.", 
+                                "method": "Log Rank", 
+                                "method_desc": "N/A", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The statistical analysis tested was for equivalence. We assumed 86% power with 21% of effect size and the sample size 1700 with 5% drop out rate.", 
+                                "p_value": "<0.05", 
+                                "p_value_desc": "N/A", 
+                                "param_type": "Cox Proportional Hazard", 
+                                "param_value": "0.79"
+                            }
+                        }, 
+                        "description": "Myocardial infarction (MI), intervention for coronary artery or Peripheral Vascular Disease (PVD), severe inoperable Coronary Artery Disease (CAD), new or worsening Congestive Heart Failure (CHF), stroke, Cardiovascular (CV) death, or amputation for ischemic gangrene.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard glycemic control to maintain HbA1c between 8.0-9.0%. Metformin 500 mg Rosiglitazone 4 mg Glimepiride 2 mg Insulin 1 unit 9 lbs", 
+                                    "title": "Arm 1"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Intensive glycemic control lower HbA1c below 6.0%. Metformin 500 mg (go up to 2000 mg) Rosiglitazone 4 mg bid Glimepiride 8 mg Insulin 1 unit 9 lbs add one injection to Arm 1", 
+                                    "title": "Arm 2"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "899"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "892"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "264"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "235"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Myocardial infarction (MI), intervention for coronary artery or Peripheral Vascular Disease (PVD), severe inoperable Coronary Artery Disease (CAD), new or worsening Congestive Heart Failure (CHF), stroke, Cardiovascular (CV) death, or amputation for ischemic gangrene.", 
+                                    "param": "Number", 
+                                    "title": "Primary Major Macrovascular Events", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Post baseline time to the first major macrovascular event up to 82 months", 
+                        "title": "Primary Major Macrovascular Events", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "New or worsening angina, new transient ischemic attack (TIA), new intermittent claudication or critical limb ischemia with Doppler evidence or total mortality.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard glycemic control to maintain HbA1c between 8.0-9.0%. Metformin 500 mg Rosiglitazone 4 mg Glimepiride 2 mg Insulin 1 unit 9 lbs", 
+                                    "title": "Arm 1"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Intensive glycemic control lower HbA1c below 6.0%. Metformin 500 mg (go up to 2000 mg) Rosiglitazone 4 mg bid Glimepiride 8 mg Insulin 1 unit 9 lbs add one injection to Arm 1", 
+                                    "title": "Arm 2"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "899"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "892"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "283"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "New or worsening angina, new transient ischemic attack (TIA), new intermittent claudication or critical limb ischemia with Doppler evidence or total mortality.", 
+                                    "param": "Number", 
+                                    "title": "Secondary Endpoint", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Post baseline time to first event up to 82 months", 
+                        "title": "Secondary Endpoint", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Standard glycemic control to maintain HbA1c between 8.0-9.0%. Metformin 500 mg Rosiglitazone 4 mg Glimepiride 2 mg Insulin 1 unit 9 lbs", 
+                            "title": "Standard Glycemic Control"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Intensive glycemic control lower HbA1c below 6.0%. Metformin 500 mg (go up to 2000 mg) Rosiglitazone 4 mg bid Glimepiride 8 mg Insulin 1 unit 9 lbs add one injection to Arm 1", 
+                            "title": "Intensive Glycemic Control"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "67", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "43", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "3", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "7", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Adverse Event"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "57", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "58", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Lost to Follow-up"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "12", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Had other reason"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "899", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "892", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "760", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "772", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "139", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "120", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "A patient had to meet all the screening criteria for eligibility and had to sign a consent form with blood samples and meet all entry criteria  for pre-randomization testing.  Once the patient was deemed appropriate for the study, Hines completed the randomization assignment.", 
+                "recruitment_details": "Twenty Veterans Affairs Medical Centers (VAMCs) were selected to participate in this cooperative study.  The recruitment period was from 12/01/00 to 05/31/03."
+            }, 
+            "point_of_contact": {
+                "email": "tamara.paine@va.gov", 
+                "name_or_title": "Project Manager", 
+                "organization": "Hines CSPCC", 
+                "phone": "708-202-5785"
+            }, 
+            "reported_events": {
+                "desc": "Adverse events were reported by staff at visits or the patient between visits. Staff submitted an Adverse event report, using the FDA Form 3500, for each patient with a severe or unexpected reaction that may reasonably be treatment-related.  Reports were screened by the research pharmacist and Study Co-Chairs.", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Standard glycemic control to maintain HbA1c between 8.0-9.0%. Metformin 500 mg Rosiglitazone 4 mg Glimepiride 2 mg Insulin 1 unit 9 lbs", 
+                            "title": "Arm 1"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Intensive glycemic control lower HbA1c below 6.0%. Metformin 500 mg (go up to 2000 mg) Rosiglitazone 4 mg bid Glimepiride 8 mg Insulin 1 unit 9 lbs add one injection to Arm 1", 
+                            "title": "Arm 2"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "730", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "675", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "67", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "67", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "87", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "87", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Blood"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "69", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "69", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "62", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "62", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac Disorders"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "61", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "61", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "52", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "52", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Ear"
+                                    }
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "185", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "185", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "183", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "183", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Eye Disorders"
+                                    }
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "288", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "288", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "289", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "289", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Gastrointestinal Disorders"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "315", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "315", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "290", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "290", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "General Disorders"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "67", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "67", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "58", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "58", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Immune"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "385", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "385", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "354", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "354", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Infections"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "235", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "235", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "227", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "227", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Injury"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "167", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "167", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "174", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "174", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Investigations"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "115", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "115", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "132", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "132", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Metabolism"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "493", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "493", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "480", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "480", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Musculoskeletal"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "78", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "78", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "64", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "64", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Neoplasms"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "318", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "318", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "283", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "283", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Nervous system"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "175", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "175", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "166", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "166", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Psychiatric"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "138", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "138", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "158", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "158", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Renal"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "82", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "82", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "62", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "62", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Reproductive"
+                                    }
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "227", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "227", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "218", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "218", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Respiratory"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "214", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "214", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "206", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "206", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Skin"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "77", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "77", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "89", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "89", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Surgical"
+                                    }
+                                }, 
+                                "title": "Surgical and medical procedures"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "115", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "115", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "90", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "90", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Vascular"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA (6.1)", 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "144", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "197", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "12", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "15", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Blood and lymphatic Disorders"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "36", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "36", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "40", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "40", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac disorders"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "4", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Congenital, familial and genetic Disorders"
+                                    }
+                                }, 
+                                "title": "Congenital, familial and genetic disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Endocrine Disorders"
+                                    }
+                                }, 
+                                "title": "Endocrine disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Eye Disorders"
+                                    }
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "40", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "40", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "37", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "37", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Gastrointestinal disorders"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "32", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "32", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "36", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "36", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "General Disorders"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "9", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Hepatobiliary Disorders"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "81", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "81", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "71", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "71", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Infections and infestations"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "31", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "31", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "26", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "26", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Injury, poisoning and procedural complications"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "22", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "22", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "22", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Investigations"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "25", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "25", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "27", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "27", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Metabolism and Nutrition Disorders"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "20", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "20", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "38", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "38", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Musculoskeletal and connective tissue disorders"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "25", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "25", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "23", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "23", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Neoplasms benign, malignant and unspecified"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "29", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "29", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "36", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "36", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Nervous System Disorders"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "14", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "7", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Psychiatric Disorders"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "25", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "25", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "26", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "26", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Renal and Urinary Disorders"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Reproductive system and brest Disorders"
+                                    }
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "25", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "25", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "36", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "36", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Respiratory, thoracic and mediastinal Disorders"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "12", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Skin and subcutaneous tissue Disorders"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "37", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "37", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "33", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "33", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Surgical and Medical Procedures"
+                                    }
+                                }, 
+                                "title": "Surgical and medical procedures"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "22", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "22", 
+                                                "@subjects_at_risk": "899"
+                                            }, 
+                                            {
+                                                "@events": "20", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "20", 
+                                                "@subjects_at_risk": "892"
+                                            }
+                                        ], 
+                                        "sub_title": "Vascular Disorders"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA (6.1)"
+                }, 
+                "time_frame": "The adverse events were collected in a 82-month period."
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Type 2 Diabetes Mellitus", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 2"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Primary Hypothesis:  Intensive glycemic control reduces major macrovascular morbidity and\n      mortality compared to standard glycemic control in type 2 diabetics who have failed simple\n      therapy.\n\n      Secondary Hypotheses:   Intensive glycemic control, compared to standard glycemic control,\n      reduces other macrovascular morbidity and  total mortality.\n\n      Intervention:  The intervention is tight glycemic control, aiming at normalization of HbA1c.\n       This will be achieved through stepped care therapy, using all categories of tools available\n      to most diabetologists.  These categories include: patient education of diabetes control\n      (e.g. diet, exercise, etc.), oral diabetes medications, and insulin. All drugs to be used\n      are approved.  Specific agents will be used within the different classes to promote\n      consistency across sites.\n\n      The comparison is standard control, aiming at HbA1c of 8 - 9%.  The same agents will be\n      used, but at reduced doses.\n\n      The general approach to the stepped care treatment protocol is to treat both groups with the\n      same agents, but at different intensities (doses) (taking into account\n      intolerance/contraindications).  The sequence of steps is shown below.\n\n      STEP 1: Either Metformin (obese) or Glimepiride (lean)in combination with Rosiglitazone STEP\n      2: Insulin STEP 3: Increase doses in STEPS 1,2 in the Standard group.  Since the Intensive\n      group is already at maximal doses of oral agents, they will intensify insulin and may add\n      Acarbose/Miglitol.\n\n      STEP 4: For standard, proceed as in STEP 3 for Intensive; Intensives will use multiple daily\n      injection (MDI) of insulin STEP 5: \"Tool Box\": Miscellaneous agents, tailored to the\n      individual patient.\n\n      Primary Outcomes:  Time to one of the following major macrovascular events:  myocardial\n      infarction, stroke, new or worsening congestive heart failure, amputation for ischemic\n      gangrene, invasive intervention for coronary artery or peripheral vascular disease,\n      inoperable coronary artery disease, or cardiovascular death.\n\n      Secondary Outcomes:  Angina, transient ischemic attack, intermittent claudication, critical\n      limb ischemia, and total mortality.\n\n      Study Abstract:  A quarter of the patients treated by the Department of Veterans Affairs\n      (VA) Health Administration have type 2 diabetes mellitus (DM).  The costs of care for the\n      treatment of patients with type 2 DM are extremely high, both in treatment expenditures for\n      the metabolic disorder and for the care of end-organ complications.   Although patients\n      initially respond to diet and oral agent treatment, most eventually need insulin to\n      near-normalize their glucose level, as the disease is characterized by progressive loss of\n      insulin secretory capacity.\n\n      After several clinical trials in both type 1 and type 2 DM, there is a reasonable certainty\n      that about half of the incidence and rate of progression of indicators of microvascular\n      complications (retinopathy, nephropathy, and neuropathy) can be prevented or delayed by\n      achieving and maintaining near-normalization of glycemic levels.  Consequently, there has\n      been a uniform trend in recent guidelines to advise a near-normalization of glycemic levels\n      in both type 1 and type 2 DM.  Note, however, that the clinical consequences of\n      microvascular deterioration are dependent not only on glycemic levels but also on the\n      duration of the disease.  With the early onset of diabetes typical in type 1 patients, there\n      is sufficient time for development of clinical microvascular complications, and prevention\n      of these complications is a goal of treatment in type 1 diabetics.   In contrast,  the\n      prevalence of hard clinical endpoints indicative of microangiopathy, such as renal failure\n      or blindness, is very low in patients in whom the disease is diagnosed after the 5th decade,\n      the greatest age of prevalence of patients with type 2 DM in this country. Furthermore,\n      microvascular complications can be minimized by the well-established benefits of blood\n      pressure and lipid control, as well as by therapeutic intervention (photocoagulation,\n      cataract extraction).  Since the costs and efforts necessary to reach  near-normal levels of\n      glycemia are very high, there is a need to determine the cost/benefit ratios of such\n      expenditures in the population subject to type 2 diabetes, namely patients in their 6th to\n      8th decades of life.\n\n      In contrast with the late and relatively infrequent appearance of clinical endpoints of\n      microangiopathy, macrovascular complications (i.e., coronary heart disease and peripheral\n      vascular disease) are responsible for the overwhelming majority of the mortality, morbidity\n      and treatment costs in the American population of type 2 diabetics, even more so in the\n      older VA diabetic population.  In the recently concluded United Kingdom Prospective Diabetes\n      Study (UKPDS) on type 2 DM, macrovascular mortality was 70 times higher than that of\n      microvascular mortality.  Intervention studies to determine the effect of rigorous glycemic\n      control on these macrovascular events are inconclusive and contradictory.  Intensive\n      treatment in patients who are newly diagnosed has failed to demonstrate a beneficial effect\n      of tight control on cardiovascular complications.  The few studies conducted in later stages\n      of the disease (i.e., in patients requiring insulin treatment, alone or in combination with\n      oral agents) have been conflicting and indeterminate.\n\n      The decision on intensity of treatment is further compromised by current recommendations to\n      attenuate glycemic control goals, especially when usage of insulin is required, both in\n      patients with the common comorbidities of overweight or preexisting cardiovascular disease,\n      and in those in the later decades of life.  These concerns are based on fears that intensive\n      insulin treatment might be associated with weight gain, increased cardiovascular risk\n      factors (hypertriglyceridemia, dyslipidemia, hyperinsulinemia, and insulin resistance), and\n      adverse effects of recurrent hypoglycemic events.  The prevalent level of glycemic control\n      in insulin-treated type 2 diabetics is relatively poor, likely due to a combination of\n      practical difficulties and the uncertainties of what are the safe and effective glycemic\n      goals.  There is no long-term study currently being done in the high-risk population typical\n      of the patient population in the VA.  Before the Department of Veterans Affairs devotes\n      considerable resources to a widespread intervention (a quarter of patients) that may be of\n      little value, and might even be counterproductive, a trial to determine the value of the\n      intervention is mandated.  It is expected that CSP #465 will provide the scientific data on\n      which the VA can base clinical treatment of Type II diabetes.\n\n      CSP #465 is a prospective, 2-arm, randomized controlled trial to determine whether glycemic\n      control, achieved through intensification of treatment, is effective in preventing clinical\n      macrovascular complications in patients with type 2 DM who are no longer responsive to oral\n      agents alone.  The study consists of a two-year accrual period and five years of follow-up\n      (7 years total) of 1700 patients across 20 centers.  We have powered the study to detect a\n      25% reduction in the primary event rate.  Additional study goals are to determine whether\n      the expenditures, discomfort, and adverse effects associated with intensive intervention are\n      justified in terms of their clinical benefits, considering both macrovascular and\n      microvascular complications.\n\n      Main Manuscript:Duckworth W, Abraira C, Moritz T, Reda D, Emanuele N et al., VADT\n      investigators: Glucose Control and  Complications in the VA Diabetes Trial (VADT). N Eng J\n      of Med 360:129-139, 2009."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with type 2 DM who are no longer responsive to maximum dose of one or more\n             oral agents.\n\n        Exclusion Criteria:\n\n          -  Angina pectoris, Canadian Class I-II,\n\n          -  congestive heart failure, Class III-IV,\n\n          -  stroke, incapacitating or in last 6 months,\n\n          -  Myocardial infarction (MI) or invasive cardiovascular procedure within the past six\n             months,\n\n          -  ongoing diabetic gangrene,\n\n          -  BMI > 40,\n\n          -  hemoglobinopathy that interferes with A1c monitoring,\n\n          -  serum creatinine > 1.6 mg/dL,\n\n          -  fasting C-peptide < 0.21 pmol/ml,\n\n          -  Alanine Amino Transaminase (ALT) > 3 times normal or serum bilirubin > 1.9 mg/dL,\n\n          -  malignancy or noncardiac life-threatening diseases making life expectancy < 5 years,\n\n          -  autonomic neuropathy,\n\n          -  symptomatic pancreatic insufficiency (endocrine or exocrine),\n\n          -  recurrent seizures within the past year,\n\n          -  hypopituitarism,\n\n          -  pregnancy, lactation, or planning a pregnancy,\n\n          -  active psychosis or substance abuse,\n\n          -  lack of access to a person who can assist or be called in an emergency,\n\n          -  underlying conditions that in the site PI's judgment may prevent adherence to\n             protocol,\n\n          -  current participation in another clinical trial."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "1791", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 21, 2002", 
+        "firstreceived_results_date": "September 10, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00032487", 
+            "org_study_id": "465"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Standard glycemic control", 
+                    "Intensive glycemic control"
+                ], 
+                "description": "Insulin (intermediate or long-lasting) in a.m. 1 unit 9 lbs Arm 1 Insulin (intermediate or long-lasting) in a.m. 1 unit 9 lbs, add one injection of insulin Arm 2", 
+                "intervention_name": "Insulin", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Lantus,", 
+                    "NovoLog (aspart),", 
+                    "Novopen,", 
+                    "NPH,", 
+                    "Novolin R,", 
+                    "Lente"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Standard glycemic control", 
+                    "Intensive glycemic control"
+                ], 
+                "description": "Glimepiride 2 mg Arm 1 Glimepiride 8 mg Arm 2", 
+                "intervention_name": "Glimepiride", 
+                "intervention_type": "Drug", 
+                "other_name": "Amaryl"
+            }, 
+            {
+                "arm_group_label": [
+                    "Standard glycemic control", 
+                    "Intensive glycemic control"
+                ], 
+                "description": "Rosiglitazone 4 mg Arm 1 Rosiglitazone 4 mg bid Arm 2", 
+                "intervention_name": "Rosiglitazone", 
+                "intervention_type": "Drug", 
+                "other_name": "Avandia"
+            }, 
+            {
+                "arm_group_label": [
+                    "Standard glycemic control", 
+                    "Intensive glycemic control"
+                ], 
+                "description": "Metformin 500 mg (go up to 1000 mg) Arm 1 Metformin 500 mg (go up to 2000 mg) Arm 2", 
+                "intervention_name": "Metformin", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Fortamet,", 
+                    "Glucophage,", 
+                    "Glucophage XR,", 
+                    "Riomet,", 
+                    "Glumetza"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Glimepiride", 
+                "Rosiglitazone", 
+                "Insulin", 
+                "Metformin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "DM", 
+            "glycemic control", 
+            "insulin", 
+            "type 2 diabetes mellitus"
+        ], 
+        "lastchanged_date": "March 7, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85012"
+                    }, 
+                    "name": "Carl T. Hayden VA Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85723"
+                    }, 
+                    "name": "Southern Arizona VA Health Care System, Tucson"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fresno", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93703"
+                    }, 
+                    "name": "VA Central California Health Care System, Fresno"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90822"
+                    }, 
+                    "name": "VA Medical Center, Long Beach"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92161"
+                    }, 
+                    "name": "VA San Diego Healthcare System, San Diego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33125"
+                    }, 
+                    "name": "Miami VA Healthcare System, Miami, FL"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hines", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60141-5000"
+                    }, 
+                    "name": "Edward Hines, Jr. VA Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202-2884"
+                    }, 
+                    "name": "Richard Roudebush VA Medical Center, Indianapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40502"
+                    }, 
+                    "name": "VA Medical Center, Lexington"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55417"
+                    }, 
+                    "name": "VA Medical Center, Minneapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68105-1873"
+                    }, 
+                    "name": "VA Medical Center, Omaha"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Orange", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07018"
+                    }, 
+                    "name": "VA New Jersey Health Care System, East Orange"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15240"
+                    }, 
+                    "name": "VA Pittsburgh Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29401-5799"
+                    }, 
+                    "name": "Ralph H Johnson VA Medical Center, Charleston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37212-2637"
+                    }, 
+                    "name": "VA Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Michael E. DeBakey VA Medical Center (152)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "VA South Texas Health Care System, San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23249"
+                    }, 
+                    "name": "Hunter Holmes McGuire VA Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salem", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "24153"
+                    }, 
+                    "name": "VA Medical Center, Salem VA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98108"
+                    }, 
+                    "name": "VA Puget Sound Health Care System, Seattle"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00921"
+                    }, 
+                    "name": "VA Medical Center, San Juan"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "CSP #465 - Glycemic Control and Complications in Diabetes Mellitus Type 2 (VADT)", 
+        "overall_official": [
+            {
+                "affiliation": "Miami VA Healthcare System, Miami, FL", 
+                "last_name": "Carlos Abraira, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Carl T. Hayden VA Medical Center, Phoenix AZ", 
+                "last_name": "William Duckworth, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "May 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Myocardial infarction (MI), intervention for coronary artery or Peripheral Vascular Disease (PVD), severe inoperable Coronary Artery Disease (CAD), new or worsening Congestive Heart Failure (CHF), stroke, Cardiovascular (CV) death, or amputation for ischemic gangrene.", 
+            "measure": "Primary Major Macrovascular Events", 
+            "safety_issue": "No", 
+            "time_frame": "Post baseline time to the first major macrovascular event up to 82 months"
+        }, 
+        "removed_countries": {
+            "country": "Puerto Rico"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00032487"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "19092145", 
+                "citation": "Duckworth W, Abraira C, Moritz T, Reda D, Emanuele N, Reaven PD, Zieve FJ, Marks J, Davis SN, Hayward R, Warren SR, Goldman S, McCarren M, Vitek ME, Henderson WG, Huang GD; VADT Investigators. Glucose control and vascular complications in veterans with type 2 diabetes. N Engl J Med. 2009 Jan 8;360(2):129-39. Epub 2008 Dec 17."
+            }, 
+            {
+                "PMID": "19726779", 
+                "citation": "Moritz T, Duckworth W, Abraira C. Veterans Affairs diabetes trial--corrections. N Engl J Med. 2009 Sep 3;361(10):1024-5. No abstract available."
+            }, 
+            {
+                "PMID": "19720420", 
+                "citation": "Emanuele N, Moritz T, Klein R, Davis MD, Glander K, Khanna A, Thottapurathu L, Bahn G, Duckworth W, Abraira C; Veterans Affairs Diabetes Trial Study Group. Ethnicity, race, and clinically significant macular edema in the Veterans Affairs Diabetes Trial (VADT). Diabetes Res Clin Pract. 2009 Nov;86(2):104-10. Epub 2009 Aug 31."
+            }, 
+            {
+                "PMID": "19655124", 
+                "citation": "Turnbull FM, Abraira C, Anderson RJ, Byington RP, Chalmers JP, Duckworth WC, Evans GW, Gerstein HC, Holman RR, Moritz TE, Neal BC, Ninomiya T, Patel AA, Paul SK, Travert F, Woodward M. Intensive glucose control and macrovascular outcomes in type 2 diabetes. Diabetologia. 2009 Nov;52(11):2288-98. Epub 2009 Aug 5."
+            }, 
+            {
+                "PMID": "18671796", 
+                "citation": "Abraira C, Duckworth WC, Moritz T; VADT Group. Glycaemic separation and risk factor control in the Veterans Affairs Diabetes Trial: an interim report. Diabetes Obes Metab. 2009 Feb;11(2):150-6. Epub 2008 Jul 29."
+            }, 
+            {
+                "PMID": "18406632", 
+                "citation": "Emanuele N, Klein R, Moritz T, Davis MD, Glander K, Anderson R, Reda D, Duckworth W, Abraira C; VADT Study Group. Comparison of dilated fundus examinations with seven-field stereo fundus photographs in the Veterans Affairs Diabetes Trial. J Diabetes Complications. 2009 Sep-Oct;23(5):323-9. Epub 2008 Apr 11."
+            }, 
+            {
+                "PMID": "16784922", 
+                "citation": "Meyers CD, McCarren M, Wong ND, Abraira C, Duckworth WC, Kashyap ML; VADT Investigators. Baseline achievement of lipid goals and usage of lipid medications in patients with diabetes mellitus (from the Veterans Affairs Diabetes Trial). Am J Cardiol. 2006 Jul 1;98(1):63-5. Epub 2006 May 4."
+            }, 
+            {
+                "PMID": "16627388", 
+                "citation": "Duckworth WC, McCarren M, Abraira C; VADT Investigators. Control of cardiovascular risk factors in the Veterans Affairs Diabetes Trial in advanced type 2 diabetes. Endocr Pract. 2006 Jan-Feb;12 Suppl 1:85-8. Review."
+            }, 
+            {
+                "PMID": "16504835", 
+                "citation": "Kirkman MS, McCarren M, Shah J, Duckworth W, Abraira C; VADT Study Group. The association between metabolic control and prevalent macrovascular disease in Type 2 diabetes: the VA Cooperative Study in diabetes. J Diabetes Complications. 2006 Mar-Apr;20(2):75-80."
+            }, 
+            {
+                "PMID": "16043738", 
+                "citation": "Emanuele N, Sacks J, Klein R, Reda D, Anderson R, Duckworth W, Abraira C; Veterans Affairs Diabetes Trial Group. Ethnicity, race, and baseline retinopathy correlates in the veterans affairs diabetes trial. Diabetes Care. 2005 Aug;28(8):1954-8."
+            }, 
+            {
+                "PMID": "14583175", 
+                "citation": "Abraira C, Duckworth W, McCarren M, Emanuele N, Arca D, Reda D, Henderson W; VA Cooperative Study of Glycemic Control and Complications in Diabetes Mellitus Type 2. Design of the cooperative study on glycemic control and complications in diabetes mellitus type 2: Veterans Affairs Diabetes Trial. J Diabetes Complications. 2003 Nov-Dec;17(6):314-22."
+            }, 
+            {
+                "PMID": "11347758", 
+                "citation": "Duckworth WC, McCarren M, Abraira C; VA Diabetes Trial. Glucose control and cardiovascular complications: the VA Diabetes Trial. Diabetes Care. 2001 May;24(5):942-5. No abstract available."
+            }, 
+            {
+                "PMID": "21059830", 
+                "citation": "Anderson RJ, Bahn GD, Moritz TE, Kaufman D, Abraira C, Duckworth W; VADT Study Group. Blood pressure and cardiovascular disease risk in the Veterans Affairs Diabetes Trial. Diabetes Care. 2011 Jan;34(1):34-8. Epub 2010 Nov 8."
+            }, 
+            {
+                "PMID": "21775749", 
+                "citation": "Agrawal L, Azad N, Emanuele NV, Bahn GD, Kaufman DG, Moritz TE, Duckworth WC, Abraira C; Veterans Affairs Diabetes Trial (VADT) Study Group. Observation on renal outcomes in the Veterans Affairs Diabetes Trial. Diabetes Care. 2011 Sep;34(9):2090-4. Epub 2011 Jul 20."
+            }, 
+            {
+                "PMID": "22055259", 
+                "citation": "Duckworth WC, Abraira C, Moritz TE, Davis SN, Emanuele N, Goldman S, Hayward R, Huang GD, Marks JB, Reaven PD, Reda DJ, Warren SR, Zieve FJ; Investigators of the VADT. The duration of diabetes affects the response to intensive glucose control in type 2 subjects: the VA Diabetes Trial. J Diabetes Complications. 2011 Nov-Dec;25(6):355-61. doi: 10.1016/j.jdiacomp.2011.10.003. Epub 2011 Nov 4."
+            }
+        ], 
+        "secondary_outcome": {
+            "description": "New or worsening angina, new transient ischemic attack (TIA), new intermittent claudication or critical limb ischemia with Doppler evidence or total mortality.", 
+            "measure": "Secondary Endpoint", 
+            "safety_issue": "No", 
+            "time_frame": "Post baseline time to first event up to 82 months"
+        }, 
+        "source": "Department of Veterans Affairs", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Eye Institute (NEI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "SmithKline Beecham", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Department of Veterans Affairs", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "December 2000", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }, 
+    "geocoordinates": {
+        "Carl T. Hayden VA Medical Center": "33.448 -112.074", 
+        "Edward Hines, Jr. VA Hospital": "41.854 -87.84", 
+        "Hunter Holmes McGuire VA Medical Center": "37.541 -77.436", 
+        "Miami VA Healthcare System, Miami, FL": "25.789 -80.226", 
+        "Michael E. DeBakey VA Medical Center (152)": "29.76 -95.369", 
+        "Ralph H Johnson VA Medical Center, Charleston": "32.777 -79.931", 
+        "Richard Roudebush VA Medical Center, Indianapolis": "39.769 -86.158", 
+        "Southern Arizona VA Health Care System, Tucson": "32.222 -110.926", 
+        "VA Central California Health Care System, Fresno": "36.748 -119.772", 
+        "VA Medical Center": "36.166 -86.784", 
+        "VA Medical Center, Lexington": "38.041 -84.504", 
+        "VA Medical Center, Long Beach": "33.804 -118.158", 
+        "VA Medical Center, Minneapolis": "44.98 -93.264", 
+        "VA Medical Center, Omaha": "41.252 -95.998", 
+        "VA Medical Center, Salem VA": "37.293 -80.055", 
+        "VA Medical Center, San Juan": "18.466 -66.106", 
+        "VA New Jersey Health Care System, East Orange": "40.767 -74.205", 
+        "VA Pittsburgh Health Care System": "40.441 -79.996", 
+        "VA Puget Sound Health Care System, Seattle": "47.606 -122.332", 
+        "VA San Diego Healthcare System, San Diego": "32.715 -117.157", 
+        "VA South Texas Health Care System, San Antonio": "29.424 -98.494"
+    }
+}

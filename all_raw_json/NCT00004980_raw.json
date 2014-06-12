@@ -1,0 +1,944 @@
+{
+    "clinical_study": {
+        "@rank": "134739", 
+        "arm_group": [
+            {
+                "arm_group_label": "active rTMS", 
+                "arm_group_type": "Experimental", 
+                "description": "1-Hz rTMS delivered to left temporoparietal cortex at 90% motor threshold for 16 minutes per session given one session per day for nine consecutive days (with the exception of weekends)"
+            }, 
+            {
+                "arm_group_label": "sham stimulation", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Sham stimulation delivered 16 minutes per session given one session per day for nine consecutive days (with the exception of weekends)"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "OBJECTIVES:\n\n      I.  Determine the effect of repetitive transcranial magnetic stimulation on treatment\n      refractory auditory hallucinations of patients with schizophrenia."
+        }, 
+        "brief_title": "Repetitive Transcranial Magnetic Stimulation for \"Voices\"", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                            "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Participants received sham stimulation", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "27"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "23"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "50"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "11.9", 
+                                                "@value": "35.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9.5", 
+                                                "@value": "35.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "10.8", 
+                                                "@value": "35.3"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "8"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "17"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "18"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "33"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "18"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "39"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Medication Resistant"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "11"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Not Medication Resistant"
+                                    }
+                                ]
+                            }, 
+                            "description": "Number of participants who were medication resistant", 
+                            "param": "Number", 
+                            "title": "Medication Resistance", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "5.0", 
+                                                "@value": "25.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "5.7", 
+                                                "@value": "26.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "5.3", 
+                                                "@value": "25.6"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "description": "Sum of 7 variables: frequency of hallucinations, reality of hallucinations, loudness of hallucinations, number of acoustically distinct voices, length of hallucinations, attentional salience of hallucinations, level of distress induced by hallucinations; higher score connotes more severe hallucinations; lowest score is 4, highest score is 37", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Total Auditory Hallucination Rate Scale (AHRS) score", 
+                            "units": "Scores on a scale"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-4.65", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-.86", 
+                                "dispersion_type": "Standard Error of the mean", 
+                                "dispersion_value": ".514", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "t-test, 2 sided", 
+                                "method_desc": "degree of freedom = 48", 
+                                "non_inferiority": "No", 
+                                "p_value": ".005", 
+                                "p_value_desc": "a priori threshold for statistical significance was .05", 
+                                "param_type": "Mean Difference (Final Values)", 
+                                "param_value": "-2.76"
+                            }
+                        }, 
+                        "description": "Change in hallucination severity relative to baseline with scores ranging 1 in unit intervals to 20 anchored as follows: 0=hallucinations stopped, 10=no change, 20=hallucinations twice as severe as baseline", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                                    "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants received sham stimulation", 
+                                    "title": "Placebo"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "2.85", 
+                                                        "@value": "5.85"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "3.80", 
+                                                        "@value": "8.61"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Change in hallucination severity relative to baseline with scores ranging 1 in unit intervals to 20 anchored as follows: 0=hallucinations stopped, 10=no change, 20=hallucinations twice as severe as baseline", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Hallucination Change Score (HCS) After 9 Active/Sham rTMS Sessions", 
+                                    "units": "Units on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "Last Observation Carried Forward (LOCF)", 
+                        "safety_issue": "No", 
+                        "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)", 
+                        "title": "Hallucination Change Score (HCS) After 9 Active/Sham rTMS Sessions", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": ".507", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "2.03", 
+                                "dispersion_type": "Standard Error of the mean", 
+                                "dispersion_value": ".327", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "null hypothesis is that the groups are the same", 
+                                "method": "t-test, 2 sided", 
+                                "method_desc": "degrees of freedom = 48", 
+                                "non_inferiority": "No", 
+                                "p_value": ".002", 
+                                "p_value_desc": "a priori threshold for statistical significance was .05", 
+                                "param_type": "Mean Difference (Final Values)", 
+                                "param_value": "1.27"
+                            }
+                        }, 
+                        "description": "Difference between baseline hallucination frequency and hallucintion frequency at last assessment. Assessed on the basis of a 0-9 scale, with higher scores being more severe.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                                    "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants received sham stimulation", 
+                                    "title": "Placebo"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.49", 
+                                                        "@value": "1.42"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.14", 
+                                                        "@value": ".15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Difference between baseline hallucination frequency and hallucintion frequency at last assessment. Assessed on the basis of a 0-9 scale, with higher scores being more severe.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Change From Baseline in Hallucination Frequency After 9 Active/Shame rTMS Sessions", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "LOCF", 
+                        "safety_issue": "No", 
+                        "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)", 
+                        "title": "Change From Baseline in Hallucination Frequency After 9 Active/Shame rTMS Sessions", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-1.45", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-.44", 
+                                "dispersion_type": "Standard Error of the mean", 
+                                "dispersion_value": ".524", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "t-test, 2 sided", 
+                                "method_desc": "degrees of freedom = 46", 
+                                "non_inferiority": "No", 
+                                "p_value": ".001", 
+                                "p_value_desc": "A priori threshold for statistical significance was .05", 
+                                "param_type": "Median Difference (Final Values)", 
+                                "param_value": "-.949"
+                            }
+                        }, 
+                        "description": "Scaled from 1-7 as follows: 1=dramatically improved, 2=moderately improved, 3=minimally improved, 4=no change, 5=minimally worsened, 6=moderately worsened, 7=dramatically worsened", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                                    "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants received sham stimulation", 
+                                    "title": "Placebo"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "26"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "22"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": ".845", 
+                                                        "@value": "2.84"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": ".882", 
+                                                        "@value": "3.79"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Scaled from 1-7 as follows: 1=dramatically improved, 2=moderately improved, 3=minimally improved, 4=no change, 5=minimally worsened, 6=moderately worsened, 7=dramatically worsened", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Clinical Global Improvement (CGI) Scale After 9 Active/Shame rTMS Sessions", 
+                                    "units": "Units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)", 
+                        "title": "Clinical Global Improvement (CGI) Scale After 9 Active/Shame rTMS Sessions", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Chi-squared", 
+                                "non_inferiority": "No", 
+                                "p_value": ".01", 
+                                "p_value_desc": "a priori threshold for statistical significance = .05"
+                            }
+                        }, 
+                        "description": "Responder defined as a participant who attains an endpoint hallucination change score (HCS) of 5 or lower after 9 active/shame rTMS sessions.\nChange in hallucination severity relative to baseline with scores ranging 1 in unit intervals to 20 anchored as follows: 0=hallucinations stopped, 10=no change, 20=hallucinations twice as severe as baseline", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                                    "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants received sham stimulation", 
+                                    "title": "Placebo"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "14"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Responder defined as a participant who attains an endpoint hallucination change score (HCS) of 5 or lower after 9 active/shame rTMS sessions.\nChange in hallucination severity relative to baseline with scores ranging 1 in unit intervals to 20 anchored as follows: 0=hallucinations stopped, 10=no change, 20=hallucinations twice as severe as baseline", 
+                                    "param": "Number", 
+                                    "title": "Responder Status", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "LOCF", 
+                        "safety_issue": "No", 
+                        "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)", 
+                        "title": "Responder Status", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                            "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Participants received sham stimulation", 
+                            "title": "Placebo"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "memory difficulties"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Physician Decision"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "27", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "23", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "25", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "21", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "ralph.hoffman@yale.edu", 
+                "name_or_title": "Ralph Hoffman", 
+                "organization": "Yale University School of Medicine", 
+                "phone": "203-688-9734"
+            }, 
+            "reported_events": {
+                "desc": "Adverse events were systematically collected with focused questions each day during the trial", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Participants received active repetitive transcranial magnetic stimulation (rTMS)", 
+                            "title": "Active Repetitive Transcanial Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Participants received sham stimulation", 
+                            "title": "Placebo"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "27"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "23"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "assessment": "Non-systematic Assessment", 
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "27"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "23"
+                                            }
+                                        ], 
+                                        "description": "Transient headache and responsive to acetaminophen", 
+                                        "sub_title": "Headache"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "frequency_threshold": "5"
+                }, 
+                "time_frame": "Adverse event reporting was collected for the duration of the study (41 months)"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": "Schizophrenia", 
+        "condition_browse": {
+            "mesh_term": "Schizophrenia"
+        }, 
+        "detailed_description": {
+            "textblock": "PROTOCOL OUTLINE: This is a randomized, double blind study.  Patients are randomized to one\n      of two treatment arms.\n\n      Group I:  Patients receive 9 sessions of active transcranial magnetic stimulation (rTMS)\n      which consists of 8 minutes of rTMS during session 1, 12 minutes duration during session 2,\n      and 16 minutes duration during sessions 3-9.  The total duration of stimulation is 132\n      minutes. Each session was given on a separate day and in general each session occurred on\n      consecutive days with the exception of weekends.\n\n      Group II:  Patients receive 9 sessions of sham stimulation, which consists of 8 minutes of\n      sham stimulation during session 1, 12 minutes duration sham stimulation during session 2,\n      and 16 minutes duration sham stimulation during sessions 3-9.  The total duration of sham\n      stimulation is 132 minutes.  Each session was given conducted on a separate day and in\n      general each session occured on consecutive days with the exception of weekends.\n\n      This study provided pilot data supplying the basis for our current study - NCT00308997 --\n      see our website for details"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "PROTOCOL ENTRY CRITERIA:\n\n        Inclusion criteria:\n\n          -  Diagnosis of schizophrenia or schizoaffective disorder based on DSM-IV version of\n             SCID\n\n          -  Auditory hallucinations of spoken speech occurring at least 5 times per day where\n             subject able to discern verbal content\n\n          -  Right-handed\n\n          -  At least 4 weeks on stable antipsychotic medication\n\n        Exclusion criteria:\n\n          -  history of seizure (unless due to drug withdrawal or medication that is no longer\n             prescribed)\n\n          -  history of epilepsy in first degree relatives\n\n          -  estimated IQ less than 80\n\n          -  unable to provide informed consent\n\n          -  significant unstable medical condition\n\n          -  current treatment with clozapine or bupropion\n\n          -  cochlear implants or other metal in the head (surgical, etc.)\n\n          -  history of cardiac arrhythmia\n\n          -  cardiac pacemaker\n\n          -  active drug or alcohol abuse within prior 6 weeks\n\n          -  pregnancy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 10, 2000", 
+        "firstreceived_results_date": "November 25, 2008", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00004980", 
+            "org_study_id": "R21 MH063326", 
+            "secondary_id": [
+                "R21MH063326", 
+                "YALESM-9281", 
+                "199/14809", 
+                "A5-ETPD"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "active rTMS", 
+                "description": "a total of 132 minutes of stimulation at one hertz, motor threshold set at 80%, delivered to TP3 scalp site", 
+                "intervention_name": "repetitive transcranial magnetic stimulation (rTMS)", 
+                "intervention_type": "Device", 
+                "other_name": "MATSTIM SUPER RAPID"
+            }, 
+            {
+                "arm_group_label": "sham stimulation", 
+                "description": "132 minutes of stimulation given at 80% motor threshold with coil tilted \"single wing\" 45 degrees away from scalp deliverd to TP3 site", 
+                "intervention_name": "sham stimulation", 
+                "intervention_type": "Device", 
+                "other_name": "MAGSTIM SUPER RAPID"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "neurologic and psychiatric disorders", 
+            "rare disease", 
+            "schizophrenia"
+        ], 
+        "lastchanged_date": "August 5, 2013", 
+        "link": {
+            "description": "Click here for the Yale School of Medicine Web site describing current, on-going rTMS trial for auditory hallucinations", 
+            "url": "http://psychiatry.yale.edu/research/programs/clinical_people/rtms.aspx"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New Haven", 
+                    "country": "United States", 
+                    "state": "Connecticut", 
+                    "zip": "06520-8099"
+                }, 
+                "name": "Yale University School of Medicine"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Repetitive Transcranial Magnetic Stimulation of Speech Processing Brain Areas in Schizophrenic Patients Who Hear \"Voices\"", 
+        "overall_official": {
+            "affiliation": "Yale University", 
+            "last_name": "Ralph Hoffman", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Change in hallucination severity relative to baseline with scores ranging 1 in unit intervals to 20 anchored as follows: 0=hallucinations stopped, 10=no change, 20=hallucinations twice as severe as baseline", 
+            "measure": "Hallucination Change Score (HCS) After 9 Active/Sham rTMS Sessions", 
+            "safety_issue": "No", 
+            "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00004980"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "15936729", 
+            "citation": "Hoffman RE, Gueorguieva R, Hawkins KA, Varanko M, Boutros NN, Wu YT, Carroll K, Krystal JH. Temporoparietal transcranial magnetic stimulation for auditory hallucinations: safety, efficacy and moderators in a fifty patient sample. Biol Psychiatry. 2005 Jul 15;58(2):97-104."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Difference between baseline hallucination frequency and hallucintion frequency at last assessment. Assessed on the basis of a 0-9 scale, with higher scores being more severe.", 
+                "measure": "Change From Baseline in Hallucination Frequency After 9 Active/Shame rTMS Sessions", 
+                "safety_issue": "No", 
+                "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)"
+            }, 
+            {
+                "description": "Scaled from 1-7 as follows: 1=dramatically improved, 2=moderately improved, 3=minimally improved, 4=no change, 5=minimally worsened, 6=moderately worsened, 7=dramatically worsened", 
+                "measure": "Clinical Global Improvement (CGI) Scale After 9 Active/Shame rTMS Sessions", 
+                "safety_issue": "No", 
+                "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)"
+            }, 
+            {
+                "description": "Responder defined as a participant who attains an endpoint hallucination change score (HCS) of 5 or lower after 9 active/shame rTMS sessions.\nChange in hallucination severity relative to baseline with scores ranging 1 in unit intervals to 20 anchored as follows: 0=hallucinations stopped, 10=no change, 20=hallucinations twice as severe as baseline", 
+                "measure": "Responder Status", 
+                "safety_issue": "No", 
+                "time_frame": "After the 9th active/sham rTMS session (up to 2 weeks or end of intervention)"
+            }
+        ], 
+        "source": "Yale University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of Mental Health (NIMH)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Yale University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1999", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }, 
+    "geocoordinates": {
+        "Yale University School of Medicine": "41.308 -72.928"
+    }
+}

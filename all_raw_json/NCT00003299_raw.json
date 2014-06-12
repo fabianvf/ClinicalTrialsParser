@@ -1,0 +1,432 @@
+{
+    "clinical_study": {
+        "@rank": "166714", 
+        "arm_group": [
+            {
+                "arm_group_label": "Cisplatin + Etoposide", 
+                "arm_group_type": "Active Comparator"
+            }, 
+            {
+                "arm_group_label": "Cisplatin + Etoposide + Paclitaxel", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one drug may kill more tumor cells. It is\n      not yet known whether cisplatin, etoposide, and paclitaxel are more effective than cisplatin\n      and etoposide alone in treating patients with extensive-stage small cell lung cancer.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of cisplatin plus etoposide\n      with or without paclitaxel in treating patients with extensive-stage small cell lung cancer."
+        }, 
+        "brief_title": "Cisplatin Plus Etoposide With or Without Paclitaxel in Treating Patients With Extensive-Stage Small Cell Lung Cancer", 
+        "completion_date": {
+            "#text": "January 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Neoplasms", 
+                "Small Cell Lung Carcinoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine whether the addition of paclitaxel to standard chemotherapy\n      treatment comprising etoposide and cisplatin improves the survival of patients with\n      extensive stage small cell lung cancer. II. Compare the tumor response rate and failure-free\n      survival of these patients treated with these regimens. III. Describe and compare the toxic\n      effects associated with these regimens in these patients.\n\n      OUTLINE: This is a randomized study. Patients are stratified according to performance status\n      and gender. Patients are randomized to one of two treatment arms. Arm I: Patients receive\n      cisplatin IV on day 1 and etoposide IV over 1 hour on days 1-3. Arm II: Patients receive\n      paclitaxel IV over 3 hours on day 1 and cisplatin and etoposide as in arm I. Patients then\n      receive filgrastim (G-CSF) subcutaneously on days 4-18. Treatment repeats in both arms every\n      21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.\n      Patients are followed at least every 2 months for 2 years, every 4 months for 1 year, and\n      then at least every 6 months for 2 years.\n\n      PROJECTED ACCRUAL: Approximately 670 patients (335 per arm) will be accrued for this study\n      within 16 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically or cytologically documented extensive stage small\n        cell carcinoma of the bronchus Measurable or evaluable disease No pleural effusions, bone\n        scan abnormalities, or bone marrow biopsies as only evidence of disease\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: CALGB 0-1 Hematopoietic:\n        Granulocyte count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic:\n        Bilirubin less than 1.5 mg/dL SGOT less than 2 times normal Renal: Serum creatinine no\n        greater than 1.5 mg/dL Cardiovascular: No cardiac disease Pulmonary: No interstitial\n        pneumonia No fibroid lung Other: Not pregnant or nursing Fertile patients must use\n        effective contraception No psychiatric illness No malabsorption disorder No uncontrolled\n        infection No uncontrolled diabetes mellitus No prior or concurrent malignancy within the\n        past 5 years except carcinoma in situ of the cervix or basal cell skin cancer\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior\n        chemotherapy for small cell lung cancer No other concurrent chemotherapy Endocrine\n        therapy: No chronic steroid therapy (except steroids for adrenal failure or hormones for\n        non-disease related conditions) Radiotherapy: No prior pelvic or mediastinal radiotherapy\n        Surgery: Not specified Other: No concurrent anticonvulsants"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "587", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003299", 
+            "org_study_id": "CDR0000066238", 
+            "secondary_id": [
+                "U10CA031946", 
+                "CLB-9732", 
+                "E-C9732", 
+                "NCCTG-C9732", 
+                "SWOG-C9732"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Cisplatin + Etoposide", 
+                    "Cisplatin + Etoposide + Paclitaxel"
+                ], 
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Cisplatin + Etoposide", 
+                    "Cisplatin + Etoposide + Paclitaxel"
+                ], 
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Cisplatin + Etoposide + Paclitaxel", 
+                "intervention_name": "paclitaxel", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Etoposide phosphate", 
+                "Cisplatin", 
+                "Etoposide", 
+                "Paclitaxel"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "extensive stage small cell lung cancer", 
+        "lastchanged_date": "September 27, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/CLB-9732"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85259-5404"
+                    }, 
+                    "name": "CCOP - Scottsdale Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Peoria", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61602"
+                    }, 
+                    "name": "CCOP - Illinois Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cedar Rapids", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52403-1206"
+                    }, 
+                    "name": "CCOP - Cedar Rapids Oncology Project"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50309-1016"
+                    }, 
+                    "name": "CCOP - Iowa Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101-1733"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-3882"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48106"
+                    }, 
+                    "name": "CCOP - Ann Arbor Regional"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duluth", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55805"
+                    }, 
+                    "name": "CCOP - Duluth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Cloud", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "56303"
+                    }, 
+                    "name": "CentraCare Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68131"
+                    }, 
+                    "name": "CCOP - Missouri Valley Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bismarck", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58501"
+                    }, 
+                    "name": "Medcenter One Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fargo", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58122"
+                    }, 
+                    "name": "CCOP - Merit Care Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Forks", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58201"
+                    }, 
+                    "name": "Altru Health Systems"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toledo", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43623-3456"
+                    }, 
+                    "name": "CCOP - Toledo Community Hospital Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Danville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17822-2001"
+                    }, 
+                    "name": "CCOP - Geisinger Clinic and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57709"
+                    }, 
+                    "name": "Rapid City Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57105-1080"
+                    }, 
+                    "name": "CCOP - Sioux Community Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Regina", 
+                        "country": "Canada", 
+                        "state": "Saskatchewan", 
+                        "zip": "S4T 7T1"
+                    }, 
+                    "name": "Allan Blair Cancer Centre"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized Phase III Study Comparing Etoposide and Cisplatin With Etoposide, Cisplatin and Paclitaxel in Patients With Extensive Small Cell Lung Cancer", 
+        "overall_official": [
+            {
+                "affiliation": "Veterans Affairs Medical Center - Memphis", 
+                "last_name": "Harvey B. Niell, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Mayo Clinic", 
+                "last_name": "Randolph S. Marks, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Vanderbilt-Ingram Cancer Center", 
+                "last_name": "Alan B. Sandler, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "University of Colorado, Denver", 
+                "last_name": "Karen Kelly, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2005", 
+            "@type": "Actual"
+        }, 
+        "reference": {
+            "PMID": "16365181", 
+            "citation": "Blackstock AW, Herndon JE 2nd, Paskett ED, Miller AA, Lathan C, Niell HB, Socinski MA, Vokes EE, Green MR; Cancer and Leukemia Group B. Similar outcomes between African American and non-African American patients with extensive-stage small-cell lung carcinoma: report from the Cancer and Leukemia Group B. J Clin Oncol. 2006 Jan 20;24(3):407-12. Epub 2005 Dec 19."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003299"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "15923572", 
+                "citation": "Niell HB, Herndon JE 2nd, Miller AA, Watson DM, Sandler AB, Kelly K, Marks RS, Perry MC, Ansari RH, Otterson G, Ellerton J, Vokes EE, Green MR; Cancer and Leukemia Group. Randomized phase III intergroup trial of etoposide and cisplatin with or without paclitaxel and granulocyte colony-stimulating factor in patients with extensive-stage small-cell lung cancer: Cancer and Leukemia Group B Trial 9732. J Clin Oncol. 2005 Jun 1;23(16):3752-9."
+            }, 
+            {
+                "citation": "Niell HB, Herndon JE, Miller AA, et al.: Randomized phase III intergroup trial (CALGB 9732) of etoposide (VP-16) and cisplatin (DDP) with or without paclitaxel (TAX) and G-CSF in patients with extensive stage small cell lung cancer (ED-SCLC). [Abstract] Proceedings of the American Society of Clinical Oncology 21: A-1169, 2002."
+            }
+        ], 
+        "source": "Alliance for Clinical Trials in Oncology", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "North Central Cancer Treatment Group", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Eastern Cooperative Oncology Group", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Southwest Oncology Group", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Alliance for Clinical Trials in Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 1998", 
+        "study_design": "Allocation: Randomized, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }, 
+    "geocoordinates": {
+        "Allan Blair Cancer Centre": "50.455 -104.607", 
+        "Altru Health Systems": "47.925 -97.033", 
+        "CCOP - Ann Arbor Regional": "42.281 -83.743", 
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Cedar Rapids Oncology Project": "41.978 -91.666", 
+        "CCOP - Duluth": "46.787 -92.1", 
+        "CCOP - Geisinger Clinic and Medical Center": "40.963 -76.613", 
+        "CCOP - Illinois Oncology Research Association": "40.694 -89.589", 
+        "CCOP - Iowa Oncology Research Association": "41.601 -93.609", 
+        "CCOP - Merit Care Hospital": "46.877 -96.79", 
+        "CCOP - Missouri Valley Cancer Consortium": "41.252 -95.998", 
+        "CCOP - Scottsdale Oncology Program": "33.494 -111.926", 
+        "CCOP - Sioux Community Cancer Consortium": "43.55 -96.7", 
+        "CCOP - Toledo Community Hospital Oncology Program": "41.664 -83.555", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "CentraCare Clinic": "45.554 -94.17", 
+        "Mayo Clinic Cancer Center": "44.022 -92.47", 
+        "Medcenter One Health System": "46.808 -100.784", 
+        "Rapid City Regional Hospital": "44.081 -103.231", 
+        "Siouxland Hematology-Oncology": "42.5 -96.4"
+    }
+}

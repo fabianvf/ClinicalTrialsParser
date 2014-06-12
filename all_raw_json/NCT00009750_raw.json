@@ -1,0 +1,129 @@
+{
+    "clinical_study": {
+        "@rank": "84237", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Radiolabeled monoclonal antibodies can locate tumor cells and either kill them or\n      deliver tumor-killing substances to them without harming normal cells. Drugs used in\n      chemotherapy use different ways to stop tumor cells from dividing so they stop growing or\n      die. Combining monoclonal antibody therapy and chemotherapy with peripheral stem cell\n      transplantation may be an effective treatment for metastatic prostate cancer.\n\n      PURPOSE: Phase I trial to study the effectiveness of monoclonal antibody therapy plus\n      chemotherapy followed by peripheral stem cell transplantation in treating patients who have\n      metastatic prostate cancer that has not responded to hormone therapy."
+        }, 
+        "brief_title": "Monoclonal Antibody Therapy Plus Chemotherapy Followed by Peripheral Stem Cell Transplantation in Treating Patients With Metastatic Prostate Cancer That Has Not Responded to Hormone Therapy", 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the maximum tolerated dose of yttrium Y90 monoclonal antibody m170\n           administered with paclitaxel and cyclosporine followed by autologous peripheral blood\n           stem cell transplantation in patients with hormone-refractory metastatic prostate\n           cancer.\n\n        -  Determine the preliminary efficacy of this regimen in these patients.\n\n      OUTLINE: This is an open-label, dose-escalation study of yttrium Y 90 monoclonal antibody\n      m170 (Y90 MOAB m170). Patients are assigned to one of four cohorts.\n\n      After the first occurrence of hematologic dose-limiting toxicity in a patient, all\n      subsequent patients receive filgrastim (G-CSF) subcutaneously (SC) beginning 4 days prior to\n      undergoing apheresis and continuing until 6 million CD34+ cells/kg are collected. After 2\n      patients in a cohort group experience hematologic dose-limiting toxicity, subsequent\n      patients undergo autologous peripheral blood stem cell (PBSC) transplantation.\n\n        -  Cohort I: Patients receive unlabeled monoclonal antibody (MOAB) m170 IV over 5 minutes\n           followed by a tracer dose of indium In 111 monoclonal antibody m170 (In111 MOAB m170)\n           IV over 5-10 minutes on day 0 and unlabeled MOAB m170 IV followed by Y90 MOAB m170 IV\n           on day 7. Patients also receive oral cyclosporine every 12 hours on days -3 to 25.\n           Patients may undergo autologous PBSC transplantation on day 21 and receive G-CSF SC\n           daily beginning on day 21 and continuing until blood counts recover.\n\n        -  Cohort II: Patients receive treatment as in cohort I. Patients also receive paclitaxel\n           IV over 3 hours on day 9.\n\n        -  Cohort III and IV: Patients receive treatment as in cohort I without In111 MOAB m170.\n           Patients also receive paclitaxel as in cohort II.\n\n      Cohorts of 3 to 6 patients receive escalating doses of Y90 MOAB m170 until the maximum\n      tolerated dose (MTD) is determined. The MTD is defined as the dose at which 2 of 3 or 2 of 6\n      patients experience dose-limiting toxicity.\n\n      Patients are followed monthly for 3 months, every 3 months for 1 year, and then every 6\n      months for 1 year.\n\n      PROJECTED ACCRUAL: A total of 18-30 patients will be accrued for this study within 36\n      months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically or cytologically confirmed hormone-refractory metastatic prostate\n             cancer\n\n          -  Hormonal ablation (surgical or chemical) at least 3 months prior to study\n\n          -  HAMA titer negative\n\n          -  Less than 25% bone marrow involvement by metastatic prostate cancer\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  Karnofsky 70-100%\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,00/mm^3\n\n          -  Hemoglobin at least 10.0 g/dL (without transfusion)\n\n          -  No chronic transfusion requirement\n\n        Hepatic:\n\n          -  Bilirubin no greater than 1.3 mg/dL\n\n          -  AST no greater than 1.5 times normal\n\n        Renal:\n\n          -  Creatinine less than 1.5 mg/dL\n\n        Cardiovascular:\n\n          -  LVEF at least 50% by MUGA\n\n          -  No disseminated intravascular coagulation\n\n        Pulmonary:\n\n          -  FEV1 at least 65% of predicted\n\n          -  FVC at least 65% of predicted\n\n          -  Corrected DLCO at least 60%\n\n        Other:\n\n          -  Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  No prior murine protein (e.g., ProstaScint)\n\n        Chemotherapy:\n\n          -  At least 4 weeks since prior standard dose chemotherapy\n\n        Endocrine therapy:\n\n          -  See Disease Characteristics\n\n        Radiotherapy:\n\n          -  At least 4 weeks since prior external beam radiotherapy\n\n          -  No prior radiotherapy to no more than 25% of total skeleton\n\n        Surgery:\n\n          -  See Disease Characteristics\n\n        Other:\n\n          -  No concurrent oral anticoagulants (low dose coumadin for central line thrombosis\n             prophylaxis allowed)\n\n          -  No concurrent chronic transfusions"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "February 2, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00009750", 
+            "org_study_id": "CDR0000068364", 
+            "secondary_id": [
+                "UCD-992126", 
+                "NCI-V00-1639"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "monoclonal antibody m170", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "cyclosporine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "paclitaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "indium In 111 monoclonal antibody m170", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "intervention_name": "yttrium Y 90 monoclonal antibody m170", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Antibodies", 
+                "Immunoglobulins", 
+                "Antibodies, Monoclonal", 
+                "Cyclosporins", 
+                "Cyclosporine", 
+                "Lenograstim", 
+                "Paclitaxel"
+            ]
+        }, 
+        "keyword": [
+            "stage IV prostate cancer", 
+            "recurrent prostate cancer"
+        ], 
+        "lastchanged_date": "September 19, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/UCD-992126"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Sacramento", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "95817"
+                }, 
+                "name": "University of California Davis Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Combined Modality Radioimmunotherapy For Hormone Refractory Metastatic Prostate Cancer With Two Cycles Of Escalating Dose 90Y-DOTA-Peptide-m170 And Fixed, Low Dose Paclitaxel With Blood Stem Cell Support And Cyclosporin For HAMA Suppression", 
+        "overall_official": {
+            "affiliation": "University of California, Davis", 
+            "last_name": "Carol M. Richman, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00009750"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of California, Davis", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2001", 
+        "study_design": "Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2003"
+    }, 
+    "geocoordinates": {
+        "University of California Davis Cancer Center": "38.582 -121.494"
+    }
+}

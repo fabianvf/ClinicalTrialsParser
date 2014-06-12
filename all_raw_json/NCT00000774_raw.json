@@ -1,0 +1,642 @@
+{
+    "clinical_study": {
+        "@rank": "124579", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients who will receive rgp120/HIV-1MN"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients who will receive rgp120/HIV-1SF2"
+            }, 
+            {
+                "arm_group_label": "3", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Patients who will receive the placebo counterpart of 120/HIV-1MN"
+            }, 
+            {
+                "arm_group_label": "4", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Patients who will receive the placebo counterpart of rgp120/HIV-1SF2"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "PRIMARY: To determine the safety of envelope recombinant proteins rgp120/HIV-1MN (Genentech)\n      and rgp120/HIV-1SF2 (Chiron/Biocine) in infants who are of indeterminate HIV status born to\n      HIV-infected women. To evaluate changes in viral load in infants proven to be infected and\n      absolute CD4 counts in all immunized infants.\n\n      SECONDARY: To evaluate the immunogenicity of these envelope recombinant proteins in infants\n      of indeterminate HIV status born to HIV-infected women.\n\n      Only 30-50 percent of HIV-infected infants have detectable virus at birth. Successful early\n      sensitization to HIV envelope epitopes may help prevent infection or, alternatively, may\n      enhance HIV-specific immune function to alter HIV replication and disease progression."
+        }, 
+        "brief_title": "A Phase I Study to Evaluate the Safety and Immunogenicity of Recombinant HIV-1 Envelope Antigen in Children Born to HIV-Infected Mothers", 
+        "completion_date": {
+            "#text": "January 1999", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "HIV Infections", 
+            "HIV Seronegativity"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Only 30-50 percent of HIV-infected infants have detectable virus at birth. Successful early\n      sensitization to HIV envelope epitopes may help prevent infection or, alternatively, may\n      enhance HIV-specific immune function to alter HIV replication and disease progression.\n\n      Newborns are randomized to one of three different doses of either rgp120/HIV-1MN or\n      rgp120/HIV-1SF2 or their matching placebos. At each dose level, 12 patients receive vaccine\n      and three patients receive placebo. Immunizations are performed at 0, 4, 12, and 20 weeks,\n      and patients are followed until 2 years of age. Three of four patients treated at a given\n      dose level must have received two immunizations without evidence of grade 3 or 4 clinical or\n      laboratory toxicity before dose escalation occurs. Twelve additional patients are treated\n      with the optimal dose of each vaccine at weeks 0, 2, 8, and 20 (An accelerated schedule PER\n      AMENDMENT 3/20/96. Changed from - 0, 4, 8, and 20) accompanied by three additional placebo\n      patients per vaccine. PER AMENDMENT 3/20/96: The optimal dose of rgp120/HIV-1MN is 100 mcg\n      and will be given to the 12 patients and the placebo will be given to 3. The optimal dose of\n      rgp120/HIV-1SF2 is 5 mcg and will be given to the 12 patients and the placebo will be given\n      to 3.\n\n      PER 2/3/95 AMENDMENT: After the initial patients are enrolled, 18 additional newborns will\n      be randomized to one of the three dose levels of rgp120/HIV-1MN (with no placebos). PER\n      AMENDMENT 6/5/95: Another group of 18 newborns will be randomized to one of three treatments\n      representing 3 different doses of the Chiron/Biocine vaccine (with no placebos)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Concurrent Medication:\n\n        Allowed:\n\n          -  Antiretroviral therapy.\n\n          -  Coenrollment in a therapeutic protocol if begun at least 30 days following the week\n             20 immunization.\n\n          -  Routine immunizations if given more than 1 week before or after study vaccine.\n\n        Patients must be:\n\n          -  > 37 weeks gestation and < 72 hours of age born to HIV-infected women.\n\n          -  NOT born to women who received either passive or active immunotherapy during\n             pregnancy.\n\n          -  NOT breast-fed.\n\n          -  NOT born to women who are hepatitis B surface antigen positive.\n\n          -  Receiving AZT at study entry (except infants enrolled in ACTG 076).\n\n        NOTE:\n\n          -  Parent or guardian must provide informed consent and be willing to comply with study\n             requirements.\n\n        Exclusion Criteria\n\n        Co-existing Condition:\n\n        Patients with the following symptoms or conditions are excluded:\n\n          -  Documented or suspected serious bacterial infection, metabolic illness, or other\n             immediate life-threatening conditions.\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  Passive or active HIV-specific immunotherapy other than the study candidate vaccines.\n\n          -  Investigational medications."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "3 Days", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "156", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000774", 
+            "org_study_id": "ACTG 230", 
+            "secondary_id": "11207"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "1", 
+                "description": "Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.", 
+                "intervention_name": "rgp120/HIV-1MN", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "description": "Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.", 
+                "intervention_name": "rgp120/HIV-1 SF-2", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "3", 
+                "description": "Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.", 
+                "intervention_name": "Placebo version of  rgp120/HIV-1MN", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "4", 
+                "description": "Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.", 
+                "intervention_name": "Placebo version of rgp120/HIV-1SF2", 
+                "intervention_type": "Biological"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Vaccines, Synthetic", 
+            "Virus Replication", 
+            "HIV Envelope Protein gp120", 
+            "AIDS Vaccines", 
+            "HIV Preventive Vaccine", 
+            "HIV Therapeutic Vaccine"
+        ], 
+        "lastchanged_date": "May 22, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90801"
+                    }, 
+                    "name": "Long Beach Memorial Med. Ctr., Miller Children's Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900951752"
+                    }, 
+                    "name": "UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "920930672"
+                    }, 
+                    "name": "UCSD Maternal, Child, and Adolescent HIV CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941430105"
+                    }, 
+                    "name": "UCSF Pediatric AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94110"
+                    }, 
+                    "name": "San Francisco Gen. Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "905022004"
+                    }, 
+                    "name": "Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "802181088"
+                    }, 
+                    "name": "Univ. of Colorado Denver NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06504"
+                    }, 
+                    "name": "Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32209"
+                    }, 
+                    "name": "Univ. of Florida Jacksonville NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33161"
+                    }, 
+                    "name": "Univ. of Miami Ped. Perinatal HIV/AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "606143394"
+                    }, 
+                    "name": "Chicago Children's CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "606371470"
+                    }, 
+                    "name": "Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "701122699"
+                    }, 
+                    "name": "Tulane Univ. Health Science Ctr., Tulane Univ. Hosp. & Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana"
+                    }, 
+                    "name": "Tulane/LSU Maternal/Child CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "212874933"
+                    }, 
+                    "name": "Johns Hopkins Hosp. & Health System - Dept. of Peds., Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "BMC, Div. of Ped Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Brigham and Women's Hosp., Div. of Infectious Disease"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts"
+                    }, 
+                    "name": "HMS - Children's Hosp. Boston, Div. of Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01199"
+                    }, 
+                    "name": "Baystate Health, Baystate Med. Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07103"
+                    }, 
+                    "name": "NJ Med. School CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paterson", 
+                        "country": "United States", 
+                        "state": "New Jersey"
+                    }, 
+                    "name": "St. Joseph's Hosp. & Med. Ctr. of New Jersey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10457"
+                    }, 
+                    "name": "Bronx-Lebanon Hosp. IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "NYU Med. Ctr., Dept. of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Incarnation Children's Ctr."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "Strong Memorial Hospital Rochester NY NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }, 
+                    "name": "Univ. of Rochester ACTG CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stony Brook", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "117948111"
+                    }, 
+                    "name": "SUNY Stony Brook NICHD CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "SUNY Upstate Med. Univ., Dept. of Peds."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worchester", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }, 
+                    "name": "WNE Maternal Pediatric Adolescent AIDS CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "277103499"
+                    }, 
+                    "name": "DUMC Ped. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "191044318"
+                    }, 
+                    "name": "The Children's Hosp. of Philadelphia IMPAACT CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Univ. of Pennsylvania Health System, Hosp. of the Univ. of Pennsylvania"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Texas Children's Hosp. CRS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "981050371"
+                    }, 
+                    "name": "UW School of Medicine - CHRMC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009367344"
+                    }, 
+                    "name": "San Juan City Hosp. PR NICHD CRS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Phase I Study to Evaluate the Safety and Immunogenicity of Recombinant HIV-1 Envelope Antigen in Children Born to HIV-Infected Mothers", 
+        "overall_official": [
+            {
+                "affiliation": "NYU MEDICAL CENTER", 
+                "last_name": "Borkowsky W", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "UCSF Moffit Hospital", 
+                "last_name": "Wara DW", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ]
+        }, 
+        "phase": "Phase 1", 
+        "primary_outcome": [
+            {
+                "measure": "Development of adverse clinical, laboratory, or immunological responses to any of the recombinant vaccines", 
+                "safety_issue": "Yes", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Changes in viral load in infants found to be HIV infected", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }, 
+            {
+                "measure": "Changes in the slope of absolute CD4 counts in all immunized children", 
+                "safety_issue": "No", 
+                "time_frame": "Throughout study"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "7657952", 
+                "citation": "Rogers MF, Mofenson LM, Moseley RR. Reducing the risk of perinatal HIV transmission through zidovudine therapy: treatment recommendations and implications. J Am Med Womens Assoc. 1995 May-Aug;50(3-4):78-82, 93. Review."
+            }, 
+            {
+                "PMID": "11229849", 
+                "citation": "Cunningham CK, Wara DW, Kang M, Fenton T, Hawkins E, McNamara J, Mofenson L, Duliege AM, Francis D, McFarland EJ, Borkowsky W; Pediatric AIDS Clinical Trials Group 230 Collaborators. Safety of 2 recombinant human immunodeficiency virus type 1 (HIV-1) envelope vaccines in neonates born to HIV-1-infected women. Clin Infect Dis. 2001 Mar 1;32(5):801-7. Epub 2001 Feb 28."
+            }, 
+            {
+                "citation": "Cunningham CK, Wara DW, Fenton T, Kang M, Hawkins E, McNamara J, Mofenson L, Duliege AM, Francis D, McFarland E, Borkowsky W. Safety of recombinant HIV-1 envelope vaccines in neonates born to HIV-1 infected women. Conf Retroviruses Opportunistic Infect. 1998 Feb 1-5;5th:93 (abstract no 81)"
+            }, 
+            {
+                "PMID": "10720509", 
+                "citation": "Borkowsky W, Wara D, Fenton T, McNamara J, Kang M, Mofenson L, McFarland E, Cunningham C, Duliege AM, Francis D, Bryson Y, Burchett S, Spector SA, Frenkel LM, Starr S, Van Dyke R, Jimenez E. Lymphoproliferative responses to recombinant HIV-1 envelope antigens in neonates and infants receiving gp120 vaccines. AIDS Clinical Trial Group 230 Collaborators. J Infect Dis. 2000 Mar;181(3):890-6."
+            }
+        ], 
+        "removed_countries": {
+            "country": "Puerto Rico"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000774"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Changes in immune response to the vaccine candidates", 
+            "safety_issue": "No", 
+            "time_frame": "Throughout study"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Genentech", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "Biocine", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2012"
+    }, 
+    "geocoordinates": {
+        "BMC, Div. of Ped Infectious Diseases": "42.358 -71.06", 
+        "Baystate Health, Baystate Med. Ctr.": "42.101 -72.59", 
+        "Brigham and Women's Hosp., Div. of Infectious Disease": "42.358 -71.06", 
+        "Bronx-Lebanon Hosp. IMPAACT CRS": "40.85 -73.867", 
+        "Chicago Children's CRS": "41.878 -87.63", 
+        "Columbia IMPAACT CRS": "40.714 -74.006", 
+        "Cook County Hosp.": "41.878 -87.63", 
+        "DUMC Ped. CRS": "35.994 -78.899", 
+        "HMS - Children's Hosp. Boston, Div. of Infectious Diseases": "42.358 -71.06", 
+        "Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases": "33.836 -118.341", 
+        "Incarnation Children's Ctr.": "40.714 -74.006", 
+        "Johns Hopkins Hosp. & Health System - Dept. of Peds., Div. of Infectious Diseases": "39.29 -76.612", 
+        "Long Beach Memorial Med. Ctr., Miller Children's Hosp.": "33.804 -118.158", 
+        "NJ Med. School CRS": "40.736 -74.172", 
+        "NYU Med. Ctr., Dept. of Medicine": "40.714 -74.006", 
+        "SUNY Stony Brook NICHD CRS": "40.926 -73.141", 
+        "SUNY Upstate Med. Univ., Dept. of Peds.": "43.048 -76.147", 
+        "San Francisco Gen. Hosp.": "37.775 -122.419", 
+        "San Juan City Hosp. PR NICHD CRS": "18.466 -66.106", 
+        "St. Joseph's Hosp. & Med. Ctr. of New Jersey": "40.917 -74.172", 
+        "Strong Memorial Hospital Rochester NY NICHD CRS": "43.161 -77.611", 
+        "Texas Children's Hosp. CRS": "29.76 -95.369", 
+        "The Children's Hosp. of Philadelphia IMPAACT CRS": "39.952 -75.164", 
+        "Tulane Univ. Health Science Ctr., Tulane Univ. Hosp. & Clinic": "29.951 -90.072", 
+        "Tulane/LSU Maternal/Child CRS": "29.951 -90.072", 
+        "UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS": "34.052 -118.244", 
+        "UCSD Maternal, Child, and Adolescent HIV CRS": "32.715 -117.157", 
+        "UCSF Pediatric AIDS CRS": "37.775 -122.419", 
+        "UW School of Medicine - CHRMC": "47.606 -122.332", 
+        "Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease": "41.878 -87.63", 
+        "Univ. of Colorado Denver NICHD CRS": "39.729 -104.832", 
+        "Univ. of Florida Jacksonville NICHD CRS": "30.332 -81.656", 
+        "Univ. of Miami Ped. Perinatal HIV/AIDS CRS": "25.789 -80.226", 
+        "Univ. of Pennsylvania Health System, Hosp. of the Univ. of Pennsylvania": "39.952 -75.164", 
+        "Univ. of Rochester ACTG CRS": "43.161 -77.611", 
+        "WNE Maternal Pediatric Adolescent AIDS CRS": "40.9309437 -73.3987109", 
+        "Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease": "41.308 -72.928"
+    }
+}

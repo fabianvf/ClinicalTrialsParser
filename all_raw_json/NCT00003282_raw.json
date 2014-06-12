@@ -1,0 +1,157 @@
+{
+    "clinical_study": {
+        "@rank": "138085", 
+        "arm_group": {
+            "arm_group_label": "Diagnostic (EF5)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive etanidazole derivative EF5 IV over 1-2 hours beginning approximately 24 hours prior to surgery. Tumors are then resected or biopsied after Eppendorf needle electrode measurements."
+        }, 
+        "brief_summary": {
+            "textblock": "Diagnostic procedures using the drug EF5 to detect the presence of oxygen in tumor cells may\n      help to plan effective treatment for solid tumors. This phase I trial is studying how well\n      EF5 works in detecting the presence of oxygen in tumor cells in patients with solid tumors\n      that can be biopsied or removed by surgery"
+        }, 
+        "brief_title": "EF5 in Treating Patients With Solid Tumors", 
+        "condition": "Unspecified Adult Solid Tumor, Protocol Specific", 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. Determine the optimal dose of etanidazole derivative EF5 that is safely tolerated and\n      provides optimal signal-to-noise ratio in patients with solid tumors.\n\n      II. Determine the toxic effects of EF5 in this patient population. III. Determine the\n      pharmacokinetics of EF5 in this patient population. IV. Determine the dose of EF5 that\n      provides a mean signal-to-noise ratio (maximum binding in anoxia to minimum binding) of 75.\n\n      V. Determine the relationship between tumor oxygenation by EF5 binding and needle electrode\n      measurements.\n\n      VI. Compare the levels of EF5 binding in regions of low and high blood flow.\n\n      OUTLINE: This is a dose-escalation study.\n\n      Patients receive etanidazole derivative EF5 IV over 1-2 hours beginning approximately 24\n      hours prior to surgery. Tumors are then resected or biopsied after Eppendorf needle\n      electrode measurements.\n\n      Cohorts of 6 patients receive escalating doses of EF5 until the maximum tolerated dose (MTD)\n      or optimal dose is determined. The MTD is defined as the dose preceding that at which 2 or\n      more patients experience dose-limiting toxicity. The optimal dose is defined as the dose\n      level at or below the MTD and results in a signal-to-noise ratio of 75 or greater. Thirty\n      additional patients are treated at the optimal dose.\n\n      Patients are followed at 30-45 days post EF5 infusion.\n\n      PROJECTED ACCRUAL: A total of 50 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically confirmed tumor or highly suspicious cancerous mass based on imaging\n             and clinical signs but not indicative of a direct biopsy/cellular diagnosis preceding\n             surgery\n\n          -  Must have a clinical condition or physiologic status which demonstrates that the\n             appropriate or standard initial therapy for the tumor is surgical biopsy or resection\n\n          -  Performance status - ECOG 0-2\n\n          -  Life expectancy not specified\n\n          -  WBC greater than 2,000/mm^3\n\n          -  Platelet count greater than 100,000/mm^3\n\n          -  Bilirubin less than 2.0 mg/dL\n\n          -  Creatinine less than 2.0 mg/dL\n\n          -  Creatinine clearance greater than 50 mL/min\n\n          -  No significant cardiac disease that would preclude the safe use of general anesthesia\n\n          -  No significant pulmonary disease that would preclude the safe use of general\n             anesthesia\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception during and for 1 month after study\n\n          -  No history of grade III or IV peripheral neuropathy\n\n          -  See Disease Characteristics"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003282", 
+            "org_study_id": "NCI-2012-02266", 
+            "secondary_id": [
+                "UPCC 7597", 
+                "R01CA075285", 
+                "CDR0000066191"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Diagnostic (EF5)", 
+                "description": "Given IV", 
+                "intervention_name": "EF5", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Diagnostic (EF5)", 
+                "description": "Undergo resection", 
+                "intervention_name": "therapeutic conventional surgery", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Diagnostic (EF5)", 
+                "description": "Undergo biopsy", 
+                "intervention_name": "biopsy", 
+                "intervention_type": "Procedure", 
+                "other_name": "biopsies"
+            }, 
+            {
+                "arm_group_label": "Diagnostic (EF5)", 
+                "description": "Correlative studies", 
+                "intervention_name": "pharmacological study", 
+                "intervention_type": "Other", 
+                "other_name": "pharmacological studies"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "January 15, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "Abramson Cancer Center of The University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase I Trial of EF5, an Agent for the Detection of Hypoxia", 
+        "overall_official": {
+            "affiliation": "Abramson Cancer Center of the University of Pennsylvania", 
+            "last_name": "Stephen Michael Hahn", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "May 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Pharmacokinetics parameters including estimation of Cmax, half-life, and area under the time-concentration curve (AUC)", 
+                "safety_issue": "No", 
+                "time_frame": "Pre-dose, 1, 24, and 28 hours"
+            }, 
+            {
+                "measure": "Acute toxicity graded by NCI/DCTDC Common Toxicity Criteria", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 24 hours"
+            }, 
+            {
+                "measure": "Late toxicity graded by NCI/DCTDC Common Toxicity Criteria", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 28 days"
+            }, 
+            {
+                "measure": "Dose-limiting toxicity defined as any grade III or higher toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 45 days"
+            }, 
+            {
+                "measure": "Acceptable signal-to-noise ratio (75 or above)", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 45 days"
+            }, 
+            {
+                "measure": "Safe and effective dose defined as the dose at which less than 2 of 6 patients have dose-limiting acute or late toxicity and the mean value of signal-to-noise ratio is greater than or equal to 75", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 45 days"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003282"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "March 1998", 
+        "study_design": "Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "Abramson Cancer Center of The University of Pennsylvania": "39.952 -75.164"
+    }
+}
