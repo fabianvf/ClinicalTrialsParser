@@ -14,20 +14,19 @@
         }
     ], 
     "current_status": "Withdrawn", 
-    "date_processed": "June 05, 2014", 
+    "date_processed": "June 09, 2014", 
     "description": "\n      The purpose of this study is to evaluate the effects of gamma hydroxybutyric on\n      naloxone-precipitated opiate withdrawal.\n    ", 
-<<<<<<< HEAD:ct_osf_json/NCT00000193_osf.json
-    "files": ["../ct_xml/NCT00000193.xml", "../ct_raw_json/NCT00000193_raw.json"],
-=======
     "files": [
         "../ct_xml/NCT00000193.xml", 
         "../ct_raw_json/NCT00000193_raw.json"
     ], 
->>>>>>> a78758cf97002a4a2277f812dd682cce64bb8e1c:ct_osf_json/NCT00000193_osf.json
     "geo_data": [
         {
-            "location_name": "VA Connecticut Healthcare System", 
-            "location_zip": "06519"
+            "city": "New Haven", 
+            "country": "United States", 
+            "name": "VA Connecticut Healthcare System", 
+            "state": "Connecticut", 
+            "zip": "06519"
         }
     ], 
     "id": "NCT00000193", 

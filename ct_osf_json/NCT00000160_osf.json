@@ -5,22 +5,14 @@
             "title": "MetaData"
         }
     ], 
-    "contributors": [
-    {
-            "email": null,
-            "full_name": "Clinical Trials"
-        }],
+    "contributors": [], 
     "current_status": "Completed", 
-    "date_processed": "June 05, 2014", 
+    "date_processed": "June 09, 2014", 
     "description": "\n      To determine whether photocoagulation helps prevent severe visual loss from proliferative\n      diabetic retinopathy.\n\n      To determine whether a difference exists in the efficacy and safety of argon versus xenon\n      photocoagulation for proliferative diabetic retinopathy.\n    ", 
-<<<<<<< HEAD:ct_osf_json/NCT00000160_osf.json
-    "files": ["../ct_xml/NCT00000160.xml", "../ct_raw_json/NCT00000160_raw.json"],
-=======
     "files": [
         "../ct_xml/NCT00000160.xml", 
         "../ct_raw_json/NCT00000160_raw.json"
     ], 
->>>>>>> a78758cf97002a4a2277f812dd682cce64bb8e1c:ct_osf_json/NCT00000160_osf.json
     "geo_data": [], 
     "id": "NCT00000160", 
     "imported_from": "clinicaltrials.gov", 
