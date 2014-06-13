@@ -16,7 +16,10 @@ for (var x in jsonOSF["geo_data"]){
 };
 
 
-var map = L.map('map').setView(coordinateList[0], 8);
+var map = L.map('map',{
+	worldCopyJump:true
+}).setView(coordinateList[0], 8);
+
 map.fitBounds(coordinateList);
 
 
