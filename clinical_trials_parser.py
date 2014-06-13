@@ -103,3 +103,7 @@ class ClinicalTrialData(object):
 
 x = ClinicalTrialData('NCT02155933.xml')
 x.json_osf_to_txt()
+
+ClinicalTrialData('NCT02147249.xml').json_osf_to_txt()
+ClinicalTrialData('NCT00000201.xml').json_osf_to_txt()
+ClinicalTrialData('NCT00000193.xml').json_osf_to_txt()
