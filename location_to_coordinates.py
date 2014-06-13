@@ -27,6 +27,3 @@ def LocationToCoord(file_name):
         location['longitude'] = coordinates['longitude']
     return json_osf_locations
 
-print LocationToCoord('NCT02147249_osf.json')
-print LocationToCoord('NCT00000201_osf.json')
-print LocationToCoord('NCT00000193_osf.json')

@@ -101,9 +101,3 @@ class ClinicalTrialData(object):
             json.dump(self.json_osf_format(), json_txt, sort_keys=True, indent=4)
 
 
-x = ClinicalTrialData('NCT02155933.xml')
-x.json_osf_to_txt()
-
-ClinicalTrialData('NCT02147249.xml').json_osf_to_txt()
-ClinicalTrialData('NCT00000201.xml').json_osf_to_txt()
-ClinicalTrialData('NCT00000193.xml').json_osf_to_txt()
