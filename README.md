@@ -29,3 +29,12 @@ For the future, when we'd like to update every day...
     - What do we do with the updated files? Rename and move into archive??
 
 
+Notes on Open Street Map tile usage: 
+
+- If we're using Mapquest's Nonatim :  http://developer.mapquest.com/web/info/terms-of-use 
+
+- How to properly attribute Open Street Maps: http://wiki.openstreetmap.org/wiki/Legal_FAQ#3a._I_would_like_to_use_OpenStreetMap_maps._How_should_I_credit_you.3F 
+
+- The terms of use for the nominatim service provided by mapquest: http://developer.mapquest.com/web/products/open/nominatim 
+
+
