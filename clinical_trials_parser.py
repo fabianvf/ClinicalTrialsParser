@@ -1,5 +1,4 @@
 import json
-import os
 from glob import glob
 from lxml import etree
 
@@ -80,8 +79,7 @@ class ClinicalTrialData(object):
     		"tags": [
         		"clinicaltrials.gov"
     		],
-            "raw": self.raw,
-            "versions": ['../{0}'.format(path) for path in glob('ct_archive/ct_changes_json/{0}/*'.format(self.id))]
+            "versions": {path.rstrip('.json'):open(path).read() for path in glob('ct_archive/ct_changes_json/{0}/*'.format(self.id))}
 		}
 		json_osf['tags'] = json_osf['tags'] + self.keywords
 		return json_osf
