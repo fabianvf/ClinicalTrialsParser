@@ -14,30 +14,44 @@ function ctLocation(locationJson){
     this.marker.bindPopup(this.popup);
 };
 
-var coordinateList = new Array();
-for (var x in jsonOSF["geo_data"]){
-    coordinateList.push(L.latLng(jsonOSF["geo_data"][x]["latitude"],jsonOSF["geo_data"][x]["longitude"]));
-};
-
-
-var map = L.map('map',{
-    worldCopyJump:true
-}).setView(coordinateList[0], 8);
-
-map.fitBounds(coordinateList);
-
-
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-}).addTo(map);
-
-
-for (var y in coordinateList){
-    studyLocation = L.marker(coordinateList[y]).addTo(map);
-    if (jsonOSF["geo_data"][y]["state"] !== null){
-        studyLocation.bindPopup("<b>"+ jsonOSF["geo_data"][y]["name"] +"</b><br>"+jsonOSF["geo_data"][y]["city"]+", "+jsonOSF["geo_data"][y]["state"]+"<br>"+jsonOSF["geo_data"][y]["country"]);
-    } 
-    else {
-        studyLocation.bindPopup("<b>"+ jsonOSF["geo_data"][y]["name"] +"</b><br>"+jsonOSF["geo_data"][y]["city"]+"<br>"+jsonOSF["geo_data"][y]["country"]);
+function ctMap(){
+    this.map = L.map('map',{
+        worldCopyJump:true
+    }).setView(L.latLng(38.0299,-78.4790), 8);
+    
+    this.tileLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+    });
+    this.tileLayer.addTo(this.map);
+    this.ctLocationList = null;
+    this.addLocationList = function(ctLocationList){
+        this.ctLocationList = ctLocationList;
+        var coordinateList = new Array();
+        for (var x in this.ctLocationList){
+            coordinateList.push(this.ctLocationList[x].coordinates);
+        };
+        this.map.fitBounds(coordinateList);
+    };
+    this.addMarkers = function(){
+        if (this.ctLocationList !== null){
+            for (var x in this.ctLocationList){
+                this.ctLocationList[x].marker.addTo(this.map);
+            };
+        };
     };
 };
+
+function generateLocationList(jsonOSF){
+    var ctLocationList = new Array();
+    for (var x in jsonOSF["geo_data"]){
+        ctLocationList.push(new ctLocation(jsonOSF["geo_data"][x]));
+    };
+    return ctLocationList;
+}
+
+x = new ctMap();
+x.addLocationList(generateLocationList(jsonOSF));
+x.addMarkers();
+
+
+
