@@ -1,5 +1,5 @@
-var jsonOSF = JSON.parse('{"geo_data":[{"city": "Charlottesville", "country": "United States", "name": "Center for Research in Reproduction, University of Virginia", "state": "Virginia", "zip": "22908","latitude": 40.029306,"longitude": -80.4766781},{"city": "Ljubljana","country": "Slovenia","name": "UMC Ljubljana, Department of Infectious Diseases","zip":"1525","state": null,"latitude": 46.049865,"longitude": 14.5068921},{"city": "Baltimore","country": "United States","name": "Johns Hopkins University (BPRU) Bayview Campus","zip": "21224 6823","state": "Maryland","latitude": 39.2908608,"longitude": -76.6108073},{"city": "New Haven","country": "United States","name": "VA Connecticut Healthcare System","zip": "06519","state": "Connecticut","latitude": 41.3082138,"longitude": -72.9250518}]}');
-
+var jsonOSF = JSON.parse('{"geo_data":[{"city": "Charlottesville", "country": "United States", "name": "Center for Research in Reproduction, University of Virginia", "state": "Virginia", "zip": "22908","latitude": 38.029306, "longitude": -78.4766781},{"city": "Ljubljana","country": "Slovenia","name": "UMC Ljubljana, Department of Infectious Diseases","zip":"1525","state": null,"latitude": 46.049865,"longitude": 14.5068921},{"city": "Baltimore","country": "United States","name": "Johns Hopkins University (BPRU) Bayview Campus","zip": "21224 6823","state": "Maryland","latitude": 39.2908608,"longitude": -76.6108073},{"city": "New Haven","country": "United States","name": "VA Connecticut Healthcare System","zip": "06519","state": "Connecticut","latitude": 41.3082138,"longitude": -72.9250518}]}');
+var jsonOSF2 = JSON.parse('{"geo_data":[{"city": "Charlottesville", "country": "United States", "name": "Center for Research in Reproduction, University of Virginia", "state": "Virginia", "zip": "22908","latitude": 38.029306, "longitude": -78.4766781},{"city": "Baltimore","country": "United States","name": "Johns Hopkins University (BPRU) Bayview Campus","zip": "21224 6823","state": "Maryland","latitude": 39.2908608,"longitude": -76.6108073},{"city": "New Haven","country": "United States","name": "VA Connecticut Healthcare System","zip": "06519","state": "Connecticut","latitude": 41.3082138,"longitude": -72.9250518}]}');
 
 function ctLocation(locationJson){
     this.json = locationJson;
@@ -24,34 +24,51 @@ function ctMap(){
     });
     this.tileLayer.addTo(this.map);
     this.ctLocationList = null;
-    this.addLocationList = function(ctLocationList){
-        this.ctLocationList = ctLocationList;
-        var coordinateList = new Array();
-        for (var x in this.ctLocationList){
-            coordinateList.push(this.ctLocationList[x].coordinates);
+
+    var generateLocationList = function(jsonOSF){
+        var ctLocationList = new Array();
+        for (var x in jsonOSF["geo_data"]){
+            ctLocationList.push(new ctLocation(jsonOSF["geo_data"][x]));
         };
-        this.map.fitBounds(coordinateList);
+        return ctLocationList;
     };
-    this.addMarkers = function(){
-        if (this.ctLocationList !== null){
-            for (var x in this.ctLocationList){
-                this.ctLocationList[x].marker.addTo(this.map);
-            };
+
+    var zoomFitPoints = function(ctLocationList, map){
+        var coordinateList = new Array();
+        for (var x in ctLocationList){
+            coordinateList.push(ctLocationList[x].coordinates);
         };
+        map.fitBounds(coordinateList);
+    };
+    
+    var addMarkers = function(ctLocationList, map){
+        for (var x in ctLocationList){
+            ctLocationList[x].marker.addTo(map);
+        };
+    };
+
+    var removeMarkers = function(ctLocationList, map){
+        for (var x in ctLocationList){
+           map.removeLayer(ctLocationList[x].marker);
+        };
+    };
+
+    this.updateMap = function(jsonOSF){
+        if (this.ctLocationList!==null){
+            removeMarkers(this.ctLocationList, this.map);
+        };
+        this.ctLocationList = generateLocationList(jsonOSF);
+        zoomFitPoints(this.ctLocationList, this.map);
+        addMarkers(this.ctLocationList, this.map);
     };
 };
 
-function generateLocationList(jsonOSF){
-    var ctLocationList = new Array();
-    for (var x in jsonOSF["geo_data"]){
-        ctLocationList.push(new ctLocation(jsonOSF["geo_data"][x]));
-    };
-    return ctLocationList;
-}
+
 
 x = new ctMap();
-x.addLocationList(generateLocationList(jsonOSF));
-x.addMarkers();
+x.updateMap(jsonOSF);
+
+
 
 
 
