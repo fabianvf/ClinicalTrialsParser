@@ -1,0 +1,948 @@
+{
+    "clinical_study": {
+        "@rank": "30346", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the safety and effectiveness of 2 forms of stavudine\n      (d4T). One form is taken once a day (extended release) and the other form is taken twice a\n      day (immediate release)."
+        }, 
+        "brief_title": "Effectiveness and Safety of Two Forms of Stavudine in HIV-Infected Patients", 
+        "completion_date": {
+            "#text": "April 2002", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients are randomized to receive blinded stavudine extended release (d4T ER) or immediate\n      release (d4T IR) formulation. Randomization is balanced by screening HIV viral load of less\n      than 30,000 copies/ml or at least 30,000 copies/ml and by site. Patients also receive\n      open-label efavirenz (EFV) and lamivudine (3TC). Efficacy is evaluated over 48 weeks of the\n      dosing period and safety is evaluated over the entire dosing period (56 weeks)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Are at least 18 years old. Patients living in USA, Puerto Rico, Australia, Brazil,\n             Singapore, and Thailand can be at least 12 years old (need consent of parent or\n             guardian if under 18).\n\n          -  Have a viral load of at least 2,000 copies/ml within 21 days of study entry.\n\n          -  Have a CD4 count of at least 100 cells/mm3 within 21 days of study entry.\n\n          -  Agree to use a barrier method of birth control (such as condoms) during the study.\n\n          -  Are available for follow-up for at least 56 weeks.\n\n        Exclusion Criteria\n\n        Patients will not be eligible for this study if they:\n\n          -  Are pregnant or breast-feeding.\n\n          -  Have taken nonnucleoside reverse transcriptase inhibitors (NNRTIs) or protease\n             inhibitors (PIs) for more than 30 days and within 14 days of study entry.\n\n          -  Have a new opportunistic (HIV-related) infection or condition requiring treatment.\n\n          -  Have acute (early) HIV infection.\n\n          -  Have diarrhea (at least 6 loose stools/day for at least 7 days in a row) within 30\n             days prior to study entry.\n\n          -  Abuse alcohol or drugs.\n\n          -  Have active hepatitis within 30 days prior to study entry.\n\n          -  Have a history of peripheral neuropathy (a condition affecting the nervous system).\n\n          -  Cannot take medications by mouth.\n\n          -  Are allergic to certain antiviral drugs.\n\n          -  Need to take certain medications that should not be taken with EFV.\n\n          -  Have certain other conditions or prior treatments that might affect the study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "12 Years"
+        }, 
+        "enrollment": "730", 
+        "firstreceived_date": "June 15, 2000", 
+        "id_info": {
+            "nct_id": "NCT00005918", 
+            "org_study_id": "244F", 
+            "secondary_id": "AI455-099"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Efavirenz", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Lamivudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Stavudine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Stavudine", 
+                "Lamivudine", 
+                "Reverse Transcriptase Inhibitors", 
+                "Efavirenz"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Drug Therapy, Combination", 
+            "Stavudine", 
+            "Lamivudine", 
+            "RNA, Viral", 
+            "Dosage Forms", 
+            "Reverse Transcriptase Inhibitors", 
+            "Anti-HIV Agents", 
+            "Viral Load", 
+            "efavirenz"
+        ], 
+        "lastchanged_date": "April 28, 2011", 
+        "link": [
+            {
+                "description": "BMS Clinical Trials Disclosure", 
+                "url": "http://ctr.bms.com/ctd/start.do"
+            }, 
+            {
+                "description": "For FDA Safety Alerts and Recalls refer to the following link www.fda.gov/MEDWATCH/safety.htm", 
+                "url": "http://www.fda.gov/MEDWATCH/safety.htm"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }, 
+                    "name": "AIDS Healthcare Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20009"
+                    }, 
+                    "name": "Whitman Walker Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Altamonte Springs", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32701"
+                    }, 
+                    "name": "IDC Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33308"
+                    }, 
+                    "name": "Med Alternatives"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33602"
+                    }, 
+                    "name": "Hillsborough County Health Dept"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "The CORE Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "672143124"
+                    }, 
+                    "name": "Univ of Kansas School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40292"
+                    }, 
+                    "name": "Univ of Louisville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brookline", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02445"
+                    }, 
+                    "name": "CRI of New England"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01107"
+                    }, 
+                    "name": "CRI - Springfield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reno", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89520"
+                    }, 
+                    "name": "No Nevada HOPES"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10019"
+                    }, 
+                    "name": "Saint Luke's - Roosevelt Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "Univ Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75204"
+                    }, 
+                    "name": "Aesculapisu Medical Health Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390"
+                    }, 
+                    "name": "Univ of Texas Southwestern Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "775550835"
+                    }, 
+                    "name": "Univ of Texas Med Branch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77004"
+                    }, 
+                    "name": "Plaza Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Med Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Arnaldo Casiro MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Claudia Rodriguez MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Fundacion Huesped"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Elida Pallone MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buenos Aires", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Luis Maria Zieher MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Prov Bs As", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Fernando Silva Nieto MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rosario Santa Fe", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "CAICI"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Isidro", 
+                        "country": "Argentina"
+                    }, 
+                    "name": "Marcelo Beltran"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brisbane", 
+                        "country": "Australia"
+                    }, 
+                    "name": "Hugo Ree MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "South Yarra", 
+                        "country": "Australia"
+                    }, 
+                    "name": "Prahran Market Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gent", 
+                        "country": "Belgium"
+                    }, 
+                    "name": "University Hospital Gent"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liege", 
+                        "country": "Belgium"
+                    }, 
+                    "name": "Domaine Universitaire Du SART-TILMAN"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Belo Horizonte-MG", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Federal University of Minas, Dept. of Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Botucatu-SP", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Universidade Estadual de Botucatu"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santos", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Ricardo Leite Hayden"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sao Paulo", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Fundacao Zerbini Casa Da Aids"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sao Paulo", 
+                        "country": "Brazil"
+                    }, 
+                    "name": "Instituto de Infectologia Emilio Ribas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "Canada", 
+                        "state": "British Columbia"
+                    }, 
+                    "name": "Saint Paul's Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Clinique Medicale L'Actuele"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Dr Roger P Leblanc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Clinique Medicale du Quartier Latin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Saint Andre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon Cedex 03", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Edouard Herriot"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital De L'Hotel Dieu"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 13", 
+                        "country": "France"
+                    }, 
+                    "name": "Srev Du Pr Gentilini"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rennes", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Pontachaillou"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rehovot", 
+                        "country": "Israel"
+                    }, 
+                    "name": "Kaplan Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tel Hashomer", 
+                        "country": "Israel"
+                    }, 
+                    "name": "Sheba Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Antella", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Reparto Malattie Infettive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bari", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Universita Di Bari"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bergamo", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedali Riuniti"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Luigi Cacco Moroni"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Napoli", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Cotugno"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pisa", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Cisanello"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Amedeo de Savoia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Amedeo di Savoia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Instituto Nacional de la Nutricion"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Instituto Nacional de Enfermedades Respiratorias"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Hospital General"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tijuana", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Alberto Orneals MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Almada", 
+                        "country": "Portugal"
+                    }, 
+                    "name": "Hospital Distrital de Almada"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coimbra", 
+                        "country": "Portugal"
+                    }, 
+                    "name": "Hospital Universidade De Coimbra"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lisboa", 
+                        "country": "Portugal"
+                    }, 
+                    "name": "Hosp De Santa Maria"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coto Laurel, Ponce", 
+                        "country": "Puerto Rico", 
+                        "zip": "00780"
+                    }, 
+                    "name": "San Cristobal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009091711"
+                    }, 
+                    "name": "Clinical Research Puerto Rico Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation"
+                    }, 
+                    "name": "Federal AIDS Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Petersburg", 
+                        "country": "Russian Federation"
+                    }, 
+                    "name": "Nina Volkova MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Unknown", 
+                        "country": "Singapore"
+                    }, 
+                    "name": "Tan tock Seng Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cape Town", 
+                        "country": "South Africa"
+                    }, 
+                    "name": "Tygerberg Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johannesburg", 
+                        "country": "South Africa"
+                    }, 
+                    "name": "Johannesburg Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johannesburg", 
+                        "country": "South Africa"
+                    }, 
+                    "name": "Innovir Institute / Saffer House"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johannesburg", 
+                        "country": "South Africa"
+                    }, 
+                    "name": "Chris Hani Baragwanath Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pretoria", 
+                        "country": "South Africa"
+                    }, 
+                    "name": "Embassy Drive Medical Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain"
+                    }, 
+                    "name": "Hosp Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain"
+                    }, 
+                    "name": "Hosp Gregorio Maranon"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palma de Mallorca", 
+                        "country": "Spain"
+                    }, 
+                    "name": "Hosp son Dureta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pamplona", 
+                        "country": "Spain"
+                    }, 
+                    "name": "Hosp de Navarra"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bangkok", 
+                        "country": "Thailand"
+                    }, 
+                    "name": "Chulalongkorn Univ Hosp / HIV / NAT Rsch Collab"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nontaburi", 
+                        "country": "Thailand"
+                    }, 
+                    "name": "Bamrasnaradura Hosp"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Argentina", 
+                "Australia", 
+                "Belgium", 
+                "Brazil", 
+                "Canada", 
+                "France", 
+                "Israel", 
+                "Italy", 
+                "Mexico", 
+                "Portugal", 
+                "Puerto Rico", 
+                "Russian Federation", 
+                "Singapore", 
+                "South Africa", 
+                "Spain", 
+                "Thailand"
+            ]
+        }, 
+        "official_title": "The Safety and Antiviral Efficacy of Stavudine Extended Release Formulation as Compared to Stavudine Immediate Release Formulation, Each as Part of Potent Antiretroviral Combination Therapy", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "April 2002", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005918"
+        }, 
+        "source": "Bristol-Myers Squibb", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bristol-Myers Squibb", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "June 2000", 
+        "study_design": "Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2011"
+    }, 
+    "geocoordinates": {
+        "AIDS Healthcare Foundation": "34.052 -118.244", 
+        "Aesculapisu Medical Health Group": "32.803 -96.77", 
+        "Alberto Orneals MD": "32.533 -117.018", 
+        "Arnaldo Casiro MD": "-34.608 -58.373", 
+        "Bamrasnaradura Hosp": "13.924 100.395", 
+        "CAICI": "-32.951 -60.667", 
+        "CRI - Springfield": "42.101 -72.59", 
+        "CRI of New England": "42.332 -71.121", 
+        "Chris Hani Baragwanath Hosp": "-26.204 28.047", 
+        "Chulalongkorn Univ Hosp / HIV / NAT Rsch Collab": "13.82 100.665", 
+        "Claudia Rodriguez MD": "-34.608 -58.373", 
+        "Clinical Research Puerto Rico Inc": "18.466 -66.106", 
+        "Clinique Medicale L'Actuele": "45.509 -73.554", 
+        "Clinique Medicale du Quartier Latin": "45.509 -73.554", 
+        "Domaine Universitaire Du SART-TILMAN": "50.633 5.58", 
+        "Dr Roger P Leblanc": "45.509 -73.554", 
+        "Elida Pallone MD": "-34.608 -58.373", 
+        "Embassy Drive Medical Centre": "-25.731 28.218", 
+        "Federal AIDS Ctr": "55.75 37.617", 
+        "Federal University of Minas, Dept. of Pediatrics": "-19.919 -43.939", 
+        "Fernando Silva Nieto MD": "-38.416 -63.617", 
+        "Fundacao Zerbini Casa Da Aids": "-23.549 -46.639", 
+        "Fundacion Huesped": "-34.608 -58.373", 
+        "Hampton Roads Med Specialists": "37.03 -76.345", 
+        "Hillsborough County Health Dept": "27.951 -82.457", 
+        "Hopital De L'Hotel Dieu": "47.218 -1.554", 
+        "Hopital Edouard Herriot": "45.764 4.836", 
+        "Hopital Pontachaillou": "48.113 -1.676", 
+        "Hopital Saint Andre": "44.838 -0.579", 
+        "Hosp Clinic": "41.388 2.17", 
+        "Hosp De Santa Maria": "38.707 -9.136", 
+        "Hosp Gregorio Maranon": "40.417 -3.7", 
+        "Hosp de Navarra": "42.818 -1.644", 
+        "Hosp son Dureta": "39.57 2.65", 
+        "Hospital Distrital de Almada": "38.68 -9.158", 
+        "Hospital General": "19.433 -99.133", 
+        "Hospital Universidade De Coimbra": "40.211 -8.429", 
+        "Hugo Ree MD": "-27.471 153.024", 
+        "IDC Research Initiative": "28.661 -81.366", 
+        "Innovir Institute / Saffer House": "-26.204 28.047", 
+        "Instituto Nacional de Enfermedades Respiratorias": "19.433 -99.133", 
+        "Instituto Nacional de la Nutricion": "19.433 -99.133", 
+        "Instituto de Infectologia Emilio Ribas": "-23.549 -46.639", 
+        "Johannesburg Hosp": "-26.204 28.047", 
+        "Kaplan Med Ctr": "31.893 34.811", 
+        "Luis Maria Zieher MD": "-34.608 -58.373", 
+        "Marcelo Beltran": "-34.471 -58.529", 
+        "Med Alternatives": "26.122 -80.143", 
+        "Nina Volkova MD": "60.076 30.121", 
+        "No Nevada HOPES": "39.53 -119.814", 
+        "Ospedale Amedeo de Savoia": "45.071 7.684", 
+        "Ospedale Amedeo di Savoia": "45.071 7.684", 
+        "Ospedale Cisanello": "43.716 10.397", 
+        "Ospedale Cotugno": "40.84 14.253", 
+        "Ospedale Luigi Cacco Moroni": "45.464 9.188", 
+        "Ospedali Riuniti": "45.695 9.67", 
+        "Plaza Med Ctr": "29.76 -95.369", 
+        "Prahran Market Clinic": "-37.84 144.995", 
+        "Reparto Malattie Infettive": "43.728 11.324", 
+        "Ricardo Leite Hayden": "-23.962 -46.332", 
+        "Saint Luke's - Roosevelt Hosp Ctr": "40.714 -74.006", 
+        "Saint Paul's Hosp": "49.261 -123.114", 
+        "San Cristobal Hosp": "18.05 -66.551", 
+        "Sheba Med Ctr": "31.957 34.811", 
+        "Srev Du Pr Gentilini": "48.857 2.352", 
+        "Tan tock Seng Hosp": "1.352 103.82", 
+        "The CORE Ctr": "41.878 -87.63", 
+        "Tygerberg Hosp": "-33.925 18.424", 
+        "Univ Hospital": "35.468 -97.516", 
+        "Univ of Kansas School of Medicine": "37.692 -97.337", 
+        "Univ of Louisville": "38.253 -85.758", 
+        "Univ of Texas Med Branch": "29.301 -94.798", 
+        "Univ of Texas Southwestern Med Ctr": "32.803 -96.77", 
+        "Universidade Estadual de Botucatu": "-22.89 -48.455", 
+        "Universita Di Bari": "41.126 16.872", 
+        "University Hospital Gent": "51.053 3.73", 
+        "Whitman Walker Clinic": "38.895 -77.036"
+    }
+}

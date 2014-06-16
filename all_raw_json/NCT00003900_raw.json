@@ -1,0 +1,334 @@
+{
+    "clinical_study": {
+        "@rank": "24", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one drug may kill more tumor cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of combining irinotecan and docetaxel in\n      treating patients who have recurrent or metastatic non-small cell lung cancer."
+        }, 
+        "brief_title": "Irinotecan With Docetaxel in Treating Patients With Recurrent or Metastatic Non-Small Cell Lung Cancer", 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Evaluate the response rate of previously treated patients with recurrent\n      non-small cell lung cancer after treatment with irinotecan and docetaxel. II. Determine the\n      toxicity of this regimen in these patients. III. Determine the overall survival in this\n      patient population.\n\n      OUTLINE: Patients receive irinotecan IV over 90 minutes immediately followed by docetaxel IV\n      over 60 minutes on day 1. Treatment is repeated every 3 weeks for 6 courses in the absence\n      of disease progression or unacceptable toxicity. Patients are followed every 3 months for 5\n      years or until death.\n\n      PROJECTED ACCRUAL: A total of 44 patients will be accrued for this study within 24 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically or cytologically confirmed non-small cell lung\n        cancer (NSCLC) Reconfirmation of NSCLC required only if complete response for greater than\n        1 year Measurable or evaluable disease Tumor shrinkage or stability for at least 4 weeks\n        on initial chemotherapy CNS metastases allowed, if symptoms controlled for greater than 8\n        weeks after surgery or radiotherapy\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: 0-1 Life expectancy: At\n        least 12 weeks Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count\n        at least 100,000/mm3 Hepatic: Bilirubin normal AST no greater than 2 times upper limit of\n        normal (ULN) Renal: Creatinine no greater than 2.5 times ULN Cardiovascular: No New York\n        Heart Association class III or IV heart disease Other: No active infection At least 5\n        years since any other prior malignancy except curatively treated basal or squamous cell\n        skin cancer, carcinoma in situ, or other cancers No grade 2 or worse peripheral neuropathy\n        No uncontrolled diabetes mellitus No other serious underlying disease Not pregnant or\n        nursing Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: See Disease\n        Characteristics No greater than 1 prior NSCLC chemotherapy regimen, excluding low dose\n        cisplatin as a radiosensitizer No prior irinotecan or docetaxel At least 4 weeks since\n        prior chemotherapy Endocrine therapy: Not specified Radiotherapy: See Disease\n        Characteristics At least 4 weeks since prior radiotherapy No prior radiotherapy to greater\n        than 25% of bone marrow Surgery: See Disease Characteristics Other: No concurrent\n        phenytoin, phenobarbital, or other anticonvulsants"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003900", 
+            "org_study_id": "CDR0000067071", 
+            "secondary_id": "NCCTG-982453"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "docetaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "irinotecan hydrochloride", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Irinotecan", 
+                "Camptothecin", 
+                "Docetaxel"
+            ]
+        }, 
+        "keyword": [
+            "recurrent non-small cell lung cancer", 
+            "stage IV non-small cell lung cancer"
+        ], 
+        "lastchanged_date": "July 23, 2008", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/NCCTG-982453"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85259-5404"
+                    }, 
+                    "name": "CCOP - Scottsdale Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Peoria", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61602"
+                    }, 
+                    "name": "CCOP - Illinois Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cedar Rapids", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52403-1206"
+                    }, 
+                    "name": "CCOP - Cedar Rapids Oncology Project"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50309-1016"
+                    }, 
+                    "name": "CCOP - Iowa Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101-1733"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-3882"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duluth", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55805"
+                    }, 
+                    "name": "CCOP - Duluth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Cloud", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "56303"
+                    }, 
+                    "name": "CentraCare Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "CCOP - Metro-Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68131"
+                    }, 
+                    "name": "CCOP - Missouri Valley Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bismarck", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58501"
+                    }, 
+                    "name": "Quain & Ramstad Clinic, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fargo", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58122"
+                    }, 
+                    "name": "CCOP - Merit Care Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Forks", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58201"
+                    }, 
+                    "name": "Altru Health Systems"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toledo", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43623-3456"
+                    }, 
+                    "name": "CCOP - Toledo Community Hospital Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57709"
+                    }, 
+                    "name": "Rapid City Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57105-1080"
+                    }, 
+                    "name": "CCOP - Sioux Community Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Regina", 
+                        "country": "Canada", 
+                        "state": "Saskatchewan", 
+                        "zip": "S4S 6X3"
+                    }, 
+                    "name": "Saskatchewan Cancer Agency"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "official_title": "A Phase II Study of Irinotecan (CPT-11) and Docetaxel (Taxotere) in Patients With Recurrent Non-Small Cell Lung Cancer", 
+        "overall_official": {
+            "affiliation": "Mayo Clinic", 
+            "last_name": "Alex A. Adjei, MD, PhD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003900"
+        }, 
+        "results_reference": {
+            "PMID": "16777690", 
+            "citation": "Molina JR, Nikcevich D, Hillman S, Geyer S, Drevyanko T, Jett J, Verdirame J, Tazelaar H, Rowland K, Wos E, Kutteh L, Nair S, Fitch T, Flynn P, Stella P, Adjei AA. A Phase II NCCTG study of irinotecan and docetaxel in previously treated patients with non-small cell lung cancer. Cancer Invest. 2006 Jun-Jul;24(4):382-9."
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "North Central Cancer Treatment Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 1999", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2006"
+    }, 
+    "geocoordinates": {
+        "Altru Health Systems": "47.925 -97.033", 
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Cedar Rapids Oncology Project": "41.978 -91.666", 
+        "CCOP - Duluth": "46.787 -92.1", 
+        "CCOP - Illinois Oncology Research Association": "40.694 -89.589", 
+        "CCOP - Iowa Oncology Research Association": "41.601 -93.609", 
+        "CCOP - Merit Care Hospital": "46.877 -96.79", 
+        "CCOP - Metro-Minnesota": "44.96 -93.37", 
+        "CCOP - Missouri Valley Cancer Consortium": "41.252 -95.998", 
+        "CCOP - Scottsdale Oncology Program": "33.494 -111.926", 
+        "CCOP - Sioux Community Cancer Consortium": "43.55 -96.7", 
+        "CCOP - Toledo Community Hospital Oncology Program": "41.664 -83.555", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "CentraCare Clinic": "45.554 -94.17", 
+        "Mayo Clinic Cancer Center": "44.022 -92.47", 
+        "Quain & Ramstad Clinic, P.C.": "46.808 -100.784", 
+        "Rapid City Regional Hospital": "44.081 -103.231", 
+        "Saskatchewan Cancer Agency": "50.455 -104.607", 
+        "Siouxland Hematology-Oncology": "42.5 -96.4"
+    }
+}

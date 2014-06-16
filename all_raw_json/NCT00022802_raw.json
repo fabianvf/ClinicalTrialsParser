@@ -1,0 +1,109 @@
+{
+    "clinical_study": {
+        "@rank": "3433", 
+        "brief_summary": {
+            "textblock": "This project focuses on the further development and clinical testing of an image-guided\n      surgical system. The system will help surgeons perform procedures that involve inserting a\n      screw, guide pin, drill bit, or other straight object into bone-for example, inserting\n      screws in a broken hip bone. These surgeries are currently done with the help of a mobile\n      x-ray device called a C-arm, which provides the surgeon with x-ray images during the\n      procedure.\n\n      C-arms have some disadvantages, including image distortion, radiation exposure, and the need\n      for time-consuming adjustments of the C-arm during the surgery. The new method would deal\n      with these shortcomings with a computer-based system that adds to the existing C-arm system.\n      It would provide the surgeon with a real-time view of the insertion process, and could\n      improve the accuracy and speed of certain surgical procedures.\n\n      Disadvantages associated with C-arms include image distortion, radiation exposure, and time\n      consuming reconfiguration of the C-arm during the insertion process. The proposed system\n      would address these shortcomings with a computer-based system that augments the existing\n      C-arm system."
+        }, 
+        "brief_title": "Image Guided System for Orthopaedic Surgery", 
+        "completion_date": {
+            "#text": "April 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Orthopaedic Trauma", 
+            "Hip Fracture"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Hip Fractures", 
+                "Wounds and Injuries"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This Small Business Innovation Research Phase II project supports the further development\n      and clinical testing of an image-guided surgical system that will assist the surgeon in\n      performing procedures that involve the insertion of a screw, guide pin, drill bit, or other\n      linear object into bone. These surgeries are currently performed with the assistance of a\n      mobile fluoroscopic x-ray imager known as a C-arm.\n\n      Disadvantages associated with C-arms include image distortion, radiation exposure, and\n      time-consuming reconfiguration of the C-arm (between A/P and lateral views) during the\n      insertion process. The proposed system would address these shortcomings with a\n      computer-based system that augments the existing C-arm system. The new system uses an\n      optical localizer (a stereo camera device that tracks light-emitting diodes) to monitor the\n      location and orientation of a drill guide in the surgical field. The drill guide trajectory\n      is then graphically superimposed on the x-ray images. This provides real-time, on-screen\n      positional feedback to the surgeon to improve the accuracy and speed with which certain\n      procedures involving insertion of drill bits or guide pins can be performed. The research\n      effort will focus on the development of a clinical prototype and its evaluation by several\n      quantitative and qualitative methods.\n\n      The commercial success of such a system depends on its acceptance by surgeons, which in turn\n      depends on the extent to which it is a tool that provides better information to the surgeons\n      without intruding on a procedure in which they are already highly skilled. Commercial\n      success also depends on the ability of the system to reliably save time in the operating\n      room. We will address these issues with cadaveric studies and subsequent clinical trials.\n\n      Proposed Commercial Applications: The initial commercial application of this system is the\n      insertion of dynamic compression hip screws in cases of hip fracture. Because this is a\n      common fracture, any reduction in surgical time has great potential for cost savings. Other\n      advantages include decrease in radiation exposure and the potential reduction of serious\n      complications. Minor modifications that allow the system to assist with numerous other\n      orthopaedic trauma procedures are already planned."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient must be a candidate for dynamic compression screw fixation of an\n             intertrochanteric hip fracture.\n\n          -  Patient must be 18 or older and have a life expectancy of at least 5 years beyond\n             their enrollment.\n\n          -  Patient must be able to provide written informed consent.\n\n          -  Patient must agree to abide by the study protocol.\n\n        Exclusion Criteria:\n\n          -  Patient must not have a concurrent illness that would make extended time under\n             anesthesia a severe risk.\n\n          -  Patient must not have a concurrent fracture in the same limb.\n\n          -  Patient must not have a concurrent open fracture.\n\n          -  Patient must not have a concurrent highly comminuted fracture or fractures that, in\n             the surgeon's opinion, would allow excessive motion of the femoral shaft relative to\n             the femoral head."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "40", 
+        "firstreceived_date": "August 14, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00022802", 
+            "org_study_id": "R01 AR44759", 
+            "secondary_id": "NIAMS-054"
+        }, 
+        "intervention": {
+            "intervention_name": "Image-guided surgical system", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Biomedical equipment development", 
+            "Computer assisted patient care", 
+            "Digital imaging", 
+            "Hip surgery", 
+            "Orthopedics", 
+            "Trauma", 
+            "Radiography", 
+            "Biomedical imaging"
+        ], 
+        "lastchanged_date": "April 7, 2009", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Park Ridge", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60068"
+                }, 
+                "name": "Lutheran General Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Image Guided Surgical System for Orthopaedic Trauma", 
+        "overall_official": {
+            "affiliation": "Surgical Insights", 
+            "last_name": "Thomas C. Kienzle, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2004", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00022802"
+        }, 
+        "source": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "December 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2009", 
+        "why_stopped": "Grant expired"
+    }, 
+    "geocoordinates": {
+        "Lutheran General Hospital": "42.011 -87.841"
+    }
+}

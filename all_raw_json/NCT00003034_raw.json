@@ -1,0 +1,371 @@
+{
+    "clinical_study": {
+        "@rank": "57233", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive  ranpirnase IV over 30 minutes weekly followed by doxorubicin IV. Treatment repeats every 3 weeks for at least 6 courses in the absence of disease progression. Patients demonstrating evidence of clinical response or stable disease may continue on maintenance therapy with ranpirnase as a single agent until disease progression."
+            }, 
+            {
+                "arm_group_label": "Arm II", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive doxorubicin as in arm I for up to 6 courses."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy work in different ways to stop tumor cells from\n      dividing so they stop growing or die. It is not yet known whether Onconase plus doxorubicin\n      is more effective than doxorubicin alone in treating patients with malignant mesothelioma.\n\n      PURPOSE: This randomized phase III trial is studying doxorubicin alone to see how well it\n      works compared to doxorubicin and Onconase in treating patients with malignant mesothelioma."
+        }, 
+        "brief_title": "ONCONASE Plus Doxorubicin Versus Doxorubicin Alone For Patients With Malignant Pleural or Peritoneal Mesothelioma Who Have Had No More Than One Prior Chemotherapy Regimen", 
+        "condition": "Malignant Mesothelioma", 
+        "condition_browse": {
+            "mesh_term": "Mesothelioma"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Compare the efficacy of doxorubicin with or without ranpirnase in patients with\n           malignant pleural or peritoneal mesothelioma.\n\n        -  Compare the safety profile of these regimens in these patients.\n\n        -  Compare the overall survival, progression-free survival, and quality of life of\n           patients treated with these regimens.\n\n      OUTLINE: This is a randomized, open-label, controlled, multicenter study. Patients are\n      stratified according to disease histology (epithelioid vs nonepithelioid) and CALGB groups\n      1-4. Patients are randomized to 1 of 2 treatment arms.\n\n        -  Arm I: Patients receive ranpirnase IV over 30 minutes weekly followed by doxorubicin\n           IV. Treatment repeats every 3 weeks for at least 6 courses in the absence of disease\n           progression. Patients demonstrating evidence of clinical response or stable disease may\n           continue on maintenance therapy with ranpirnase as a single agent until disease\n           progression.\n\n        -  Arm II: Patients receive doxorubicin as in arm I for up to 6 courses. Quality of life\n           is assessed.\n\n      PROJECTED ACCRUAL: A minimum of 300 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed malignant pleural or peritoneal mesothelioma\n\n               -  Measurable or evaluable disease\n\n          -  CALGB groups 1-4\n\n          -  No CNS metastases\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  21 and over\n\n        Performance status:\n\n          -  ECOG 0-1\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  WBC greater than 3,500/mm^3\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n        Hepatic:\n\n          -  SGOT no greater than 2 times upper limit of normal\n\n          -  Bilirubin no greater than 2 mg/dL\n\n          -  PT and PTT normal\n\n        Renal:\n\n          -  Creatinine normal\n\n        Cardiovascular:\n\n          -  No symptomatic New York Heart Association class II-IV cardiovascular disease\n\n          -  No congestive heart failure\n\n          -  No angina pectoris\n\n          -  No cardiac arrhythmias\n\n          -  No uncontrolled hypertension\n\n          -  No cerebrovascular disease\n\n        Metabolic:\n\n          -  No serum calcium, phosphate, electrolyte, or other metabolic abnormalities, such as\n             metabolic acidosis\n\n        Other:\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  No serious infection\n\n          -  No uncontrolled psychosis or neurologic disease (e.g., seizure disorders)\n\n          -  No uncontrolled diabetes mellitus\n\n          -  No other primary malignancy within the past 5 years except nonmelanoma skin cancer\n\n          -  No senility or emotional instability\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  No more than one prior systemic chemotherapy regimen\n\n          -  No prior doxorubicin\n\n          -  At least 6 weeks since prior chemotherapy\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  Prior radiotherapy for progressive or recurrent disease allowed except myocardium\n             radiotherapy\n\n        Surgery:\n\n          -  Prior surgical resection allowed"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003034", 
+            "org_study_id": "CDR0000065639", 
+            "secondary_id": [
+                "ALFACELL-P30-302", 
+                "NCI-V97-1273"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm I", 
+                    "Arm II"
+                ], 
+                "description": "Given IV", 
+                "intervention_name": "doxorubicin hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Arm I", 
+                "description": "Given IV", 
+                "intervention_name": "ranpirnase", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Doxorubicin", 
+                "Ranpirnase"
+            ]
+        }, 
+        "keyword": [
+            "localized malignant mesothelioma", 
+            "advanced malignant mesothelioma", 
+            "recurrent malignant mesothelioma"
+        ], 
+        "lastchanged_date": "November 5, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/ALFACELL-P30-302"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "South Bend", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46601"
+                    }, 
+                    "name": "CCOP - Northern Indiana CR Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Greenebaum Cancer Center at University of Maryland Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Rapids", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49503"
+                    }, 
+                    "name": "Spectrum Health Hospital - Butterworth Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duluth", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55805-1983"
+                    }, 
+                    "name": "CCOP - Duluth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Charles", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63301"
+                    }, 
+                    "name": "Missouri Cancer Care, PC at St. Joseph Health Center - St. Charles"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68114-4199"
+                    }, 
+                    "name": "Methodist Estabrook Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87131-5636"
+                    }, 
+                    "name": "University of New Mexico Cancer Research and Treatment Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gauting", 
+                        "country": "Germany", 
+                        "zip": "D-82131"
+                    }, 
+                    "name": "Asklepios Fachkliniken Muenchen-Gauting"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grosshansdorf", 
+                        "country": "Germany", 
+                        "zip": "D-22927"
+                    }, 
+                    "name": "Hospital Grosshansdorf"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "D-21075"
+                    }, 
+                    "name": "Asklepios Klinik Harburg"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "D-20099"
+                    }, 
+                    "name": "Asklepios Klinik St. Georg"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Munich", 
+                        "country": "Germany", 
+                        "zip": "D-81675"
+                    }, 
+                    "name": "Klinikum Rechts Der Isar - Technische Universitaet Muenchen"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Genoa", 
+                        "country": "Italy", 
+                        "zip": "16132"
+                    }, 
+                    "name": "Ospedale San Martino"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Genoa", 
+                        "country": "Italy", 
+                        "zip": "16132"
+                    }, 
+                    "name": "Istituto Nazionale per la Ricerca sul Cancro"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pavia", 
+                        "country": "Italy", 
+                        "zip": "27100"
+                    }, 
+                    "name": "Fondazione I.R.C.C.S. Policlinico San Matteo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gdansk", 
+                        "country": "Poland", 
+                        "zip": "80-211"
+                    }, 
+                    "name": "Medical University of Gdansk"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poznan", 
+                        "country": "Poland", 
+                        "zip": "PL-60 569"
+                    }, 
+                    "name": "University School of Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warsaw", 
+                        "country": "Poland", 
+                        "zip": "02-781"
+                    }, 
+                    "name": "Maria Sklodowska-Curie Memorial Cancer Center and Institute of Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zabrze", 
+                        "country": "Poland", 
+                        "zip": "41-803"
+                    }, 
+                    "name": "Klinika Chrorob Pluc I Gruzlicy"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Germany", 
+                "Italy", 
+                "Poland"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "ONCONASE Plus Doxorubicin Versus Doxorubicin For Patients With Malignant Pleural or Peritoneal Mesothelioma Who Have Had No More Than One Prior Chemotherapy Regimen", 
+        "overall_official": {
+            "affiliation": "Alfacell", 
+            "last_name": "Diane Scudiery", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "February 2008", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Survival", 
+            "safety_issue": "No"
+        }, 
+        "removed_countries": {
+            "country": [
+                "Mexico", 
+                "Australia", 
+                "Canada", 
+                "New Zealand", 
+                "Brazil"
+            ]
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003034"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Objective response", 
+                "safety_issue": "No"
+            }, 
+            {
+                "measure": "Time to best response", 
+                "safety_issue": "No"
+            }, 
+            {
+                "measure": "Response duration", 
+                "safety_issue": "No"
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Alfacell", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 1997", 
+        "study_design": "Allocation: Randomized, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2007"
+    }, 
+    "geocoordinates": {
+        "Asklepios Fachkliniken Muenchen-Gauting": "48.07 11.378", 
+        "Asklepios Klinik Harburg": "53.557 9.995", 
+        "Asklepios Klinik St. Georg": "53.557 9.995", 
+        "CCOP - Duluth": "46.787 -92.1", 
+        "CCOP - Northern Indiana CR Consortium": "41.683 -86.25", 
+        "Fondazione I.R.C.C.S. Policlinico San Matteo": "45.186 9.157", 
+        "Greenebaum Cancer Center at University of Maryland Medical Center": "39.29 -76.612", 
+        "Hospital Grosshansdorf": "53.651 10.273", 
+        "Istituto Nazionale per la Ricerca sul Cancro": "44.407 8.934", 
+        "Klinika Chrorob Pluc I Gruzlicy": "50.325 18.786", 
+        "Klinikum Rechts Der Isar - Technische Universitaet Muenchen": "48.145 11.558", 
+        "Maria Sklodowska-Curie Memorial Cancer Center and Institute of Oncology": "52.23 21.012", 
+        "Medical University of Gdansk": "54.352 18.647", 
+        "Methodist Estabrook Cancer Center": "41.252 -95.998", 
+        "Missouri Cancer Care, PC at St. Joseph Health Center - St. Charles": "38.783 -90.517", 
+        "Ospedale San Martino": "44.407 8.934", 
+        "Spectrum Health Hospital - Butterworth Campus": "42.963 -85.668", 
+        "University School of Medical Sciences": "52.406 16.925", 
+        "University of New Mexico Cancer Research and Treatment Center": "35.084 -106.651"
+    }
+}

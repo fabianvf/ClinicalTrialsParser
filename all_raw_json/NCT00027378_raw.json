@@ -1,0 +1,658 @@
+{
+    "clinical_study": {
+        "@rank": "131401", 
+        "acronym": "FIDAA", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "fluoxetine plus Treatment As Usual (TAU)"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "placebo plus Treatment As Usual (TAU)"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This is a large scale study involving fluoxetine (Prozac) versus a placebo in the treatment\n      of adolescents with alcohol use disorder (AUD) and major depression (MDD). All individuals\n      will receive treatment for 12 weeks with a followup phase lasting 9 months."
+        }, 
+        "brief_title": "Pharmacological Intervention Project (Fluoxetine)", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Subjects were treated with the medication fluoxetine (15 mg to 30 mg) plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                            "title": "Fluoxetine Plus Treatment As Usual (TAU)"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Subjects were treated with placbo plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                            "title": "Placebo Plus Treatment as Usual (TAU)"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "50"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "3"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "22"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "25"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "47"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": ".94", 
+                                                "@value": "19.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": ".91", 
+                                                "@value": "19.4"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": ".92", 
+                                                "@value": "19.4"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "16"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "28"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "22"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "26"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "50"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "Limited sample size; efficacy of CBT/MET Therapy", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_percent": "95", 
+                                "dispersion_type": "Standard Deviation", 
+                                "dispersion_value": "0.702", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Repeated measures ANOVA", 
+                                "method": "ANOVA", 
+                                "method_desc": "repeated measures", 
+                                "non_inferiority": "No", 
+                                "p_value": ".05", 
+                                "param_type": "Mean Difference (Final Values)", 
+                                "param_value": "0.39"
+                            }
+                        }, 
+                        "description": "Alcohol use behaviors measured by drinks per week.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Subjects were treated with the medication fluoxetine (15 mg to 30 mg) plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                                    "title": "Fluoxetine Plus Treatment As Usual (TAU)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Subjects were treated with placbo plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                                    "title": "Placebo Plus Treatment as Usual (TAU)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "24"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.44", 
+                                                        "@value": "1.56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.61", 
+                                                        "@value": "1.73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Alcohol use behaviors measured by drinks per week.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Alcohol Use Behaviors", 
+                                    "units": "standard drink (14 gr. alcohol)"
+                                }
+                            ]
+                        }, 
+                        "population": "Participants were randomized to either fluoxetine-treated or placebo.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Average number of drinks as recorded on the Timeline Follow-Back (subject-reported) measure daily over the 12-week acute phase.", 
+                        "title": "Alcohol Use Behaviors", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Beck Depression Inventory (BDI) Scores measured at Weeks 1-4, 6, 8, 10, 12.  The BDI is a subject reported measure that has a minimum score of 0 and a maximum score of 63.  A better outcome would consist of values near the minimum end of the scale (0) and a worse outcome would consist of values near the maximum end of the scale (63).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Subjects were treated with the medication fluoxetine (15 mg to 30 mg) plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                                    "title": "Fluoxetine Plus Treatment As Usual (TAU)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Subjects were treated with placbo plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                                    "title": "Placebo Plus Treatment as Usual (TAU)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "24"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "7.49", 
+                                                        "@value": "6.79"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "10.80", 
+                                                        "@value": "10.46"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Beck Depression Inventory (BDI) Scores measured at Weeks 1-4, 6, 8, 10, 12.  The BDI is a subject reported measure that has a minimum score of 0 and a maximum score of 63.  A better outcome would consist of values near the minimum end of the scale (0) and a worse outcome would consist of values near the maximum end of the scale (63).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Depressive Symptoms", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Average score as measured by participant's report on the Beck Depression Inventory (BDI).", 
+                        "title": "Depressive Symptoms", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Subjects were treated with the medication fluoxetine (15 mg to 30 mg) plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                            "title": "Fluoxetine Plus Treatment As Usual (TAU)"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Subjects were treated with placbo plus Treatment as Usual (TAU), which included Cognitive Behavioral Therapy and Motivational Enhancement Therapy (CBT/MET) psychotherapy.", 
+                            "title": "Placebo Plus Treatment as Usual (TAU)"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "3", 
+                                            "@group_id": "P2"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Physician Decision"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "24", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "26", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "24", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "23", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "3", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Exclusion:  bipolar disorder, schizoaffective disorder, schizophrenia, hyper-or hypothyroidism, cardiac, neurological, renal impairment, significant liver disease, received antipsychotic or antidepressant medication, substance abuse or dependence, intravenous drug use, pregnancy, inability or unwillingness to use contraceptive methods, illiteracy.", 
+                "recruitment_details": "This study was conducted at the Western Psychiatric Institute and Clinic (WPIC) of the University of Pittsburgh Medical Center (UPMC).  Subjects were recruited for participation in the treatment study through referrals from any of the WPIC treatment programs and by responding to newspaper, radio and bus advertisements."
+            }, 
+            "point_of_contact": {
+                "email": "corneliusjr@upmc.edu", 
+                "name_or_title": "Jack R. Cornelius, M.D., M.P.H.", 
+                "organization": "University of Pittsburgh", 
+                "phone": "412-246-5149"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Alcoholism", 
+            "Depression"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Alcoholism", 
+                "Depression", 
+                "Depressive Disorder"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Recently, the first large-scale double-blind, placebo-controlled study of a selective\n      serotonin reuptake inhibitor (SSRI) antidepressant in depressed adolescents was completed\n      (Emslie et al., 1997) That study demonstrated efficacy for fluoxetine in non-AUD adolescents\n      with major depressive disorder (MDD). Our own research group recently completed a first\n      double-blind, placebo-controlled study of fluoxetine in adults with comorbid MDD and alcohol\n      dependence (Cornelius et al., 1997). That study demonstrated efficacy for fluoxetine in\n      decreasing both the depressive symptoms and the alcohol use of adult depressed alcoholics.\n      Our own research group also recently completed a pilot study involving open label fluoxetine\n      in adolescents with comorbid AUD and MDD. That pilot study demonstrated within-group\n      efficacy for fluoxetine for decreasing both the drinking and the depressive symptoms of that\n      population, and suggested that fluoxetine is a safe medication in this population\n      (Cornelius, et al., In Press). However, to date, no double-blind, placebo-controlled study\n      of any selective serotonin re-uptake inhibitors (SSRI) medication has been conducted in\n      adolescents with a comorbid AUD and MDD. In this proposed study, a first large scale\n      prospective double-blind, placebo-controlled study will be undertaken involving the SSRI\n      medication fluoxetine versus placebo in the treatment of adolescents with an alcohol use\n      disorder and major depression (AUD/MDD).\n\n      The goals of the study include the following: 1) to compare the efficacy of the SSRI\n      medication fluoxetine plus Treatment As Usual (TAU) to placebo plus TAU for the alcohol use\n      and the depressive symptoms of an adolescent sample (ages 15 to 18) of subjects with\n      comorbid diagnoses of an AUD and MDD; 2) to assess specific predictors of medication\n      response in that study; and to perform a preliminary evaluation of the longer-term efficacy\n      of fluoxetine in these patients, in a 9-month naturalistic follow-up period beyond the 3\n      month acute phase study. We hypothesize that fluoxetine plus TAU will demonstrate efficacy\n      for decreasing both the drinking and the depressive symptoms of this population."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Meets criteria for alcohol use disorder and major depressive disorder.\n\n        Exclusion Criteria:\n\n          -  Meets criteria for bipolar disorder, schizoaffective disorder, or schizophrenia.\n\n          -  Hyper- or hypothyroidism, significant cardiac, neurologic, or renal impairment, and\n             those with significant liver disease.\n\n          -  Receiving antipsychotic or antidepressant medication in the month prior to entering\n             the study.\n\n          -  Use of any illicit substance abuse or dependence other than cannabis abuse (and\n             alcohol abuse).\n\n          -  History of intravenous drug use.\n\n          -  Pregnancy, inability or unwillingness to use contraceptive methods.\n\n          -  Inability to read or understand study forms\n\n          -  Less than 15 years of age or over 18 years of age will be excluded."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "20 Years", 
+            "minimum_age": "15 Years"
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 4, 2001", 
+        "firstreceived_results_date": "February 8, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00027378", 
+            "org_study_id": "NIAAACOR13370", 
+            "secondary_id": [
+                "R01AA015173", 
+                "R01AA013370", 
+                "AA-13370"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "1", 
+                "description": "fluoxetine plus Treatment As Usual (TAU); 12 weeks acute phase; plus 9 month naturalistic follow up", 
+                "intervention_name": "fluoxetine (Prozac)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "description": "placebo plus Treatment as Usual; 12 weeks acute phase; plus 9 month naturalistic follow up", 
+                "intervention_name": "Placebo plus Treatment As Usual", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Fluoxetine"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "fluoxetine,", 
+            "adolescents,", 
+            "alcohol dependence,", 
+            "major depression", 
+            "Alcoholism", 
+            "Major Depression"
+        ], 
+        "lastchanged_date": "June 17, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Pittsburgh", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "15213"
+                }, 
+                "name": "Western Psychiatric Institute and Clinic"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Pharmacological Intervention Project (Fluoxetine)", 
+        "overall_official": {
+            "affiliation": "Western Psychiatric Institute and Clinic Pittsburgh", 
+            "last_name": "Jack Cornelius, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2007", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Alcohol use behaviors measured by drinks per week.", 
+                "measure": "Alcohol Use Behaviors", 
+                "safety_issue": "No", 
+                "time_frame": "Average number of drinks as recorded on the Timeline Follow-Back (subject-reported) measure daily over the 12-week acute phase."
+            }, 
+            {
+                "description": "Beck Depression Inventory (BDI) Scores measured at Weeks 1-4, 6, 8, 10, 12.  The BDI is a subject reported measure that has a minimum score of 0 and a maximum score of 63.  A better outcome would consist of values near the minimum end of the scale (0) and a worse outcome would consist of values near the maximum end of the scale (63).", 
+                "measure": "Depressive Symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "Average score as measured by participant's report on the Beck Depression Inventory (BDI)."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00027378"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Pittsburgh", 
+            "investigator_full_name": "Jack Cornelius", 
+            "investigator_title": "Professor of Psychiatry", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "results_reference": {
+            "PMID": "19321268", 
+            "citation": "Cornelius JR, Bukstein OG, Wood DS, Kirisci L, Douaihy A, Clark DB. Double-blind placebo-controlled trial of fluoxetine in adolescents with comorbid major depression and an alcohol use disorder. Addict Behav. 2009 Oct;34(10):905-9. Epub 2009 Mar 12."
+        }, 
+        "source": "University of Pittsburgh", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pittsburgh", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }, 
+    "geocoordinates": {
+        "Western Psychiatric Institute and Clinic": "40.441 -79.996"
+    }
+}

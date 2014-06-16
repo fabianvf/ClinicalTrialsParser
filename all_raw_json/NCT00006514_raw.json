@@ -1,0 +1,79 @@
+{
+    "clinical_study": {
+        "@rank": "23621", 
+        "brief_summary": {
+            "textblock": "To statistically examine cardiovascular disease (CVD) risk in different populations based on\n      data from studies representing national samples, cohort studies, and clinical trials."
+        }, 
+        "brief_title": "Multivariate Risk of CVD in Diverse Populations", 
+        "completion_date": "August 2004", 
+        "condition": [
+            "Cardiovascular Diseases", 
+            "Heart Diseases"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Heart Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:\n\n      Several algorithms have been developed to calculate multivariate risk of CVD based on\n      characteristics associated with the disease. Framingham Heart Study data were used to\n      develop the original algorithms, along with later models, using different mathematical\n      forms,  outcomes, and characteristics. Researchers then began to investigate the issue of\n      generalizability, whether these risk estimates could be applied to new populations. For\n      these algorithms to have general application, they must be able to rank risk correctly. And,\n      when Framingham models were compared to new models developed for other studies, resulting\n      orderings of risk were, in fact, similar.\n\n      The ability to order risk correctly, however, does not imply that estimated probabilities\n      are right in terms of predicting disease for individuals. Methods are needed to assess\n      individual risk to make treatment decisions, do cost-benefit analyses, and quantify\n      benefits. These methods must be based on the patient's absolute risk, and existing equations\n      may be incapable of establishing absolute risk across populations.\n\n      Earlier comparisons of multivariate risk among studies have made comparison populations as\n      homogenous as possible before analysis. However, if multivariate risk estimates are to be\n      truly useful, they must be applicable to the general population, and to be applicable,\n      estimates must be based on comparisons of cohorts that include women and ethnic minorities.\n      Also, in statistical terms,  estimates must be robust enough to allow for minor shifts in\n      methodologies for data collection and endpoint definition.\n\n      DESIGN NARRATIVE:\n\n      The heterogeneity of multivariate risk in different populations was examined based on data\n      from studies representing national samples, cohort studies, and clinical trials. An analysis\n      of these studies was conducted that included both sexes, various risk profiles, and\n      representatives from several nationalities and ethnic groups. The pooled sample involved 20\n      studies,  233,833 participants, and over 47,000 deaths. Based on a common statistical\n      approach, proportional hazards models were developed for each study to relate a set of\n      essential characteristics to the prediction of CVD mortality. The characteristics included\n      body mass index, age, blood pressure, serum cholesterol, smoking, and diabetes status. The\n      models were then compared in terms of their ability to predict absolute risk of mortality\n      across studies.\n\n      Secondary analyses were conducted to discover factors associated with inaccurate prediction\n      and study characteristics associated with particular findings, such as interaction terms. An\n      empirical examination was conducted of methods for adding newly discovered risk factors to\n      existing prediction equations."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "No eligibility criteria"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "firstreceived_date": "November 20, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006514", 
+            "org_study_id": "950"
+        }, 
+        "lastchanged_date": "July 20, 2005", 
+        "overall_official": {
+            "affiliation": "Florida State University", 
+            "last_name": "Daniel McGee"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "reference": [
+            {
+                "PMID": "12885690", 
+                "citation": "Natarajan S, Liao Y, Cao G, Lipsitz SR, McGee DL. Sex differences in risk for coronary heart disease mortality associated with diabetes and established coronary heart disease. Arch Intern Med. 2003 Jul 28;163(14):1735-40."
+            }, 
+            {
+                "PMID": "15193906", 
+                "citation": "Diverse Populations Collaboration. Smoking, body weight, and CHD mortality in diverse populations. Prev Med. 2004 Jun;38(6):834-40."
+            }, 
+            {
+                "PMID": "15738373", 
+                "citation": "Natarajan S, Liao Y, Sinha D, Cao G, McGee DL, Lipsitz SR. Sex differences in the effect of diabetes duration on coronary heart disease mortality. Arch Intern Med. 2005 Feb 28;165(4):430-5."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006514"
+        }, 
+        "source": "National Heart, Lung, and Blood Institute (NHLBI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "September 2000", 
+        "study_design": "Observational Model: Natural History", 
+        "study_type": "Observational", 
+        "verification_date": "July 2005"
+    }, 
+    "geocoordinates": {}
+}

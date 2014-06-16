@@ -1,0 +1,593 @@
+{
+    "clinical_study": {
+        "@rank": "128025", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to find out how many children who are infected with HIV are\n      also infected with hepatitis C virus (HCV).\n\n      HCV infection is a major health concern. HIV-infected adults who are co-infected with HCV\n      appear to have more rapid HIV disease progression. There is little data on how widespread\n      HCV is among children who are HIV-infected. Information from this study will help determine\n      the need for future HCV studies. This study also will obtain blood samples for future\n      testing for other hepatitis viruses such as hepatitis G virus (HGV or GB virus C)."
+        }, 
+        "brief_title": "Prevalence of Hepatitis C Virus Infection in HIV-Infected Children", 
+        "completion_date": {
+            "#text": "July 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "HIV Infections", 
+            "Hepatitis C"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome", 
+                "Hepatitis", 
+                "Hepatitis A", 
+                "Hepatitis C"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "HCV infection is a major public health concern with worldwide seroprevalence estimated at 1\n      percent. HIV-infected adults co-infected with HCV appear to have accelerated HIV disease\n      progression. There is little data on HCV prevalence in the pediatric HIV-infected\n      population. This substudy will provide estimates of HCV prevalence among HIV-infected\n      children and determine the need for future HCV natural history and treatment protocols. In\n      addition, this substudy will archive samples from patients for future testing for other\n      hepatitis viruses such as hepatitis G virus (HGV or GB virus C).\n\n      Patients participating in PACTG 219C are selected randomly to enroll into PACTG P1028S.\n      Patients who agree to participate have a single blood draw for HCV antibody (Enzyme\n      Immunoassay-EIA) testing and HCV RNA (Polymerase Chain Reaction-PCR) testing. An additional\n      blood draw is necessary in the case of discordant results between the HCV EIA and HCV PCR.\n      HCV-negative patients have 1 study visit. Patients with positive HCV test results have 2\n      visits. Patients with discordant HCV test results have 2 or 3 visits."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this substudy if they:\n\n          -  Are between 1 year and 20 years of age.\n\n          -  Were infected with HIV from the mother at or around the time of birth.\n\n          -  Are enrolled in PACTG 219C.\n\n          -  Children known to be HCV-infected will be permitted to enter the substudy.\n\n        Exclusion Criteria\n\n        Patients may not be eligible for this substudy if they:\n\n          -  Have hemophilia.\n\n          -  Contracted HIV through a route other than from the mother around the time of birth."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "20 Years", 
+            "minimum_age": "1 Year"
+        }, 
+        "enrollment": "600", 
+        "firstreceived_date": "May 14, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00037076", 
+            "org_study_id": "PACTG P1028S", 
+            "secondary_id": "11657"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "HIV Seropositivity", 
+            "Hepatitis C", 
+            "Polymerase Chain Reaction", 
+            "RNA, Viral", 
+            "Prevalence", 
+            "Disease Transmission, Vertical", 
+            "Hepacivirus", 
+            "Enzyme Immunoassay", 
+            "GB virus C"
+        ], 
+        "lastchanged_date": "October 30, 2012", 
+        "link": {
+            "description": "Haga clic aqu\u00ed para ver informaci\u00f3n sobre este ensayo cl\u00ednico en espa\u00f1ol.", 
+            "url": "http://aidsinfo.nih.gov/clinicaltrials/htmltrials_sp.asp?an=1450"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "Univ of Alabama at Birmingham - Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85006"
+                    }, 
+                    "name": "Phoenix Childrens Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }, 
+                    "name": "Los Angeles County - USC Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609-1809"
+                    }, 
+                    "name": "Children's Hosp of Oakland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103"
+                    }, 
+                    "name": "Univ of California, San Diego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94143"
+                    }, 
+                    "name": "UCSF, Moffitt Hospital (Pediatric)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "802181088"
+                    }, 
+                    "name": "Children's Hosp of Denver"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Farmington", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06030"
+                    }, 
+                    "name": "Connecticut Childrens Med Ctr (Pediatric)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06504"
+                    }, 
+                    "name": "Yale Univ Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20060"
+                    }, 
+                    "name": "Howard Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33161"
+                    }, 
+                    "name": "Univ of Miami (Pediatric)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Augusta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30912"
+                    }, 
+                    "name": "Med College of Georgia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31901"
+                    }, 
+                    "name": "The Med Ctr Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60608"
+                    }, 
+                    "name": "Mt Sinai Hosp Med Ctr / Dept of Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "University of Illinois"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "The Univ of Chicago Children's Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "701122699"
+                    }, 
+                    "name": "Tulane Univ / Charity Hosp of New Orleans"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Univ of Maryland at Baltimore / Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287-4933"
+                    }, 
+                    "name": "Johns Hopkins Hosp - Pediatric"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01199"
+                    }, 
+                    "name": "Baystate Med Ctr of Springfield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "016550001"
+                    }, 
+                    "name": "Univ of Massachusetts Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Children's Hosp of Michigan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "071032714"
+                    }, 
+                    "name": "Univ of Medicine & Dentistry of New Jersey / Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11203"
+                    }, 
+                    "name": "Children's Hospital at SUNY Downstate"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia Presbyterian Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "146420001"
+                    }, 
+                    "name": "Univ of Rochester Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stony Brook", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "117948111"
+                    }, 
+                    "name": "State Univ of New York at Stony Brook"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "SUNY Health Sciences Ctr at Syracuse / Pediatrics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599"
+                    }, 
+                    "name": "Univ of North Carolina at Chapel Hill"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27705"
+                    }, 
+                    "name": "Duke University (Pediatric)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19134"
+                    }, 
+                    "name": "St. Christopher's Hosp for Children, Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Childrens Hosp of Philadelphia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "381052794"
+                    }, 
+                    "name": "Saint Jude Children's Research Hosp of Memphis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "372322581"
+                    }, 
+                    "name": "Vanderbilt Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "Children's Med Ctr of Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Texas Children's Hosp / Baylor Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "009367344"
+                    }, 
+                    "name": "San Juan City Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00936-5067"
+                    }, 
+                    "name": "Univ. of Puerto Rico, U. Children's Hospital AIDS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "Hepatitis C Prevalence in Perinatally Infected HIV-Positive Children Enrolled in PACTG 219C", 
+        "overall_official": {
+            "last_name": "Susan Schuval", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "reference": [
+            {
+                "PMID": "11176560", 
+                "citation": "Tajiri H, Miyoshi Y, Funada S, Etani Y, Abe J, Onodera T, Goto M, Funato M, Ida S, Noda C, Nakayama M, Okada S. Prospective study of mother-to-infant transmission of hepatitis C virus. Pediatr Infect Dis J. 2001 Jan;20(1):10-4."
+            }, 
+            {
+                "PMID": "11547740", 
+                "citation": "Tillmann HL, Heiken H, Knapik-Botor A, Heringlake S, Ockenga J, Wilber JC, Goergen B, Detmer J, McMorrow M, Stoll M, Schmidt RE, Manns MP. Infection with GB virus C and reduced mortality among HIV-infected patients. N Engl J Med. 2001 Sep 6;345(10):715-24."
+            }, 
+            {
+                "PMID": "11547739", 
+                "citation": "Xiang J, Wunschmann S, Diekema DJ, Klinzman D, Patrick KD, George SL, Stapleton JT. Effect of coinfection with GB virus C on survival among patients with HIV infection. N Engl J Med. 2001 Sep 6;345(10):707-14."
+            }, 
+            {
+                "PMID": "9563703", 
+                "citation": "Thomas SL, Newell ML, Peckham CS, Ades AE, Hall AJ. A review of hepatitis C virus (HCV) vertical transmission: risks of transmission to infants born to mothers with and without HCV viraemia or human immunodeficiency virus infection. Int J Epidemiol. 1998 Feb;27(1):108-17. Review."
+            }, 
+            {
+                "PMID": "9806033", 
+                "citation": "Papaevangelou V, Pollack H, Rochford G, Kokka R, Hou Z, Chernoff D, Hanna B, Krasinski K, Borkowsky W. Increased transmission of vertical hepatitis C virus (HCV) infection to human immunodeficiency virus (HIV)-infected infants of HIV- and HCV-coinfected women. J Infect Dis. 1998 Oct;178(4):1047-52."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00037076"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "October 2012"
+    }, 
+    "geocoordinates": {
+        "Baystate Med Ctr of Springfield": "42.101 -72.59", 
+        "Children's Hosp of Denver": "39.739 -104.985", 
+        "Children's Hosp of Michigan": "42.331 -83.046", 
+        "Children's Hosp of Oakland": "37.804 -122.271", 
+        "Children's Hospital at SUNY Downstate": "40.653 -73.959", 
+        "Children's Med Ctr of Dallas": "32.803 -96.77", 
+        "Childrens Hosp of Philadelphia": "39.952 -75.164", 
+        "Columbia Presbyterian Med Ctr": "40.714 -74.006", 
+        "Connecticut Childrens Med Ctr (Pediatric)": "41.728 -72.84", 
+        "Duke University (Pediatric)": "35.994 -78.899", 
+        "Howard Univ Hosp": "38.895 -77.036", 
+        "Johns Hopkins Hosp - Pediatric": "39.29 -76.612", 
+        "Los Angeles County - USC Med Ctr": "34.052 -118.244", 
+        "Med College of Georgia": "33.474 -82.01", 
+        "Mount Sinai Med Ctr": "40.714 -74.006", 
+        "Mt Sinai Hosp Med Ctr / Dept of Pediatrics": "41.878 -87.63", 
+        "Phoenix Childrens Hosp": "33.448 -112.074", 
+        "SUNY Health Sciences Ctr at Syracuse / Pediatrics": "43.048 -76.147", 
+        "Saint Jude Children's Research Hosp of Memphis": "35.15 -90.049", 
+        "San Juan City Hosp": "18.466 -66.106", 
+        "St. Christopher's Hosp for Children, Philadelphia": "39.952 -75.164", 
+        "State Univ of New York at Stony Brook": "40.926 -73.141", 
+        "Texas Children's Hosp / Baylor Univ": "29.76 -95.369", 
+        "The Med Ctr Inc": "32.461 -84.988", 
+        "The Univ of Chicago Children's Hosp": "41.878 -87.63", 
+        "Tulane Univ / Charity Hosp of New Orleans": "29.951 -90.072", 
+        "UCSF, Moffitt Hospital (Pediatric)": "37.775 -122.419", 
+        "Univ of Alabama at Birmingham - Pediatric": "33.521 -86.802", 
+        "Univ of California, San Diego": "32.715 -117.157", 
+        "Univ of Maryland at Baltimore / Univ Med Ctr": "39.29 -76.612", 
+        "Univ of Massachusetts Med School": "42.263 -71.802", 
+        "Univ of Medicine & Dentistry of New Jersey / Univ Hosp": "40.736 -74.172", 
+        "Univ of Miami (Pediatric)": "25.789 -80.226", 
+        "Univ of North Carolina at Chapel Hill": "35.913 -79.056", 
+        "Univ of Rochester Med Ctr": "43.161 -77.611", 
+        "Univ. of Puerto Rico, U. Children's Hospital AIDS": "18.466 -66.106", 
+        "University of Illinois": "41.878 -87.63", 
+        "Vanderbilt Univ Med Ctr": "36.166 -86.784", 
+        "Yale Univ Med School": "41.308 -72.928"
+    }
+}

@@ -1,0 +1,843 @@
+{
+    "clinical_study": {
+        "@rank": "112888", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the atazanavir and nelfinavir (NFV) treatments in\n      their ability to reduce viral load."
+        }, 
+        "brief_title": "A Comparison of Atazanavir and Nelfinavir, Each in Combination With 2 NRTIs, in Patients Who Have Failed Treatments Without a Protease Inhibitor", 
+        "completion_date": {
+            "#text": "April 2002", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "In this double-blind, double-placebo, randomized, 2-arm study, atazanavir and NFV each are\n      given in combination with 2 open-label nucleoside reverse transcriptase inhibitors (NRTIs)\n      over 48 weeks. Patients assigned to atazanavir will receive placebo capsules which are\n      identical in size and appearance to NFV. Patients assigned to NFV will receive placebo\n      capsules which are identical in size and appearance to atazanavir. HIV levels are monitored."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Have a viral load of 1000 or more copies/ml within 3 weeks before randomization. Have\n             a CD4 cell count of 50 or more cells/mm3 within 3 weeks prior to randomization.\n\n          -  Are at least 16 years old (or the minimum age by local requirements).\n\n          -  Have had more than 16 weeks of therapy with a non-nucleoside reverse transcriptase\n             inhibitor (NNRTI) and/or nucleoside reverse transcriptase inhibitor (NRTI).\n\n          -  Use effective barrier method of contraception.\n\n          -  Give written informed consent.\n\n          -  Are available for follow-up for at least 52 weeks.\n\n        Exclusion Criteria\n\n        Patients may not be eligible for this study if they:\n\n          -  Have used a protease inhibitor (PI) treatment for more than 7 days or within 30 days\n             prior to screening.\n\n          -  Have a newly-diagnosed HIV-related infection or any medical condition requiring\n             relatively short but intense therapy at the time of enrollment.\n\n          -  Have hepatitis in the 30 days before the study. Patients with long-term hepatitis are\n             eligible if their liver function meets certain requirements.\n\n          -  Are unable to demonstrate responsiveness to a provided NRTI.\n\n          -  Have had previous or expect a need for therapy with agents that may cause damage to\n             nerve tissue, the pancreas, the liver, bone marrow, or cells within 3 months of study\n             start.\n\n          -  Use too much alcohol or drugs to be able to follow the study therapy; or if they use\n             enough to increase the risk of developing pancreatitis or chemical hepatitis.\n\n          -  Have severe diarrhea within 30 days prior to study entry.\n\n          -  Are pregnant or breast-feeding.\n\n          -  Have a history of hemophilia.\n\n          -  Have history or signs of bilateral peripheral neuropathy.\n\n          -  Have cardiomyopathy.\n\n          -  Have certain heart problems.\n\n          -  Cannot tolerate oral medication.\n\n          -  Have any other problems that would interfere with the study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "16 Years"
+        }, 
+        "enrollment": "500", 
+        "firstreceived_date": "December 10, 2001", 
+        "id_info": {
+            "nct_id": "NCT00028067", 
+            "org_study_id": "302F", 
+            "secondary_id": "AI424-037"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Atazanavir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Nelfinavir mesylate", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Protease Inhibitors", 
+                "Nelfinavir", 
+                "Atazanavir", 
+                "HIV Protease Inhibitors", 
+                "Reverse Transcriptase Inhibitors"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Drug Therapy, Combination", 
+            "HIV Protease Inhibitors", 
+            "RNA, Viral", 
+            "Reverse Transcriptase Inhibitors", 
+            "Viral Load", 
+            "BMS 232632"
+        ], 
+        "lastchanged_date": "April 28, 2011", 
+        "link": [
+            {
+                "description": "BMS Clinical Trials Disclosure", 
+                "url": "http://ctr.bms.com/ctd/start.do"
+            }, 
+            {
+                "description": "For FDA Safety Alerts and Recalls refer to the following link www.fda.gov/MEDWATCH/safety.htm", 
+                "url": "http://www.fda.gov/MEDWATCH/safety.htm"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "Health for Life Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berkeley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94705"
+                    }, 
+                    "name": "East Bay AIDS Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fountain Valley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92708"
+                    }, 
+                    "name": "Orange County Ctr for Special Immunology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Tower Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95825"
+                    }, 
+                    "name": "Kaiser Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94114"
+                    }, 
+                    "name": "HIV Institute / Davies Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94118"
+                    }, 
+                    "name": "Kaiser Foundation Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Altamonte Springs", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32701"
+                    }, 
+                    "name": "IDC Research Initiative"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlantis", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33462"
+                    }, 
+                    "name": "Larry Bush"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bradenton", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34205"
+                    }, 
+                    "name": "Bach and Godofsky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33311"
+                    }, 
+                    "name": "North Broward Hosp District / HIV Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "Gary Richmond MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sarasota", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34239"
+                    }, 
+                    "name": "Infectious Diseases Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Infectious Disease Research Inst"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33607"
+                    }, 
+                    "name": "Daniel Seekins"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30309"
+                    }, 
+                    "name": "Philip Brachman"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Augusta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30912"
+                    }, 
+                    "name": "Med College of Georgia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Gen Hosp / Division of Infect Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Division of Inf Diseases/ Indiana Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane Univ School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brookline", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02445"
+                    }, 
+                    "name": "Community Research Initiative of New England"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01107"
+                    }, 
+                    "name": "CRI - Springfield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warren", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48089"
+                    }, 
+                    "name": "Infectious Disease Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63108"
+                    }, 
+                    "name": "Washington Univ School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Somers Point", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08244"
+                    }, 
+                    "name": "South Jersey Infectious Diseases Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Albert Einstein College of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10019"
+                    }, 
+                    "name": "Saint Luke's - Roosevelt Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10018"
+                    }, 
+                    "name": "Community Research Initiative on AIDS"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28232"
+                    }, 
+                    "name": "Carolinas Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hickory", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28602"
+                    }, 
+                    "name": "Piedmont Infectious Disease Consultants"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Huntersville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28078"
+                    }, 
+                    "name": "Jemsek Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest Univ School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44304"
+                    }, 
+                    "name": "Summa Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74114"
+                    }, 
+                    "name": "Associates in Med and Mental Health"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97209"
+                    }, 
+                    "name": "Research & Education Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19102"
+                    }, 
+                    "name": "Hahnemann Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29414"
+                    }, 
+                    "name": "Ludwig Lettau Private Practice"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29203"
+                    }, 
+                    "name": "Univ of South Carolina School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75208"
+                    }, 
+                    "name": "North Texas Center for AIDS & Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390"
+                    }, 
+                    "name": "Univ of Texas Southwestern Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77004"
+                    }, 
+                    "name": "Joseph Gathe"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Univ TX Health Science Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampton", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23666"
+                    }, 
+                    "name": "Hampton Roads Med Specialists"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53203"
+                    }, 
+                    "name": "Wisconsin AIDS Research Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "Canada", 
+                        "state": "British Columbia"
+                    }, 
+                    "name": "Downtown Infectious Diseases Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "McMaster Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Sunnybrook Health Science Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Clinique Medicale L'Actuele"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Clinique Medicale du Quartier Latin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Hospital Regional"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Instituto Nacional de Enfermedades Respiratorias"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Instituto Nacional de la Nutricion"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico City", 
+                        "country": "Mexico"
+                    }, 
+                    "name": "Hospital General De Mexico"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ponce", 
+                        "country": "Puerto Rico", 
+                        "zip": "00732"
+                    }, 
+                    "name": "Ponce School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santruce", 
+                        "country": "Puerto Rico", 
+                        "zip": "00909"
+                    }, 
+                    "name": "Hepatology / Infectious Diseases"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bangkok", 
+                        "country": "Thailand"
+                    }, 
+                    "name": "Program on AIDS / Thai Red Cross Society"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bangkok", 
+                        "country": "Thailand"
+                    }, 
+                    "name": "Siriraj Hosp / Mahidol Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bangkok", 
+                        "country": "Thailand"
+                    }, 
+                    "name": "Ramathibodi Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Khonkaen", 
+                        "country": "Thailand"
+                    }, 
+                    "name": "Khonkaen Univ"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada", 
+                "Mexico", 
+                "Puerto Rico", 
+                "Thailand"
+            ]
+        }, 
+        "official_title": "A Phase III Study Comparing the Antiviral Efficacy and Safety of Atazanavir With Nelfinavir: Each in Combination With Dual Nucleoside Therapy in HIV-Infected Subjects Who Have Failed a Regimen Not Containing a Protease Inhibitor", 
+        "overall_official": {
+            "last_name": "Michael Giordano", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "April 2002", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00028067"
+        }, 
+        "source": "Bristol-Myers Squibb", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bristol-Myers Squibb", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "August 2001", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2011"
+    }, 
+    "geocoordinates": {
+        "Albert Einstein College of Medicine": "40.85 -73.867", 
+        "Associates in Med and Mental Health": "36.154 -95.993", 
+        "Bach and Godofsky": "27.499 -82.575", 
+        "Beth Israel Deaconess Med Ctr": "42.358 -71.06", 
+        "CRI - Springfield": "42.101 -72.59", 
+        "Carolinas Med Ctr": "35.227 -80.843", 
+        "Clinique Medicale L'Actuele": "45.509 -73.554", 
+        "Clinique Medicale du Quartier Latin": "45.509 -73.554", 
+        "Community Research Initiative of New England": "42.332 -71.121", 
+        "Community Research Initiative on AIDS": "40.714 -74.006", 
+        "Cook County Gen Hosp / Division of Infect Diseases": "41.878 -87.63", 
+        "Daniel Seekins": "27.951 -82.457", 
+        "Division of Inf Diseases/ Indiana Univ Hosp": "39.769 -86.158", 
+        "Downtown Infectious Diseases Clinic": "49.261 -123.114", 
+        "East Bay AIDS Ctr": "37.872 -122.273", 
+        "Gary Richmond MD": "26.122 -80.143", 
+        "HIV Institute / Davies Med Ctr": "37.775 -122.419", 
+        "Hahnemann Univ Hosp": "39.952 -75.164", 
+        "Hampton Roads Med Specialists": "37.03 -76.345", 
+        "Health for Life Clinic": "34.746 -92.29", 
+        "Henry Ford Hosp": "42.331 -83.046", 
+        "Hepatology / Infectious Diseases": "18.441 -66.047", 
+        "Hospital General De Mexico": "19.433 -99.133", 
+        "Hospital Regional": "19.433 -99.133", 
+        "IDC Research Initiative": "28.661 -81.366", 
+        "Infectious Disease Clinic": "42.493 -83.028", 
+        "Infectious Disease Research Inst": "27.951 -82.457", 
+        "Infectious Diseases Associates": "27.336 -82.531", 
+        "Instituto Nacional de Enfermedades Respiratorias": "19.433 -99.133", 
+        "Instituto Nacional de la Nutricion": "19.433 -99.133", 
+        "Jemsek Clinic": "35.411 -80.843", 
+        "Joseph Gathe": "29.76 -95.369", 
+        "Kaiser Foundation Hospital": "37.775 -122.419", 
+        "Kaiser Hospital": "38.582 -121.494", 
+        "Khonkaen Univ": "17.89 102.762", 
+        "Larry Bush": "26.591 -80.101", 
+        "Ludwig Lettau Private Practice": "32.777 -79.931", 
+        "McMaster Univ Med Ctr": "43.244 -79.889", 
+        "Med College of Georgia": "33.474 -82.01", 
+        "Mount Sinai Med Ctr": "40.714 -74.006", 
+        "North Broward Hosp District / HIV Clinical Research": "26.122 -80.143", 
+        "North Texas Center for AIDS & Clinical Research": "32.803 -96.77", 
+        "Orange County Ctr for Special Immunology": "33.709 -117.954", 
+        "Philip Brachman": "33.749 -84.388", 
+        "Piedmont Infectious Disease Consultants": "35.733 -81.341", 
+        "Ponce School of Medicine": "18.011 -66.614", 
+        "Program on AIDS / Thai Red Cross Society": "13.82 100.665", 
+        "Ramathibodi Hosp": "13.82 100.665", 
+        "Research & Education Group": "45.523 -122.676", 
+        "Saint Luke's - Roosevelt Hosp Ctr": "40.714 -74.006", 
+        "Siriraj Hosp / Mahidol Univ": "13.82 100.665", 
+        "South Jersey Infectious Diseases Inc": "39.318 -74.595", 
+        "Summa Health System": "41.081 -81.519", 
+        "Sunnybrook Health Science Ctr": "43.653 -79.383", 
+        "Tower Infectious Diseases": "34.052 -118.244", 
+        "Tulane Univ School of Medicine": "29.951 -90.072", 
+        "Univ TX Health Science Ctr": "29.76 -95.369", 
+        "Univ of South Carolina School of Medicine": "34.001 -81.035", 
+        "Univ of Texas Southwestern Med Ctr": "32.803 -96.77", 
+        "Wake Forest Univ School of Medicine": "36.1 -80.244", 
+        "Washington Univ School of Medicine": "38.627 -90.199", 
+        "Wisconsin AIDS Research Consortium": "43.039 -87.906"
+    }
+}

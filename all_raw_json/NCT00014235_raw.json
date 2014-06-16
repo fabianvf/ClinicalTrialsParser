@@ -1,0 +1,529 @@
+{
+    "clinical_study": {
+        "@rank": "58987", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I (indolent disease)", 
+                "arm_group_type": "Experimental", 
+                "description": "CONDITIONING REGIMEN: Patients receive fludarabine phosphate IV on days -4 to -2 and undergo TBI on day 0.\nTRANSPLANTATION: Patients undergo donor PBSCT on day 0.\nIMMUNOSUPPRESSION: Patients receive cyclosporine PO BID or IV every 8-12 hours on days -3 to 56 with a taper to day 180 and mycophenolate mofetil PO BID or IV every 8-12 hours on days 0 to 27."
+            }, 
+            {
+                "arm_group_label": "Arm II (aggressive disease)", 
+                "arm_group_type": "Experimental", 
+                "description": "CONDITIONING REGIMEN: Patients receive fludarabine phosphate and undergo TBI as in Arm I.\nTRANSPLANTATION: Patients undergo donor PBSCT on day 0.\nIMMUNOSUPPRESSION: Patients receive cyclosporine PO BID or IV every 8-12 hours on days -3 to 56 with a taper to day 70 and mycophenolate mofetil as in Arm I."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This clinical trial studies fludarabine phosphate and total-body radiation followed by donor\n      peripheral blood stem cell transplant and immunosuppression in treating patients with\n      hematologic malignancies. Giving chemotherapy and total-body irradiation before a donor\n      peripheral blood stem cell transplant helps stop the growth of cancer cells. It may also\n      stop the patient's immune system from rejecting the donor's stem cells. When the healthy\n      stem cells from a donor are infused into the patient they may help the patient's bone marrow\n      make stem cells, red blood cells, white blood cells, and platelets. Sometimes the\n      transplanted cells from a donor can make an immune response against the body's normal cells.\n      Giving total-body irradiation together with fludarabine phosphate, cyclosporine, and\n      mycophenolate mofetil before transplant may stop this from happening."
+        }, 
+        "brief_title": "Fludarabine Phosphate and Total-Body Radiation Followed by Donor Peripheral Blood Stem Cell Transplant and Immunosuppression in Treating Patients With Hematologic Malignancies", 
+        "condition": [
+            "Acute Myeloid Leukemia/Transient Myeloproliferative Disorder", 
+            "Acute Undifferentiated Leukemia", 
+            "Adult Acute Lymphoblastic Leukemia in Remission", 
+            "Adult Acute Myeloid Leukemia in Remission", 
+            "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities", 
+            "Adult Acute Myeloid Leukemia With Del(5q)", 
+            "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)", 
+            "Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)", 
+            "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)", 
+            "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)", 
+            "Adult Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Anaplastic Large Cell Lymphoma", 
+            "Angioimmunoblastic T-cell Lymphoma", 
+            "Blastic Plasmacytoid Dendritic Cell Neoplasm", 
+            "Childhood Acute Lymphoblastic Leukemia in Remission", 
+            "Childhood Acute Myeloid Leukemia in Remission", 
+            "Childhood Burkitt Lymphoma", 
+            "Childhood Diffuse Large Cell Lymphoma", 
+            "Childhood Immunoblastic Large Cell Lymphoma", 
+            "Childhood Myelodysplastic Syndromes", 
+            "Childhood Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Chronic Myelomonocytic Leukemia", 
+            "Cutaneous B-cell Non-Hodgkin Lymphoma", 
+            "de Novo Myelodysplastic Syndromes", 
+            "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue", 
+            "Hepatosplenic T-cell Lymphoma", 
+            "Intraocular Lymphoma", 
+            "Juvenile Myelomonocytic Leukemia", 
+            "Mast Cell Leukemia", 
+            "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable", 
+            "Nodal Marginal Zone B-cell Lymphoma", 
+            "Noncutaneous Extranodal Lymphoma", 
+            "Peripheral T-cell Lymphoma", 
+            "Post-transplant Lymphoproliferative Disorder", 
+            "Previously Treated Myelodysplastic Syndromes", 
+            "Primary Systemic Amyloidosis", 
+            "Recurrent Adult Acute Lymphoblastic Leukemia", 
+            "Recurrent Adult Acute Myeloid Leukemia", 
+            "Recurrent Adult Burkitt Lymphoma", 
+            "Recurrent Adult Diffuse Large Cell Lymphoma", 
+            "Recurrent Adult Diffuse Mixed Cell Lymphoma", 
+            "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Recurrent Adult Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Adult Hodgkin Lymphoma", 
+            "Recurrent Adult Immunoblastic Large Cell Lymphoma", 
+            "Recurrent Adult Lymphoblastic Lymphoma", 
+            "Recurrent Adult T-cell Leukemia/Lymphoma", 
+            "Recurrent Childhood Acute Lymphoblastic Leukemia", 
+            "Recurrent Childhood Acute Myeloid Leukemia", 
+            "Recurrent Childhood Anaplastic Large Cell Lymphoma", 
+            "Recurrent Childhood Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Childhood Large Cell Lymphoma", 
+            "Recurrent Childhood Lymphoblastic Lymphoma", 
+            "Recurrent Childhood Small Noncleaved Cell Lymphoma", 
+            "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Recurrent Grade 1 Follicular Lymphoma", 
+            "Recurrent Grade 2 Follicular Lymphoma", 
+            "Recurrent Grade 3 Follicular Lymphoma", 
+            "Recurrent Mantle Cell Lymphoma", 
+            "Recurrent Marginal Zone Lymphoma", 
+            "Recurrent Mycosis Fungoides/Sezary Syndrome", 
+            "Recurrent Small Lymphocytic Lymphoma", 
+            "Recurrent/Refractory Childhood Hodgkin Lymphoma", 
+            "Refractory Chronic Lymphocytic Leukemia", 
+            "Refractory Hairy Cell Leukemia", 
+            "Refractory Multiple Myeloma", 
+            "Small Intestine Lymphoma", 
+            "Splenic Marginal Zone Lymphoma", 
+            "Stage II Multiple Myeloma", 
+            "Stage III Multiple Myeloma", 
+            "T-cell Large Granular Lymphocyte Leukemia", 
+            "Testicular Lymphoma", 
+            "Untreated Adult Acute Lymphoblastic Leukemia", 
+            "Untreated Adult Acute Myeloid Leukemia", 
+            "Untreated Childhood Acute Lymphoblastic Leukemia", 
+            "Untreated Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies", 
+            "Waldenstr\u00f6m Macroglobulinemia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Congenital Abnormalities", 
+                "Amyloidosis", 
+                "Burkitt Lymphoma", 
+                "Neoplasms", 
+                "Hodgkin Disease", 
+                "Immunoblastic Lymphadenopathy", 
+                "Leukemia", 
+                "Leukemia, Lymphocytic, Chronic, B-Cell", 
+                "Leukemia, Hairy Cell", 
+                "Leukemia, Lymphoid", 
+                "Precursor Cell Lymphoblastic Leukemia-Lymphoma", 
+                "Leukemia, Mast-Cell", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelomonocytic, Chronic", 
+                "Leukemia, T-Cell", 
+                "Leukemia-Lymphoma, Adult T-Cell", 
+                "Lymphoma", 
+                "Lymphoma, Follicular", 
+                "Lymphoma, Non-Hodgkin", 
+                "Lymphomatoid Granulomatosis", 
+                "Lymphoproliferative Disorders", 
+                "Waldenstrom Macroglobulinemia", 
+                "Multiple Myeloma", 
+                "Neoplasms, Plasma Cell", 
+                "Mycoses", 
+                "Mycosis Fungoides", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia", 
+                "Leukemia, Myelomonocytic, Acute", 
+                "Myeloproliferative Disorders", 
+                "Sezary Syndrome", 
+                "Lymphoma, B-Cell", 
+                "Lymphoma, Large B-Cell, Diffuse", 
+                "Lymphoma, Large-Cell, Immunoblastic", 
+                "Lymphoma, T-Cell", 
+                "Lymphoma, T-Cell, Cutaneous", 
+                "Lymphoma, T-Cell, Peripheral", 
+                "Lymphoma, Large-Cell, Anaplastic", 
+                "Lymphoma, B-Cell, Marginal Zone", 
+                "Lymphoma, Extranodal NK-T-Cell", 
+                "Lymphoma, Mantle-Cell", 
+                "Leukemia, Myelomonocytic, Juvenile", 
+                "Hematologic Neoplasms", 
+                "Myelodysplastic-Myeloproliferative Diseases", 
+                "Leukemia, Large Granular Lymphocytic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To estimate the rate of grade III/IV graft-versus-host disease (GVHD) in patients treated\n      with low-dose total body irradiation (TBI), fludarabine (fludarabine phosphate), PBSC\n      infusion and immunosuppression with mycophenolate mofetil and a disease risk-based\n      cyclosporine taper.\n\n      II. To estimate the risk of graft rejection, GVHD, disease response, non-relapse mortality\n      and the incidence and severity of infectious complications using this treatment strategy.\n\n      OUTLINE: Patients are assigned to 1 of 2 treatment groups.\n\n      ARM I (indolent disease):\n\n      CONDITIONING REGIMEN: Patients receive fludarabine phosphate intravenously (IV) on days -4\n      to -2 and undergo TBI on day 0.\n\n      TRANSPLANTATION: Patients undergo donor peripheral blood stem cell transplantation (PBSCT)\n      on day 0.\n\n      IMMUNOSUPPRESSION: Patients receive cyclosporine orally (PO) twice daily (BID) or IV every\n      8-12 hours on days -3 to 56 with a taper to day 180 and mycophenolate mofetil PO BID or IV\n      every 8-12 hours on days 0 to 27.\n\n      ARM II (aggressive disease):\n\n      CONDITIONING REGIMEN: Patients receive fludarabine phosphate and undergo TBI as in Arm I.\n\n      TRANSPLANTATION: Patients undergo donor PBSCT on day 0.\n\n      IMMUNOSUPPRESSION: Patients receive cyclosporine PO BID or IV every 8-12 hours on days -3 to\n      56 with a taper to day 70 and mycophenolate mofetil as in Arm I.\n\n      After completion of study treatment, patients are followed up for 5 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with non-Hodgkin lymphoma (NHL), chronic lymphocytic leukemia (CLL) or\n             multiple myeloma who are not eligible for a curative autologous transplantation or\n             who have received a prior autologous transplantation; patients with NHL or CLL must\n             have failed prior therapy with an alkylating agent and/or fludarabine, or be at high\n             risk of relapse; patients with multiple myeloma must have stage II or III disease and\n             received prior chemotherapy\n\n          -  Patients < 50 years of age with NHL, Hodgkin's disease (HD), CLL or multiple myeloma\n             at high risk of regimen related toxicity through prior autologous transplant or\n             through pre-existing medical conditions\n\n          -  Patients < 75 years of age with other malignant diseases treatable by allogeneic bone\n             marrow transplant (BMT) whom through pre-existing chronic disease affecting kidneys,\n             liver, lungs, and heart are considered to be at high risk for regimen related\n             toxicity using standard high dose regimens; the following diseases are the likely\n             candidates\n\n               -  Myelodysplastic syndromes\n\n               -  Myeloproliferative syndromes\n\n               -  Acute Leukemia with < 10% blasts\n\n               -  Amyloidosis\n\n               -  Hodgkin's disease\n\n          -  The Fred Hutchinson Cancer Research Center (FHCRC) Patient Care Conference (PCC) may\n             approve patients with other malignancies or patients declining standard allografts\n             for transplant following presentation and approval; centers outside the FHCRC that\n             have a PCC or equivalent should obtain their Institutional approval; if there is not\n             a comparable group at the Institution, please contact the FHCRC Principal\n             Investigator for FHCRC approval through PCC\n\n          -  DONOR: Human leukocyte antigen (HLA) genotypically or phenotypically identical\n             related donor\n\n          -  DONOR: Donor must consent to filgrastim (G-CSF) administration and leukapheresis\n\n          -  DONOR: Donor must have adequate veins for leukapheresis or agree to placement of\n             central venous catheter (femoral, subclavian)\n\n        Exclusion Criteria:\n\n          -  Eligible for a high-priority curative autologous transplant\n\n          -  Patients with rapidly progressive aggressive NHL unless in minimal disease state\n\n          -  Any current central nervous system (CNS) involvement with disease\n\n          -  Fertile men or women unwilling to use contraceptive techniques during and for 12\n             months following treatment\n\n          -  Females who are pregnant\n\n          -  Patients who are human immunodeficiency virus (HIV) positive\n\n          -  Cardiac ejection fraction < 40%; ejection fraction is required if the patient has a\n             history of anthracyclines or history of cardiac disease\n\n          -  Receiving supplementary continuous oxygen\n\n          -  Diffusing capacity of the lung for carbon monoxide (DLCO) < 30%\n\n          -  Total lung capacity (TLC) < 30%\n\n          -  Forced expiratory volume in one second (FEV1) < 30%\n\n          -  Total bilirubin > 2x the upper limit of normal\n\n          -  Serum glutamate pyruvate transaminase (SGPT) and serum glutamic oxaloacetic\n             transaminase (SGOT) 4x the upper limit of normal\n\n          -  Karnofsky score < 50\n\n          -  Patients with poorly controlled hypertension who are unable to have blood pressure\n             kept below 150/90 on standard medication\n\n          -  Patients with renal failure are eligible, however patients with renal compromise\n             (serum creatinine greater than 2.0) will likely have further compromise in renal\n             function and may require hemodialysis (which may be permanent) due to the need to\n             maintain adequate serum cyclosporine levels\n\n          -  The addition of cytotoxic agents for \"cytoreduction\" with the exception of\n             hydroxyurea and imatinib mesylate will not be allowed within two weeks of the\n             initiation of conditioning\n\n          -  DONOR: Identical twin\n\n          -  DONOR: Age less than 12 years\n\n          -  DONOR: Pregnancy\n\n          -  DONOR: Infection with HIV\n\n          -  DONOR: Inability to achieve adequate venous access\n\n          -  DONOR: Known allergy to G-CSF\n\n          -  DONOR: Current serious systemic illness"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "74 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "160", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 10, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00014235", 
+            "org_study_id": "1596.00", 
+            "secondary_id": [
+                "NCI-2012-00671", 
+                "1596.00", 
+                "P30CA015704"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Given IV", 
+                "intervention_name": "fludarabine phosphate", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "2-F-ara-AMP", 
+                    "Beneflur", 
+                    "Fludara"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Undergo TBI", 
+                "intervention_name": "total-body irradiation", 
+                "intervention_type": "Radiation", 
+                "other_name": "TBI"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Undergo PBSCT", 
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure", 
+                "other_name": [
+                    "PBPC transplantation", 
+                    "PBSC transplantation", 
+                    "peripheral blood progenitor cell transplantation", 
+                    "transplantation, peripheral blood stem cell"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Undergo PBSCT", 
+                "intervention_name": "allogeneic hematopoietic stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Given PO or IV", 
+                "intervention_name": "cyclosporine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "ciclosporin", 
+                    "cyclosporin", 
+                    "cyclosporin A", 
+                    "CYSP", 
+                    "Sandimmune"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Given IV or PO", 
+                "intervention_name": "mycophenolate mofetil", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Cellcept", 
+                    "MMF"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (indolent disease)", 
+                    "Arm II (aggressive disease)"
+                ], 
+                "description": "Correlative studies", 
+                "intervention_name": "laboratory biomarker analysis", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cyclosporins", 
+                "Cyclosporine", 
+                "Mycophenolic Acid", 
+                "Mycophenolate mofetil", 
+                "Fludarabine monophosphate", 
+                "Vidarabine", 
+                "Fludarabine"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "December 30, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85724"
+                    }, 
+                    "name": "University of Arizona Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }, 
+                    "name": "City of Hope Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }, 
+                    "name": "Stanford University Hospitals and Clinics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97239"
+                    }, 
+                    "name": "OHSU Knight Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75246"
+                    }, 
+                    "name": "Baylor University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84112"
+                    }, 
+                    "name": "Huntsman Cancer Institute/University of Utah"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84143"
+                    }, 
+                    "name": "LDS Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109"
+                    }, 
+                    "name": "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226-3596"
+                    }, 
+                    "name": "Froedtert Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leipzig", 
+                        "country": "Germany", 
+                        "zip": "D-04103"
+                    }, 
+                    "name": "Universitaet Leipzig"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "University of Torino"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Germany", 
+                "Italy"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Nonmyeloablative PBSC Allografting From HLA Matched Related Donors Using Fludarabine and/or Low Dose TBI With Disease-Risk Based Immunosuppression", 
+        "overall_official": {
+            "affiliation": "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium", 
+            "last_name": "David Maloney", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "95% confidence interval will be calculated.", 
+                "measure": "Probability of severe (grade III/IV) GVHD in each arm", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to day 84"
+            }, 
+            {
+                "description": "95% confidence intervals will be calculated.", 
+                "measure": "Probability of severe (grade III/IV) GVHD in each arm", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 5 years"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00014235"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Chimerism analysis by fluorescent in situ hybridization (FISH) or variable number tandem repeat (VNTR). Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of graft rejection", 
+                "safety_issue": "No", 
+                "time_frame": "Day 28"
+            }, 
+            {
+                "description": "Chimerism analysis by FISH or VNTR. Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of graft rejection", 
+                "safety_issue": "No", 
+                "time_frame": "Day 56"
+            }, 
+            {
+                "description": "Chimerism analysis by FISH or VNTR. Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of graft rejection", 
+                "safety_issue": "No", 
+                "time_frame": "Day 84"
+            }, 
+            {
+                "description": "Chimerism analysis by FISH or VNTR. Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of graft rejection", 
+                "safety_issue": "No", 
+                "time_frame": "Day 180"
+            }, 
+            {
+                "description": "Chimerism analysis by FISH or VNTR. Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of graft rejection", 
+                "safety_issue": "No", 
+                "time_frame": "Day 365"
+            }, 
+            {
+                "description": "Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of non-relapse mortality", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 5 years"
+            }, 
+            {
+                "description": "Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Incidence of infectious complications", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 5 years"
+            }, 
+            {
+                "description": "Examined and reported in a descriptive manner. Confidence intervals will be presented.", 
+                "measure": "Severity of infectious complications", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 5 years"
+            }
+        ], 
+        "source": "Fred Hutchinson Cancer Research Center", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Fred Hutchinson Cancer Research Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2000", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }, 
+    "geocoordinates": {
+        "Baylor University Medical Center": "32.803 -96.77", 
+        "City of Hope Medical Center": "34.139 -117.977", 
+        "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium": "47.606 -122.332", 
+        "Froedtert Hospital": "43.039 -87.906", 
+        "Huntsman Cancer Institute/University of Utah": "40.761 -111.891", 
+        "LDS Hospital": "40.761 -111.891", 
+        "OHSU Knight Cancer Institute": "45.523 -122.676", 
+        "Stanford University Hospitals and Clinics": "37.429 -122.169", 
+        "Universitaet Leipzig": "51.349 12.394", 
+        "University of Arizona Health Sciences Center": "32.222 -110.926", 
+        "University of Torino": "45.071 7.684"
+    }
+}

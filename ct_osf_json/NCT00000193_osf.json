@@ -1,4 +1,10 @@
 {
+    "components": [
+        {
+            "description": null, 
+            "title": "MetaData"
+        }
+    ], 
     "contributors": [
         {
             "affiliation": "VA Connecticut Healthcare System", 
@@ -7,14 +13,26 @@
             "role": "Principal Investigator"
         }
     ], 
+    "current_status": "Withdrawn", 
     "date_processed": "June 05, 2014", 
     "description": "\n      The purpose of this study is to evaluate the effects of gamma hydroxybutyric on\n      naloxone-precipitated opiate withdrawal.\n    ", 
     "files": [
         "../ct_xml/NCT00000193.xml", 
         "../ct_raw_json/NCT00000193_raw.json"
     ], 
+    "geo_data": [
+        {
+            "city": "New Haven", 
+            "country": "United States", 
+            "name": "VA Connecticut Healthcare System", 
+            "state": "Connecticut", 
+            "zip": "06519"
+        }
+    ], 
+    "id": "NCT00000193", 
     "imported_from": "clinicaltrials.gov", 
-    "raw": "{\n    \"clinical_study\": {\n        \"@rank\": \"1\", \n        \"brief_summary\": {\n            \"textblock\": \"The purpose of this study is to evaluate the effects of gamma hydroxybutyric on\\n      naloxone-precipitated opiate withdrawal.\"\n        }, \n        \"brief_title\": \"Neurobiology of Opioid Dependence: 2 - 2\", \n        \"completion_date\": {\n            \"#text\": \"January 1998\", \n            \"@type\": \"Actual\"\n        }, \n        \"condition\": \"Opioid-Related Disorders\", \n        \"condition_browse\": {\n            \"mesh_term\": \"Opioid-Related Disorders\"\n        }, \n        \"eligibility\": {\n            \"criteria\": {\n                \"textblock\": \"Please contact site for information.\"\n            }, \n            \"gender\": \"Male\", \n            \"healthy_volunteers\": \"No\", \n            \"maximum_age\": \"N/A\", \n            \"minimum_age\": \"N/A\"\n        }, \n        \"enrollment\": {\n            \"#text\": \"0\", \n            \"@type\": \"Actual\"\n        }, \n        \"firstreceived_date\": \"September 20, 1999\", \n        \"has_expanded_access\": \"No\", \n        \"id_info\": {\n            \"nct_id\": \"NCT00000193\", \n            \"org_study_id\": \"NIDA-00191-2\", \n            \"secondary_id\": [\n                \"K20DA000191\", \n                \"K20-00191-2\"\n            ]\n        }, \n        \"intervention\": {\n            \"intervention_name\": \"Gamma hydroxybutyric\", \n            \"intervention_type\": \"Drug\"\n        }, \n        \"intervention_browse\": {\n            \"mesh_term\": \"Analgesics, Opioid\"\n        }, \n        \"lastchanged_date\": \"September 26, 2013\", \n        \"location\": {\n            \"facility\": {\n                \"address\": {\n                    \"city\": \"New Haven\", \n                    \"country\": \"United States\", \n                    \"state\": \"Connecticut\", \n                    \"zip\": \"06519\"\n                }, \n                \"name\": \"VA Connecticut Healthcare System\"\n            }\n        }, \n        \"location_countries\": {\n            \"country\": \"United States\"\n        }, \n        \"official_title\": \"Neurobiology of Opioid Dependence: 2\", \n        \"overall_official\": {\n            \"affiliation\": \"VA Connecticut Healthcare System\", \n            \"last_name\": \"Marc I Rosen, M.D.\", \n            \"role\": \"Principal Investigator\"\n        }, \n        \"overall_status\": \"Withdrawn\", \n        \"oversight_info\": {\n            \"authority\": \"United States: Federal Government\"\n        }, \n        \"phase\": \"Phase 2\", \n        \"primary_completion_date\": {\n            \"#text\": \"January 1998\", \n            \"@type\": \"Actual\"\n        }, \n        \"primary_outcome\": [\n            {\n                \"measure\": \"Behavioral, subjective, measures of naloxone-preci\"\n            }, \n            {\n                \"measure\": \"Phsyiological, neuroendocrine measures of naloxone\"\n            }\n        ], \n        \"required_header\": {\n            \"download_date\": \"ClinicalTrials.gov processed this data on June 05, 2014\", \n            \"link_text\": \"Link to the current ClinicalTrials.gov record.\", \n            \"url\": \"http://clinicaltrials.gov/show/NCT00000193\"\n        }, \n        \"responsible_party\": {\n            \"responsible_party_type\": \"Sponsor\"\n        }, \n        \"source\": \"Yale University\", \n        \"sponsors\": {\n            \"collaborator\": {\n                \"agency\": \"National Institute on Drug Abuse (NIDA)\", \n                \"agency_class\": \"NIH\"\n            }, \n            \"lead_sponsor\": {\n                \"agency\": \"Yale University\", \n                \"agency_class\": \"Other\"\n            }\n        }, \n        \"start_date\": \"January 1993\", \n        \"study_design\": \"Masking: Double-Blind, Primary Purpose: Treatment\", \n        \"study_type\": \"Interventional\", \n        \"verification_date\": \"September 2013\"\n    }\n}", 
+    "phase": "Phase 2", 
+    "references": [], 
     "tags": [
         "clinicaltrials.gov", 
         "clinical trial"

@@ -1,0 +1,420 @@
+{
+    "clinical_study": {
+        "@rank": "5124", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining chemotherapy with peripheral stem cell transplant may\n      allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\n      PURPOSE: This phase II trial is studying how well chemotherapy followed by surgery and\n      radiation therapy with or without stem cell transplant work in treating patients with\n      relapsed or refractory Wilms' tumor or clear cell sarcoma of the kidney."
+        }, 
+        "brief_title": "Chemotherapy Followed by Surgery and Radiation Therapy With or Without Stem Cell Transplant in Treating Patients With Relapsed or Refractory Wilms' Tumor or Clear Cell Sarcoma of the Kidney", 
+        "condition": "Kidney Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Renal Cell", 
+                "Kidney Neoplasms", 
+                "Wilms Tumor", 
+                "Sarcoma, Clear Cell", 
+                "Sarcoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine survival rates of patients with relapsed or refractory Wilms' tumor or clear\n           cell sarcoma of the kidney treated with chemotherapy followed by surgical resection and\n           adjuvant radiotherapy with or without autologous stem cell rescue.\n\n        -  Determine the efficacy and toxicity of these regimens in these patients.\n\n        -  Determine prognostic variables in patients treated with these regimens.\n\n      OUTLINE: Patients are assigned to one of three treatment regimens.\n\n        -  Regimen A (patients with initial stage I tumors previously treated with vincristine\n           with or without dactinomycin with relapse at least 6 months after diagnosis): Patients\n           receive vincristine IV once weekly on weeks 1-10 and then every 3 weeks during weeks\n           11-52, dactinomycin IV every 3 weeks during weeks 1-52, and doxorubicin IV over 6 hours\n           every 3 weeks during weeks 1-34 (weeks 1-28 if pulmonary radiotherapy is planned).\n           Patients undergo surgical resection and radiotherapy after 6 weeks of therapy.\n\n        -  Regimen B (patients with initial stage II tumors previously treated with vincristine\n           and dactinomycin with relapse at least 6 months after diagnosis): Patients receive\n           cyclophosphamide IV twice daily on days 1-2 and 22-23, etoposide IV over 1 hour on days\n           1-3, and doxorubicin IV over 6 hours on days 22 and 23. Treatment repeats every 42 days\n           for a total of 4 courses. Patients undergo surgical resection and radiotherapy after 2\n           courses of chemotherapy. Patients not achieving complete response after 4 courses of\n           chemotherapy undergo autologous bone marrow transplantation as in regimen C.\n\n        -  Regimen C (all other patients in first relapses OR with progression on first-line\n           therapy OR in second or subsequent relapse previously treated on regimens A and B):\n           Patients receive carboplatin IV over 1 hour on day 1, etoposide IV over 2 hours on days\n           1-3 and 22-24, and cyclophosphamide IV twice daily on days 22 and 23. Treatment repeats\n           every 42 days for a total of 3 courses. Patients may undergo surgical resection prior\n           to stem cell rescue. Beginning within 6 weeks after completion of chemotherapy,\n           patients receive melphalan IV on day -1. Autologous peripheral blood stem cells or bone\n           marrow is reinfused on day 0. Patients undergo radiotherapy after transplantation.\n\n      Patients are followed every 8 weeks for 1 year, every 12 weeks for 1 year, and then every 6\n      months thereafter.\n\n      PROJECTED ACCRUAL: Approximately 75 patients (25 for regimens A and B and 50 for regimen C)\n      will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Diagnosis of Wilms' tumor or clear cell sarcoma of the kidney, meeting 1 of the\n             following criteria:\n\n               -  First relapse\n\n               -  Refractory (progression during first-line therapy)\n\n          -  Patients in second and subsequent relapses allowed if previously treated with\n             vincristine, dactinomycin, and doxorubicin combination chemotherapy (VCR/DACT/DOX)\n\n          -  Metachronous tumors in the contralateral kidney allowed if previously treated with\n             VCR/DACT/DOX\n\n          -  No rhabdoid tumor of the kidney\n\n          -  Previously treated on UK Wilms' tumor study\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  Under 18\n\n        Performance status:\n\n          -  Not specified\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Not specified\n\n        Hepatic:\n\n          -  Not specified\n\n        Renal:\n\n          -  Not specified\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy\n\n          -  Not specified\n\n        Chemotherapy\n\n          -  See Disease Characteristics\n\n        Endocrine therapy\n\n          -  Not specified\n\n        Radiotherapy\n\n          -  Not specified\n\n        Surgery\n\n          -  Not specified\n\n        Other\n\n          -  See Disease Characteristics"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "17 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "75", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 11, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00025103", 
+            "org_study_id": "CCLG-UKWR", 
+            "secondary_id": [
+                "CDR0000068913", 
+                "EU-20127"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "dactinomycin", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "carboplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "doxorubicin hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "melphalan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "vincristine sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "autologous bone marrow transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "conventional surgery", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Dactinomycin", 
+                "Doxorubicin", 
+                "Cyclophosphamide", 
+                "Etoposide", 
+                "Melphalan", 
+                "Vincristine", 
+                "Carboplatin"
+            ]
+        }, 
+        "keyword": [
+            "recurrent Wilms tumor and other childhood kidney tumors", 
+            "clear cell sarcoma of the kidney"
+        ], 
+        "lastchanged_date": "August 1, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/CCLG-UKWR"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dublin", 
+                        "country": "Ireland", 
+                        "zip": "12"
+                    }, 
+                    "name": "Our Lady's Hospital for Sick Children Crumlin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "B4 6NH"
+                    }, 
+                    "name": "Birmingham Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bristol", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "BS2 8BJ"
+                    }, 
+                    "name": "Bristol Royal Hospital for Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cambridge", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "CB2 2QQ"
+                    }, 
+                    "name": "Addenbrooke's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leeds", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "LS9 7TF"
+                    }, 
+                    "name": "Leeds Cancer Centre at St. James's University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leicester", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "LE1 5WW"
+                    }, 
+                    "name": "Leicester Royal Infirmary"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liverpool", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "L12 2AP"
+                    }, 
+                    "name": "Royal Liverpool Children's Hospital, Alder Hey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "WC1N 3JH"
+                    }, 
+                    "name": "Great Ormond Street Hospital for Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "WIT 3AA"
+                    }, 
+                    "name": "University College of London Hospitals"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "EC1A 7BE"
+                    }, 
+                    "name": "Saint Bartholomew's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "M27 4HA"
+                    }, 
+                    "name": "Royal Manchester Children's Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newcastle-Upon-Tyne", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "NE7 7DN"
+                    }, 
+                    "name": "Newcastle Upon Tyne Hospitals NHS Trust"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nottingham", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "NG7 2UH"
+                    }, 
+                    "name": "Queen's Medical Centre"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oxford", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "0X3 9DU"
+                    }, 
+                    "name": "Oxford Radcliffe Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sheffield", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "S10 2TH"
+                    }, 
+                    "name": "Children's Hospital - Sheffield"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Southampton", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SO16 6YD"
+                    }, 
+                    "name": "Southampton General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sutton", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SM2 5PT"
+                    }, 
+                    "name": "Royal Marsden - Surrey"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Belfast", 
+                        "country": "United Kingdom", 
+                        "state": "Northern Ireland", 
+                        "zip": "BT12 6BE"
+                    }, 
+                    "name": "Royal Belfast Hospital for Sick Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aberdeen", 
+                        "country": "United Kingdom", 
+                        "state": "Scotland", 
+                        "zip": "AB25 2ZN"
+                    }, 
+                    "name": "Aberdeen Royal Infirmary"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edinburgh", 
+                        "country": "United Kingdom", 
+                        "state": "Scotland", 
+                        "zip": "EH9 1LF"
+                    }, 
+                    "name": "Royal Hospital for Sick Children"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glasgow", 
+                        "country": "United Kingdom", 
+                        "state": "Scotland", 
+                        "zip": "G3 8SJ"
+                    }, 
+                    "name": "Royal Hospital for Sick Children"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Ireland", 
+                "United Kingdom"
+            ]
+        }, 
+        "official_title": "Protocol For The Treatment Of Relapsed And Refractory Wilms Tumour And Clear Cell Sarcoma Of The Kidney (CCSK)", 
+        "overall_official": {
+            "affiliation": "Newcastle-upon-Tyne Hospitals NHS Trust", 
+            "last_name": "Juliet Hale, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "November 2008", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Unified treatment strategy", 
+                "safety_issue": "No"
+            }, 
+            {
+                "measure": "Improvement of current survival rates", 
+                "safety_issue": "No"
+            }, 
+            {
+                "measure": "Efficacy and toxicity", 
+                "safety_issue": "Yes"
+            }, 
+            {
+                "measure": "Prognostic variables", 
+                "safety_issue": "No"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00025103"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Children's Cancer and Leukaemia Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2001", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2009"
+    }, 
+    "geocoordinates": {
+        "Aberdeen Royal Infirmary": "57.15 -2.094", 
+        "Addenbrooke's Hospital": "52.205 0.122", 
+        "Birmingham Children's Hospital": "52.486 -1.89", 
+        "Bristol Royal Hospital for Children": "51.455 -2.588", 
+        "Children's Hospital - Sheffield": "53.381 -1.47", 
+        "Great Ormond Street Hospital for Children": "51.508 -0.128", 
+        "Leeds Cancer Centre at St. James's University Hospital": "53.801 -1.549", 
+        "Leicester Royal Infirmary": "52.637 -1.14", 
+        "Newcastle Upon Tyne Hospitals NHS Trust": "54.978 -1.618", 
+        "Our Lady's Hospital for Sick Children Crumlin": "53.344 -6.267", 
+        "Oxford Radcliffe Hospital": "51.752 -1.255", 
+        "Queen's Medical Centre": "52.955 -1.158", 
+        "Royal Belfast Hospital for Sick Children": "54.597 -5.934", 
+        "Royal Hospital for Sick Children": "55.864 -4.252", 
+        "Royal Liverpool Children's Hospital, Alder Hey": "53.412 -2.99", 
+        "Royal Manchester Children's Hospital": "53.479 -2.248", 
+        "Royal Marsden - Surrey": "51.361 -0.194", 
+        "Saint Bartholomew's Hospital": "51.508 -0.128", 
+        "Southampton General Hospital": "50.91 -1.404", 
+        "University College of London Hospitals": "51.508 -0.128"
+    }
+}

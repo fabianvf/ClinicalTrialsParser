@@ -1,0 +1,194 @@
+{
+    "clinical_study": {
+        "@rank": "122950", 
+        "arm_group": {
+            "arm_group_label": "surgery with INGN 201 followed by chemo/RT", 
+            "arm_group_type": "Experimental", 
+            "description": "intraoperative and postoperative injections of INGN 201 into the tumor bed, followed by cisplatin and radiation therapy"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Inserting the p53 gene into a person's cancer cells may improve the body's\n      ability to fight cancer. Drugs used in chemotherapy use different ways to stop tumor cells\n      from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to\n      damage tumor cells. Combining chemotherapy and radiation therapy with the p53 gene may kill\n      more tumor cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of gene therapy plus surgery followed by\n      cisplatin and radiation therapy in treating patients who have newly diagnosed resectable\n      stage III or stage IV cancer of the mouth or throat."
+        }, 
+        "brief_title": "S0011, Gene Therapy & Surgery Followed by Chemo & RT in Newly Diagnosed Cancer of the Mouth or Throat", 
+        "completion_date": {
+            "#text": "July 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Head and Neck Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Squamous Cell", 
+                "Head and Neck Neoplasms", 
+                "Mouth Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the feasibility of treating patients with newly diagnosed resectable stage\n           III or IV squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx, or\n           larynx with surgery and Ad5CMV-p53 gene followed by cisplatin and radiotherapy.\n\n        -  Determine the progression-free survival, local control, and overall survival of\n           patients treated with this regimen.\n\n        -  Determine the toxicity of this regimen in this patient population.\n\n      OUTLINE: This is a multicenter study.\n\n      Patients undergo surgical resection and receive an intraoperative Ad5CMV-p53 gene injection\n      into the resection bed and into the deep soft tissue bed of the cervical level with nodal\n      metastasis. Patients also receive a third intraoperative Ad5CMV-p53 gene injection into the\n      neck dissection bed, where it is allowed to sit in place for 10 minutes.\n\n      Within 48-72 hours after surgery, patients receive a postoperative Ad5CMV-p53 gene injection\n      into each of two drainage catheters next to the mucosal suture line and neck dissection bed,\n      where it is allowed to sit in place for 2 hours.\n\n      Within 56 days after surgery, patients receive cisplatin IV over 30-90 minutes on days 1,\n      22, and 43 and radiotherapy on days 1-5, 8-12, 15-19, 22-26, 29-33, and 36-40. Patients may\n      receive 3 additional days of radiotherapy to high-risk areas on days 43-45.\n\n      Patients are followed every 2-6 months for 2 years and then annually for 3 years.\n\n      PROJECTED ACCRUAL: A total of 60 patients will be accrued for this study within 1 year."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed high-risk/limited stage III or IV squamous cell carcinoma of\n             the oral cavity, oropharynx, hypopharynx, and larynx\n\n               -  Newly diagnosed\n\n               -  Previously untreated\n\n               -  Considered surgically resectable\n\n               -  Evidence of regional lymph node metastases (N1-N3)\n\n          -  No distant metastases\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  Not specified\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  WBC at least 3,000/mm^3\n\n          -  Granulocyte count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n        Hepatic:\n\n          -  Bilirubin no greater than 2 times upper limit of normal (ULN)\n\n          -  SGOT or SGPT no greater than 3 times ULN\n\n          -  Hepatitis B surface antigen negative\n\n          -  Hepatitis C antibody negative\n\n        Renal:\n\n          -  Creatinine no greater than 2 times ULN\n\n          -  Creatinine clearance at least 60 mL/min\n\n        Other:\n\n          -  Magnesium normal (magnesium supplement allowed)\n\n          -  No other malignancy within the past 5 years except adequately treated basal cell or\n             squamous cell skin cancer, carcinoma in situ of the cervix, or adequately treated\n             stage I or II cancer in complete remission\n\n          -  HIV negative\n\n          -  Not pregnant or nursing\n\n          -  Patients must use effective barrier contraception and prevent bodily fluid\n             transmission during and for 28 days after Ad5CMV-p53 gene administration\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  Not specified\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  No concurrent intensity-modulated radiotherapy\n\n        Surgery:\n\n          -  Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "13", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 6, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00017173", 
+            "org_study_id": "CDR0000068658", 
+            "secondary_id": [
+                "U10CA032102", 
+                "S0011"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "surgery with INGN 201 followed by chemo/RT", 
+                "description": "2 intraoperative and one post-operative injection of Ad5CMV-p53.", 
+                "intervention_name": "Ad5CMV-p53 gene", 
+                "intervention_type": "Biological", 
+                "other_name": "INGN 201"
+            }, 
+            {
+                "arm_group_label": "surgery with INGN 201 followed by chemo/RT", 
+                "description": "100 mg/m2 IV Day 1 every 21 days for 3 cycles", 
+                "intervention_name": "cisplatin", 
+                "intervention_type": "Drug", 
+                "other_name": "platinol"
+            }, 
+            {
+                "arm_group_label": "surgery with INGN 201 followed by chemo/RT", 
+                "description": "conventional surgery", 
+                "intervention_name": "conventional surgery", 
+                "intervention_type": "Procedure", 
+                "other_name": "surgery"
+            }, 
+            {
+                "arm_group_label": "surgery with INGN 201 followed by chemo/RT", 
+                "description": "200 cGy per day Days 105 every week for 6 weeks", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation", 
+                "other_name": "RT"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Cisplatin"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage III squamous cell carcinoma of the lip and oral cavity", 
+            "stage IV squamous cell carcinoma of the lip and oral cavity", 
+            "stage III squamous cell carcinoma of the oropharynx", 
+            "stage IV squamous cell carcinoma of the oropharynx", 
+            "stage III squamous cell carcinoma of the hypopharynx", 
+            "stage III squamous cell carcinoma of the larynx", 
+            "stage IV squamous cell carcinoma of the hypopharynx", 
+            "stage IV verrucous carcinoma of the larynx"
+        ], 
+        "lastchanged_date": "June 12, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "Kansas Masonic Cancer Research Institute at the University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536-0293"
+                    }, 
+                    "name": "Markey Cancer Center at University of Kentucky Chandler Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201-1379"
+                    }, 
+                    "name": "Barbara Ann Karmanos Cancer Institute"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase II Trial Of Surgery With Perioperative RPR/INGN 201 (Ad5CMV-p53) Gene Therapy Followed By Chemoradiotherapy For Advanced, Resectable Squamous Cell Carcinoma Of The Oral Cavity, Oropharynx, Larynx, and Pharynx", 
+        "overall_official": {
+            "affiliation": "Barbara Ann Karmanos Cancer Institute", 
+            "last_name": "George H. Yoo, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2007", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "accrual rate and percentage of patients successfully receiving the required doses of INGN 201", 
+            "measure": "Feasibility", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00017173"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "percentage of patient who have not experience progression of disease at two years", 
+            "measure": "Progression-free survival from time of registration until disease progression", 
+            "safety_issue": "No", 
+            "time_frame": "two years"
+        }, 
+        "source": "Southwest Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Southwest Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2003", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2012", 
+        "why_stopped": "Terminated for poor accrual."
+    }, 
+    "geocoordinates": {
+        "Barbara Ann Karmanos Cancer Institute": "42.331 -83.046", 
+        "Kansas Masonic Cancer Research Institute at the University of Kansas Medical Center": "39.114 -94.627", 
+        "Markey Cancer Center at University of Kentucky Chandler Medical Center": "38.041 -84.504"
+    }
+}

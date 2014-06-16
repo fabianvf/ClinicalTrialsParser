@@ -1,0 +1,2241 @@
+{
+    "clinical_study": {
+        "@rank": "144872", 
+        "arm_group": [
+            {
+                "arm_group_label": "Low-Intermediate Risk B-Cell Pts", 
+                "arm_group_type": "Experimental", 
+                "description": "Previously untreated low or intermediate risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients (pts) not requiring chemotherapy. No rituximab fludarabine administered. Eligible to donate cells."
+            }, 
+            {
+                "arm_group_label": "Intermediate-high Risk B-Cell Pts", 
+                "arm_group_type": "Experimental", 
+                "description": "Previously untreated intermediate or high risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients requiring chemotherapy. Rituximab 375 mg/m^2 by infusion on day 1, cycle 1 followed by fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Background:\n\n        -  Combined therapy with rituximab and fludarabine is the treatment of choice for advanced\n           stage chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL).\n\n        -  A new technology called deoxyribonucleic acid (DNA) microarray can be used to gain\n           knowledge about the genetic basis of CLL/SLL.\n\n        -  Genetic studies of CLL/SLL may improve our understanding of what happens in the\n           disease, help determine which patients are most likely to respond to treatment with\n           fludarabine and rituximab, and identify new treatments.\n\n      Objectives:\n\n      -To gain further knowledge about CLL/SLL and the role of rituximab and fludarabine in\n      treating the disease.\n\n      Eligibility:\n\n      -Patients 18 years of age and older with low, intermediate or high-risk CLL/SLL.\n\n      Design:\n\n        -  Patients with low-risk CLL/SLL do not receive treatment, but are followed every 3 to 6\n           months and donate cells (through apheresis) or lymph nodes, or both, for research\n           purposes.\n\n        -  Patients with intermediate or high-risk CLL/SLL receive standard treatment with\n           rituximab and fludarabine for six 28-day treatment cycles. Rituximab is given on day 1\n           and fludarabine is given on days 1-5. (For the first cycle only, fludarabine treatment\n           starts on day 2. This delay permits blood sampling on day 1 for the effect of rituximab\n           on white blood cells.)\n\n        -  Laboratory tests and imaging studies are done periodically to monitor drug side effects\n           and the response to treatment. Tests include bone marrow biopsy and aspiration, blood\n           tests and x-rays, including positron emission tomography (PET) and computed tomography\n           (CT) scans."
+        }, 
+        "brief_title": "Treatment of Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL): DNA Microarray Gene Expression Analysis", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Previously untreated intermediate or high risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients requiring chemotherapy. Rituximab 375 mg/m^2 by infusion on day 1, cycle 1 followed by fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days.", 
+                            "title": "Intermediate-high Risk B-Cell Pts"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Previously untreated low or intermediate risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients (pts) not requiring chemotherapy. No rituximab fludarabine administered.", 
+                            "title": "Low-Intermediate Risk B-Cell Pts"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "49"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "105"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "39"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "39"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "78"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "27"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "9.34", 
+                                                "@value": "56.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "11.32", 
+                                                "@value": "58.42"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "11.11", 
+                                                "@value": "57.98"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "40"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "35"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "65"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "49"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "55"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "104"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Not Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Ethnicity (NIH/OMB)", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "American Indian or Alaska Native"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "2"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Native Hawaiian or Other Pacific Islander"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "8"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Black or African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "42"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "52"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "94"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "More than one race"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race (NIH/OMB)", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "49"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "105"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Changes in lymphocyte gene expression was measured by deoxyribonucleic acid (DNA) microarray analysis of circulating leukemic cells after completion of study treatment. A change in expression is defined as a >50% increase in circulating leukemic cells or a 30% decrease in circulating leukemic cells.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Previously untreated intermediate or high risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients requiring chemotherapy. Rituximab 375 mg/m^2 by infusion on day 1, cycle 1 followed by fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days.", 
+                                    "title": "Intermediate-high Risk B-Cell Pts"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Previously untreated low or intermediate risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients (pts) not requiring chemotherapy. No rituximab fludarabine administered.", 
+                                    "title": "Low-Intermediate Risk B-Cell Pts"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "30"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "6 hours post treatment (e.g. ># cells)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "50"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "24 hours post treatment (e.g. > # cells)"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Changes in lymphocyte gene expression was measured by deoxyribonucleic acid (DNA) microarray analysis of circulating leukemic cells after completion of study treatment. A change in expression is defined as a >50% increase in circulating leukemic cells or a 30% decrease in circulating leukemic cells.", 
+                                    "param": "Number", 
+                                    "title": "Change in Gene Expression Post Chemo", 
+                                    "units": "Percent change in cells"
+                                }
+                            ]
+                        }, 
+                        "population": "There were only 12 patients analyzed for various reasons such as timing of treatment, ability to collect samples, and viability of samples.", 
+                        "safety_issue": "No", 
+                        "time_frame": "6 hours post treatment, and 24 hours post treatment", 
+                        "title": "Change in Gene Expression Post Chemo", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Previously untreated intermediate or high risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients requiring chemotherapy. Rituximab 375 mg/m^2 by infusion on day 1, cycle 1 followed by fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days.", 
+                                    "title": "Intermediate-high Risk B-Cell Pts"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Previously untreated low or intermediate risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients (pts) not requiring chemotherapy. No rituximab fludarabine administered.", 
+                                    "title": "Low-Intermediate Risk B-Cell Pts"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "18"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With Adverse Events", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "The low-intermediate risk patients received no treatment so their tissue/blood was not analyzed for change.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "13 years, 10.5 months", 
+                        "title": "Number of Participants With Adverse Events", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Previously untreated intermediate or high risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients requiring chemotherapy. Rituximab 375 mg/m^2 by infusion on day 1, cycle 1 followed by fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days.", 
+                            "title": "Intermediate-high Risk B-Cell Pts"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Previously untreated low or intermediate risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients (pts) not requiring chemotherapy. No rituximab fludarabine administered. Eligible to donate cells.", 
+                            "title": "Low-Intermediate Risk B-Cell Pts"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "49", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "56", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "49", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "56", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "wilsonw@mail.nih.gov", 
+                "name_or_title": "Wyndham H. Wilson, M.D.", 
+                "organization": "National Cancer Institute, National Institutes of Health", 
+                "phone": "301-435-2415"
+            }, 
+            "reported_events": {
+                "desc": "The low-intermediate risk B cell patients did not receive any treatment. No adverse events were collected for these patients. This group does not have adverse events.", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Previously untreated intermediate or high risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients requiring chemotherapy. Rituximab 375 mg/m^2 by infusion on day 1, cycle 1 followed by fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days.", 
+                            "title": "Intermediate-high Risk B-Cell Pts"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Previously untreated low or intermediate risk B-cell chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) patients (pts) not requiring chemotherapy. No rituximab fludarabine administered.", 
+                            "title": "Low-Intermediate Risk B-Cell Pts"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "18", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemorrhage, GI::Oral cavity"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemorrhage, pulmonary/upper respiratory: Nose"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Transfusion"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemoptysis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "55", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "16", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukocytes (total WBC)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "29", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "13", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Lymphopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "55", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "18", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Neutrophils/granulocytes (ANC/AGC)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "PTT (Partial Thromboplastin Time)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "45", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "18", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Platelets"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Thrombotic microangiopathy"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Cardiac arrhythmia - Other, Specify, unknown"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Pain::Chest wall"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "6", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Anorexia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Heartburn/dyspepsia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Mucositis/stomatitis (clinical exam)::Oral cavity"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "16", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "9", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Edema: limb"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue (asthenia, lethargy, malaise)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "9", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Fever (in the absence of neutropenia, where neutropenia is defined as ANC <1.0 x 10e9/L)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Bone pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "11", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "10", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "AST, SGOT(serum glutamic oxaloacetic transaminase)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Alkaline phosphatase"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Bilirubin (hyperbilirubinemia)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "25", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "15", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Rhinorrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Allergic reaction/hypersensitivity (including drug fever)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "6", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Allergic rhinitis (including sneezing, nasal stuffiness, postnasal drip)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Autoimmune reaction"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "description": "(fever of unknown origin without clinically or microbiologically documented infection)(ANC <1.0 x 10e9/L, fever >=38.5 degrees C)", 
+                                            "sub_title": "Febrile neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection w/neutropenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Skin (cellulitis)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Upper aerodigestive NOS"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Upper airway NOS"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with unknown ANC::Skin (cellulites)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Calcium, serum-low (hypocalcemia)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "17", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "12", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Glucose, serum-low (hyperglycemia)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Glucose, serum-low (hypoglycemia)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Magnesium, serum-high (hypermagnesemia)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Magnesium, serum-low (hypomagnesemia)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "5", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Pain::Bone"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Syncope"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Insomnia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Mood alteration::Anxiety"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Neuropathy: sensory"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Confusion"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "4", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Creatinine"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Pain::Abdomen NOS"
+                                    }
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspnea (shortness of breath)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "11", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "8", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemoglobin"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "31", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "19", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukocytes (total WBC)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "36", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "18", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Lymphopenia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Platelets"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Hemorrhage, GI::Oral cavity"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Fever (in the absence of neutropenia, where neutropenia is defined as ANC <1.0 x 10e9/L)"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Allergic reaction/hypersensitivity (including drug fever)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Autoimmune reaction"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "description": "(documented clinically or microbiologically) with Grade 3 or 4 neutrophils (ANC < 1.0 x 10e9/L)::Anal/perianal", 
+                                            "sub_title": "Infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Blood"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::External ear (otitis externa)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Lung (pneumonia)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Skin (cellulitis)"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Infection with normal ANC or Grade 1 or 2 neutrophils::Upper airway NOS"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Pain::Neuralgia/peripheral nerve"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Hemorrhage, pulmonary/upper respiratory::Nose"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "49"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "0"
+                                                }
+                                            ], 
+                                            "sub_title": "Pleural effusion (non-malignant)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Rash/desquamation"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "0"
+                                            }
+                                        ], 
+                                        "sub_title": "Thrombosis/embolism (vascular access-related)"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "CTCv2.0"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "November 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Chronic Lymphocytic Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Lymphocytic, Chronic, B-Cell", 
+                "Leukemia, Lymphoid", 
+                "Lymphoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Background:\n\n        -  Due to their synergistic action and non-overlapping toxicity profiles, the combination\n           of Rituximab and Fludarabine is the treatment of choice for advanced stage chronic\n           lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL).\n\n        -  As such, we have designed this protocol to better understand the genetic basis of\n           CLL/SLL, to identify predictors of treatment response and to study the molecular\n           effects of Rituximab Fludarabine on the leukemic cells.\n\n        -  A new technology utilizing complementary deoxyribonucleic acid (cDNA) microarrays now\n           permits the simultaneous quantitation of the expression of thousands of genes; this\n           methodology can evaluate defined cellular pathways, and also discover novel genes\n           influencing cell biology.\n\n        -  In addition to improving our understanding of the pathogenesis of CLL/SLL, these\n           molecular studies may identify new therapeutic targets in CLL/SLL, and may help to\n           identify those CLL/SLL patients most likely to respond to the combination of\n           Fludarabine and Rituximab.\n\n      Objectives:\n\n        -  Evaluate CLL/SLL patients during and following Rituximab Fludarabine chemotherapy for\n           changes in lymphocyte gene expression using DNA microarray analysis.\n\n        -  Evaluate gene expression by DNA microarray analysis of leukemic cells in blood, bone\n           marrow and lymph nodes.\n\n      Eligibility:\n\n        -  Low, Intermediate or High-Risk Category of CLL/SLL, using the Modified Three- Stage Rai\n           Staging System\n\n        -  Age greater than or equal to 18 years.\n\n        -  Patients must have received no previous cytotoxic or monoclonal antibody therapy.\n\n        -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n\n        -  Patients must not be pregnant or breast-feeding.\n\n        -  Patients with active autoimmune hemolytic anemia (AIHA)) grade III or higher\n           (transfusion or steroids indicated) or immune thrombocytopenia (ITP) grade III or\n           higher (platelets less than 50,000/microL) shall not be enrolled.\n\n        -  Any patient with a medical condition that requires chronic use of corticosteroids shall\n           not be enrolled.\n\n      Design:\n\n        -  Patients who do not require treatment will be followed every 3-6 months and will donate\n           cellular products, bone marrow biopsies, bone marrow aspirates and/or lymph nodes for\n           research purposes.\n\n        -  Patients who do require treatment will received the standard dose of the Rituximab\n           monoclonal antibody and the standard dose of Fludarabine for a total of six cycles.  In\n           the first cycle, Rituximab will be given on day 1 with Fludarabine being given on days\n           2-6.  This will allow for appropriate samplings of the effects of Rituximab on\n           lymphocytes before during and at the end of the first 24 hours.  In subsequent cycles\n           2-6, the Rituximab and day 1 Fludarabine can both be given on day 1."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        Diagnosis of chronic lymphocytic lymphoma (CLL)/small lymphocytic lymphoma (SLL) will be\n        made according to the World Health Organization (WHO) diagnostic classification. A\n        lymphocyte count in excess of 5000/mcl is typically found in the leukemic variant but is\n        not a pre-requisite for a diagnosis of SLL.  Low, Intermediate or High-Risk Category of\n        CLL/SLL, using the Modified Three-Stage Rai Staging System as follows:\n\n        Risk Category:  Low Risk\n\n        Rai Stage:  0\n\n        Clinical Features:  Elevated blood and marrow lymphocyte numbers only (L).  (lymphocytes\n        greater than 5000/microl in blood, and lymphocytes greater than 30 percent in marrow).\n\n        Risk Category:  Intermediate Risk\n\n        Rai Stage:  I\n\n        Clinical Features:  L + enlarged lymph nodes (LN)\n\n        Risk Category:  Intermediate Risk\n\n        Rai Stage:  II\n\n        Clinical Features:  L + enlarged spleen or liver\n\n        Risk Category:  High Risk\n\n        Rai Stage:  III\n\n        Clinical Features:  L + anemia (Hemoglobin less than 11 gm/dl)\n\n        Risk Category:  High Risk\n\n        Rai Stage:  IV\n\n        Clinical Features:  L + thrombocytopenia (platelets less than 100,000/microl)\n\n        Patients in the modified Rai high risk group and select patients in the intermediate risk\n        group will undergo treatment with Rituximab Fludarabine.  To meet treatment criteria\n        patients in the intermediate risk group should have evidence of active disease as\n        demonstrated by at least one of the following criteria:\n\n          1. massive or progressive splenomegaly or lymphadenopathy;\n\n          2. presence of weight loss greater than 10% over the preceding 6 months;\n\n          3. constitutional symptoms of extreme fatigue, night sweats or recurrent fever of\n             greater than 100 degrees F (documented fevers must be occurring without evidence of\n             specific infection), and bone pain;\n\n          4. progressive lymphocytosis with an increase of greater than 50% over a 2 month period,\n             or an anticipated doubling time of less than 6 months;\n\n          5. chronic infections either increased number or prolonged infections;\n\n          6. other high risk prognostic indicators such as excess elevation of\n             beta-2-microglobulin, cluster differentiation 38 (CD38) expression and adverse\n             cytogenetics may be used to better appraise the risk in each individual patient.\n\n        Patients with a diagnosis of CLL/SLL who do not meet the eligibility criteria for\n        receiving Rituximab and Fludarabine (are not intermediate- or high-risk CLL/SLL), can\n        enroll on the protocol for the purpose of donating cellular products.  Such patients will\n        not receive rituximab and fludarabine chemotherapy.  At a later date, if it is documented\n        that the patient does meet the criteria, then the patient may receive Rituximab and\n        Fludarabine (after discussion with the Principal Investigator).\n\n        In a limited number of cases, patients with low-risk CLL/SLL may be initiated on Rituximab\n        and Fludarabine treatment.  For example, individuals who are candidates for bone marrow\n        transplantation may be started on Rituximab Fludarabine as an induction regimen prior to\n        transplantation.  Additionally, some low-risk patients may be started on Rituximab and\n        Fludarabine for psychological reasons (patient insistence on starting chemotherapy prior\n        to disease progression).  However, it must be stressed that low-risk CLL/SLL patients will\n        be discouraged from initiating therapy except in these specific cases.\n\n        Age greater than or equal to 18 years of age.\n\n        Patients must have received no prior cytotoxic or monoclonal antibody therapy.\n\n        Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2.\n\n        Required initial laboratory tests:  Blood urea nitrogen (BUN) and Creatinine values must\n        be less than or equal to 1.5 times the normal values; alternatively, patients with\n        creatinine clearance of greater than 50 ml per minute will also be eligible.  Aspartate\n        aminotransferase (AST) and alanine aminotransferase (ALT) values must be less than or\n        equal to 2.0 times normal values; patients with laboratory values greater than these\n        levels may be enrolled on the protocol (after a specific approval from the Principal\n        Investigator) if the values are due to a known, pre-existing liver disease.  Bilirubin\n        must be less than or equal to 2.0 mg/dl unless due to Gilbert's disease.\n\n        The patient must be competent to sign an informed consent, and sign the protocol consent\n        form.\n\n        EXCLUSION CRITERIA:\n\n        Patients must not be pregnant or breastfeeding.\n\n        Patients with active autoimmune hemolytic anemia (AIHA)) grade III or higher (transfusion\n        or steroids indicated) or immune thrombocytopenia (ITP) grade III or higher (platelets\n        less than 50,000/microL) shall not be enrolled.  Patients with a history of prior therapy\n        to control either AIHA or ITP will be eligible, provided they do not require maintenance\n        corticosteroids, and have not received monoclonal antibody therapy in the past 6 months.\n        Patients developing AIHA or ITP on protocol may be managed as medically indicated on\n        protocol but will generally not undergo fludarabine/rituximab treatment until resolution\n        of hemolysis or thrombocytopenia to less than grade III.\n\n        Any patient with a medical condition that requires chronic use of corticosteroids shall\n        not be enrolled."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "105", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 3, 1999", 
+        "firstreceived_results_date": "December 18, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00019370", 
+            "nct_id": "NCT00001586", 
+            "org_study_id": "970178", 
+            "secondary_id": "97-C-0178"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Intermediate-high Risk B-Cell Pts", 
+                "description": "Rituxan", 
+                "intervention_name": "Rituximab", 
+                "intervention_type": "Biological", 
+                "other_name": "Rituximab 375 mg/m^2 by infusion on day 1, cycle 1. Repeated every 28 days."
+            }, 
+            {
+                "arm_group_label": "Intermediate-high Risk B-Cell Pts", 
+                "description": "Fludara", 
+                "intervention_name": "Fludarabine phosphate", 
+                "intervention_type": "Drug", 
+                "other_name": "Fludarabine on day 2-6, 25 mg/m^2 day x 5 days administered as an intravenous push or intravenous piggyback over 10-30 minutes, repeated every 28 days."
+            }, 
+            {
+                "arm_group_label": "Low-Intermediate Risk B-Cell Pts", 
+                "description": "Patients are eligible to donate cells for the purpose of analyzing leukemic cells. Cells can be donated by apheresis (e.g. 60-90 minute intravenous technique), lymph node biopsy (e.g. 3 biopsy/excision of lymph nodes)bone marrow biopsy (e.g. 2-4 separate bone marrow biopsies), and bone marrow aspiration (e.g. 3 to 5cc of marrow per aspirate).", 
+                "intervention_name": "Leukemic or stroma cells", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Fludarabine", 
+                "Fludarabine monophosphate", 
+                "Rituximab", 
+                "Vidarabine"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Genetics", 
+            "Bone Marrow Transplantation", 
+            "Immunosuppression", 
+            "T Lymphocytes", 
+            "Marrow Purging"
+        ], 
+        "lastchanged_date": "March 19, 2013", 
+        "link": {
+            "description": "NIH Clinical Center Detailed Web Page", 
+            "url": "http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_1997-C-0178.html"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Treatment of Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL): DNA Microarray Gene Expression Analysis", 
+        "overall_official": {
+            "affiliation": "National Cancer Institute, National Institutes of Health", 
+            "last_name": "Wyndham H Wilson, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "November 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Changes in lymphocyte gene expression was measured by deoxyribonucleic acid (DNA) microarray analysis of circulating leukemic cells after completion of study treatment. A change in expression is defined as a >50% increase in circulating leukemic cells or a 30% decrease in circulating leukemic cells.", 
+            "measure": "Change in Gene Expression Post Chemo", 
+            "safety_issue": "No", 
+            "time_frame": "6 hours post treatment, and 24 hours post treatment"
+        }, 
+        "reference": [
+            {
+                "PMID": "1139039", 
+                "citation": "Rai KR, Sawitsky A, Cronkite EP, Chanana AD, Levy RN, Pasternack BS. Clinical staging of chronic lymphocytic leukemia. Blood. 1975 Aug;46(2):219-34."
+            }, 
+            {
+                "PMID": "1699283", 
+                "citation": "Keating MJ. Fludarabine phosphate in the treatment of chronic lymphocytic leukemia. Semin Oncol. 1990 Oct;17(5 Suppl 8):49-62. Review."
+            }, 
+            {
+                "PMID": "8822923", 
+                "citation": "Raife TJ, Demetroulis EM, Lentz SR. Regulation of thrombomodulin expression by all-trans retinoic acid and tumor necrosis factor-alpha: differential responses in keratinocytes and endothelial cells. Blood. 1996 Sep 15;88(6):2043-9."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00001586"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "National Institutes of Health Clinical Center (CC)", 
+            "investigator_full_name": "Wyndham Wilson, M.D.", 
+            "investigator_title": "Principal investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.", 
+            "measure": "Number of Participants With Adverse Events", 
+            "safety_issue": "Yes", 
+            "time_frame": "13 years, 10.5 months"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "September 1997", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }, 
+    "geocoordinates": {
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095"
+    }
+}

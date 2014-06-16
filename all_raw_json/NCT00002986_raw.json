@@ -1,0 +1,145 @@
+{
+    "clinical_study": {
+        "@rank": "144836", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die.\n\n      PURPOSE: Phase I trial to study the effectiveness of topotecan plus carmustine in patients\n      with recurrent primary malignant glioma."
+        }, 
+        "brief_title": "Chemotherapy in Treating Patients With Recurrent Malignant Glioma", 
+        "completion_date": {
+            "#text": "May 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Brain and Central Nervous System Tumors", 
+        "condition_browse": {
+            "mesh_term": [
+                "Nervous System Neoplasms", 
+                "Central Nervous System Neoplasms", 
+                "Glioma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the maximum tolerated dose of topotecan administered in combination with a\n           fixed dose of carmustine.\n\n        -  Determine the toxic effects of topotecan and carmustine in patients with recurrent\n           primary malignant glioma.\n\n      OUTLINE: Topotecan is administered by an ambulatory infusion pump for 72 hours each week.\n      Topotecan dose escalation is carried out in cohorts of three patients. Dose escalation is\n      continued until toxic effects or disease progression is observed in these patients.\n      Carmustine is administered over 1 hour every 6 weeks, on the same day as the first topotecan\n      dose for that week.\n\n      Three patients will be treated at an initial dose level of topotecan, and if one of these\n      patients experience dose limiting toxicity (DLT), an additional\n\n      3 patients must be treated at this dose level without further DLT in order for dose\n      escalation to proceed. The MTD is the highest dose at which DLT occurs in no more than 1 of\n      6 patients.\n\n      Patients are evaluated after every 6 week cycle.\n\n      PROJECTED ACCRUAL: An estimated 18-36 patients will be entered."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically proven recurrent primary malignant glioma\n\n               -  Measurable recurrent or residual primary central nervous system neoplasm\n                  confirmed by MRI\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance Status:\n\n          -  Karnofsky at least 60%\n\n        Hematopoietic:\n\n          -  Hematocrit greater than 29%\n\n          -  ANC greater than 1,500/mm^3\n\n          -  Platelet count greater than 125,000/mm^3\n\n        Hepatic:\n\n          -  SGOT less than 1.5 times upper limit of normal (ULN)\n\n          -  Bilirubin less than 1.5 times ULN\n\n        Renal:\n\n          -  Creatinine less than 1.5 mg/dL\n\n          -  BUN less than 25 mg/dL\n\n        Other:\n\n          -  Not pregnant\n\n          -  Effective contraceptive method must be used for the duration of the study\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  Not specified\n\n        Chemotherapy:\n\n          -  No prior chemotherapy within 6 weeks of study\n\n          -  No prior topotecan or carmustine treatment failure\n\n          -  No more than 1 prior chemotherapy regimen\n\n        Endocrine therapy:\n\n          -  Patients taking corticosteroids must be on stable dose for at least 2 weeks prior to\n             study and the dose should not escalate over entry level\n\n        Radiotherapy:\n\n          -  No prior radiotherapy within 6 weeks of study\n\n        Surgery:\n\n          -  No prior surgical resection within 3 weeks of study\n\n        Other:\n\n          -  No concurrent medication that may interfere with study results"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002986", 
+            "org_study_id": "0224", 
+            "secondary_id": [
+                "DUMC-000224-01-1R4", 
+                "DUMC-000224-00-2R3", 
+                "DUMC-0348-99-2R2", 
+                "DUMC-223-97-2", 
+                "DUMC-229-98-2R1", 
+                "SB-DUMC-229-98-2R1", 
+                "NCI-G97-1242", 
+                "CDR0000065521"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "carmustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "topotecan hydrochloride", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carmustine", 
+                "Topotecan"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "recurrent adult brain tumor", 
+        "lastchanged_date": "February 15, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/DUMC-000224-01-1R4"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38105-2794"
+                    }, 
+                    "name": "Saint Jude Children's Research Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Phase I Treatment of Adults With Primary Malignant Glioma With Topotecan (NSC #609699) Plus BCNU (NSC #409962)", 
+        "overall_official": {
+            "affiliation": "Duke Cancer Institute", 
+            "last_name": "Henry S. Friedman, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Institutional Review Board"
+            ]
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "May 2004", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002986"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Duke University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Duke University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 1997", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2013"
+    }, 
+    "geocoordinates": {
+        "Duke Comprehensive Cancer Center": "35.994 -78.899", 
+        "Saint Jude Children's Research Hospital": "35.15 -90.049"
+    }
+}

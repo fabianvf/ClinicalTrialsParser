@@ -1,0 +1,966 @@
+{
+    "clinical_study": {
+        "@rank": "111205", 
+        "arm_group": {
+            "arm_group_label": "treatment", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Peripheral stem cell transplantation may be able to replace immune cells that\n      were destroyed by chemotherapy or radiation therapy used to kill tumor cells. It is not yet\n      known if total-body irradiation plus peripheral stem cell transplantation is more effective\n      with busulfan or with cyclophosphamide for myelodysplastic syndrome or acute myeloid\n      leukemia.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of busulfan with that of\n      cyclophosphamide in patients undergoing total-body irradiation plus peripheral stem cell\n      transplantation for advanced myelodysplastic syndrome or related acute myeloid leukemia."
+        }, 
+        "brief_title": "S9920 Busulfan Compared With Cyclophosphamide in Patients Undergoing Total-Body Irradiation Plus Peripheral Stem Cell Transplantation for Advanced Myelodysplastic Syndrome or Related Acute Myeloid Leukemia", 
+        "completion_date": {
+            "#text": "March 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Leukemia", 
+            "Myelodysplastic Syndromes"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Compare event free survival after total body irradiation (TBI) plus busulfan\n      versus TBI plus cyclophosphamide followed by allogeneic peripheral blood stem cell\n      transplantation in patients with advanced myelodysplastic syndrome (MDS) or MDS related\n      acute myeloid leukemia. II. Determine the distribution of pharmacokinetic parameters for\n      busulfan in those patients randomized to the busulfan treatment arm. III. Investigate the\n      prognostic significance for event free survival of prior history of red cell transfusions,\n      cytogenetic pattern, and of functional drug resistance at diagnosis in these patients. IV.\n      Estimate the frequencies of cytogenetic and genetic changes during disease progression in\n      these patients.\n\n      OUTLINE: This a randomized, multicenter study. Patients are stratified according to age (40\n      and under vs 41-55) and diagnosis and International Prognostic Scoring System (IPSS) risk\n      group (myelodysplastic syndrome (MDS)/IPSS - intermediate 1 vs MDS/IPSS - intermediate 2 vs\n      MDS/IPSS high risk vs MDS related acute myeloid leukemia). Patients are randomized to one of\n      two treatment arms. Arm I: Patients receive busulfan IV over 2 hours every 6 hours on days\n      -7 to -4 for a total of 16 doses. Arm II: Patients receive cyclophosphamide IV over 2 hours\n      on days -5 and -4. Patients receive total body irradiation (TBI) twice a day on days -3 to\n      -1; peripheral blood stem cell transplantation from genotypically HLA identical sibling on\n      day 0; cyclosporine IV every 12 hours on days -1 to 60, and then tapering in the absence of\n      graft versus host disease; and methotrexate IV on days 1, 3, 6, and 11. Patients are\n      followed every 6 months for 5 years.\n\n      PROJECTED ACCRUAL: A total of 240 patients (120 per treatment arm) will be accrued for this\n      study over 5 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Cytologically confirmed myelodysplastic syndrome (MDS) Increased\n        blasts (i.e., greater than 1 to 30% peripheral blood blasts and/or 5 to 30% bone marrow\n        blasts) AND International Prognostic Score intermediate 1, intermediate 2, or high risk\n        Refractory anemia with excess blasts OR Refractory anemia with excess blasts in\n        transformation (no presence of auer rods as sole criteria) OR Chronic myelomonocytic\n        leukemia Greater than 1% blasts in the peripheral blood and/or at least 5% blasts in the\n        bone marrow OR MDS related acute myeloid leukemia Arising after documented MDS of at least\n        60 days Absolute peripheral blast count no greater than 5,000/mm3 Must have genotypically\n        HLA identical sibling donor Must also be enrolled on SWOG-S9910 and SWOG-9007\n\n        PATIENT CHARACTERISTICS: Age: 16 to 55 Performance status: Zubrod 0-2 Life expectancy: Not\n        specified Hematopoietic: See Disease Characteristics Hepatic: Not specified Renal: Not\n        specified Other: No prior malignancy within past 5 years except: Adequately treated basal\n        cell or squamous cell skin cancer Carcinoma in situ of the cervix Adequately treated stage\n        I or II cancer in complete remission HIV negative Not pregnant or nursing Fertile patients\n        must use effective contraception\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: No autologous peripheral stem cell\n        transplantation prior to diagnosis of myelodysplastic syndrome (MDS) or MDS related acute\n        myeloid leukemia Chemotherapy: No prior chemotherapy for MDS or MDS related acute myeloid\n        leukemia except oral chemotherapy to control leukocytosis or thrombocytosis (e.g.,\n        hydroxyurea or etoposide) Endocrine therapy: Not specified Radiotherapy: No radiotherapy\n        prior to diagnosis of MDS or MDS related acute myeloid leukemia Surgery: Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "16 Years"
+        }, 
+        "enrollment": {
+            "#text": "240", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 2, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005866", 
+            "org_study_id": "CDR0000067898", 
+            "secondary_id": [
+                "S9920", 
+                "U10CA032102"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "treatment", 
+                "description": "arm 1:  0.44 mg/kg every 6 hours, IV over 2 hours, day -7 to -4", 
+                "intervention_name": "busulfan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "treatment", 
+                "description": "arm 2: 60 mg/kg every 24 hrs for 2 doses, IV over 2 hrs, days -5 and -4", 
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "treatment", 
+                "description": "both arms per published schedule", 
+                "intervention_name": "cyclosporine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "treatment", 
+                "description": "GVHD: 15 mg/m2 day 1, 10 mg/m2 day 3, 6 and 11 by IV", 
+                "intervention_name": "methotrexate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "treatment", 
+                "description": "day 0", 
+                "intervention_name": "allogeneic bone marrow transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "treatment", 
+                "description": "both arms: 1200 cGy total dose (6 x 200 fractions)", 
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Busulfan", 
+                "Cyclophosphamide", 
+                "Cyclosporins", 
+                "Cyclosporine", 
+                "Methotrexate"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "untreated adult acute myeloid leukemia", 
+            "refractory anemia with excess blasts", 
+            "refractory anemia with excess blasts in transformation", 
+            "chronic myelomonocytic leukemia", 
+            "secondary acute myeloid leukemia", 
+            "de novo myelodysplastic syndromes", 
+            "secondary myelodysplastic syndromes", 
+            "childhood myelodysplastic syndromes"
+        ], 
+        "lastchanged_date": "January 12, 2012", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/SWOG-S9920"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85062-2989"
+                    }, 
+                    "name": "Good Samaritan Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85724"
+                    }, 
+                    "name": "Arizona Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berkeley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94704"
+                    }, 
+                    "name": "Alta Bates Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010-3000"
+                    }, 
+                    "name": "Cancer Center and Beckman Research Institute, City of Hope"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92037"
+                    }, 
+                    "name": "Scripps Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095-1781"
+                    }, 
+                    "name": "Jonsson Comprehensive Cancer Center, UCLA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033-0804"
+                    }, 
+                    "name": "USC/Norris Comprehensive Cancer Center and Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868"
+                    }, 
+                    "name": "Chao Family Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92613-5600"
+                    }, 
+                    "name": "St. Joseph Hospital - Orange"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95816"
+                    }, 
+                    "name": "Sutter Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "University of California Davis Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5408"
+                    }, 
+                    "name": "Stanford University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Walnut Creek", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94598"
+                    }, 
+                    "name": "Northern California Cancer Specialists Medical Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80010"
+                    }, 
+                    "name": "University of Colorado Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96813"
+                    }, 
+                    "name": "Cancer Research Center of Hawaii"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96813"
+                    }, 
+                    "name": "Queen's Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96817"
+                    }, 
+                    "name": "St. Francis Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boise", 
+                        "country": "United States", 
+                        "state": "Idaho", 
+                        "zip": "83712"
+                    }, 
+                    "name": "Mountain States Tumor Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maywood", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60153"
+                    }, 
+                    "name": "Loyola University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "66160-7357"
+                    }, 
+                    "name": "University of Kansas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "Cancer Center of Kansas - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-3882"
+                    }, 
+                    "name": "CCOP - Wichita"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536-0084"
+                    }, 
+                    "name": "Albert B. Chandler Medical Center, University of Kentucky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536-0093"
+                    }, 
+                    "name": "Lucille Parker Markey Cancer Center, University of Kentucky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112-2822"
+                    }, 
+                    "name": "Louisiana State University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "MBCCOP - LSU Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70115"
+                    }, 
+                    "name": "Memorial Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Tulane University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shreveport", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71130-3932"
+                    }, 
+                    "name": "Louisiana State University Health Sciences Center - Shreveport"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "Boston Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "Cancer Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0752"
+                    }, 
+                    "name": "University of Michigan Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201-1379"
+                    }, 
+                    "name": "Barbara Ann Karmanos Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216-4505"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110-0250"
+                    }, 
+                    "name": "St. Louis University Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65807"
+                    }, 
+                    "name": "CCOP - Cancer Research for the Ozarks"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65804"
+                    }, 
+                    "name": "St. John's Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Herbert Irving Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45236"
+                    }, 
+                    "name": "Jewish Hospital of Cincinnati, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Taussig Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dayton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45409"
+                    }, 
+                    "name": "Miami Valley Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kettering", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45429"
+                    }, 
+                    "name": "CCOP - Dayton"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73190"
+                    }, 
+                    "name": "University of Oklahoma Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97213"
+                    }, 
+                    "name": "CCOP - Columbia River Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97210"
+                    }, 
+                    "name": "Legacy Cancer Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201-3098"
+                    }, 
+                    "name": "Oregon Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97225"
+                    }, 
+                    "name": "Providence St. Vincent Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Sam Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78234"
+                    }, 
+                    "name": "Brooke Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lackland Air Force Base", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78236-5300"
+                    }, 
+                    "name": "Wilford Hall - 59th Medical Wing"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lubbock", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "79430"
+                    }, 
+                    "name": "Health Science Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lubbock", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "79423"
+                    }, 
+                    "name": "Texas Tech University Health Science Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78284-7811"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Methodist Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76508"
+                    }, 
+                    "name": "Scott and White Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76508"
+                    }, 
+                    "name": "CCOP - Scott and White Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84112"
+                    }, 
+                    "name": "Huntsman Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84143"
+                    }, 
+                    "name": "LDS Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98101"
+                    }, 
+                    "name": "CCOP - Virginia Mason Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Swedish Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98195-6043"
+                    }, 
+                    "name": "University of Washington Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109-1024"
+                    }, 
+                    "name": "Fred Hutchinson Cancer Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405-0986"
+                    }, 
+                    "name": "CCOP - Northwest"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98401-2197"
+                    }, 
+                    "name": "Franciscan Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2M9"
+                    }, 
+                    "name": "Princess Margaret Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase III Randomized Study Comparing Busulfan-Total Body Irradiation Versus Cyclophosphamide-Total Body Irradiation Preparative Regimen in Patients With Advanced Myelodysplastic Syndrome (MDS) or MDS-Related Acute Myeloid Leukemia (AML) Undergoing HLA-Identical Sibling Peripheral Blood Stem Cell Transplantation, (A BMT Study)", 
+        "overall_official": {
+            "affiliation": "Katmai Oncology Group", 
+            "last_name": "Jeanne E. Anderson, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "March 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Event-free survival", 
+            "safety_issue": "No", 
+            "time_frame": "every 6 months after stem cell infusion until death or 5 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005866"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Southwest Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Southwest Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2000", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2012"
+    }, 
+    "geocoordinates": {
+        "Albert B. Chandler Medical Center, University of Kentucky": "38.041 -84.504", 
+        "Alta Bates Comprehensive Cancer Center": "37.872 -122.273", 
+        "Arizona Cancer Center": "32.222 -110.926", 
+        "Barbara Ann Karmanos Cancer Institute": "42.331 -83.046", 
+        "Boston Medical Center": "42.358 -71.06", 
+        "Brooke Army Medical Center": "29.47 -98.424", 
+        "CCOP - Cancer Research for the Ozarks": "37.209 -93.292", 
+        "CCOP - Columbia River Program": "45.523 -122.676", 
+        "CCOP - Dayton": "39.69 -84.169", 
+        "CCOP - Northwest": "47.253 -122.444", 
+        "CCOP - Scott and White Hospital": "31.098 -97.343", 
+        "CCOP - Virginia Mason Research Center": "47.606 -122.332", 
+        "CCOP - Wichita": "37.692 -97.337", 
+        "Cancer Center and Beckman Research Institute, City of Hope": "34.139 -117.977", 
+        "Cancer Center of Kansas - Wichita": "37.692 -97.337", 
+        "Cancer Research Center": "42.358 -71.06", 
+        "Cancer Research Center of Hawaii": "21.307 -157.858", 
+        "Chao Family Comprehensive Cancer Center": "33.788 -117.853", 
+        "Cleveland Clinic Taussig Cancer Center": "41.499 -81.695", 
+        "Franciscan Health System": "47.253 -122.444", 
+        "Fred Hutchinson Cancer Research Center": "47.606 -122.332", 
+        "Good Samaritan Medical Center": "33.448 -112.074", 
+        "Health Science Center": "33.578 -101.855", 
+        "Henry Ford Hospital": "42.331 -83.046", 
+        "Herbert Irving Comprehensive Cancer Center": "40.714 -74.006", 
+        "Huntsman Cancer Institute": "40.761 -111.891", 
+        "Jewish Hospital of Cincinnati, Inc.": "39.103 -84.512", 
+        "Jonsson Comprehensive Cancer Center, UCLA": "34.052 -118.244", 
+        "LDS Hospital": "40.761 -111.891", 
+        "Legacy Cancer Services": "45.523 -122.676", 
+        "Louisiana State University Health Sciences Center - Shreveport": "32.525 -93.75", 
+        "Louisiana State University School of Medicine": "29.951 -90.072", 
+        "Loyola University Medical Center": "41.879 -87.843", 
+        "Lucille Parker Markey Cancer Center, University of Kentucky": "38.041 -84.504", 
+        "MBCCOP - LSU Health Sciences Center": "29.951 -90.072", 
+        "Memorial Medical Center": "29.951 -90.072", 
+        "Methodist Health Care System": "29.424 -98.494", 
+        "Miami Valley Hospital": "39.759 -84.192", 
+        "Mountain States Tumor Institute": "43.613 -116.211", 
+        "Northern California Cancer Specialists Medical Clinic": "37.906 -122.065", 
+        "Oregon Cancer Center": "45.523 -122.676", 
+        "Princess Margaret Hospital": "43.653 -79.383", 
+        "Providence St. Vincent Medical Center": "45.523 -122.676", 
+        "Queen's Medical Center": "21.307 -157.858", 
+        "Scott and White Clinic": "31.098 -97.343", 
+        "Scripps Clinic": "32.839 -117.277", 
+        "St. Francis Medical Center": "21.307 -157.858", 
+        "St. John's Health System": "37.209 -93.292", 
+        "St. Joseph Hospital - Orange": "33.788 -117.853", 
+        "St. Louis University Health Sciences Center": "38.627 -90.199", 
+        "Stanford University Medical Center": "37.429 -122.169", 
+        "Sutter Cancer Center": "38.582 -121.494", 
+        "Swedish Cancer Institute": "47.606 -122.332", 
+        "Texas Tech University Health Science Center": "33.578 -101.855", 
+        "Tulane University School of Medicine": "29.951 -90.072", 
+        "USC/Norris Comprehensive Cancer Center and Hospital": "34.052 -118.244", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California Davis Cancer Center": "38.582 -121.494", 
+        "University of Colorado Cancer Center": "39.739 -104.985", 
+        "University of Kansas Medical Center": "39.114 -94.627", 
+        "University of Michigan Comprehensive Cancer Center": "42.281 -83.743", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of Oklahoma Health Sciences Center": "35.468 -97.516", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "University of Washington Medical Center": "47.606 -122.332", 
+        "Wilford Hall - 59th Medical Wing": "29.384 -98.581"
+    }
+}

@@ -1,0 +1,722 @@
+{
+    "clinical_study": {
+        "@rank": "20237", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor\n      cells. Combining more than one drug and giving them before and with radiation therapy may be\n      an effective treatment for limited-stage small cell lung cancer.\n\n      PURPOSE: Phase II trial to study the effectiveness of chemotherapy plus radiation therapy in\n      treating patients who have limited-stage small cell lung cancer."
+        }, 
+        "brief_title": "Chemotherapy Plus Radiation Therapy in Treating Patients With Limited-Stage Small Cell Lung Cancer", 
+        "completion_date": {
+            "#text": "March 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Neoplasms", 
+                "Small Cell Lung Carcinoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the complete response rate to 2 courses of paclitaxel and topotecan\n      followed by consolidation chemoradiotherapy in patients with limited stage small cell lung\n      cancer. II. Determine the toxic effects of this regimen in this patient population. III.\n      Describe the pattern of relapse, documenting carefully the location of relapse with respect\n      to the original disease volume and the radiation treatment field in these patients. IV.\n      Determine the overall and failure free survival of these patients.\n\n      OUTLINE: Patients receive topotecan IV on days 1-5 and paclitaxel IV over 3 hours on day 1.\n      Filgrastim (G-CSF) is administered subcutaneously every day starting on day 6 until blood\n      counts recover. The course is repeated once beginning on day 22. After restaging, patients\n      begin thoracic radiotherapy daily, five days per week, for 6-7 weeks. On the same day that\n      radiotherapy begins, patients receive carboplatin IV over 1 hour (day 43) and etoposide IV\n      over 1 hour daily for 3 days (days 43-45). The consolidation chemotherapy is repeated every\n      21 days for a total of 3 courses. Patients with stable or responding disease undergo\n      prophylactic cranial irradiation. Patients are followed at least every 3 months for 2 years,\n      every 6 months for 3 years, and then at least every year.\n\n      PROJECTED ACCRUAL: A total of 70 patients will be accrued for this study within 15-18\n      months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically or cytologically confirmed limited stage small\n        cell lung cancer Includes disease restricted to one hemithorax with regional lymph node\n        metastases, including hilar, ipsilateral and contralateral mediastinal lymph nodes\n        Clinically suspected or confirmed supraclavicular lymph node metastases and pleural\n        effusions that are visible on plain chest radiographs, whether cytologically positive or\n        not, are not eligible Unidimensionally or bidimensionally measurable disease\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-2 Life expectancy:\n        Not specified Hematopoietic: Granulocyte count at least 1,500/mm3 Platelet count at least\n        100,000/mm3 Hepatic: Bilirubin less than 1.5 mg/dL SGOT less than 2 times upper limit of\n        normal (ULN) Renal: Creatinine no greater than ULN Other: Not pregnant or nursing Fertile\n        patients must use effective contraception No concurrent active second malignancy except\n        nonmelanoma skin cancer (i.e., completed therapy and considered to be at less than 30%\n        risk of relapse)\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior\n        chemotherapy for small cell lung cancer No other concurrent chemotherapy Endocrine\n        therapy: No concurrent steroids except for adrenal failure No concurrent hormones except\n        for nondisease related conditions (e.g., insulin for diabetes) No concurrent dexamethasone\n        except for intermittent use as an antiemetic or as an adjunct to prophylactic cranial\n        irradiation Radiotherapy: No prior mediastinal radiotherapy Surgery: Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "75", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00003812", 
+            "org_study_id": "CDR0000066958", 
+            "secondary_id": [
+                "U10CA031946", 
+                "CLB-39808"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "carboplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "paclitaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "topotecan hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "radiation therapy", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Etoposide", 
+                "Paclitaxel", 
+                "Carboplatin", 
+                "Topotecan", 
+                "Lenograstim"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "limited stage small cell lung cancer", 
+        "lastchanged_date": "September 27, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/CLB-39808"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92093-0658"
+                    }, 
+                    "name": "University of California San Diego Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115-0128"
+                    }, 
+                    "name": "UCSF Cancer Center and Cancer Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94121"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - San Francisco"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wilmington", 
+                        "country": "United States", 
+                        "state": "Delaware", 
+                        "zip": "19899"
+                    }, 
+                    "name": "CCOP - Christiana Care Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20007"
+                    }, 
+                    "name": "Vincent T. Lombardi Cancer Research Center, Georgetown University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20307-5000"
+                    }, 
+                    "name": "Walter Reed Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33140"
+                    }, 
+                    "name": "CCOP - Mount Sinai Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }, 
+                    "name": "University of Chicago Cancer Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "University of Illinois at Chicago Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Chicago (Westside Hospital)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "University of Iowa Hospitals and Clinics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Togus", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04330"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Togus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Marlene & Stewart Greenebaum Cancer Center, University of Maryland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01655"
+                    }, 
+                    "name": "University of Massachusetts Memorial Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55417"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Minneapolis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65201"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Columbia (Truman Memorial)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65203"
+                    }, 
+                    "name": "Ellis Fischel Cancer Center - Columbia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63131"
+                    }, 
+                    "name": "Missouri Baptist Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Barnes-Jewish Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198-3330"
+                    }, 
+                    "name": "University of Nebraska Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89106"
+                    }, 
+                    "name": "CCOP - Southern Nevada Cancer Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }, 
+                    "name": "Norris Cotton Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Buffalo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "CCOP - North Shore University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "North Shore University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Medical Center, NY"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "New York Presbyterian Hospital - Cornell Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Memorial Sloan-Kettering Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York - Upstate Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Syracuse"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599-7295"
+                    }, 
+                    "name": "Lineberger Comprehensive Cancer Center, UNC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27705"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Durham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157-1082"
+                    }, 
+                    "name": "Comprehensive Cancer Center of Wake Forest University Baptist Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27104-4241"
+                    }, 
+                    "name": "CCOP - Southeast Cancer Control Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Arthur G. James Cancer Hospital - Ohio State University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02903"
+                    }, 
+                    "name": "Rhode Island Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425-0721"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38163"
+                    }, 
+                    "name": "University of Tennessee, Memphis Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38104"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Memphis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burlington", 
+                        "country": "United States", 
+                        "state": "Vermont", 
+                        "zip": "05401-3498"
+                    }, 
+                    "name": "Vermont Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "White River Junction", 
+                        "country": "United States", 
+                        "state": "Vermont", 
+                        "zip": "05009"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - White River Junction"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298-0037"
+                    }, 
+                    "name": "MBCCOP - Massey Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23249"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Richmond"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Topotecan/Paclitaxel Induction Followed by Consolidation Chemoradiotherapy for Limited Stage Small Cell Lung Cancer: A Phase II Study", 
+        "overall_official": {
+            "affiliation": "Missouri Baptist Cancer Center", 
+            "last_name": "Alan P. Lyss, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2004", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00003812"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "15145163", 
+                "citation": "Bogart JA, Herndon JE 2nd, Lyss AP, Watson D, Miller AA, Lee ME, Turrisi AT, Green MR; Cancer and Leukemia Group B study 39808. 70 Gy thoracic radiotherapy is feasible concurrent with chemotherapy for limited-stage small-cell lung cancer: analysis of Cancer and Leukemia Group B study 39808. Int J Radiat Oncol Biol Phys. 2004 Jun 1;59(2):460-8."
+            }, 
+            {
+                "citation": "Cicchetti MG, Bogart J, Lyss A, et al.: Spinal cord dose in limited stage small cell lung cancer: a preliminary Quality Assurance Review Committee (QARC) report on CALGB 39808, using target thoracic radiotherapy (TRT) doses of 60 - 70 Gy. [Abstract] Int J Radiat Oncol Biol Phys 51(3 suppl 1): A-656, 356, 2001."
+            }, 
+            {
+                "citation": "Lyss AP, Herndon JE, Bogart JE, et al.: Topotecan (Topo) + paclitaxel (Tax) + G-CSF (G) induction followed by concurrent chemoradiotherapy (CCRT) for patients (pts) with limited stage small cell lung cancer (L-SCLC): preliminary analysis of CALGB 39808. [Abstract] Proceedings of the American Society of Clinical Oncology 20: A-1270, 2001."
+            }
+        ], 
+        "source": "Alliance for Clinical Trials in Oncology", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Alliance for Clinical Trials in Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 1999", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }, 
+    "geocoordinates": {
+        "Arthur G. James Cancer Hospital - Ohio State University": "39.961 -82.999", 
+        "Barnes-Jewish Hospital": "38.627 -90.199", 
+        "CCOP - Christiana Care Health Services": "39.746 -75.547", 
+        "CCOP - Mount Sinai Medical Center": "25.791 -80.13", 
+        "CCOP - North Shore University Hospital": "40.798 -73.7", 
+        "CCOP - Southeast Cancer Control Consortium": "36.1 -80.244", 
+        "CCOP - Southern Nevada Cancer Research Foundation": "36.115 -115.173", 
+        "CCOP - Syracuse Hematology-Oncology Associates of Central New York, P.C.": "43.048 -76.147", 
+        "Comprehensive Cancer Center of Wake Forest University Baptist Medical Center": "36.1 -80.244", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Duke Comprehensive Cancer Center": "35.994 -78.899", 
+        "Ellis Fischel Cancer Center - Columbia": "38.952 -92.334", 
+        "Lineberger Comprehensive Cancer Center, UNC": "35.913 -79.056", 
+        "MBCCOP - Massey Cancer Center": "37.541 -77.436", 
+        "Marlene & Stewart Greenebaum Cancer Center, University of Maryland": "39.29 -76.612", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006", 
+        "Missouri Baptist Cancer Center": "38.627 -90.199", 
+        "Mount Sinai Medical Center, NY": "40.714 -74.006", 
+        "New York Presbyterian Hospital - Cornell Campus": "40.714 -74.006", 
+        "Norris Cotton Cancer Center": "43.642 -72.252", 
+        "North Shore University Hospital": "40.798 -73.7", 
+        "Rhode Island Hospital": "41.824 -71.413", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "State University of New York - Upstate Medical University": "43.048 -76.147", 
+        "UCSF Cancer Center and Cancer Research Institute": "37.775 -122.419", 
+        "University of California San Diego Cancer Center": "32.839 -117.277", 
+        "University of Chicago Cancer Research Center": "41.878 -87.63", 
+        "University of Illinois at Chicago Health Sciences Center": "41.878 -87.63", 
+        "University of Iowa Hospitals and Clinics": "41.661 -91.53", 
+        "University of Massachusetts Memorial Medical Center": "42.263 -71.802", 
+        "University of Nebraska Medical Center": "41.252 -95.998", 
+        "University of Tennessee, Memphis Cancer Center": "35.15 -90.049", 
+        "Vermont Cancer Center": "44.476 -73.212", 
+        "Veterans Affairs Medical Center - Birmingham": "33.521 -86.802", 
+        "Veterans Affairs Medical Center - Buffalo": "42.886 -78.878", 
+        "Veterans Affairs Medical Center - Chicago (Westside Hospital)": "41.878 -87.63", 
+        "Veterans Affairs Medical Center - Columbia (Truman Memorial)": "38.952 -92.334", 
+        "Veterans Affairs Medical Center - Durham": "35.994 -78.899", 
+        "Veterans Affairs Medical Center - Memphis": "35.15 -90.049", 
+        "Veterans Affairs Medical Center - Minneapolis": "44.98 -93.264", 
+        "Veterans Affairs Medical Center - Richmond": "37.541 -77.436", 
+        "Veterans Affairs Medical Center - San Francisco": "37.775 -122.419", 
+        "Veterans Affairs Medical Center - Syracuse": "43.048 -76.147", 
+        "Veterans Affairs Medical Center - Togus": "44.274 -69.704", 
+        "Veterans Affairs Medical Center - White River Junction": "43.649 -72.319", 
+        "Vincent T. Lombardi Cancer Research Center, Georgetown University": "38.895 -77.036", 
+        "Walter Reed Army Medical Center": "38.895 -77.036"
+    }
+}

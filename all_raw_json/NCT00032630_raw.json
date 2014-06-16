@@ -1,0 +1,972 @@
+{
+    "clinical_study": {
+        "@rank": "50549", 
+        "acronym": "ROOBY", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm 1", 
+                "arm_group_type": "Other", 
+                "description": "Coronary artery bypass - on-pump"
+            }, 
+            {
+                "arm_group_label": "Arm 2", 
+                "arm_group_type": "Other", 
+                "description": "Coronary artery bypass - off-pump"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Ischemic heart disease is one of the most frequent diagnoses in the VA system. Moreover,\n      5,819 coronary artery bypass graft (CABG-only) procedures were performed in the VA in Fiscal\n      Year (FY) 1999. Throughout VA and non-VA cardiac surgery programs nationwide, myocardial\n      revascularization is now being performed using two surgical techniques. One technique is\n      performed with cardiopulmonary bypass (CPB) usually with cardioplegic arrest (\"on-pump\") and\n      the other without CPB on a beating heart (\"off-pump\"). The overall purpose of this proposed\n      randomized, controlled, clinical trial is to rigorously evaluate the impact of using an\n      on-pump versus off-pump surgical technique for coronary artery bypass graft (CABG-only)\n      procedures (performed with a traditional median sternotomy incision) upon patient clinical\n      outcomes and resource utilization."
+        }, 
+        "brief_title": "Outcomes Following Myocardial Revascularization: On and Off Cardiopulmonary Bypass", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Coronary artery bypass performed on a non beating heart using a heart-lung machine", 
+                            "title": "On Pump"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Coronary artery bypass performed on a beating heart with no heart-lung machine", 
+                            "title": "Off Pump"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "1099"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "1104"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "2203"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "699"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "671"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1370"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "400"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "433"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "833"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "8.5", 
+                                                "@value": "62.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "8.5", 
+                                                "@value": "63.0"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "8.49", 
+                                                "@value": "62.74"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "7"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "13"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "1093"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1097"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "2190"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "1099"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "1104"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "2203"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Short-term end point was a composite of death or major complications (reoperation, new mechanical support, cardiac arrest, coma, stroke, or renal failure requiring dialysis) occuring within 30 days after surgery or before discharge, whichever was later.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Coronary artery bypass performed on a non beating heart using a heart-lung machine", 
+                                    "title": "On Pump"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Coronary artery bypass performed on a beating heart with no heart-lung machine", 
+                                    "title": "Off Pump"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1099"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1104"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.1", 
+                                                        "@upper_limit": "4.9", 
+                                                        "@value": "61"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.1", 
+                                                        "@upper_limit": "4.9", 
+                                                        "@value": "77"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Short-term end point was a composite of death or major complications (reoperation, new mechanical support, cardiac arrest, coma, stroke, or renal failure requiring dialysis) occuring within 30 days after surgery or before discharge, whichever was later.", 
+                                    "param": "Number", 
+                                    "title": "Short-term End Point", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "30 day", 
+                        "title": "Short-term End Point", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Long-term composite endpoint was death from any cause within 1 year, nonfatal myocardial infarction between 30 days and 1 year, or repeat revascularization between 30 days and 1 year.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Coronary artery bypass performed on a non beating heart using a heart-lung machine", 
+                                    "title": "On Pump"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Coronary artery bypass performed on a beating heart with no heart-lung machine", 
+                                    "title": "Off Pump"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1050"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1061"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "78"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "105"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Long-term composite endpoint was death from any cause within 1 year, nonfatal myocardial infarction between 30 days and 1 year, or repeat revascularization between 30 days and 1 year.", 
+                                    "param": "Number", 
+                                    "title": "Long-term Composite", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "one-year", 
+                        "title": "Long-term Composite", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Coronary artery bypass performed on a non beating heart using a heart-lung machine", 
+                            "title": "On Pump"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Coronary artery bypass performed on a beating heart with no heart-lung machine", 
+                            "title": "Off Pump"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1099", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1104", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1050", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1061", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "49", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "43", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "From February 2002 to May 2007, a total of 9663 patients who were scheduled for urgent or elective Coronary Artery Bypass Graft (CABG) were screened for enrollment. Of these, 7460 patients were excluded, mostly because of diffusely diseased or small coronary arteries.  Overall,1099 patients were randomized to on-pump and 1104 randomized to off-pump"
+            }, 
+            "point_of_contact": {
+                "email": "Frederick.Grover@ucdenver.edu", 
+                "name_or_title": "Frederick Grover, MD", 
+                "organization": "VA Medical Center, Denver, Colorado", 
+                "phone": "303-393-2863"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Coronary artery bypass performed on a non beating heart using a heart-lung machine", 
+                            "title": "On Pump"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Coronary artery bypass performed on a beating heart with no heart-lung machine", 
+                            "title": "Off Pump"
+                        }
+                    ]
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "201", 
+                                                "@subjects_at_risk": "1099"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "220", 
+                                                "@subjects_at_risk": "1104"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "64", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "64", 
+                                                    "@subjects_at_risk": "1099"
+                                                }, 
+                                                {
+                                                    "@events": "69", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "69", 
+                                                    "@subjects_at_risk": "1104"
+                                                }
+                                            ], 
+                                            "sub_title": "Chest Pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "33", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "33", 
+                                                    "@subjects_at_risk": "1099"
+                                                }, 
+                                                {
+                                                    "@events": "30", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "30", 
+                                                    "@subjects_at_risk": "1104"
+                                                }
+                                            ], 
+                                            "sub_title": "Congestive Heart Failure"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "18", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "18", 
+                                                    "@subjects_at_risk": "1099"
+                                                }, 
+                                                {
+                                                    "@events": "36", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "36", 
+                                                    "@subjects_at_risk": "1104"
+                                                }
+                                            ], 
+                                            "sub_title": "Myocardial Infarction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "15", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "15", 
+                                                    "@subjects_at_risk": "1099"
+                                                }, 
+                                                {
+                                                    "@events": "22", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "22", 
+                                                    "@subjects_at_risk": "1104"
+                                                }
+                                            ], 
+                                            "sub_title": "Atrial Fibrillation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "20", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "20", 
+                                                "@subjects_at_risk": "1099"
+                                            }, 
+                                            {
+                                                "@events": "14", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "1104"
+                                            }
+                                        ], 
+                                        "sub_title": "Wound Infection"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "19", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "1099"
+                                            }, 
+                                            {
+                                                "@events": "19", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "19", 
+                                                "@subjects_at_risk": "1104"
+                                            }
+                                        ], 
+                                        "sub_title": "CVA"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "32", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "32", 
+                                                "@subjects_at_risk": "1099"
+                                            }, 
+                                            {
+                                                "@events": "30", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "30", 
+                                                "@subjects_at_risk": "1104"
+                                            }
+                                        ], 
+                                        "sub_title": "Pleural Effusion"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Ischemic Heart Disease", 
+        "condition_browse": {
+            "mesh_term": [
+                "Coronary Artery Disease", 
+                "Myocardial Ischemia", 
+                "Heart Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Primary Hypotheses:  The study has two primary hypotheses to evaluate the impact of using an\n      off-pump versus an on-pump surgical technique for CABG procedures.  One is a short term\n      objective to assess the immediate impact of the two surgical techniques while the second\n      assesses the long-term impact of the two techniques: 1)  Short-Term Null Hypothesis: For\n      patients having CABG-only procedures performed, there will be no difference in the\n      short-term composite clinical outcome (30 day death or major morbidity) between patients\n      randomized to the on-pump and off-pump procedures, 2) Long-Term Null Hypothesis: For\n      patients undergoing CABG-only procedures, there will be no difference in long-term clinical\n      outcome as measured by one year mortality and/or acute myocardial infarction prior to one\n      year and/or a subsequent revascularization procedure within one year between patients\n      randomized to the on-pump and off-pump procedures.\n\n      Secondary Hypotheses:  Major secondary objectives are to determine if there are differences\n      in patients undergoing CABG-only procedures using the on-pump and off-pump techniques for 1)\n      long-term completeness of revascularization, 2) one year graft patency and stenosis rates as\n      determined by angiography at one year, and 3) short-term completeness of revascularization.\n      Other secondary objectives are to evaluate  the two surgical techniques on 1) changes in\n      neuropsychological function, 2) traditional clinical outcomes, 3) general and disease\n      specific quality of life, and 4) use of system resources.\n\n      Intervention: Patients requiring an elective or urgent CABG-only (no other procedures to be\n      done) surgical procedure will be randomized to either the off-pump procedure or to the\n      on-pump procedure.\n\n      Primary Outcomes: The short-term primary outcome measure is a composite measure of death,\n      repeat cardiac surgery, new technical support, cardiac arrest, coma, prolonged stroke and/or\n      renal failure requiring dialyses occurring within 30 days of surgery or prior to discharge,\n      whichever is latest.  The long-term primary outcome measure is a composite of death, acute\n      myocardial infarction, and/or subsequent revascularization procedure prior to one year\n      post-surgery.\n\n      Study Abstract:  Ischemic heart disease is one of the most frequent diagnoses in the VA\n      system. Moreover, 5,819 coronary artery bypass graft (CABG-only) procedures were performed\n      in the VA in FY 1999. Throughout VA and non-VA cardiac surgery programs nationwide,\n      myocardial revascularization is now being performed using two surgical techniques. One\n      technique is performed with cardiopulmonary bypass (CPB) usually with cardioplegic arrest\n      (\"on-pump\") and the other without CPB on a beating heart (\"off-pump\"). The overall purpose\n      of this proposed randomized, controlled, clinical trial is to rigorously evaluate the impact\n      of using an on-pump versus off-pump surgical technique for coronary artery bypass graft\n      (CABG-only) procedures (performed with a traditional median sternotomy incision) upon\n      patient clinical outcomes and resource utilization."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Elective or Urgent CABG\n\n          -  CABG only procedure to be performed\n\n        Exclusion Criteria:\n\n          -  Patient's surgeon is not a participant that meets study off-pup criteria\n\n          -  Valve or Valve/CABG procedure\n\n          -  Emergent, hemodynamically unstable, or in cardiogenic shock preoperatively\n\n          -  Moderate, moderate, to severe, or severe valvular disease\n\n          -  Enrolled in another therapeutic or interventional study\n\n          -  Majority of diffusely diseased distal vessels\n\n          -  Clinical Care Team has reservations\n\n          -  History of on-compliance\n\n          -  Patient preference for treatment arm\n\n          -  Inability to provide informed consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "2203", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 27, 2002", 
+        "firstreceived_results_date": "August 8, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00032630", 
+            "org_study_id": "517"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm 1", 
+                "description": "CABG procedure performed on heart lung machine", 
+                "intervention_name": "Coronary artery bypass - on-pump", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Arm 2", 
+                "description": "CABG procedure performed without the use of the heart lung machine", 
+                "intervention_name": "Coronary artery bypass - off-pump", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 18, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304-1290"
+                    }, 
+                    "name": "VA Palo Alto Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94121"
+                    }, 
+                    "name": "VA Medical Center, San Francisco"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sepulveda", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91343"
+                    }, 
+                    "name": "VA Greater Los Angeles HCS, Sepulveda"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80220"
+                    }, 
+                    "name": "VA Eastern Colorado Health Care System, Denver"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20422"
+                    }, 
+                    "name": "VA Medical Center, DC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32608"
+                    }, 
+                    "name": "North Florida/South Georgia Veterans Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33125"
+                    }, 
+                    "name": "VA Medical Center, Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33612"
+                    }, 
+                    "name": "James A. Haley Veterans Hospital, Tampa"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87108-5153"
+                    }, 
+                    "name": "New Mexico VA Health Care System, Albuquerque"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Asheville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28805"
+                    }, 
+                    "name": "VA Medical Center, Asheville"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27705"
+                    }, 
+                    "name": "VA Medical Center, Durham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "VA Medical Center, Cleveland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201"
+                    }, 
+                    "name": "VA Medical Center, Portland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15240"
+                    }, 
+                    "name": "VA Pittsburgh Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75216"
+                    }, 
+                    "name": "VA North Texas Health Care System, Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "VA South Texas Health Care System, San Antonio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53295-1000"
+                    }, 
+                    "name": "Zablocki VA Medical Center, Milwaukee"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "CSP #517 - Outcomes Following Myocardial Revascularization: On and Off Cardiopulmonary Bypass", 
+        "overall_official": {
+            "affiliation": "VA Eastern Colorado Health Care System, Denver", 
+            "last_name": "Frederick Grover, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "April 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Short-term end point was a composite of death or major complications (reoperation, new mechanical support, cardiac arrest, coma, stroke, or renal failure requiring dialysis) occuring within 30 days after surgery or before discharge, whichever was later.", 
+                "measure": "Short-term End Point", 
+                "safety_issue": "No", 
+                "time_frame": "30 day"
+            }, 
+            {
+                "description": "Long-term composite endpoint was death from any cause within 1 year, nonfatal myocardial infarction between 30 days and 1 year, or repeat revascularization between 30 days and 1 year.", 
+                "measure": "Long-term Composite", 
+                "safety_issue": "No", 
+                "time_frame": "one-year"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00032630"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "19890125", 
+                "citation": "Shroyer AL, Grover FL, Hattler B, Collins JF, McDonald GO, Kozora E, Lucke JC, Baltz JH, Novitzky D; Veterans Affairs Randomized On/Off Bypass (ROOBY) Study Group. On-pump versus off-pump coronary-artery bypass surgery. N Engl J Med. 2009 Nov 5;361(19):1827-37."
+            }, 
+            {
+                "PMID": "23916805", 
+                "citation": "Wagner TH, Hattler B, Bishawi M, Baltz JH, Collins JF, Quin JA, Grover FL, Shroyer AL; VA #517 Randomized On/Off Bypass (ROOBY) Study Group. On-pump versus off-pump coronary artery bypass surgery: cost-effectiveness analysis alongside a multisite trial. Ann Thorac Surg. 2013 Sep;96(3):770-7. doi: 10.1016/j.athoracsur.2013.04.074. Epub 2013 Aug 2."
+            }
+        ], 
+        "source": "Department of Veterans Affairs", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Department of Veterans Affairs", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "April 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }, 
+    "geocoordinates": {
+        "James A. Haley Veterans Hospital, Tampa": "27.951 -82.457", 
+        "New Mexico VA Health Care System, Albuquerque": "35.084 -106.651", 
+        "North Florida/South Georgia Veterans Health System": "29.652 -82.325", 
+        "VA Eastern Colorado Health Care System, Denver": "39.739 -104.985", 
+        "VA Greater Los Angeles HCS, Sepulveda": "34.162 -118.283", 
+        "VA Medical Center, Asheville": "35.601 -82.554", 
+        "VA Medical Center, Cleveland": "41.499 -81.695", 
+        "VA Medical Center, DC": "38.895 -77.036", 
+        "VA Medical Center, Durham": "35.994 -78.899", 
+        "VA Medical Center, Miami": "25.789 -80.226", 
+        "VA Medical Center, Portland": "45.523 -122.676", 
+        "VA Medical Center, San Francisco": "37.775 -122.419", 
+        "VA North Texas Health Care System, Dallas": "32.803 -96.77", 
+        "VA Palo Alto Health Care System": "37.442 -122.143", 
+        "VA Pittsburgh Health Care System": "40.441 -79.996", 
+        "VA South Texas Health Care System, San Antonio": "29.424 -98.494", 
+        "Zablocki VA Medical Center, Milwaukee": "43.039 -87.906"
+    }
+}

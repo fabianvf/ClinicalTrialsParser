@@ -1,0 +1,112 @@
+{
+    "clinical_study": {
+        "@rank": "72441", 
+        "arm_group": {
+            "arm_group_label": "Arm 1", 
+            "arm_group_type": "Other"
+        }, 
+        "brief_summary": {
+            "textblock": "Adverse drug events (ADE) present a unique focus for error reduction. Computerized provider\n      order entry, with embedded clinical decision support, has great promise in reducing\n      medication errors but preventable adverse drug events may still occur despite such systems."
+        }, 
+        "brief_title": "Patient Profiling and Provider Feedback to Reduce Adverse Drug Events", 
+        "completion_date": {
+            "#text": "January 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": "Adverse Drug Events", 
+        "condition_browse": {
+            "mesh_term": "Drug Toxicity"
+        }, 
+        "detailed_description": {
+            "textblock": "Background:\n\n      Adverse drug events (ADE) present a unique focus for error reduction. Computerized provider\n      order entry, with embedded clinical decision support, has great promise in reducing\n      medication errors but preventable adverse drug events may still occur despite such systems.\n\n      Objectives:\n\n      The purpose of the study was to evaluate whether adding medication profiling (by using a\n      retrospective drug utilization review program) to computerized provider order entry with\n      embedded order checks (drug alerts) reduces the incidence of adverse drug events.\n\n      Methods:\n\n      Medication profiles mainly focused on possible drug-drug and drug-disease interactions, with\n      some drug duplications.  To do the medication profiles we licensed a proprietary\n      computerized retrospective drug utilization review system.  We randomly assigned over 900\n      patients to Usual Care or Provider Feedback.  For patients in the latter group, selected\n      providers were contacted by letter with pertinent information; electronic mail was used for\n      follow-up contact.  Clinical and other relevant data was retrospectively abstracted from the\n      medical records for up to one year from the last medication profile for all patients.  This\n      was done by a pharmacist reviewer, using a study-derived instrument, and blinded to patient\n      assignment.  ADE incidence is the primary outcome of interest, with other outcomes such as\n      ADE severity and preventability also assessed.  We also developed and implemented provider\n      surveys in pre- and post-profiling periods.\n\n      Status:\n\n      Pre and post survey results published. Adjunct study on clinical actions as a result of drug\n      alerts published. Main study (profiling): manuscript in proces."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patient must be alive\n\n          -  patient must be currently active in GLA system\n\n          -  medication for which alert was generated must be currently active\n\n          -  patient provider must not be Peter Glassman\n\n        Exclusion Criteria:"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "1200", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 14, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00013143", 
+            "org_study_id": "SAF 99-144"
+        }, 
+        "intervention": {
+            "arm_group_label": "Arm 1", 
+            "intervention_name": "Patient risk profiling (potential ADEs) w/provider feedback", 
+            "intervention_type": "Behavioral"
+        }, 
+        "lastchanged_date": "February 6, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "West Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "90073"
+                }, 
+                "name": "VA Greater Los Angeles Health Care System"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Patient Profiling and Provider Feedback to Reduce Adverse Drug Events", 
+        "overall_official": {
+            "affiliation": "VA Greater Los Angeles Health Care System", 
+            "last_name": "Peter A. Glassman, MBBS MSc", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00013143"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "12458299", 
+                "citation": "Glassman PA, Simon B, Belperio P, Lanto A. Improving recognition of drug interactions: benefits and barriers to using automated drug alerts. Med Care. 2002 Dec;40(12):1161-71."
+            }, 
+            {
+                "PMID": "16501396", 
+                "citation": "Glassman PA, Belperio P, Simon B, Lanto A, Lee M. Exposure to automated drug alerts over time: effects on clinicians' knowledge and perceptions. Med Care. 2006 Mar;44(3):250-6."
+            }, 
+            {
+                "PMID": "17460134", 
+                "citation": "Glassman PA, Belperio P, Lanto A, Simon B, Valuck R, Sayers J, Lee M. The utility of adding retrospective medication profiling to computerized provider order entry in an ambulatory care population. J Am Med Inform Assoc. 2007 Jul-Aug;14(4):424-31. Epub 2007 Apr 25."
+            }
+        ], 
+        "source": "Department of Veterans Affairs", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Department of Veterans Affairs", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "June 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Bio-equivalence Study, Intervention Model: Single Group Assignment, Masking: Single Blind", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2007"
+    }, 
+    "geocoordinates": {
+        "VA Greater Los Angeles Health Care System": "33.996 -118.433"
+    }
+}

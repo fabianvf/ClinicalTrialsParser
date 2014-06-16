@@ -1,0 +1,125 @@
+{
+    "clinical_study": {
+        "@rank": "62318", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one chemotherapy drug may kill more tumor\n      cells.\n\n      PURPOSE: Phase I trial to study the effectiveness of combination chemotherapy following\n      radiation therapy in treating patients who have malignant glioma."
+        }, 
+        "brief_title": "Combination Chemotherapy Following Radiation Therapy in Treating Patients With Malignant Glioma", 
+        "completion_date": {
+            "#text": "December 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": "Brain and Central Nervous System Tumors", 
+        "condition_browse": {
+            "mesh_term": [
+                "Glioma", 
+                "Nervous System Neoplasms", 
+                "Central Nervous System Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the safety and efficacy of extended low-dose temozolomide when combined with\n           carmustine after radiotherapy in patients with malignant glioma.\n\n        -  Determine the maximum tolerated dose of this combination in this patient population.\n\n        -  Determine time to progression as measured from baseline gadolinium-enhanced magnetic\n           resonance imaging in patients treated with this regimen.\n\n      OUTLINE: This is a dose-escalation study of temozolomide.\n\n      Patients receive oral temozolomide once daily on days 1-28 and carmustine IV over 1-3 hours\n      beginning within 72 hours after starting temozolomide. Courses repeat every 8 weeks for up\n      to 1 year in the absence of unacceptable toxicity or disease progression.\n\n      Cohorts of 3-6 patients receive escalating doses of temozolomide until the maximum tolerated\n      dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 6\n      patients experience dose-limiting toxicity.\n\n      Patients are followed every 2 months.\n\n      PROJECTED ACCRUAL: A total of 3-24 patients will be accrued for this study within 1-2 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed malignant glioma\n\n               -  Glioblastoma\n\n               -  Gliosarcoma\n\n               -  High-grade glioma\n\n               -  Anaplastic astrocytoma\n\n               -  Anaplastic mixed oligoastrocytoma\n\n               -  Anaplastic oligodendroglioma\n\n               -  Anaplastic ependymoma\n\n          -  Must have completed radiotherapy\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  Karnofsky 60-100%\n\n        Life expectancy:\n\n          -  More than 3 months\n\n        Hematopoietic:\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n          -  Hemoglobin at least 10 g/dL\n\n        Hepatic:\n\n          -  Bilirubin less than 1.5 times upper limit of normal (ULN)\n\n          -  SGOT/SGPT less than 3 times ULN\n\n          -  Alkaline phosphatase less than 2 times ULN\n\n        Renal:\n\n          -  BUN less than 1.5 times ULN\n\n          -  Creatinine less than 1.5 times ULN\n\n        Pulmonary:\n\n          -  Pulmonary function test with diffusion greater than 50 OR\n\n          -  Clearance by the pulmonary service\n\n        Other:\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  HIV negative\n\n          -  No AIDS-related illness\n\n          -  No nonmalignant systemic disease that would preclude study\n\n          -  No acute infection requiring IV antibiotics\n\n          -  No psychiatric condition that would preclude study compliance\n\n          -  No frequent vomiting or medical condition that would interfere with oral medication\n             intake (e.g., partial bowel obstruction)\n\n          -  No other prior or concurrent malignancy except surgically cured carcinoma in situ of\n             the cervix or basal cell or squamous cell skin cancer\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  No prior immunotherapy\n\n          -  No prior biologic therapy\n\n        Chemotherapy:\n\n          -  No prior chemotherapy\n\n        Endocrine therapy:\n\n          -  Not specified\n\n        Radiotherapy:\n\n          -  See Disease Characteristics\n\n          -  At least 2 weeks since prior radiotherapy\n\n        Surgery:\n\n          -  Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "May 2, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005637", 
+            "org_study_id": "CDR0000067793", 
+            "secondary_id": [
+                "MSKCC-99114", 
+                "NCI-G00-1765"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "carmustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "temozolomide", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carmustine", 
+                "Temozolomide"
+            ]
+        }, 
+        "keyword": [
+            "adult glioblastoma", 
+            "adult anaplastic astrocytoma", 
+            "adult anaplastic oligodendroglioma", 
+            "adult mixed glioma", 
+            "adult giant cell glioblastoma", 
+            "adult gliosarcoma", 
+            "adult anaplastic ependymoma"
+        ], 
+        "lastchanged_date": "April 2, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/MSKCC-99114"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10021"
+                }, 
+                "name": "Memorial Sloan-Kettering Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Phase I Study of Extended Low Dose Temozolomide (SCH 52365, Temodar (R)) and Carmustine (BCNU) in the Treatment of Malignant Gliomas After Radiation Therapy", 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Jeffrey J. Raizer, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005637"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1999", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2003"
+    }, 
+    "geocoordinates": {
+        "Memorial Sloan-Kettering Cancer Center": "40.714 -74.006"
+    }
+}

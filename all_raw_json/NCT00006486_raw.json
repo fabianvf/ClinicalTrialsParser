@@ -1,0 +1,153 @@
+{
+    "clinical_study": {
+        "@rank": "144860", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I (carboxyaminoimidazole)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive oral CAI daily for 4 weeks. Treatment repeats for 4 courses in the absence of disease progression or unacceptable toxicity. After 4 courses, patients experiencing complete or partial response continue treatment until disease progression or unacceptable toxicity.\nPatients receive oral CAI as above."
+            }, 
+            {
+                "arm_group_label": "Arm II (carboxyamidotriazole, placebo)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive oral CAI daily for 4 weeks. Treatment repeats for 4 courses in the absence of disease progression or unacceptable toxicity. After 4 courses, patients experiencing complete or partial response continue treatment until disease progression or unacceptable toxicity.\nPatients receive a placebo."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Randomized phase II trial to study the effectiveness of carboxyamidotriazole in treating\n      patients who have metastatic kidney cancer. Carboxyamidotriazole may stop the growth of\n      kidney cancer by stopping blood flow to the tumor"
+        }, 
+        "brief_title": "Carboxyamidotriazole in Treating Patients With Metastatic Kidney Cancer", 
+        "condition": [
+            "Recurrent Renal Cell Cancer", 
+            "Stage IV Renal Cell Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Carcinoma, Renal Cell"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the toxicity and disease-stabilizing effect of carboxyamidotriazole in patients\n      with metastatic renal cell carcinoma.\n\n      II. Determine the objective response rate in patients treated with this drug.\n\n      OUTLINE: This is a randomized, double-blind, multicenter study. Patients are stratified\n      according to time from diagnosis of metastatic disease to study entry (fewer than 24 months\n      vs 24 months or more).\n\n      Patients receive oral carboxyamidotriazole (CAI) daily for 4 weeks. Treatment repeats for 4\n      courses in the absence of disease progression or unacceptable toxicity. After 4 courses,\n      patients experiencing complete or partial response continue treatment until disease\n      progression or unacceptable toxicity.\n\n      Patients with stable disease are randomized to one of two treatment arms.\n\n      Arm I: Patients receive oral CAI as above.\n\n      Arm II: Patients receive a placebo.\n\n      Treatment repeats every 4 weeks for at least 4 courses in the absence of disease progression\n      or unacceptable toxicity. Patients experiencing disease progression are unblinded and those\n      on placebo begin oral CAI as above.\n\n      Patients are followed every 6 months.\n\n      PROJECTED ACCRUAL: A maximum of 335 patients will be accrued for this study within 15-25\n      months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically confirmed renal cell carcinoma\n\n               -  Metastatic or unresectable disease\n\n               -  Documented disease progression, even after nephrectomy\n\n          -  At least 1 unidimensionally measurable lesion\n\n               -  At least 20 mm by conventional techniques\n\n               -  At least 10 mm by spiral CT scan\n\n               -  The following lesions are not considered measurable:\n\n                    -  Bone lesions\n\n                    -  Leptomeningeal disease\n\n                    -  Ascites\n\n                    -  Pleural/pericardial effusion\n\n                    -  Abdominal masses not confirmed and followed by imaging\n\n                    -  Cystic lesions\n\n          -  Performance status - CTC 0-2\n\n          -  WBC at least 2,000/mm^3\n\n          -  Platelet count at least 75,000/mm^3\n\n          -  Bilirubin no greater than upper limit of normal (ULN)\n\n          -  AST no greater than 2.5 times ULN\n\n          -  Creatinine no greater than 2.0 mg/dL\n\n          -  Not pregnant or nursing\n\n          -  Fertile patients must use effective contraception\n\n          -  No baseline neuropathy or cerebellar dysfunction greater than grade 1\n\n          -  At least 4 weeks since prior immunotherapy\n\n          -  No prior carboxyamidotriazole\n\n          -  No concurrent filgrastim (G-CSF) or sargramostim (GM-CSF)\n\n          -  Concurrent epoetin alfa allowed\n\n          -  At least 4 weeks since prior chemotherapy\n\n          -  No concurrent chemotherapy\n\n          -  No concurrent hormonal therapy except steroids for adrenal failure or hormones for\n             conditions not related to disease (e.g., insulin for diabetes)\n\n          -  At least 4 weeks since prior radiotherapy\n\n          -  No concurrent palliative radiotherapy\n\n          -  See Disease Characteristics\n\n          -  At least 4 weeks since prior surgery"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "335", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 6, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006486", 
+            "org_study_id": "NCI-2012-02364", 
+            "secondary_id": [
+                "CLB-69901", 
+                "U10CA031946", 
+                "CDR0000068317"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm I (carboxyaminoimidazole)", 
+                    "Arm II (carboxyamidotriazole, placebo)"
+                ], 
+                "description": "Given orally", 
+                "intervention_name": "carboxyamidotriazole", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "CAI", 
+                    "carboxyamido-triazole", 
+                    "carboxyaminoimidazole"
+                ]
+            }, 
+            {
+                "arm_group_label": "Arm II (carboxyamidotriazole, placebo)", 
+                "description": "Given orally", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Other", 
+                "other_name": "PLCB"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Carboxyamido-triazole"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "January 15, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Chicago", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60606"
+                }, 
+                "name": "Cancer and Leukemia Group B"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase II Randomized Discontinuation Trial Of Carboxyaminoimidazole (CAI, NSC 609974) In Metastatic Renal Carcinoma", 
+        "overall_official": {
+            "affiliation": "Cancer and Leukemia Group B", 
+            "last_name": "Walter Stadler", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "October 2005", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Proportion of patients progressing on placebo to the proportion progressing on CAI", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 16 weeks"
+            }, 
+            {
+                "measure": "Proportions of patients with stable disease", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 16 weeks"
+            }, 
+            {
+                "measure": "Objective response", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 16 weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006486"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "October 2000", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "Cancer and Leukemia Group B": "41.878 -87.63"
+    }
+}

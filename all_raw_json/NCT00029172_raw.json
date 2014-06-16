@@ -1,0 +1,365 @@
+{
+    "clinical_study": {
+        "@rank": "121277", 
+        "arm_group": {
+            "arm_group_label": "Nurse Case management", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate a program of education, medicine, and monitoring\n      for the treatment of depression after a stroke."
+        }, 
+        "brief_title": "Treatment for Post-Stroke Depression", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "title": "Case Management"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "182"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "3", 
+                                            "@value": "61"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "99"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "83"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "182"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Depression remission was defined as HAM-D less than 8 or HAM-D decreased by 50%.\nThe Hamilton Rating Scale for Depression is measured on a scale from no depression - major depression, 0-52 units on a scale.", 
+                    "group_list": {
+                        "group": {
+                            "@group_id": "O1", 
+                            "title": "Case Management"
+                        }
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "O1", 
+                                                "@value": "182"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "O1", 
+                                                "@spread": "6.9", 
+                                                "@value": "10.6"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "description": "Depression remission was defined as HAM-D less than 8 or HAM-D decreased by 50%.\nThe Hamilton Rating Scale for Depression is measured on a scale from no depression - major depression, 0-52 units on a scale.", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Twelve Week Depression Outcomes", 
+                                "units": "HAM-D  depression score"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "No", 
+                    "time_frame": "Twelve week", 
+                    "title": "Twelve Week Depression Outcomes", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "title": "Case Management"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "188", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "182", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "6", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Subjects were recruited from 4  Indianapolis based hospitals. Depression enrollment and screening occurred between 1 and 2 months post stroke."
+            }, 
+            "point_of_contact": {
+                "email": "linda.williams6@va.gov", 
+                "name_or_title": "Dr. Linda Williams", 
+                "organization": "Roudebush VAMC Center of Excellence", 
+                "phone": "317-988-3337"
+            }
+        }, 
+        "completion_date": {
+            "#text": "December 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Depression"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Depression", 
+                "Depressive Disorder", 
+                "Stroke", 
+                "Cerebral Infarction"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This trial will compare outcomes in depressed patients receiving the\n      Activate-Initiate-Monitor (AIM) intervention vs. those receiving usual care, and will also\n      compare outcomes in depressed and non-depressed stroke survivors. Patients are screened for\n      depression 1 to 2 months post-stroke.  Patients with depression are then randomized to the\n      AIM intervention or control group.  Patients without depression are also enrolled at the\n      same time and are matched by hospital site to the depressed patients.\n\n      The AIM intervention is a 3-part program consisting of activating or educating the patient\n      and his/her family about post-stroke depression, instituting treatment for depression, and\n      monitoring antidepressant treatments for side effects, efficacy, and compliance.  Control\n      patients are evaluated and treated with usual care by their physicians.  Patients without\n      depression do not receive the intervention but complete the same assessments on the same\n      schedule as the patients with depression."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  No severe language or cognitive deficits,\n\n          -  life expectancy of at least 9 months, and\n\n          -  willingness to participate."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "188", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 8, 2002", 
+        "firstreceived_results_date": "August 3, 2009", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00029172", 
+            "org_study_id": "9903-06"
+        }, 
+        "intervention": {
+            "arm_group_label": "Nurse Case management", 
+            "intervention_name": "case management", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "stroke", 
+            "depression"
+        ], 
+        "lastchanged_date": "December 31, 2009", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Roudebush VA Medical Center, Health Services Research and Development 11H, 1481 W. 10th Street"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Indiana University Hospital, 550 N. University Blvd."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Methodist Hospital of Indiana, 1601 N. Capitol"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Wishard Memorial Hospital, 1001 W. 10th Street"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Treatment for Post-Stroke Depression", 
+        "overall_official": {
+            "affiliation": "Roudebush VA Medical Center Health Services Research and Development 11H", 
+            "last_name": "Linda Williams, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_outcome": {
+            "measure": "Twelve Week Depression Outcomes", 
+            "safety_issue": "No", 
+            "time_frame": "Twelve week"
+        }, 
+        "reference": [
+            {
+                "PMID": "15677576", 
+                "citation": "Williams LS, Brizendine EJ, Plue L, Bakas T, Tu W, Hendrie H, Kroenke K. Performance of the PHQ-9 as a screening tool for depression after stroke. Stroke. 2005 Mar;36(3):635-8. Epub 2005 Jan 27."
+            }, 
+            {
+                "PMID": "16809575", 
+                "citation": "Williams LS, Bakas T, Brizendine E, Plue L, Tu W, Hendrie H, Kroenke K. How valid are family proxy assessments of stroke patients' health-related quality of life? Stroke. 2006 Aug;37(8):2081-5. Epub 2006 Jun 29."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00029172"
+        }, 
+        "responsible_party": {
+            "name_title": "Linda Williams, M.D.", 
+            "organization": "Roudebush VA Medical Center"
+        }, 
+        "results_reference": {
+            "citation": "Williams LS, Kroenke K, Bakas T, Plue LD, Brizendine E, Tu W, Hendrie H. Care management of poststroke depression: a randomized, controlled trial. Stroke. 2007 Mar\u037e38(3):998--1003."
+        }, 
+        "source": "Indiana University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Indiana University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 1999", 
+        "study_design": "Allocation: Randomized, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2009"
+    }, 
+    "geocoordinates": {
+        "Indiana University Hospital, 550 N. University Blvd.": "39.769 -86.158", 
+        "Methodist Hospital of Indiana, 1601 N. Capitol": "39.769 -86.158", 
+        "Roudebush VA Medical Center, Health Services Research and Development 11H, 1481 W. 10th Street": "39.769 -86.158", 
+        "Wishard Memorial Hospital, 1001 W. 10th Street": "39.769 -86.158"
+    }
+}

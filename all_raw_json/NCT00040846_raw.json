@@ -1,0 +1,464 @@
+{
+    "clinical_study": {
+        "@rank": "77527", 
+        "arm_group": {
+            "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+            "arm_group_type": "Experimental", 
+            "description": "CONDITIONING REGIMEN: Patients receive alemtuzumab IV over 2 hours on days -8 to -5 and fludarabine phosphate IV on days -4 to -2. Patients also undergo low-dose TBI on day 0.\nHSCT: Patients undergo allogeneic peripheral blood stem cell transplantation on day 0.\nIMMUNOSUPPRESSION: Patients receive CSP IV or PO BID on days -3 to 180 with taper to day 365 and MMF PO TID on days 0-100, with taper to day 156."
+        }, 
+        "brief_summary": {
+            "textblock": "This phase II trial studies the side effects and the best dose of alemtuzumab when given\n      together with fludarabine phosphate and low-dose total body irradiation (TBI) and how well\n      it works before donor stem cell transplant in treating patients with hematological\n      malignancies. Giving chemotherapy and low-dose TBI before a donor peripheral blood stem cell\n      transplant helps stop the growth of cancer cells. It may also stop the patient's immune\n      system from rejecting the donor's stem cells. Also, monoclonal antibodies, such as\n      alemtuzumab, can find cancer cells and either kill them or deliver cancer-killing substances\n      to them without harming normal cells. When the healthy stem cells from a donor are infused\n      into the patient they may help the patient's bone marrow make stem cells, red blood cells,\n      white blood cells, and platelets. Sometimes the transplanted cells from a donor can also\n      make an immune response against the body's normal cells. Giving cyclosporine (CSP) and\n      mycophenolate mofetil (MMF) after transplant may stop this from happening."
+        }, 
+        "brief_title": "Alemtuzumab, Fludarabine Phosphate, and Low-Dose Total Body Irradiation Before Donor Stem Cell Transplantation in Treating Patients With Hematological Malignancies", 
+        "condition": [
+            "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities", 
+            "Adult Acute Myeloid Leukemia With Del(5q)", 
+            "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)", 
+            "Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)", 
+            "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)", 
+            "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)", 
+            "Adult Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Anaplastic Large Cell Lymphoma", 
+            "Angioimmunoblastic T-cell Lymphoma", 
+            "Childhood Burkitt Lymphoma", 
+            "Childhood Chronic Myelogenous Leukemia", 
+            "Childhood Diffuse Large Cell Lymphoma", 
+            "Childhood Immunoblastic Large Cell Lymphoma", 
+            "Childhood Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Chronic Phase Chronic Myelogenous Leukemia", 
+            "Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Contiguous Stage II Grade 1 Follicular Lymphoma", 
+            "Contiguous Stage II Grade 2 Follicular Lymphoma", 
+            "Contiguous Stage II Marginal Zone Lymphoma", 
+            "Contiguous Stage II Small Lymphocytic Lymphoma", 
+            "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue", 
+            "Hepatosplenic T-cell Lymphoma", 
+            "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable", 
+            "Nodal Marginal Zone B-cell Lymphoma", 
+            "Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Noncontiguous Stage II Grade 1 Follicular Lymphoma", 
+            "Noncontiguous Stage II Grade 2 Follicular Lymphoma", 
+            "Noncontiguous Stage II Marginal Zone Lymphoma", 
+            "Noncontiguous Stage II Small Lymphocytic Lymphoma", 
+            "Peripheral T-cell Lymphoma", 
+            "Previously Treated Myelodysplastic Syndromes", 
+            "Progressive Hairy Cell Leukemia, Initial Treatment", 
+            "Recurrent Adult Acute Myeloid Leukemia", 
+            "Recurrent Adult Burkitt Lymphoma", 
+            "Recurrent Adult Diffuse Large Cell Lymphoma", 
+            "Recurrent Adult Diffuse Mixed Cell Lymphoma", 
+            "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Recurrent Adult Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Adult Hodgkin Lymphoma", 
+            "Recurrent Adult Immunoblastic Large Cell Lymphoma", 
+            "Recurrent Adult Lymphoblastic Lymphoma", 
+            "Recurrent Adult T-cell Leukemia/Lymphoma", 
+            "Recurrent Childhood Acute Lymphoblastic Leukemia", 
+            "Recurrent Childhood Acute Myeloid Leukemia", 
+            "Recurrent Childhood Anaplastic Large Cell Lymphoma", 
+            "Recurrent Childhood Large Cell Lymphoma", 
+            "Recurrent Childhood Lymphoblastic Lymphoma", 
+            "Recurrent Childhood Small Noncleaved Cell Lymphoma", 
+            "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Recurrent Grade 1 Follicular Lymphoma", 
+            "Recurrent Grade 2 Follicular Lymphoma", 
+            "Recurrent Grade 3 Follicular Lymphoma", 
+            "Recurrent Mantle Cell Lymphoma", 
+            "Recurrent Marginal Zone Lymphoma", 
+            "Recurrent Mycosis Fungoides/Sezary Syndrome", 
+            "Recurrent Small Lymphocytic Lymphoma", 
+            "Recurrent/Refractory Childhood Hodgkin Lymphoma", 
+            "Refractory Chronic Lymphocytic Leukemia", 
+            "Refractory Hairy Cell Leukemia", 
+            "Refractory Multiple Myeloma", 
+            "Relapsing Chronic Myelogenous Leukemia", 
+            "Splenic Marginal Zone Lymphoma", 
+            "Stage I Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Stage I Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage I Childhood Large Cell Lymphoma", 
+            "Stage I Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage I Grade 1 Follicular Lymphoma", 
+            "Stage I Grade 2 Follicular Lymphoma", 
+            "Stage I Mantle Cell Lymphoma", 
+            "Stage I Marginal Zone Lymphoma", 
+            "Stage I Mycosis Fungoides/Sezary Syndrome", 
+            "Stage I Small Lymphocytic Lymphoma", 
+            "Stage II Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage II Childhood Large Cell Lymphoma", 
+            "Stage II Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage II Mycosis Fungoides/Sezary Syndrome", 
+            "Stage III Adult Diffuse Large Cell Lymphoma", 
+            "Stage III Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Stage III Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage III Childhood Large Cell Lymphoma", 
+            "Stage III Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage III Grade 1 Follicular Lymphoma", 
+            "Stage III Grade 2 Follicular Lymphoma", 
+            "Stage III Mantle Cell Lymphoma", 
+            "Stage III Marginal Zone Lymphoma", 
+            "Stage III Mycosis Fungoides/Sezary Syndrome", 
+            "Stage III Small Lymphocytic Lymphoma", 
+            "Stage IV Adult Diffuse Large Cell Lymphoma", 
+            "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Stage IV Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage IV Childhood Large Cell Lymphoma", 
+            "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage IV Grade 1 Follicular Lymphoma", 
+            "Stage IV Grade 2 Follicular Lymphoma", 
+            "Stage IV Mantle Cell Lymphoma", 
+            "Stage IV Marginal Zone Lymphoma", 
+            "Stage IV Mycosis Fungoides/Sezary Syndrome", 
+            "Stage IV Small Lymphocytic Lymphoma", 
+            "T-cell Large Granular Lymphocyte Leukemia", 
+            "Waldenstr\u00f6m Macroglobulinemia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Congenital Abnormalities", 
+                "Burkitt Lymphoma", 
+                "Neoplasms", 
+                "Hodgkin Disease", 
+                "Immunoblastic Lymphadenopathy", 
+                "Leukemia", 
+                "Leukemia, Lymphocytic, Chronic, B-Cell", 
+                "Leukemia, Hairy Cell", 
+                "Leukemia, Lymphoid", 
+                "Precursor Cell Lymphoblastic Leukemia-Lymphoma", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelogenous, Chronic, BCR-ABL Positive", 
+                "Leukemia, Myeloid, Chronic-Phase", 
+                "Leukemia, T-Cell", 
+                "Leukemia-Lymphoma, Adult T-Cell", 
+                "Lymphoma", 
+                "Lymphoma, Follicular", 
+                "Lymphoma, Non-Hodgkin", 
+                "Lymphomatoid Granulomatosis", 
+                "Waldenstrom Macroglobulinemia", 
+                "Multiple Myeloma", 
+                "Neoplasms, Plasma Cell", 
+                "Mycoses", 
+                "Mycosis Fungoides", 
+                "Myelodysplastic Syndromes", 
+                "Preleukemia", 
+                "Myeloproliferative Disorders", 
+                "Sezary Syndrome", 
+                "Lymphoma, B-Cell", 
+                "Lymphoma, Large B-Cell, Diffuse", 
+                "Lymphoma, Large-Cell, Immunoblastic", 
+                "Lymphoma, T-Cell", 
+                "Lymphoma, T-Cell, Cutaneous", 
+                "Lymphoma, T-Cell, Peripheral", 
+                "Lymphoma, Large-Cell, Anaplastic", 
+                "Lymphoma, B-Cell, Marginal Zone", 
+                "Lymphoma, Extranodal NK-T-Cell", 
+                "Lymphoma, Mantle-Cell", 
+                "Hematologic Neoplasms", 
+                "Myelodysplastic-Myeloproliferative Diseases", 
+                "Leukemia, Large Granular Lymphocytic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To determine whether stable allogeneic engraftment from related and unrelated human\n      leukocyte antigen (HLA)-mismatched stem cell donors can be safely established using a\n      non-myeloablative conditioning regimen plus escalating doses of the anti-CD52 monoclonal\n      antibody (mAb) Campath (alemtuzumab) in patients with hematologic malignancies.\n\n      SECONDARY OBJECTIVES:\n\n      I. Evaluate the risk of occurrence of acute and chronic graft-vs-host disease (GVHD).\n\n      II. Evaluate the risk/incidence of infections.\n\n      III. Determine whether engraftment can be maintained with a single dose fludarabine, donor\n      lymphocyte infusion (DLI) and continued MMF/CSP.\n\n      IV. Evaluate the risk for disease progression and relapse.\n\n      OUTLINE: This is a dose-escalation study of alemtuzumab.\n\n      CONDITIONING REGIMEN: Patients receive alemtuzumab intravenously (IV) over 2 hours on days\n      -8 to -5 and fludarabine phosphate IV on days -4 to -2. Patients also undergo low-dose TBI\n      on day 0.\n\n      HEMATOPOIETIC STEM CELL TRANSPLANTATION (HSCT): Patients undergo allogeneic peripheral blood\n      stem cell transplantation on day 0.\n\n      IMMUNOSUPPRESSION: Patients receive CSP IV or orally (PO) twice daily (BID) on days -3 to\n      180 with taper to day 365 and MMF PO thrice daily (TID) on days 0-100 with taper to day 156.\n\n      After completion of study treatment, patients are followed up periodically."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients must be not eligible for conventional transplants and must have disease\n             expected to be stable for at least 100 days without chemotherapy; patients with\n             hematologic malignancies treatable with hematopoietic stem cell transplant (HSCT) or\n             with a B cell malignancy except those treatable with autologous transplant will be\n             included\n\n          -  Aggressive non-Hodgkin lymphomas (NHLs) and Other Histologies Such as Diffuse large B\n             cell NHL\n\n               -  Patients with primary refractory or relapsed disease not eligible for an\n                  autologous transplant\n\n               -  Patients are eligible following an autologous transplant in remission or in\n                  relapse\n\n               -  Planned tandem transplant is allowed for patients at high risk of relapse\n\n          -  Low grade NHL with < 6 months duration of complete remission (CR) between courses of\n             conventional therapy\n\n          -  Mantle Cell NHL may be treated in first CR\n\n          -  Chronic lymphocytic leukemia (CLL) - Must have failed 2 lines of conventional therapy\n             and be refractory to fludarabine\n\n          -  Hodgkin disease (HD) - Must have received and failed frontline therapy; patients must\n             have had a prior autologous transplant or were not eligible for autologous\n             transplant; planned tandem transplants are allowed for patients at high risk of\n             relapse\n\n          -  Multiple myeloma (MM) - Must have received prior chemotherapy and a prior autologous\n             transplant, unless autologous transplant was not possible; planned tandem transplants\n             are allowed for patients at high risk of relapse\n\n          -  Acute myeloid leukemia (AML) - Must have < 5% marrow blasts at the time of transplant\n\n          -  Acute lymphocytic leukemia (ALL) - Must have < 5% blasts at the time of transplant\n\n          -  Chronic myeloid leukemia (CML) - Patients will be accepted beyond chronic phase 1\n             (CP1) if they have received previous myelosuppressive chemotherapy or HSCT, and have\n             < 5% marrow blasts at time of transplant\n\n          -  Myelodysplastic (MDS)/Myeloproliferative disorders - Must have failed previous\n             myelosuppressive chemotherapy or HSCT, and have < 5% marrow blasts at time of\n             transplant\n\n          -  Waldenstrom's Macroglobulinemia - Must have failed 2 courses of therapy\n\n          -  Patients < 12 years old must be approved by the Fred Hutchinson Cancer Research\n             Center (FHCRC) principal investigator (PI)\n\n          -  Patients who refuse to be treated on a conventional transplant protocol; for this\n             inclusion, criteria transplants must be approved by both the participating\n             institution\u00b4s patient review committee such as the Patient Care Conference (PCC) at\n             the FHCRC and the FHCRC principal investigator\n\n          -  Patients with related or unrelated donors for whom\n\n               -  The best available match is a HLA class II DRB1 and DQB1 matched donor\n                  incompatible for any single serologically detectable class I HLA-A, -B, -C\n                  mismatch; one additional allele level class I mismatch is allowed OR any\n                  combination of 2 allele level mismatches (if typed at the molecular level)\n\n               -  There is a likelihood of rapid disease progression while HLA typing and results\n                  of a preliminary search and the donor pool suggests that a 10/10 HLA-A, B, C,\n                  DRB1 and DQB1 matched unrelated donor will not be found\n\n               -  There is no HLA-A, -B or -C one locus allelic mismatched related donor available\n\n               -  There is no indication for an autologous transplantation as a treatment option\n\n          -  DONOR: Related or unrelated donors who are matched for HLA-DRB1 and DQB1 alleles\n             (must be defined by high resolution typing), and who are mismatched for:\n\n               -  Any single serologically detectable HLA-A or B or C antigen +/- 1 allele or\n\n               -  Any combination of two HLA-A, -B, or -C alleles (if prospectively typed at\n                  molecular level)\n\n        Exclusion Criteria:\n\n          -  Patients who are homozygous at the mismatched major histocompatibility complex (MHC)\n             class I locus\n\n          -  A positive cross-match exists between the donor and recipient\n\n          -  Patients with rapidly progressive intermediate or high grade NHL\n\n          -  Presence of circulating leukemic blasts (in the peripheral blood) detected by\n             standard pathology for patients with AML, ALL or CML\n\n          -  Life expectancy severely limited by diseases other than malignancy\n\n          -  Central nervous system (CNS) involvement with disease refractory to intrathecal\n             chemotherapy\n\n          -  Fertile men or women unwilling to use contraceptives during and for up to 12 months\n             post treatment\n\n          -  Female patients who are pregnant or breast-feeding\n\n          -  Human immunodeficiency virus (HIV) positive patients\n\n          -  Patients with active non-hematologic malignancies (except non-melanoma skin cancers)\n\n          -  Patients with a history of non-hematologic malignancies (except non-melanoma skin\n             cancers) currently in a complete remission, who are less than 5 years from the time\n             of complete remission, and have a > 20% risk of disease recurrence\n\n          -  Fungal infections with radiological progression after receipt of amphotericin B or\n             active triazole for greater than 1 month\n\n          -  Patients with active bacterial or fungal infections unresponsive to medical therapy\n\n          -  Patients with the following organ dysfunction symptomatic coronary artery disease or\n             ejection fraction < 35% or other cardiac failure requiring therapy; ejection fraction\n             is required if the patient is > 50 years of age, or history of cardiac disease or\n             anthracycline exposure\n\n               -  Diffusion capacity of carbon monoxide (DLCO) < 35%; total lung capacity (TLC) <\n                  35%; or forced expiratory volume in one second (FEV1) < 35% and/or receiving\n                  supplementary continuous oxygen\n\n               -  Patients with clinical or laboratory evidence of liver disease would be\n                  evaluated for the cause of liver disease, its clinical severity in terms of\n                  liver function, bridging fibrosis, and the degree of portal hypertension;\n                  patients will be excluded if they are found to have fulminant liver failure;\n                  cirrhosis of the liver with evidence of portal hypertension; alcoholic\n                  hepatitis; esophageal varices; a history of bleeding esophageal varices; hepatic\n                  encephalopathy; uncorrectable hepatic synthetic dysfunction evinced by\n                  prolongation of the prothrombin time; ascites related to portal hypertension;\n                  bacterial or fungal liver abscess; biliary obstruction; chronic viral hepatitis\n                  with total serum bilirubin >3 mg/dL; or symptomatic biliary disease\n\n               -  Patients with poorly controlled hypertension on multiple antihypertensives\n\n               -  Karnofsky score < 70 for adult patients\n\n               -  Lansky-Play Performance Score < 50 for pediatric patients\n\n          -  DONOR: Bone marrow (BM) donors\n\n          -  DONOR: Donors who are HIV-positive and/or, medical conditions that would result in\n             increased risk for granulocyte colony-stimulating factor (G-CSF) mobilization and\n             harvest of peripheral blood stem cell (PBSC)\n\n          -  DONOR: Donors < 12 years of age"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "74 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 8, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00040846", 
+            "org_study_id": "1591.00", 
+            "secondary_id": [
+                "NCI-2011-00471", 
+                "1591.00", 
+                "P30CA015704", 
+                "P01CA018029"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Given IV", 
+                "intervention_name": "alemtuzumab", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "anti-CD52 monoclonal antibody", 
+                    "Campath-1H", 
+                    "MoAb CD52", 
+                    "Monoclonal Antibody Campath-1H", 
+                    "Monoclonal Antibody CD52"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Given IV", 
+                "intervention_name": "fludarabine phosphate", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "2-F-ara-AMP", 
+                    "Beneflur", 
+                    "Fludara"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Undergo TBI", 
+                "intervention_name": "total-body irradiation", 
+                "intervention_type": "Radiation", 
+                "other_name": "TBI"
+            }, 
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Undergo allogeneic HSCT", 
+                "intervention_name": "allogeneic hematopoietic stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Undergo allogeneic peripheral blood stem cell transplantation", 
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure", 
+                "other_name": [
+                    "PBPC transplantation", 
+                    "PBSC transplantation", 
+                    "peripheral blood progenitor cell transplantation", 
+                    "transplantation, peripheral blood stem cell"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Given PO", 
+                "intervention_name": "mycophenolate mofetil", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Cellcept", 
+                    "MMF"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (dose-escalation of alemtuzumab, HSCT)", 
+                "description": "Given IV or PO", 
+                "intervention_name": "cyclosporine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "ciclosporin", 
+                    "cyclosporin", 
+                    "cyclosporin A", 
+                    "CYSP", 
+                    "Sandimmune"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Antibodies", 
+                "Antibodies, Monoclonal", 
+                "Cyclosporins", 
+                "Cyclosporine", 
+                "Mycophenolate mofetil", 
+                "Fludarabine monophosphate", 
+                "Campath 1G", 
+                "Antibodies, Neoplasm", 
+                "Mycophenolic Acid", 
+                "Vidarabine", 
+                "Fludarabine", 
+                "Alemtuzumab"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "January 8, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }, 
+                    "name": "Presbyterian - Saint Lukes Medical Center - Health One"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84143"
+                    }, 
+                    "name": "LDS Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84112"
+                    }, 
+                    "name": "Huntsman Cancer Institute/University of Utah"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109"
+                    }, 
+                    "name": "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98101"
+                    }, 
+                    "name": "VA Puget Sound Health Care System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Froedtert Memorial Lutheran Hospital, Medical College of Wisconsin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "University of Torino"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Italy"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Campath\u00ae [Alemtuzumab] Dose Escalation, Low-Dose TBI and Fludarabine Followed by HLA Class I Mismatched Donor Stem Cell Transplantation for Patients With Hematologic Malignancies - A Multi-Center Trial", 
+        "overall_official": {
+            "affiliation": "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium", 
+            "last_name": "Brenda Sandmaier", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "In this setting using HLA mismatched related and unrelated donors, an acceptable dose level will have a rejection rate of less than 20%, a rate of acute grade 3 or 4 GVHD of 50% or less, and a rate of day 100 transplant related mortality of 35% or less.", 
+            "measure": "Dose level of alemtuzumab with fludarabine phosphate and TBI that has an acceptable rate of graft rejection that is not associated with high rate GVHD or transplant related mortality.", 
+            "safety_issue": "No", 
+            "time_frame": "Assessed up to day 28"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00040846"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Mixed chimerism will be defined as the detection of donor T cells (CD3+) and granulocytes (CD 33+), as a proportion of the total T cell and granulocyte population, respectively, of greater than 5% and less than 95% in the peripheral blood. Full donor chimerism is defined as > 95% donor CD3+ T cells.", 
+                "measure": "Donor chimerism", 
+                "safety_issue": "No", 
+                "time_frame": "Day 28"
+            }, 
+            {
+                "description": "Mixed chimerism will be defined as the detection of donor T cells (CD3+) and granulocytes (CD 33+), as a proportion of the total T cell and granulocyte population, respectively, of greater than 5% and less than 95% in the peripheral blood. Full donor chimerism is defined as > 95% donor CD3+ T cells.", 
+                "measure": "Donor chimerism", 
+                "safety_issue": "No", 
+                "time_frame": "Day 56"
+            }, 
+            {
+                "description": "Mixed chimerism will be defined as the detection of donor T cells (CD3+) and granulocytes (CD 33+), as a proportion of the total T cell and granulocyte population, respectively, of greater than 5% and less than 95% in the peripheral blood. Full donor chimerism is defined as > 95% donor CD3+ T cells.", 
+                "measure": "Donor chimerism", 
+                "safety_issue": "No", 
+                "time_frame": "Day 84"
+            }, 
+            {
+                "description": "Skin involvement will be assessed by biopsy with percentage of body surface area involved recorded. GI symptoms suspicious for GVHD will be evaluated by biopsy as indicated. Acute GVHD and chronic GVHD will be graded according to established criteria.", 
+                "measure": "Rate of GVHD", 
+                "safety_issue": "No", 
+                "time_frame": "Day 84"
+            }, 
+            {
+                "measure": "Rate of infections", 
+                "safety_issue": "No", 
+                "time_frame": "Assessed up to day 100"
+            }, 
+            {
+                "measure": "Disease progression/relapse", 
+                "safety_issue": "No", 
+                "time_frame": "Assessed up to 5 years"
+            }
+        ], 
+        "source": "Fred Hutchinson Cancer Research Center", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Fred Hutchinson Cancer Research Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2001", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }, 
+    "geocoordinates": {
+        "Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium": "47.606 -122.332", 
+        "Froedtert Memorial Lutheran Hospital, Medical College of Wisconsin": "43.039 -87.906", 
+        "Huntsman Cancer Institute/University of Utah": "40.761 -111.891", 
+        "LDS Hospital": "40.761 -111.891", 
+        "Presbyterian - Saint Lukes Medical Center - Health One": "39.739 -104.985", 
+        "University of Torino": "45.071 7.684", 
+        "VA Puget Sound Health Care System": "47.606 -122.332"
+    }
+}

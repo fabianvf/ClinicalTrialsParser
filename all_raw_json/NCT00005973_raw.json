@@ -1,0 +1,127 @@
+{
+    "clinical_study": {
+        "@rank": "122939", 
+        "arm_group": {
+            "arm_group_label": "Treatment", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive BMS-214662 IV over 1 hour on days 1, 8, 15, and 22. Treatment repeats every 6 weeks in the absence of disease progression or unacceptable toxicity."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase I trial to study the effectiveness of BMS-214662 in treating patients who have solid\n      tumors. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so\n      they stop growing or die"
+        }, 
+        "brief_title": "BMS-214662 in Treating Patients With Solid Tumors", 
+        "condition": [
+            "Unspecified Adult Solid Tumor, Protocol Specific", 
+            "Unspecified Childhood Solid Tumor, Protocol Specific"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the maximum tolerated dose of BMS-214662 in patients with solid tumors.\n\n      II. Evaluate intermediate biological endpoints as surrogates for the effectiveness of this\n      drug in these patients.\n\n      III. Determine the nature of dose limiting toxicity of this drug in this patient population.\n\n      IV. Determine the recommended phase II regimen of this drug in these patients. V. Establish\n      a pharmacologic and pharmacokinetic profile of this drug in these patients.\n\n      OUTLINE: This is a dose escalation study.\n\n      Patients receive BMS-214662 IV over 1 hour on days 1, 8, 15, and 22. Treatment repeats every\n      6 weeks in the absence of disease progression or unacceptable toxicity.\n\n      Cohorts of 3-6 patients receive escalating doses of BMS-214662 until the maximum tolerated\n      dose (MTD) is determined. The MTD is defined as the dose at which 2 of 6 patients experience\n      dose limiting toxicities.\n\n      Patients are followed every 3 months for at least 24 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Diagnosis of malignant solid tumor for which a standard curative therapy does not\n             exist\n\n          -  Performance status - Karnofsky 70-100%\n\n          -  At least 6 months\n\n          -  WBC at least 3,000/mm^3\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n          -  Hemoglobin at least 10.0 g/dL\n\n          -  Bilirubin no greater than 2.0 mg/dL\n\n          -  AST no greater than 2 times upper limit of normal\n\n          -  Albumin at least 3.0 g/dL\n\n          -  Creatinine no greater than 1.5 mg/dL\n\n          -  No uncontrolled heart disease\n\n          -  No history of clinically significant cardiac arrhythmia that could be exacerbated by\n             QT interval prolongation\n\n          -  Corrected QT interval no greater than 450 milliseconds\n\n          -  Must not require total parenteral nutrition\n\n          -  No manifestations of malabsorption syndrome due to prior surgery, gastrointestinal\n             disease, or unknown reasons\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective contraception\n\n          -  No signs or symptoms of acute infection requiring systemic therapy\n\n          -  No grade 3 or 4 neurotoxicity from prior anticancer treatment or neuropathy from any\n             cause\n\n          -  No confusion, disorientation, or psychiatric illness that may preclude study\n\n          -  No more than 3 prior chemotherapy regimens\n\n          -  At least 4 weeks since prior chemotherapy (6 weeks since prior nitrosoureas or\n             mitomycin) and recovered\n\n          -  No other concurrent antineoplastic agents\n\n          -  No concurrent hormonal anticancer therapy\n\n          -  At least 4 weeks since prior radiotherapy\n\n          -  No concurrent radiotherapy\n\n          -  Prior drugs known to prolong the QT interval allowed if they can be safely\n             discontinued for a time period equal to 4 elimination half-lives prior to\n             administering study drug\n\n          -  No drugs known to prolong the QT interval during and for 24 hours after study drug\n\n          -  No concurrent therapy with known CYP3A4 substrates\n\n          -  No other concurrent investigational agents"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 5, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00005973", 
+            "org_study_id": "NCI-2012-02343", 
+            "secondary_id": [
+                "ID99-304", 
+                "U01CA062461", 
+                "CDR0000067960"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment", 
+                "description": "Given IV", 
+                "intervention_name": "BMS-214662", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "farnesyltransferase inhibitor BMS-214662", 
+                    "FTI BMS 214662"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment", 
+                "description": "Correlative studies", 
+                "intervention_name": "laboratory biomarker analysis", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "January 22, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Houston", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "77030"
+                }, 
+                "name": "M D Anderson Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase I Study of Farnesyl Transferase Inhibitor BMS-214662 (NSC 710086D) in Solid Tumors", 
+        "overall_official": {
+            "affiliation": "M.D. Anderson Cancer Center", 
+            "last_name": "Vassiliki Papadimitrakopoulou", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "July 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Toxicity is defined as grade 3, 4 non-hematologic and grade 4 hematologic (neutropenia and thrombocytopenia) toxicity. The continual reassessment method (CRM) will be used.", 
+            "measure": "MTD, defined as the dose level among the 9 levels studied having toxicity rate closest to a target of 33%, graded according to CTC version 2.0", 
+            "safety_issue": "Yes", 
+            "time_frame": "Up to 6 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00005973"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "April 2000", 
+        "study_design": "Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "M D Anderson Cancer Center": "29.76 -95.369"
+    }
+}

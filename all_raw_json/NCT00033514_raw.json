@@ -1,0 +1,180 @@
+{
+    "clinical_study": {
+        "@rank": "23653", 
+        "arm_group": {
+            "arm_group_label": "treatment", 
+            "arm_group_type": "Experimental", 
+            "description": "please see intervention description"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Monoclonal antibodies such as trastuzumab can locate tumor cells and either kill\n      them or deliver tumor-killing substances to them without harming normal cells. Biological\n      therapies such as erlotinib may interfere with the growth of tumor cells and slow the growth\n      of the tumor. Combining trastuzumab with erlotinib may kill more tumor cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of combining trastuzumab with erlotinib\n      as first-line therapy in treating women who have metastatic breast cancer associated with\n      HER2/neu overexpression."
+        }, 
+        "brief_title": "Trastuzumab and Erlotinib as First-Line Therapy in Treating Women With Metastatic Breast Cancer Associated With HER2/Neu Overexpression", 
+        "completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the maximum tolerated dose and recommended phase II dose of erlotinib when\n           combined with trastuzumab (Herceptin) as first-line therapy in women with metastatic\n           breast cancer associated with HER2/neu overexpression. (Phase I closed to accrual as of\n           01/2004)\n\n        -  Determine the safety profile of this regimen in these patients.\n\n        -  Determine the rate and duration of objective response in patients treated with this\n           regimen.\n\n        -  Determine the pharmacologic behavior of this regimen in these patients.\n\n        -  Determine time to disease progression and duration of survival in patients treated with\n           this regimen.\n\n        -  Correlate the antitumor activity of this regimen with epidermal growth factor receptor\n           expression in these patients.\n\n      OUTLINE: This is a dose-escalation study of erlotinib. (Phase I closed to accrual as of\n      01/2004).\n\n      Patients receive oral erlotinib once daily beginning on day 2 and trastuzumab (Herceptin) IV\n      over 30-90 minutes (1-4 hours after erlotinib) once weekly beginning on day 1. Courses\n      repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\n      Cohorts of 3-6 patients receive escalating doses of erlotinib until the maximum tolerated\n      dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2\n      of 6 patients experience dose-limiting toxicity. Once the MTD is determined, additional\n      patients are treated at the recommended phase II dose.\n\n      Patients are followed every 2 months.\n\n      PROJECTED ACCRUAL: A total of 3-18 patients will be accrued for the phase I portion (closed\n      to accrual as of 01/2004) and 27-81 patients will be accrued for the phase II portion of\n      this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Women aged > 18 years\n\n          -  Histologically documents metastatic breast cancer\n\n          -  HER2 positive using FISH\n\n          -  For phase I, patients who have previously received treatment for their metastatic\n             disease are allowed to participate.\n\n          -  For the phase II portion of the study, patients must have measureable disease (> 2\n             cm; > 1 cm on spiral CT scan)\n\n          -  ECOG performance status of 0 to 2\n\n          -  A life expectancy of  > 3 months\n\n          -  Use of effective means of contraception\n\n        Exclusion Criteria:\n\n          -  For Phase II, prior cytotoxic chemotherapy and/or prior Herceptin for their\n             metastatic disease.  Prior treatment in the adjuvant setting is allowed."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "26", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 9, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00033514", 
+            "org_study_id": "CDR0000069295", 
+            "secondary_id": [
+                "P30CA016042", 
+                "UCLA-0106020", 
+                "GENENTECH-OSI2365s", 
+                "NCI-G02-2057"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "treatment", 
+                "description": "Day 1 4mg/kg IV 2 mg/kg IV weekly.", 
+                "intervention_name": "trastuzumab", 
+                "intervention_type": "Biological", 
+                "other_name": "Herceptin"
+            }, 
+            {
+                "arm_group_label": "treatment", 
+                "description": "100 mg daily on Course 1 Day 2.  After three weeks patients who have not experienced specific adverse events, dose will be escalated to 150 mg daily.  Patients who have experienced specific adverse events dose will remain 100 mg daily or dose reduced as necessary per protocol.", 
+                "intervention_name": "erlotinib hydrochloride", 
+                "intervention_type": "Drug", 
+                "other_name": "OSI-774"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Trastuzumab", 
+                "Erlotinib"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage IV breast cancer", 
+            "recurrent breast cancer"
+        ], 
+        "lastchanged_date": "August 22, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/UCLA-0106020"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "90095-1781"
+                }, 
+                "name": "Jonsson Comprehensive Cancer Center at UCLA"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase I/II Study Of Herceptin Combined With OSI-774 In The First-Line Treatment Of Metastatic Breast Cancer Associated With HER2/Neu Overexpression", 
+        "overall_official": {
+            "affiliation": "Jonsson Comprehensive Cancer Center", 
+            "last_name": "Carolyn Britten, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "The objective response rate as defined as the rate of complete and partial responses determined on two consecutive occasions greater than or equal to 4 weeks a part.", 
+            "safety_issue": "No", 
+            "time_frame": "5 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00033514"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "19299235", 
+            "citation": "Britten CD, Finn RS, Bosserman LD, Wong SG, Press MF, Malik M, Lum BL, Slamon DJ. A phase I/II trial of trastuzumab plus erlotinib in metastatic HER2-positive breast cancer: a dual ErbB targeted approach. Clin Breast Cancer. 2009 Feb;9(1):16-22."
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Duration of objective response, time to disease progression, and duration of survival", 
+                "safety_issue": "No", 
+                "time_frame": "5 years"
+            }, 
+            {
+                "measure": "Incidence and severity of adverse events", 
+                "safety_issue": "Yes", 
+                "time_frame": "5 years"
+            }, 
+            {
+                "measure": "Serum concentration of Herceptin at specified time-points.", 
+                "safety_issue": "No", 
+                "time_frame": "4 months"
+            }, 
+            {
+                "measure": "Measurement of HER2 shedding in blood samples and the examination of skin biopsies for EGFR expression and phosphorylation, mitogen-activated protein kinase phosphorylation, and cyclin-dependent kinase inhibitor p27 expression.", 
+                "safety_issue": "No", 
+                "time_frame": "4 months"
+            }
+        ], 
+        "source": "Jonsson Comprehensive Cancer Center", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "Genentech", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Jonsson Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2001", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }, 
+    "geocoordinates": {
+        "Jonsson Comprehensive Cancer Center at UCLA": "34.052 -118.244"
+    }
+}

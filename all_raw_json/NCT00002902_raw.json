@@ -1,0 +1,104 @@
+{
+    "clinical_study": {
+        "@rank": "3393", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one drug may kill more tumor cells.\n\n      PURPOSE: Phase I trial to study the effectiveness of irinotecan plus ICI D1694 in treating\n      patients with advanced solid tumors."
+        }, 
+        "brief_title": "Irinotecan Plus ICI D1694 in Treating Patients With Advanced Solid Tumors", 
+        "condition": "Unspecified Adult Solid Tumor, Protocol Specific", 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the maximum tolerated dose of ICI D1694 (TDX) when given with\n      irinotecan (CPT-11) every 3 weeks in patients with advanced solid malignancies. II. Describe\n      the pharmacokinetics of TDX and CPT-11 when given in combination. III. Investigate the\n      relationship between topoisomerase I expression in peripheral mononuclear cells and\n      myelosuppression and/or gastrointestinal toxicity. IV. Investigate the effect of CPT-11 on\n      thymidylate synthase expression in tumor.\n\n      OUTLINE: This is a dose-escalating study to determine the maximum tolerated dose (MTD) of\n      ICI D1694 (TDX) given in combination with irinotecan. Irinotecan is given intravenously on\n      day 1 and ICI D1694 intravenously on day 2. Treatment is repeated every 3 weeks until\n      disease progression or unacceptable toxicity intervenes. Cohorts of 3-6 patients receive\n      escalated doses of TDX until the MTD is defined; an additional 10-12 patients will be\n      entered at the MTD to confirm this as a recommended phase II dose.\n\n      PROJECTED ACCRUAL: 30-35 patients will be entered."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed solid tumor for which no effective\n        therapy exists Measurable or evaluable disease\n\n        PATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0 or 1 Hematopoietic:\n        WBC at least 3,000 AGC at least 1,500 Platelets at least 100,000 Hepatic: Bilirubin no\n        greater than 1.5 mg/dL AST/ALT no greater than 5 times normal Renal: Creatinine no greater\n        than 1.5 mg/dL Metabolic: Glucose no greater than 200 mg/dL Electrolytes within 10% normal\n        Other: No active infection that contraindicates entry No significant medical problem that\n        contraindicates entry Effective contraception required of fertile patients Able and\n        willing to participate in pharmacokinetic sampling\n\n        PRIOR CONCURRENT THERAPY: At least 3 weeks since chemotherapy (6 weeks since mitomycin or\n        nitrosoureas) and recovered At least 3 weeks since radiotherapy and recovered"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002902", 
+            "org_study_id": "CDR0000065242", 
+            "secondary_id": [
+                "UPCC-T96-0063", 
+                "JMC-T96-0063", 
+                "NCI-T96-0063O"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "irinotecan hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "raltitrexed", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Irinotecan", 
+                "Camptothecin", 
+                "Raltitrexed"
+            ]
+        }, 
+        "keyword": "unspecified adult solid tumor, protocol specific", 
+        "lastchanged_date": "July 23, 2008", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/UPCC-T96-0063"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "University of Pennsylvania Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "PHASE I TRIAL OF IRINOTECAN AND TOMUDEX IN COMBINATION ON AN EVERY THREE WEEK SCHEDULE", 
+        "overall_official": {
+            "affiliation": "Abramson Cancer Center of the University of Pennsylvania", 
+            "last_name": "Peter J. O'Dwyer, MD, BCh", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002902"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 1997", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2002"
+    }, 
+    "geocoordinates": {
+        "University of Pennsylvania Cancer Center": "39.952 -75.164"
+    }
+}

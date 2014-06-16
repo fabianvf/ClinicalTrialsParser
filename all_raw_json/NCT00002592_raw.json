@@ -1,0 +1,134 @@
+{
+    "clinical_study": {
+        "@rank": "154924", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining chemotherapy with autologous bone marrow\n      transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill\n      more cancer cells.\n\n      PURPOSE: Phase II trial to study the effectiveness of chemotherapy followed by autologous\n      bone marrow transplantation in treating patients with chronic myelogenous leukemia."
+        }, 
+        "brief_title": "Chemotherapy and Bone Marrow Transplantation in Treating Patients With Chronic Myelogenous Leukemia", 
+        "condition": "Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Evaluate the ability of c-myb antisense oligodeoxynucleotide to purge bone\n      marrow cells of clonogenic chronic myelogenous leukemia tumor cells and repopulate the bone\n      marrow with normal stem cells in patients treated with high-dose busulfan and\n      cyclophosphamide followed by autologous bone marrow transplantation using marrow treated\n      with c-myb antisense oligodeoxynucleotide. II. Determine the response rate, degree of\n      hematopoietic reconstitution, overall survival, and relapse-free survival of patients\n      treated with this regimen. III. Determine the toxicity of this regimen in these patients.\n\n      OUTLINE: Patients undergo bone marrow harvest. The bone marrow is treated with c-myb\n      antisense oligodeoxynucleotide and cryopreserved. A portion of the marrow is cryopreserved\n      untreated in case of engraftment failure. Patients receive oral busulfan every 6 hours on\n      days -7 to -4 for a total of 16 doses. Patients receive cyclophosphamide IV over 1 hour on\n      days -3 and -2. Bone marrow is reinfused on day 0. Patients receive filgrastim (G-CSF)\n      subcutaneously daily beginning on day 0 and continuing until blood counts recover. Patients\n      are followed every 2-3 months for 2 years.\n\n      PROJECTED ACCRUAL: A total of 40 patients will be accrued for this study within 18-24\n      months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically and cytologically proven chronic myelogenous\n        leukemia Accelerated phase OR Chronic phase No hypocellular marrow (less than 25%\n        cellularity) No patients under age 55 with a HLA-matched sibling donor\n\n        PATIENT CHARACTERISTICS: Age: 18 to 60 Performance status: 0-1 Hematopoietic: Granulocyte\n        count greater than 1,000/mm3 Platelet count greater than 100,000/mm3 Hepatic: Bilirubin\n        less than 1.5 mg/dL AST less than 3 times normal Renal: Creatinine less than 2.0 mg/dL\n        Creatinine clearance greater than 60 mL/min Cardiovascular: Left ventricular ejection\n        fraction normal No significant cardiac disease requiring digoxin, diuretics,\n        antiarrhythmics, or antianginal medications Pulmonary: PFTs normal DLCO normal Other: No\n        persistent infection requiring antibiotics No concurrent organ damage or medical problem\n        that would preclude study Not pregnant or nursing Negative pregnancy test Fertile patients\n        must use effective contraception\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: At least 3 months since prior interferon\n        therapy Chemotherapy: Not specified Endocrine therapy: Not specified Radiotherapy: Not\n        specified Surgery: Not specified"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002592", 
+            "org_study_id": "CDR0000063772", 
+            "secondary_id": [
+                "UPCC-3492", 
+                "NCI-H94-0532"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "c-myb antisense oligonucleotide G4460", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "filgrastim", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "busulfan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "autologous bone marrow transplantation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "intervention_name": "in vitro-treated bone marrow transplantation", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Busulfan", 
+                "Cyclophosphamide", 
+                "Lenograstim"
+            ]
+        }, 
+        "keyword": [
+            "relapsing chronic myelogenous leukemia", 
+            "chronic phase chronic myelogenous leukemia", 
+            "accelerated phase chronic myelogenous leukemia"
+        ], 
+        "lastchanged_date": "February 6, 2009", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/UPCC-3492"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104-4283"
+                }, 
+                "name": "University of Pennsylvania Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "AUTOLOGOUS BONE MARROW TRANSPLANTATION USING C-MYB (LR-3001) ANTISENSE OLIGODEOXYNUCLEOTIDE TREATED BONE MARROW IN CHRONIC MYELOGENOUS LEUKEMIA IN CHRONIC OR ACCELERATED PHASE", 
+        "overall_official": {
+            "affiliation": "Abramson Cancer Center of the University of Pennsylvania", 
+            "last_name": "Selina M. Luger, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002592"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 1993", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2002"
+    }, 
+    "geocoordinates": {
+        "University of Pennsylvania Cancer Center": "39.952 -75.164"
+    }
+}

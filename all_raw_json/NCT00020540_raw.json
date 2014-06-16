@@ -1,0 +1,111 @@
+{
+    "clinical_study": {
+        "@rank": "67394", 
+        "brief_summary": {
+            "textblock": "RATIONALE: Biological therapies such as flt3L and CD40-ligand use different ways to\n      stimulate the immune system and stop cancer cells from growing. Biological therapy may be an\n      effective treatment for metastatic melanoma and metastatic kidney cancer.\n\n      PURPOSE: Phase I trial to study the effectiveness of flt3L combined with CD40-ligand in\n      treating patients who have metastatic melanoma or metastatic kidney cancer."
+        }, 
+        "brief_title": "Biological Therapy in Treating Patients With Metastatic Melanoma or Metastatic Kidney Cancer", 
+        "condition": [
+            "Kidney Cancer", 
+            "Melanoma (Skin)"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Renal Cell", 
+                "Kidney Neoplasms", 
+                "Melanoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Determine the maximum tolerated dose of CD40-ligand when combined with\n      fixed-dose flt3 ligand in patients with metastatic melanoma or renal cell cancer.\n\n      OUTLINE: This is a dose-escalation study of CD40-ligand. Patients receive fixed-dose flt3\n      ligand subcutaneously (SC) daily on days 1-14 and CD40-ligand SC daily on days 12-16.\n      Treatment continues every 28 days for a maximum of 6 courses in the absence of unacceptable\n      toxicity or disease progression. Cohorts of 3 to 6 patients receive escalating doses of\n      CD40-ligand until the maximum tolerated dose (MTD) is determined. The MTD is defined as the\n      dose preceding that at which 2 of 6 patients experience dose-limiting toxicity. Patients\n      with progressive disease after 2 courses may be eligible to receive high-dose interleukin-2\n      (IL-2) standard therapy.\n\n      PROJECTED ACCRUAL: A total of 5 patients were accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically confirmed metastatic renal cell cancer or melanoma\n        Measurable disease\n\n        PATIENT CHARACTERISTICS: Age: 16 and over Performance status: ECOG 0-1 Life expectancy:\n        More than 3 months Hematopoietic: WBC at least 3,000/mm3 Platelet count at least\n        90,000/mm3 No coagulation disorders Hepatic: Bilirubin no greater than 1.6 mg/dL AST and\n        ALT less than 2.5 times normal Hepatitis B surface antigen negative Renal: Creatinine no\n        greater than 2.0 mg/dL Cardiovascular: No major active medical illness of the\n        cardiovascular system (e.g., cardiac ischemia, myocardial infarction, or cardiac\n        arrhythmia) Pulmonary: No major active medical illness of the respiratory system (e.g.,\n        obstructive or restrictive pulmonary disease) Other: Not pregnant or nursing Negative\n        pregnancy test Fertile patients must use effective contraception No active systemic\n        infections No history of autoimmune disorders HIV negative\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: At least 3 weeks since prior biologic therapy\n        No prior systemic flt3 ligand or CD40-ligand Chemotherapy: At least 3 weeks since prior\n        chemotherapy Endocrine therapy: At least 3 weeks since prior endocrine therapy No\n        concurrent systemic steroids Radiotherapy: Prior localized radiotherapy for renal cell\n        cancer or melanoma allowed Surgery: Prior surgery for renal cell cancer or melanoma\n        allowed"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "16 Years"
+        }, 
+        "firstreceived_date": "July 11, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT00012532", 
+            "nct_id": "NCT00020540", 
+            "org_study_id": "CDR0000068601", 
+            "secondary_id": [
+                "NCI-01-C-0121", 
+                "NCI-1035"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "recombinant CD40-ligand", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "intervention_name": "recombinant flt3 ligand", 
+                "intervention_type": "Biological"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Flt3 ligand protein"
+        }, 
+        "keyword": [
+            "stage IV renal cell cancer", 
+            "recurrent renal cell cancer", 
+            "stage IV melanoma", 
+            "recurrent melanoma"
+        ], 
+        "lastchanged_date": "February 6, 2009", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/NCI-01-C-0121"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "Surgery Branch"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Treatment Of Patients With Metastatic Melanoma And Renal Cancer With A Combination Of Flt3L And CD40L", 
+        "overall_official": {
+            "affiliation": "NCI - Surgery Branch", 
+            "last_name": "Patrick Hwu, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00020540"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "March 2001", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2002"
+    }, 
+    "geocoordinates": {
+        "Surgery Branch": "38.985 -77.095"
+    }
+}

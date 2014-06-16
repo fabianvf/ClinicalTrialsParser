@@ -1,0 +1,717 @@
+{
+    "clinical_study": {
+        "@rank": "116260", 
+        "brief_summary": {
+            "textblock": "Drug resistance testing can be used to see which anti-HIV drugs are likely to suppress the\n      growth of HIV and to select an anti-HIV regimen for HIV infected patients who have failed\n      previous drug regimens. Therapeutic drug monitoring (TDM) is a process that involves\n      measuring blood levels of a drug and may further increase the benefits that resistance\n      testing offers by optimizing protease inhibitor (PI) drug concentrations. The purpose of\n      this study is to determine whether changing the dose of PIs, as indicated by TDM, reduces\n      the viral load in PI-experienced patients.\n\n      Hypothesis: Treatment-naive study participants who undergo TDM and whose clinicians'\n      interpret their TDM results and adjust their PI doses will have better virologic response\n      rates and decreased toxicities (and thus better treatment outcomes) than participants who do\n      not undergo TDM."
+        }, 
+        "brief_title": "Using Drug Levels in the Blood to Guide Therapy in HIV Infected Patients Taking a Protease Inhibitor", 
+        "completion_date": {
+            "#text": "August 2007", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The use of drug resistance testing to guide the selection of an antiretroviral regimen for\n      patients in whom current therapy is failing has gained growing acceptance in clinical\n      practice. Genotypic and phenotypic resistance testing has been associated with improved\n      short-term virologic outcome in prospective interventional trials. There is also growing\n      evidence that monitoring drug levels, particularly of PIs, may add to the benefit provided\n      by resistance testing. This study will assess the impact of TDM and resistance testing on\n      lowering viral load in treatment-experienced patients and will also evaluate the mean change\n      in plasma HIV RNA from study entry to Step 2 of the study.\n\n      No antiretrovirals will be provided by this study. Participants will be followed for a\n      maximum of 48 weeks. Participants failing at least one combination antiretroviral regimen\n      will have a screening drug resistance test performed while remaining on the failing regimen.\n      In Step 1, participants will begin a salvage antiretroviral regimen within 7 days of study\n      entry selected by their clinician using results of the resistance test. Two weeks after\n      initiation of the salvage regimen, participants will have timed plasma samples obtained for\n      PI trough levels. The results of the trough level tests will be used to calculate a\n      normalized inhibitory quotient (NIQ) in order to determine eligibility for randomization\n      into Step 2 at Week 4. Electrocardiograms (EKGs) and trough levels will be performed at\n      Weeks 2, 6, and 10; support interviews to promote adherence will also be conducted by the\n      study nurse or clinician at these times. Some participants taking tipranavir may have\n      additional blood collection at Week 2.\n\n      In Step 2, participants with an NIQ of 1 or less will be randomly assigned to one of two\n      arms. Arm A participants will receive standard care (SC) only, while participants in Arm B\n      will receive SC plus dose-adjusted PIs based on the NIQ. Clinical and viral load assessment\n      will be conducted at screening, entry, and Weeks 4, 10, 16, 24, 32, 40, and 48. Arm B\n      participants will also have their PI trough levels checked at Weeks 6 and 10. Participants\n      with an NIQ greater than 1 will be assigned to observational Arm C (open to up to 50\n      enrollees) or will stop their involvement in the study. Participants in Arms A, B, or C who\n      have a viral load of 1000 copies/ml or higher or who experience virologic failure at or\n      after Week 24 will be eligible to receive a second resistance test and enter Step 3.\n\n      Participants in Step 3 will begin a second salvage regimen; PI trough levels will be\n      measured after 2, 6, and 10 weeks of salvage therapy. Those with an NIQ greater than 1, or\n      with an NIQ of 1 or less and do not wish to escalate dose, will be followed on Step 3 for a\n      maximum of 48 weeks after study entry.\n\n      All participants are encouraged to coenroll in ACTG A5128, Consent for Use of Stored Patient\n      Specimens for Future Testing."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Note: Enrollment into Arm C closed on 07/28/04 after reaching target accrual. Participants\n        with a Week 2 NIQ of greater than 1 will be permanently discontinued from the study.\n\n        Inclusion Criteria for Step 1:\n\n          -  HIV infected\n\n          -  Viral load of 1000 copies/ml or more at study screening\n\n          -  At least one viral load of 400 copies/ml or more within 6 months of study entry while\n             on the failing antiretroviral regimen\n\n          -  Virologic failure of at least one combination (two or more drugs) antiretroviral\n             regimen, with at least one of these failing regimens containing a PI. Low dose\n             ritonavir and hydroxyurea are not counted as antiretrovirals.\n\n          -  Currently on a failing combination antiretroviral regimen\n\n          -  Plan to initiate a salvage regimen containing a PI within 7 days of study entry\n\n          -  Acceptable methods of contraception while receiving the study medications and for 6\n             weeks after stopping the medications. Participants who are currently taking efavirenz\n             and who have undergone surgery to prevent conception (e.g., hysterectomy, tubal\n             ligation, vasectomy) must provide physician's documentation of their current regimen\n             and of their previous surgery.\n\n          -  Resistance to at least one drug in the failing regimen, documented within 90 days of\n             study entry\n\n          -  Karnofsky performance scale of 70 or more within 30 days prior to study entry\n\n        Exclusion Criteria:\n\n          -  Growth factors, interleukins, interferons (except for the treatment of hepatitis C),\n             non-FDA approved systemic drugs, and HIV vaccines within 30 days of study entry\n\n          -  Require certain medications prior to or during the study\n\n          -  Certain heart conditions, if starting a PI-based regimen as the salvage regimen\n\n          -  Acute illness or infection requiring treatment within 14 days of study entry\n\n          -  Any condition that would limit ability to participate in the study\n\n          -  Cancer requiring radiation or systemic chemotherapy\n\n          -  Active drug or alcohol use or dependence that would interfere with the ability to\n             meet study requirements\n\n          -  Acute or chronic pancreatitis\n\n          -  Planned use of hydroxyurea in the salvage regimen\n\n          -  Pregnant or breastfeeding"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "360", 
+        "firstreceived_date": "July 16, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00041769", 
+            "org_study_id": "ACTG A5146", 
+            "secondary_id": "AACTG A5146"
+        }, 
+        "intervention": {
+            "intervention_name": "Therapeutic Drug Monitoring (TDM)", 
+            "intervention_type": "Procedure"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Protease Inhibitors", 
+                "HIV Protease Inhibitors"
+            ]
+        }, 
+        "keyword": [
+            "Drug Therapy, Combination", 
+            "HIV Protease Inhibitors", 
+            "Salvage Therapy", 
+            "Viral Load", 
+            "Treatment Experienced"
+        ], 
+        "lastchanged_date": "July 12, 2010", 
+        "link": [
+            {
+                "description": "Click here for information on HIV treatment regimen failure", 
+                "url": "http://aidsinfo.nih.gov/ContentFiles/HIVTreatmentRegimenFailure_FS_en.pdf"
+            }, 
+            {
+                "description": "Click here for more information on changing your HIV treatment regimen", 
+                "url": "http://aidsinfo.nih.gov/ContentFiles/ChangingMyHIVTreatmentRegimen_FS_en.pdf"
+            }, 
+            {
+                "description": "Haga clic aqu\u00ed para ver informaci\u00f3n sobre este ensayo cl\u00ednico en espa\u00f1ol.", 
+                "url": "http://aidsinfo.nih.gov/clinicaltrials/htmltrials_sp.asp?an=1454"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35924-2050"
+                    }, 
+                    "name": "Univ of Alabama at Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095"
+                    }, 
+                    "name": "UCLA School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033-1079"
+                    }, 
+                    "name": "Univ of Southern California"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103"
+                    }, 
+                    "name": "Univ of California, San Diego Antiviral Research Center (AVRC)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94110"
+                    }, 
+                    "name": "Univ of California San Francisco"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5107"
+                    }, 
+                    "name": "Willow Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5107"
+                    }, 
+                    "name": "San Mateo County AIDS Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5107"
+                    }, 
+                    "name": "Santa Clara Valley Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80262"
+                    }, 
+                    "name": "Univ of Colorado Health Sciences Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136-1013"
+                    }, 
+                    "name": "Univ of Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96816-2396"
+                    }, 
+                    "name": "Univ of Hawaii"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "The CORE Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611-3015"
+                    }, 
+                    "name": "Northwestern Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202-5250"
+                    }, 
+                    "name": "Indiana Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202-1261"
+                    }, 
+                    "name": "Methodist Hosp of Indiana"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Wishard Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Univ of Maryland, Institute of Human Virology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287-8106"
+                    }, 
+                    "name": "Johns Hopkins Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess-West Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Brigham and Women's Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Harvard (Masschusetts General Hosp)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455-0392"
+                    }, 
+                    "name": "Univ of Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63108-2138"
+                    }, 
+                    "name": "Washington Univ (St. Louis)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63108-2138"
+                    }, 
+                    "name": "St. Louis Connect Care"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "SUNY-Buffalo (Rochester)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "Chelsea Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "New York University - Bellevue"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10003"
+                    }, 
+                    "name": "Beth Israel Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Long Beach Memorial (Pediatric)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "Univ of Rochester Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "Community Health Network Inc"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27514"
+                    }, 
+                    "name": "University of North Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45267-0405"
+                    }, 
+                    "name": "Ohio State Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45267-0405"
+                    }, 
+                    "name": "Univ of Cincinnati"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109-1998"
+                    }, 
+                    "name": "Cleveland Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Case Western Reserve Univ"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109-1998"
+                    }, 
+                    "name": "MetroHealth Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15213"
+                    }, 
+                    "name": "Univ of Pittsburgh"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02906"
+                    }, 
+                    "name": "The Miriam Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02906"
+                    }, 
+                    "name": "Rhode Island Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02906"
+                    }, 
+                    "name": "Stanley Street Treatment and Resource"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }, 
+                    "name": "Comprehensive Care Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galveston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77555-0435"
+                    }, 
+                    "name": "Univ of Texas, Galveston"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Univ of Washington (Seattle)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00936-5067"
+                    }, 
+                    "name": "University of Puerto Rico"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Puerto Rico"
+            ]
+        }, 
+        "official_title": "A Phase II Randomized Controlled Trial Evaluating the Impact of Therapeutic Drug Monitoring (TDM) on Virologic Response to a Salvage Regimen in Subjects With a Normalized Inhibitory Quotient (NIQ) Less Than or Equal to 1 to One or More Protease Inhibitors", 
+        "overall_official": [
+            {
+                "affiliation": "Infectious Diseases Unit, University of Rochester Medical Center", 
+                "last_name": "Lisa Demeter, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Division of Infectious Diseases, Beth Israel Deaconess Medical Center", 
+                "last_name": "Mary Albrecht, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "April 2007", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Change in log10 plasma HIV-1 RNA concentration from Step 2 entry (Week 4) to Week 24 (20 weeks post-randomization)"
+            }, 
+            {
+                "measure": "change in log10 plasma HIV-1 RNA concentration from study entry to Week 24 (20 weeks post-randomization)"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "15544452", 
+                "citation": "Clevenbergh P, Mouly S, Sellier P, Badsi E, Cervoni J, Vincent V, Trout H, Bergmann JF. Improving HIV infection management using antiretroviral plasma drug levels monitoring: a clinician's point of view. Curr HIV Res. 2004 Oct;2(4):309-21."
+            }, 
+            {
+                "PMID": "15472796", 
+                "citation": "Duong M, Golzi A, Peytavin G, Piroth L, Froidure M, Grappin M, Buisson M, Kohli E, Chavanet P, Portier H. Usefulness of therapeutic drug monitoring of antiretrovirals in routine clinical practice. HIV Clin Trials. 2004 Jul-Aug;5(4):216-23."
+            }, 
+            {
+                "PMID": "16091250", 
+                "citation": "Kiser JJ, Anderson PL, Gerber JG. Therapeutic drug monitoring: pharmacologic considerations for antiretroviral drugs. Curr HIV/AIDS Rep. 2005 Jun;2(2):61-7. Review."
+            }, 
+            {
+                "PMID": "15006189", 
+                "citation": "Rakhmanina NY, van den Anker JN, Soldin SJ. Therapeutic drug monitoring of antiretroviral therapy. AIDS Patient Care STDS. 2004 Jan;18(1):7-14. Review."
+            }, 
+            {
+                "PMID": "16156885", 
+                "citation": "Rendon A, Nunez M, Jimenez-Nacher I, Gonzalez de Requena D, Gonzalez-Lahoz J, Soriano V. Clinical benefit of interventions driven by therapeutic drug monitoring. HIV Med. 2005 Sep;6(5):360-5."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00041769"
+        }, 
+        "results_reference": {
+            "PMID": "20592644", 
+            "citation": "Difrancesco R, Rosenkranz S, Mukherjee AL, Demeter LM, Jiang H, Dicenzo R, Dykes C, Rinehart A, Albrecht M, Morse GD. Quality Assessment for Therapeutic Drug Monitoring in AIDS Clinical Trials Group (ACTG 5146): A Multicenter Clinical Trial. Ther Drug Monit. 2010 Jun 25; [Epub ahead of print]"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "June 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2008"
+    }, 
+    "geocoordinates": {
+        "Beth Israel Deaconess-West Campus": "42.358 -71.06", 
+        "Beth Israel Medical Center": "40.714 -74.006", 
+        "Brigham and Women's Hosp": "42.358 -71.06", 
+        "Case Western Reserve Univ": "41.499 -81.695", 
+        "Chelsea Clinic": "40.714 -74.006", 
+        "Cleveland Clinic": "41.499 -81.695", 
+        "Columbia Univ": "40.714 -74.006", 
+        "Community Health Network Inc": "43.161 -77.611", 
+        "Comprehensive Care Clinic": "36.166 -86.784", 
+        "Duke Univ Med Ctr": "35.994 -78.899", 
+        "Harvard (Masschusetts General Hosp)": "42.358 -71.06", 
+        "Indiana Univ Hosp": "39.769 -86.158", 
+        "Johns Hopkins Univ": "39.29 -76.612", 
+        "Long Beach Memorial (Pediatric)": "40.714 -74.006", 
+        "Methodist Hosp of Indiana": "39.769 -86.158", 
+        "MetroHealth Med Ctr": "41.499 -81.695", 
+        "New York University - Bellevue": "40.714 -74.006", 
+        "Northwestern Univ": "41.878 -87.63", 
+        "Ohio State Univ": "39.103 -84.512", 
+        "Rhode Island Hosp": "41.824 -71.413", 
+        "SUNY-Buffalo (Rochester)": "42.886 -78.878", 
+        "San Mateo County AIDS Program": "37.429 -122.169", 
+        "Santa Clara Valley Med Ctr": "37.429 -122.169", 
+        "St. Louis Connect Care": "38.627 -90.199", 
+        "Stanley Street Treatment and Resource": "41.824 -71.413", 
+        "The CORE Ctr": "41.878 -87.63", 
+        "The Miriam Hosp": "41.824 -71.413", 
+        "UCLA School of Medicine": "34.052 -118.244", 
+        "Univ of Alabama at Birmingham": "33.521 -86.802", 
+        "Univ of California San Francisco": "37.775 -122.419", 
+        "Univ of California, San Diego Antiviral Research Center (AVRC)": "32.715 -117.157", 
+        "Univ of Cincinnati": "39.103 -84.512", 
+        "Univ of Colorado Health Sciences Ctr": "39.739 -104.985", 
+        "Univ of Hawaii": "21.307 -157.858", 
+        "Univ of Maryland, Institute of Human Virology": "39.29 -76.612", 
+        "Univ of Miami": "25.789 -80.226", 
+        "Univ of Minnesota": "44.98 -93.264", 
+        "Univ of Pittsburgh": "40.441 -79.996", 
+        "Univ of Rochester Medical Center": "43.161 -77.611", 
+        "Univ of Southern California": "34.052 -118.244", 
+        "Univ of Texas, Galveston": "29.301 -94.798", 
+        "Univ of Washington (Seattle)": "47.606 -122.332", 
+        "University of North Carolina": "35.913 -79.056", 
+        "University of Puerto Rico": "18.466 -66.106", 
+        "Washington Univ (St. Louis)": "38.627 -90.199", 
+        "Willow Clinic": "37.429 -122.169", 
+        "Wishard Hosp": "39.769 -86.158"
+    }
+}

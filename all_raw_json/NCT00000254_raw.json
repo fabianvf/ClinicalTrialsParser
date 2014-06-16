@@ -1,0 +1,169 @@
+{
+    "clinical_study": {
+        "@rank": "90934", 
+        "arm_group": [
+            {
+                "arm_group_label": "0% isoflurane", 
+                "arm_group_type": "Sham Comparator"
+            }, 
+            {
+                "arm_group_label": "0.2% isoflurane", 
+                "arm_group_type": "Active Comparator"
+            }, 
+            {
+                "arm_group_label": "0.4% isoflurane", 
+                "arm_group_type": "Active Comparator"
+            }, 
+            {
+                "arm_group_label": "0.6% isoflurane", 
+                "arm_group_type": "Active Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to conduct experiments to examine subjective and reinforcing\n      effects of nitrous oxide.  Mood altering and psychomotor effects will be tested on non-drug\n      abusers and preference procedures will be used to assess reinforcing effects.   To test the\n      hypothesis that isoflurane at subanesthetic concentrations does not reduce cold-water\n      immersion pain in healthy volunteers."
+        }, 
+        "brief_title": "Isoflurane at Subanesthetic Concentrations - 6", 
+        "completion_date": {
+            "#text": "September 1995", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Opioid-Related Disorders", 
+            "Substance-Related Disorders"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Opioid-Related Disorders", 
+                "Substance-Related Disorders"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Please contact site for information."
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "34 Years", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "10", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 20, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000254", 
+            "org_study_id": "NIDA-08391-6", 
+            "secondary_id": [
+                "R01DA008391", 
+                "R01-08391-6"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "0% isoflurane", 
+                    "0.2% isoflurane", 
+                    "0.4% isoflurane", 
+                    "0.6% isoflurane"
+                ], 
+                "description": "Used as pain assay positive control", 
+                "intervention_name": "40% Nitrous oxide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "0% isoflurane", 
+                "description": "0% isoflurane in oxygen", 
+                "intervention_name": "Sham comparator", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "0.2% isoflurane", 
+                "intervention_name": "0.2% isoflurane", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "0.4% isoflurane", 
+                "intervention_name": "0.4% isoflurane", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "0.6% isoflurane", 
+                "intervention_name": "0.6% isoflurane", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Isoflurane", 
+                "Nitrous Oxide"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "July 23, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Chicago", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60637"
+                }, 
+                "name": "University of Chicago, Anesthesia & Critical Care"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Isoflurane at Subanesthetic Concentrations", 
+        "overall_official": {
+            "affiliation": "University of Chicago", 
+            "last_name": "James Zacny, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "September 1995", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Effects of inhaled isoflurane on pain from immersion of subject's arm in ice cold water.  Nitrous oxide (40%) was used as a positive control to confirm sensitivity of the pain assay.", 
+            "measure": "Pain response", 
+            "safety_issue": "No", 
+            "time_frame": "Post inhalation"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000254"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Chicago", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Drug Abuse (NIDA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Chicago", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1995", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }, 
+    "geocoordinates": {
+        "University of Chicago, Anesthesia & Critical Care": "41.878 -87.63"
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "134732", 
+        "arm_group": [
+            {
+                "arm_group_label": "Incident Cohort with VTE", 
+                "description": "Olmsted County, Minnesota residents with with a first-lifetime deep vein thrombosis (DVT) or pulmonary embolism (PE) during the five year period, 1996-2000."
+            }, 
+            {
+                "arm_group_label": "Controls without VTE", 
+                "description": "Two Olmsted County, Minnesota residents without venous thromboembolism (VTE) were matched by age and gender to each definite or probable case of VTE within the 1996-2000 cohort."
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Plasma and genomic DNA"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "To evaluate the trends in the incidence of venous thromboembolism, to determine the risk\n      factors for venous thromboembolism in patients with medical and surgical illness, and to\n      evaluate the efficacy of the anticoagulant therapy in reducing venous thromboembolism."
+        }, 
+        "brief_title": "Risk Factors for Venous Thromboembolism in the Community", 
+        "completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Cardiovascular Diseases", 
+            "Thromboembolism"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Thromboembolism", 
+                "Venous Thromboembolism", 
+                "Venous Thrombosis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "BACKGROUND:\n\n      Venous thromboembolism (VTE) occurs frequently among patients hospitalized for major surgery\n      or hospitalized for a medical illness primarily due to prolonged duration of immobilization.\n      However, many patients undergo major surgery without any occurrence of VTE. Standard\n      prophylactic therapy after surgery is heparin, which reduces the risk of VTE. However,\n      heparin is associated with bleeding complications. Thus, it would be desirable to identify\n      patients at high risk for VTE who might benefit the most from heparin therapy. An important\n      focus of the study is to look at genetic factors which might play an important role in VTE\n      incidence.\n\n      DESIGN NARRATIVE:\n\n      The study is a population based, retrospective case and case-control investigation of the\n      genetic and environmental determinants of venous thromboembolism in the Rochester Minnesota\n      Olmsted County population. The first five years of the study had three specific aims.  The\n      first specific aim was to update the 1966-1995 inception cohort to include Olmsted County\n      residents with VTE during the five year period, 1996-2000. The second aim was to extend the\n      analysis of risk factors for VTE by identifying two Olmsted County residents (controls)\n      without VTE matched by age and gender to each definite or probable case within the 1996-2000\n      cohort, and to obtain plasma and genomic DNA from all cases and controls and perform a\n      case-control study. The third specific aim was to evaluate the efficacy of anticoagulant\n      therapy to prevent VTE recurrence.\n\n      The study was extended through March, 2009 to investigate trends in the incidence of venous\n      thromboembolism, new risk factors including lipid-lowering, beta-blocker, and ACE-inhibitor\n      therapies, and introduction of low molecular weight heparin (LMWH) therapy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "No eligibility criteria"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Using the data resouces of the Rochester Epidemiology Project, we will update the\n        1966-1995 inception cohort to include Olmsted County, Minnesota residents with with a\n        first-lifetime deep vein thrombosis (DVT) or pulmonary embolism (PE) during the five year\n        period, 1996-2000. All subjects will be followed forward in time through their linked\n        medical records in the community (retrospective cohort study), until death or the most\n        recent clinical contact.  For each subject, all inpatient and outpatient medical records\n        of any local health care provider will be searched for vital status at last clinical\n        contact.  For deceased patients, all death certificates will be reviewed regardless of the\n        patient location at death.\n\n        We also identified two Olmsted County residents (controls) without VTE matched by age and\n        gender to each definite or probable case within the 1996-2000 cohort to perform a\n        case-control study."
+            }
+        }, 
+        "enrollment": {
+            "#text": "385", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 13, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00011180", 
+            "org_study_id": "864-98", 
+            "secondary_id": "R01HL066216"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Venous thromboembolism (VTE)", 
+            "Deep vein thrombosis (DVT)", 
+            "Pulmonary embolism (PE)"
+        ], 
+        "lastchanged_date": "December 5, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rochester", 
+                    "country": "United States", 
+                    "state": "Minnesota", 
+                    "zip": "55905"
+                }, 
+                "name": "Mayo Clinic"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Subtherapeutic Heparin Anticoagulation as a Predictor of Recurrent Venous Thromboembolism: A Population-Based Cohort Study", 
+        "overall_official": {
+            "affiliation": "Mayo Clinic", 
+            "last_name": "John Heit, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The time interval (minutes) was measured retrospectively, using the electronic medical record for each subject.", 
+            "measure": "Mean time interval between commencing unfractionated heparin therapy and achieving a therapeutic activated partial thromboplastin time (aPTT)", 
+            "safety_issue": "No", 
+            "time_frame": "Day 1 in hospital"
+        }, 
+        "reference": [
+            {
+                "PMID": "12232821", 
+                "citation": "Heit JA. Mapping out the future in venous thromboembolism and acute coronary syndromes. Semin Thromb Hemost. 2002 Aug;28 Suppl 3:33-9."
+            }, 
+            {
+                "PMID": "12073175", 
+                "citation": "Heit JA. Venous thromboembolism epidemiology: implications for prevention and management. Semin Thromb Hemost. 2002 Jun;28 Suppl 2:3-13."
+            }, 
+            {
+                "PMID": "12038942", 
+                "citation": "Heit JA, O'Fallon WM, Petterson TM, Lohse CM, Silverstein MD, Mohr DN, Melton LJ 3rd. Relative impact of risk factors for deep vein thrombosis and pulmonary embolism: a population-based study. Arch Intern Med. 2002 Jun 10;162(11):1245-8."
+            }, 
+            {
+                "PMID": "11711693", 
+                "citation": "Heit JA. Perioperative management of the chronically anticoagulated patient. J Thromb Thrombolysis. 2001 Sep;12(1):81-7. Review."
+            }, 
+            {
+                "PMID": "12685052", 
+                "citation": "Heit JA. Risk factors for venous thromboembolism. Clin Chest Med. 2003 Mar;24(1):1-12. Review."
+            }, 
+            {
+                "PMID": "15099278", 
+                "citation": "Heit JA, Phelps MA, Ward SA, Slusser JP, Petterson TM, De Andrade M. Familial segregation of venous thromboembolism. J Thromb Haemost. 2004 May;2(5):731-6."
+            }, 
+            {
+                "PMID": "16102026", 
+                "citation": "Heit JA. Venous thromboembolism: disease burden, outcomes and risk factors. J Thromb Haemost. 2005 Aug;3(8):1611-7."
+            }, 
+            {
+                "PMID": "15842356", 
+                "citation": "Heit JA, Petterson TM, Owen WG, Burke JP, DE Andrade M, Melton LJ 3rd. Thrombomodulin gene polymorphisms or haplotypes as potential risk factors for venous thromboembolism: a population-based case-control study. J Thromb Haemost. 2005 Apr;3(4):710-7."
+            }, 
+            {
+                "PMID": "21890644", 
+                "citation": "Heit JA, Lahr BD, Petterson TM, Bailey KR, Ashrani AA, Melton LJ 3rd. Heparin and warfarin anticoagulation intensity as predictors of recurrence after deep vein thrombosis or pulmonary embolism: a population-based cohort study. Blood. 2011 Nov 3;118(18):4992-9. doi: 10.1182/blood-2011-05-357343. Epub 2011 Sep 2."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00011180"
+        }, 
+        "source": "Mayo Clinic", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Mayo Clinic", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2001", 
+        "study_design": "Observational Model: Case Control, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "December 2012"
+    }, 
+    "geocoordinates": {
+        "Mayo Clinic": "44.022 -92.47"
+    }
+}

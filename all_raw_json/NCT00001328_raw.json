@@ -1,0 +1,138 @@
+{
+    "clinical_study": {
+        "@rank": "47110", 
+        "brief_summary": {
+            "textblock": "Malignant brain tumors are responsible for a significant amount of deaths in children and\n      adults.  Even with advances in surgery, radiation therapy, and chemotherapy, many patients\n      diagnosed with a malignant brain tumor survive only months to weeks.\n\n      In an attempt to improve the prognosis for these patients, researchers have developed a new\n      approach to brain tumor therapy.  This approach makes use of DNA technology to transfer\n      genes sensitive to therapy into the cells of the tumor.\n\n      Infections with the herpes simplex virus can cause cold sores in the area of the mouth.  A\n      drug called ganciclovir (Cytovene) can kill the virus.  Ganciclovir is effective because the\n      herpes virus contains a gene (Herpes-Thymidine Kinase TK gene) that is sensitive to the\n      drug.  Researchers have been able to separate this gene from the virus.\n\n      Using DNA technology, researchers hope to transfer and implant the TK gene into tumor cells\n      making them sensitive to ganciclovir.  In theory, giving patients ganciclovir will kill all\n      tumor cells that have the TK gene incorporated into them."
+        }, 
+        "brief_title": "Gene Therapy for the Treatment of Brain Tumors", 
+        "completion_date": {
+            "#text": "April 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Brain Neoplasm", 
+            "Neoplasm Metastasis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Brain Neoplasms", 
+                "Neoplasms", 
+                "Neoplasm Metastasis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Malignant brain tumors are responsible for significant morbidity and mortality in both\n      pediatric and adult populations.  These common tumors present an enormous therapeutic\n      challenge due to their poor outcome despite radical surgery, high dose radiotherapy and\n      chemotherapy.  Survival of patients from the time of diagnosis is measured in months and\n      recurrence after treatment is associated with a life expectancy of weeks.\n\n      In an attempt to improve this grim prognosis of patients with malignant brain tumors (both\n      primary tumors and secondary metastasis from systemic cancer such as melanoma, lung and\n      breast cancer), we developed a novel approach to the therapy of brain tumors.  This approach\n      makes use of recombinant DNA technology to transfer a sensitivity gene into a brain tumor.\n      This is achieved by direct injection of the tumor with a cell line actively producing a\n      retroviral vector carrying a gene conferring drug sensitivity to the tumor.  A retroviral\n      vector is a mouse retrovirus genetically engineered to replace its own genes with a new\n      gene.  Such vectors are capable of \"infecting\" mammalian cells and stably incorporate their\n      new genetic material into the genome of the infected host.  The producer cell is an NIH 3T3\n      cell that has been genetically engineered to continually produce retroviral vectors.  The\n      new gene is incorporated into the genome of the tumor cells and expresses the protein which\n      is encoded by the new gene.  This protein (the herpes simplex virus enzyme thymidine kinase,\n      HS-tk) sensitizes the tumor cells to an antiviral drug (ganciclovir, GCV) which is a natural\n      substrate for HS-tk.  The enzymatic process induced by GCV leads to death of a natural\n      substrate for HS-tk.  The enzymatic process induced by GCV leads to death of the cell\n      expressing the herpes TK activity, i.e., death of the tumor cells.  Since the HS-tk enzyme\n      which is normally present in mammalian cells has very low affinity for GCV, systemic\n      toxicity related to this mechanism is not observed.  This type of in vivo gene transfer has\n      several unique features.  First, these retroviral-vectors will only integrate and express\n      their genes in cells which are actively synthesizing DNA.  Therefore, surrounding\n      non-proliferating normal brain tissue should not acquire the HS-tk gene and will remain\n      insensitive to GCV.  Second, all of the transduced tumor cells (and retroviral vector\n      producing cells) will be killed by the host immune response and/or GCV treatment eliminating\n      potential concern about insertional mutagenesis giving rise to malignant cells.\n\n      This is the first clinical attempt to treat malignant tumors in human beings by in-vivo\n      genetic manipulation of tumor's genome."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        All adults, greater than 18 years of age, with malignant brain tumors (primary and\n        metastatic) who failed all standard therapy for their disease will be eligible to enter\n        the study.\n\n        EXCLUSION CRITERIA:\n\n        No pregnant women will be entered into the study.\n\n        Patients with HIV infection will not be accepted for this study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "19 Years"
+        }, 
+        "enrollment": {
+            "#text": "15", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 3, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00001328", 
+            "org_study_id": "920246", 
+            "secondary_id": "92-N-0246"
+        }, 
+        "intervention": [
+            {
+                "description": "N/A", 
+                "intervention_name": "Cytovene (Ganciclovir Sodium)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "description": "N/A", 
+                "intervention_name": "G1TKSVNa.53 Producer Cell Line", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Ganciclovir"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cancer", 
+            "Gene Transfer", 
+            "Recurrent Tumors", 
+            "Primary Tumors", 
+            "Metastases", 
+            "Anti-Viral Drugs", 
+            "Chemosensitization", 
+            "Brain Tumors", 
+            "Gene Therapy", 
+            "Ganciclovir"
+        ], 
+        "lastchanged_date": "May 1, 2010", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Gene Therapy for the Treatment of Brain Tumors Using Intra-Tumoral Transduction With the Thymidine Kinase Gene and Intravenous Ganciclovir", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "April 2010", 
+            "@type": "Actual"
+        }, 
+        "reference": [
+            {
+                "PMID": "9396605", 
+                "citation": "Ram Z, Culver KW, Oshiro EM, Viola JJ, DeVroom HL, Otto E, Long Z, Chiang Y, McGarrity GJ, Muul LM, Katz D, Blaese RM, Oldfield EH. Therapy of malignant brain tumors by intratumoral implantation of retroviral vector-producing cells. Nat Med. 1997 Dec;3(12):1354-61."
+            }, 
+            {
+                "PMID": "7621261", 
+                "citation": "Oshiro EM, Viola JJ, Oldfield EH, Walbridge S, Bacher J, Frank JA, Blaese RM, Ram Z. Toxicity studies and distribution dynamics of retroviral vectors following intrathecal administration of retroviral vector-producer cells. Cancer Gene Ther. 1995 Jun;2(2):87-95."
+            }, 
+            {
+                "PMID": "7703288", 
+                "citation": "Oldfield EH, Ram Z, Chiang Y, Blaese RM. Intrathecal gene therapy for the treatment of leptomeningeal carcinomatosis. GTI 0108. A phase I/II study. Hum Gene Ther. 1995 Jan;6(1):55-85. No abstract available."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00001328"
+        }, 
+        "responsible_party": {
+            "name_title": "John D. Heiss, M.D./National Institute of Neurological Disorders and Stroke", 
+            "organization": "National Institutes of Health"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Neurological Disorders and Stroke (NINDS)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "August 1992", 
+        "study_design": "Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2010"
+    }, 
+    "geocoordinates": {
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095"
+    }
+}

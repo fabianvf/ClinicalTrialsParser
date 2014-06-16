@@ -1,0 +1,946 @@
+{
+    "clinical_study": {
+        "@rank": "156612", 
+        "arm_group": [
+            {
+                "arm_group_label": "5-FU/Leucovorin/Levamisole", 
+                "arm_group_type": "Active Comparator", 
+                "description": "levamisole hydrochloride: 50 mg every 8 hours x 3 days, PO, repeat every 14 days for 6 months; leucovorin calcium: 20 mg/m^2/day, IV, Days 1-5 of each cycle; 5-fluorouracil: 425 mg/m^2/day, IV, Days 1-5 of each cycle;"
+            }, 
+            {
+                "arm_group_label": "Infusional 5-FU + Levamisole", 
+                "arm_group_type": "Active Comparator", 
+                "description": "levamisole hydrochloride : 50 mg every 8 hours x 3 days, PO, repeat every 14 days for 6 months; 5-fluorouracil: 250 mg/m^2/day, continuous infusion, daily for 56 days x 3 cycles of 8 weeks."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die. Combining more than one drug and giving drugs in different ways\n      may kill more cancer cells.\n\n      PURPOSE: Randomized phase III trial to compare the effectiveness of chemotherapy given in\n      different ways in treating patients with surgically removed stage II or stage III colon\n      cancer at high risk of recurrence."
+        }, 
+        "brief_title": "S9415 Chemotherapy in Patients With Stage II or III Colon Cancer That Has Been Surgically Removed", 
+        "completion_date": {
+            "#text": "March 2005", 
+            "@type": "Actual"
+        }, 
+        "condition": "Colorectal Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Colonic Neoplasms", 
+                "Colorectal Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES: I. Compare overall and disease free survival in patients with completely\n      resected stage II or III colon cancer randomized to adjuvant chemotherapy with bolus\n      fluorouracil and leucovorin calcium with levamisole vs continuous infusion fluorouracil with\n      levamisole.\n\n      OUTLINE: This is a randomized, multicenter study. Patients are stratified according to\n      center, T stage (T1 vs T2 vs T3 vs T4a), N stage (N0 vs N1 vs N2-3), and time from surgery\n      until registration (21-28 vs 29-35 days). Patients are randomized to one of two treatment\n      arms. Arm I: Patients receive leucovorin calcium IV immediately followed by fluorouracil IV\n      on days 1 through 5 of weeks 1, 5, 9, 14, 19, and 24, and oral levamisole 3 times a day for\n      3 days on days 1-3. Courses repeat every 2 weeks for 6 months. Arm II: Patients receive\n      levamisole as in arm I plus fluorouracil by continuous IV infusion for 8 weeks. Treatment\n      with fluorouracil repeats every 10 weeks for 3 courses. Treatment continues in the absence\n      of disease progression or unacceptable toxicity. Patients are followed at 9 months and 12\n      months, then every 6 months for 4 years, and then annually thereafter.\n\n      PROJECTED ACCRUAL: A total of 1,500 patients will be accrued for the study over\n      approximately 5.5 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS: Histologically proven resectable stage II or III adenocarcinoma\n        of the colon Caudal margin of the primary tumor must lie above the peritoneal reflection\n        Must have pathologic confirmation of either N1-3 (stage III), or if N0, must have T3-T4\n        (stage II) with bowel obstruction or perforation Obstruction documented as: At least 75%\n        colon or small bowel obstruction on x-ray and/or endoscopy Significant bowel dilatation\n        surgically documented Significant obstruction described in the pathology report\n        Perforation documented by gross operative/pathologic evidence of a colon wall defect with\n        associated abscess or peritonitis Complete en bloc resection by laparotomy required No\n        laparoscopic colectomy without prior surgery on protocol SWOG-9411 No gross or microscopic\n        residual disease No distant peritoneal metastases (stage IV) even if grossly resectable No\n        requirement to open the pelvic peritoneum to define the extent of disease No extrapelvic\n        nodal metastasis unless resected en bloc with the primary tumor No distant metastases No\n        other diagnosis of stage II-III colon cancer within the past 5 years May have undergone\n        complete surgical resection at least 5 years prior to study Completely resected prior or\n        synchronous stage 0-I colon cancer eligible\n\n        PATIENT CHARACTERISTICS: Age: Adult Performance status: SWOG 0-2 Hematopoietic: WBC (white\n        blood cell) at least 3,500/mm3 Platelet count at least within the lower limit of normal\n        Hepatic: Bilirubin no greater than 2 times upper limit of normal (ULN) AST (angiotensin\n        sensitivity test)  no greater than 2 times ULN Alkaline phosphatase no greater than 2\n        times ULN Renal: Creatinine no greater than 2 times ULN Other: No organic brain syndrome,\n        Alzheimer's disease, or other altered mental status No second malignancy within 5 years\n        except: Adequately treated nonmelanomatous skin cancer Adequately treated carcinoma in\n        situ of the cervix Not pregnant or nursing Negative pregnancy test Effective contraception\n        required of fertile patients\n\n        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior\n        fluorouracil or other chemotherapy for cancer No concurrent chemotherapy Endocrine\n        therapy: Not specified Radiotherapy: No prior or concurrent radiotherapy for cancer\n        Surgery: Complete en bloc resection required (see Disease Characteristics)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "1135", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002593", 
+            "org_study_id": "CDR0000063773", 
+            "secondary_id": [
+                "SWOG-9415", 
+                "CLB-9498", 
+                "INT-0153", 
+                "U10CA032102"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "5-FU/Leucovorin/Levamisole", 
+                    "Infusional 5-FU + Levamisole"
+                ], 
+                "description": "Given IV as described in Arm Description", 
+                "intervention_name": "fluorouracil", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "5-fluorouracil", 
+                    "5-FU", 
+                    "NSC-19893"
+                ]
+            }, 
+            {
+                "arm_group_label": "5-FU/Leucovorin/Levamisole", 
+                "description": "Given IV as described in Arm description.", 
+                "intervention_name": "leucovorin calcium", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Leucovorin", 
+                    "Folinic acid", 
+                    "NSC-3590"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "5-FU/Leucovorin/Levamisole", 
+                    "Infusional 5-FU + Levamisole"
+                ], 
+                "description": "Given as described in arm description", 
+                "intervention_name": "levamisole hydrochloride", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Levamisole", 
+                    "NSC-177023"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Fluorouracil", 
+                "Levamisole", 
+                "Leucovorin", 
+                "Levoleucovorin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "stage II colon cancer", 
+            "stage III colon cancer"
+        ], 
+        "lastchanged_date": "January 2, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/SWOG-9415"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85259-5404"
+                    }, 
+                    "name": "CCOP - Scottsdale Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Palo Alto"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115-0128"
+                    }, 
+                    "name": "UCSF Cancer Center and Cancer Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-5408"
+                    }, 
+                    "name": "Stanford University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80209-5031"
+                    }, 
+                    "name": "CCOP - Colorado Cancer Research Program, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20307-5000"
+                    }, 
+                    "name": "Walter Reed Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "Sylvester Cancer Center, University of Miami"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Emory University Hospital - Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Decatur", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30033"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Atlanta (Decatur)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Robert H. Lurie Comprehensive Cancer Center, Northwestern University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }, 
+                    "name": "University of Chicago Cancer Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Chicago (Lakeside)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Peoria", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61602"
+                    }, 
+                    "name": "CCOP - Illinois Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Urbana", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61801"
+                    }, 
+                    "name": "CCOP - Carle Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cedar Rapids", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52403-1206"
+                    }, 
+                    "name": "CCOP - Cedar Rapids Oncology Project"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "10309-1016"
+                    }, 
+                    "name": "CCOP - Iowa Oncology Research Association"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "51101-1733"
+                    }, 
+                    "name": "Siouxland Hematology-Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70121"
+                    }, 
+                    "name": "CCOP - Ochsner"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worcester", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01655"
+                    }, 
+                    "name": "University of Massachusetts Memorial Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007-3731"
+                    }, 
+                    "name": "CCOP - Kalamazoo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duluth", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55805"
+                    }, 
+                    "name": "CCOP - Duluth"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "University of Minnesota Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Cloud", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "56303"
+                    }, 
+                    "name": "CentraCare Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis Park", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55416"
+                    }, 
+                    "name": "CCOP - Metro-Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Barnes-Jewish Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68131"
+                    }, 
+                    "name": "CCOP - Missouri Valley Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89106"
+                    }, 
+                    "name": "CCOP - Southern Nevada Cancer Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Albany"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Albert Einstein Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263-0001"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }, 
+                    "name": "North Shore University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Medical Center, NY"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "University of Rochester Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York - Upstate Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599-7295"
+                    }, 
+                    "name": "Lineberger Comprehensive Cancer Center, UNC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157-1082"
+                    }, 
+                    "name": "Comprehensive Cancer Center of Wake Forest University Baptist Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27104-4241"
+                    }, 
+                    "name": "CCOP - Southeast Cancer Control Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bismarck", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58501"
+                    }, 
+                    "name": "Quain & Ramstad Clinic, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Forks", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58201"
+                    }, 
+                    "name": "Altru Health Systems"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106-5065"
+                    }, 
+                    "name": "Ireland Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toledo", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43623-3456"
+                    }, 
+                    "name": "CCOP - Toledo Community Hospital Oncology Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Danville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17822-2001"
+                    }, 
+                    "name": "CCOP - Geisinger Clinical and Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19111"
+                    }, 
+                    "name": "Fox Chase Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15213"
+                    }, 
+                    "name": "University of Pittsburgh Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02903"
+                    }, 
+                    "name": "Rhode Island Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57709"
+                    }, 
+                    "name": "Rapid City Regional Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57105-1080"
+                    }, 
+                    "name": "CCOP - Sioux Community Cancer Consortium"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38163"
+                    }, 
+                    "name": "University of Tennessee, Memphis Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burlington", 
+                        "country": "United States", 
+                        "state": "Vermont", 
+                        "zip": "05401-3498"
+                    }, 
+                    "name": "Vermont Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madison", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53705"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Madison"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madison", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53792"
+                    }, 
+                    "name": "University of Wisconsin Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marshfield", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54449"
+                    }, 
+                    "name": "CCOP - Marshfield Medical Research and Education Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Medical College of Wisconsin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53295"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - Milwaukee (Zablocki)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Regina", 
+                        "country": "Canada", 
+                        "state": "Saskatchewan", 
+                        "zip": "S4S 6X3"
+                    }, 
+                    "name": "Saskatchewan Cancer Agency"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00927-5800"
+                    }, 
+                    "name": "Veterans Affairs Medical Center - San Juan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pretoria", 
+                        "country": "South Africa", 
+                        "zip": "0001"
+                    }, 
+                    "name": "Pretoria Academic Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada", 
+                "Puerto Rico", 
+                "South Africa"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Phase III Randomized Trial of 5-FU/Leucovorin/Levamisole Versus 5-FU Continuous Infusion/Levamisole as Adjuvant Therapy for High-Risk Resectable Colon Cancer", 
+        "overall_official": [
+            {
+                "affiliation": "Rutgers Cancer Institute of New Jersey", 
+                "last_name": "Elizabeth A. Poplin, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Dana-Farber Cancer Institute", 
+                "last_name": "Robert J. Mayer, MD, FACP", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Abramson Cancer Center of the University of Pennsylvania", 
+                "last_name": "Daniel G. Haller, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Mayo Clinic", 
+                "last_name": "Richard M. Goldberg, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 1999", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Compare effectiveness of bolus 5-FU, leucovorin, levamisole vs continuous infusion 5-FU, levamisole as adjuvant therapy for patients with colon cancer, measured in overall survival", 
+            "safety_issue": "No", 
+            "time_frame": "At death"
+        }, 
+        "reference": {
+            "PMID": "21997132", 
+            "citation": "Yothers G, Sargent DJ, Wolmark N, Goldberg RM, O'Connell MJ, Benedetti JK, Saltz LB, Dignam JJ, Blackstock AW; ACCENT Collaborative Group. Outcomes among black patients with stage II and III colon cancer receiving chemotherapy: an analysis of ACCENT adjuvant trials. J Natl Cancer Inst. 2011 Oct 19;103(20):1498-506. doi: 10.1093/jnci/djr310. Epub 2011 Oct 12."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002593"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "15774775", 
+                "citation": "Poplin EA, Benedetti JK, Estes NC, Haller DG, Mayer RJ, Goldberg RM, Weiss GR, Rivkin SE, Macdonald JS. Phase III Southwest Oncology Group 9415/Intergroup 0153 randomized trial of fluorouracil, leucovorin, and levamisole versus fluorouracil continuous infusion and levamisole for adjuvant treatment of stage III and high-risk stage II colon cancer. J Clin Oncol. 2005 Mar 20;23(9):1819-25."
+            }, 
+            {
+                "citation": "Poplin E, Benedetti J, Estes N, et al.: Phase III randomized trial of bolus 5-FU/leucovorin/levamisole versus 5-FU continuous infusion/levamisole as adjuvant therapy for high risk colon cancer (SWOG 9415/INT-0153). [Abstract] Proceedings of the American Society of Clinical Oncology 19: A931, 2000."
+            }, 
+            {
+                "citation": "Leichman CG, Poplin E, Zalupski M, et al.: A pilot trial of infusion 5-fluorouracil with levamisole as adjuvant therapy for stage III colon cancer. [Abstract] Proceedings of the American Society of Clinical Oncology 14: A-460, 196, 1995."
+            }
+        ], 
+        "secondary_outcome": {
+            "measure": "Disease free survival", 
+            "safety_issue": "No", 
+            "time_frame": "Until progression"
+        }, 
+        "source": "Southwest Oncology Group", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Cancer Institute (NCI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "Cancer and Leukemia Group B", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Eastern Cooperative Oncology Group", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "North Central Cancer Treatment Group", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Southwest Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 1994", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "Albert Einstein Comprehensive Cancer Center": "40.85 -73.867", 
+        "Altru Health Systems": "47.925 -97.033", 
+        "Barnes-Jewish Hospital": "38.627 -90.199", 
+        "Beth Israel Deaconess Medical Center": "42.358 -71.06", 
+        "CCOP - Carle Cancer Center": "40.111 -88.207", 
+        "CCOP - Cedar Rapids Oncology Project": "41.978 -91.666", 
+        "CCOP - Colorado Cancer Research Program, Inc.": "39.739 -104.985", 
+        "CCOP - Duluth": "46.787 -92.1", 
+        "CCOP - Geisinger Clinical and Medical Center": "40.963 -76.613", 
+        "CCOP - Illinois Oncology Research Association": "40.694 -89.589", 
+        "CCOP - Iowa Oncology Research Association": "41.601 -93.609", 
+        "CCOP - Kalamazoo": "42.292 -85.587", 
+        "CCOP - Marshfield Medical Research and Education Foundation": "44.669 -90.172", 
+        "CCOP - Metro-Minnesota": "44.96 -93.37", 
+        "CCOP - Missouri Valley Cancer Consortium": "41.252 -95.998", 
+        "CCOP - Ochsner": "29.951 -90.072", 
+        "CCOP - Scottsdale Oncology Program": "33.494 -111.926", 
+        "CCOP - Sioux Community Cancer Consortium": "43.55 -96.7", 
+        "CCOP - Southeast Cancer Control Consortium": "36.1 -80.244", 
+        "CCOP - Southern Nevada Cancer Research Foundation": "36.115 -115.173", 
+        "CCOP - Toledo Community Hospital Oncology Program": "41.664 -83.555", 
+        "CentraCare Clinic": "45.554 -94.17", 
+        "Comprehensive Cancer Center of Wake Forest University Baptist Medical Center": "36.1 -80.244", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Emory University Hospital - Atlanta": "33.749 -84.388", 
+        "Fox Chase Cancer Center": "39.952 -75.164", 
+        "Ireland Cancer Center": "41.499 -81.695", 
+        "Lineberger Comprehensive Cancer Center, UNC": "35.913 -79.056", 
+        "Mayo Clinic Cancer Center": "44.022 -92.47", 
+        "Medical College of Wisconsin": "43.039 -87.906", 
+        "Mount Sinai Medical Center, NY": "40.714 -74.006", 
+        "North Shore University Hospital": "40.798 -73.7", 
+        "Pretoria Academic Hospital": "-25.731 28.218", 
+        "Quain & Ramstad Clinic, P.C.": "46.808 -100.784", 
+        "Rapid City Regional Hospital": "44.081 -103.231", 
+        "Rhode Island Hospital": "41.824 -71.413", 
+        "Robert H. Lurie Comprehensive Cancer Center, Northwestern University": "41.878 -87.63", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "Saskatchewan Cancer Agency": "50.455 -104.607", 
+        "Siouxland Hematology-Oncology": "42.5 -96.4", 
+        "Stanford University Medical Center": "37.429 -122.169", 
+        "State University of New York - Upstate Medical University": "43.048 -76.147", 
+        "Sylvester Cancer Center, University of Miami": "25.789 -80.226", 
+        "UCSF Cancer Center and Cancer Research Institute": "37.775 -122.419", 
+        "University of Chicago Cancer Research Center": "41.878 -87.63", 
+        "University of Massachusetts Memorial Medical Center": "42.263 -71.802", 
+        "University of Minnesota Cancer Center": "44.98 -93.264", 
+        "University of Pittsburgh Cancer Institute": "40.441 -79.996", 
+        "University of Rochester Cancer Center": "43.161 -77.611", 
+        "University of Tennessee, Memphis Cancer Center": "35.15 -90.049", 
+        "University of Wisconsin Comprehensive Cancer Center": "43.073 -89.401", 
+        "Vermont Cancer Center": "44.476 -73.212", 
+        "Veterans Affairs Medical Center - Albany": "42.653 -73.756", 
+        "Veterans Affairs Medical Center - Atlanta (Decatur)": "33.775 -84.296", 
+        "Veterans Affairs Medical Center - Chicago (Lakeside)": "41.878 -87.63", 
+        "Veterans Affairs Medical Center - Madison": "43.073 -89.401", 
+        "Veterans Affairs Medical Center - Milwaukee (Zablocki)": "43.039 -87.906", 
+        "Veterans Affairs Medical Center - Palo Alto": "37.442 -122.143", 
+        "Veterans Affairs Medical Center - San Juan": "18.466 -66.106", 
+        "Walter Reed Army Medical Center": "38.895 -77.036"
+    }
+}

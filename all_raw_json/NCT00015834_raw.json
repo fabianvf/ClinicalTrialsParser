@@ -1,0 +1,158 @@
+{
+    "clinical_study": {
+        "@rank": "57269", 
+        "arm_group": {
+            "arm_group_label": "Treatment (imatinib mesylate, cytarabine)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients who have not previously received imatinib mesylate receive oral imatinib mesylate daily on days 1-35. Patients who have previously received imatinib mesylate for at least 28 days receive oral imatinib mesylate on days 22-35. All patients receive cytarabine IV over 2 hours every 12 hours on days 29-32. Patients with more than 5% residual blasts in bone marrow on day 28 receive a second course in the absence of disease progression or unacceptable toxicity."
+        }, 
+        "brief_summary": {
+            "textblock": "Phase I/II trial to study the effectiveness of combining STI571 and chemotherapy in treating\n      patients who have chronic myelogenous leukemia. Drugs used in chemotherapy use different\n      ways to stop cancer cells from dividing so they stop growing or die. STI571 may stop the\n      growth of leukemia cells. Combining chemotherapy and STI571 may kill more cancer cells"
+        }, 
+        "brief_title": "STI571 Plus Cytarabine in Treating Patients With Chronic Myelogenous Leukemia", 
+        "condition": [
+            "Blastic Phase Chronic Myelogenous Leukemia", 
+            "Chronic Myelogenous Leukemia, BCR-ABL1 Positive", 
+            "Relapsing Chronic Myelogenous Leukemia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Blast Crisis", 
+                "Leukemia", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. Determine the maximum tolerated dose of high-dose cytarabine when combined with imatinib\n      mesylate in patients with blastic phase chronic myelogenous leukemia.\n\n      II. Determine the safety of this regimen in these patients. III. Determine the\n      pharmacokinetics of this regimen in these patients. IV. Determine the frequency of\n      hematologic and cytogenetic responses, duration of response, and survival of patients\n      treated with this regimen.\n\n      OUTLINE: This is a multicenter, dose-escalation study of cytarabine.\n\n      Phase I: Patients who have not previously received imatinib mesylate receive oral imatinib\n      mesylate daily on days 1-35. Patients who have previously received imatinib mesylate for at\n      least 28 days receive oral imatinib mesylate on days 22-35. All patients receive cytarabine\n      IV over 2 hours every 12 hours on days 29-32. Patients with more than 5% residual blasts in\n      bone marrow on day 28 receive a second course in the absence of disease progression or\n      unacceptable toxicity. Cohorts of 3-6 patients receive escalating doses of cytarabine until\n      the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose preceding\n      that which 2 of 6 patients experience dose-limiting toxicity.\n\n      Phase II: Additional patients are treated at the dose level preceding the MTD. Patients are\n      followed monthly."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Diagnosis of chronic myelogenous leukemia in myeloid blast crisis\n\n               -  At least 30% blasts in bone marrow\n\n          -  Philadelphia chromosome positive by cytogenetic analysis\n\n          -  bcr/abl translocation by fluorescent in situ hybridization\n\n          -  Ineligible for or refused allogeneic stem cell transplantation\n\n          -  Not previously treated with imatinib mesylate OR currently receiving imatinib\n             mesylate with stable disease on 2 bone marrow biopsies at least 2 weeks apart\n\n          -  Performance status - ECOG 0-2\n\n          -  See Disease Characteristics\n\n          -  Bilirubin less than 3 times upper limit of normal (ULN)\n\n          -  AST and ALT less than 3 times ULN\n\n          -  Creatinine less than 2 times ULN\n\n          -  No New York Heart Association class III or IV heart disease\n\n          -  Not pregnant or nursing\n\n          -  Negative pregnancy test\n\n          -  Fertile patients must use effective barrier contraception during and for at least 2\n             weeks after study for female patients and at least 3 months after study for male\n             patients\n\n          -  See Disease Characteristics\n\n          -  No prior allogeneic bone marrow or peripheral blood stem cell transplantation\n\n          -  At least 48 hours since prior interferon alfa\n\n          -  At least 24 hours since prior hydroxyurea\n\n          -  At least 6 weeks since prior busulfan\n\n          -  No other prior chemotherapy for blast crisis (except hydroxyurea)\n\n          -  Concurrent hydroxyurea or anagrelide for severe leukocytosis or thrombocytosis\n             allowed\n\n          -  At least 4 weeks since prior investigational agents"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "46", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 6, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00015834", 
+            "org_study_id": "NCI-2012-02374", 
+            "secondary_id": [
+                "UCLA-0011009", 
+                "CDR0000068441"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment (imatinib mesylate, cytarabine)", 
+                "description": "Given PO", 
+                "intervention_name": "imatinib mesylate", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "CGP 57148", 
+                    "Gleevec", 
+                    "Glivec"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (imatinib mesylate, cytarabine)", 
+                "description": "Given IV", 
+                "intervention_name": "cytarabine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "ARA-C", 
+                    "arabinofuranosylcytosine", 
+                    "arabinosylcytosine", 
+                    "Cytosar-U", 
+                    "cytosine arabinoside"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cytarabine", 
+                "Imatinib"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "January 23, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "90095"
+                }, 
+                "name": "University of California at Los Angeles (UCLA )"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase I/II Trial of STI571 and High-Dose Cytarabine in Myeloid Blast Crisis of Chronic Myeloid Leukemia", 
+        "overall_official": {
+            "affiliation": "University of California at Los Angeles (UCLA )", 
+            "last_name": "Ronald Paquette", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Described by duration, relatedness to treatment, and action taken.", 
+                "measure": "Toxicity according to NCI/NIH Common Toxicity Criteria", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 2 years"
+            }, 
+            {
+                "measure": "Hematologic response", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 6 months"
+            }, 
+            {
+                "measure": "Bone marrow cytogenetic response", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 6 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00015834"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "May 2001", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }, 
+    "geocoordinates": {
+        "University of California at Los Angeles (UCLA )": "34.052 -118.244"
+    }
+}

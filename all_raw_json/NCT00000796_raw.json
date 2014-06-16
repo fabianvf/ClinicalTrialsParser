@@ -1,0 +1,464 @@
+{
+    "clinical_study": {
+        "@rank": "161658", 
+        "brief_summary": {
+            "textblock": "To determine the demographic, behavioral, clinical, and geographic risk factors associated\n      with the occurrence of multidrug-resistant pulmonary tuberculosis (MDRTB). To evaluate the\n      clinical and microbiological responses and overall survival of MDRTB patients who are\n      treated with levofloxacin-containing multiple-drug regimens chosen from a hierarchical list.\n      Per 9/28/94 amendment, to assess whether persistent or recurrent positive sputum cultures of\n      patients who show failure or relapse are due to the same strain or reinfection with a new\n      strain.\n\n      Among TB patients, there has been an increase in progressive disease due to the emergence of\n      antimycobacterial drug-resistant strains of Mycobacterium tuberculosis. Failure to identify\n      patients at high risk for MDRTB increases the hazard for both treatment failure and\n      development of resistance to additional therapeutic agents. Efforts to improve survival in\n      patients with MDRTB will depend on improved methods of assessing the risk of acquisition of\n      MDRTB and identifying drug susceptibility patterns in a timely fashion."
+        }, 
+        "brief_title": "A Prospective Study of Multidrug Resistance and a Pilot Study of the Safety of and Clinical and Microbiologic Response to Levofloxacin in Combination With Other Antimycobacterial Drugs for Treatment of Multidrug-Resistant Pulmonary Tuberculosis (MDRTB) in HIV-Infected Patients.", 
+        "completion_date": {
+            "#text": "October 1998", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "HIV Infections", 
+            "Tuberculosis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome", 
+                "Tuberculosis", 
+                "Tuberculosis, Pulmonary"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Among TB patients, there has been an increase in progressive disease due to the emergence of\n      antimycobacterial drug-resistant strains of Mycobacterium tuberculosis. Failure to identify\n      patients at high risk for MDRTB increases the hazard for both treatment failure and\n      development of resistance to additional therapeutic agents. Efforts to improve survival in\n      patients with MDRTB will depend on improved methods of assessing the risk of acquisition of\n      MDRTB and identifying drug susceptibility patterns in a timely fashion.\n\n      Patients are asked a series of questions to determine epidemiologic factors that may be\n      predictive of MDRTB. Patients who are determined to be at low risk for MDRTB will be\n      referred to another TB treatment protocol (ACTG 222), if appropriate. Patients suspected of\n      having primary or acquired MDRTB or those with confirmed MDRTB will be offered a regimen of\n      anti-TB therapy from a hierarchically ordered list of drugs, based on the patient's\n      resistance status (suspect primary MDRTB, suspect acquired MDRTB, or confirmed MDRTB). The\n      hierarchical list is as follows: isoniazid, rifampin, ethambutol, streptomycin,\n      levofloxacin, ethionamide, cycloserine, capreomycin, aminosalicylic acid, and clofazimine.\n      Treatment will be administered daily for at least 6 months, then on an intermittent schedule\n      at the clinician's discretion. Patients with confirmed MDRTB (defined as known resistance to\n      at least isoniazid and rifampin within 6 months prior to study entry) will receive a minimum\n      of 18 months of treatment following sputum culture conversion. Follow-up is performed every\n      4 weeks for 8 weeks, and then every 8 weeks."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients must have:\n\n          -  Working diagnosis of HIV infection.\n\n          -  Working diagnosis of pulmonary TB.\n\n        Per 08/02/94 amendment, patients with confirmed MDRTB or known susceptibilities for the\n        current episode at baseline are not eligible for the epidemiologic study only.\n\n        FOR TREATMENT PILOT:\n\n          -  Positive sputum AFB smear (or a positive sputum culture for TB within 6 months prior\n             to study entry).\n\n          -  Assessment of suspect primary, suspect acquired, AND/OR confirmed MDRTB.\n\n          -  Life expectancy of at least 2 weeks.\n\n          -  Age >= 18 years for suspect MDRTB. Age >= 13 years for confirmed MDRTB.\n\n        Exclusion Criteria\n\n        Co-existing Condition:\n\n        Patients with the following symptoms or conditions are excluded:\n\n          -  Known hypersensitivity or resistance to quinolones.\n\n          -  Other disorders or conditions for which the study drugs are contraindicated.\n\n        Prior Medication:\n\n        Excluded:\n\n          -  More than 6 weeks total therapy within 3 months prior to study entry using three or\n             more drugs effective against the isolates. (Per 08/02/94 amendment, patients from\n             protocol ACTG 222/CPCRA 019 who have MDRTB are eligible for rollover to this study\n             regardless of treatment duration on ACTG 222/CPCRA 019.)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "13 Years"
+        }, 
+        "enrollment": "525", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000796", 
+            "org_study_id": "ACTG 238", 
+            "secondary_id": [
+                "CPCRA 026", 
+                "11215"
+            ]
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Cycloserine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Ethionamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Capreomycin sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Aminosalicylic acid", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Streptomycin sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Ethambutol hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Amikacin sulfate", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Isoniazid", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Pyrazinamide", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Pyridoxine hydrochloride", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Levofloxacin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Rifampin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Clofazimine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Aminosalicylic Acid", 
+                "Capreomycin", 
+                "Cycloserine", 
+                "Ethambutol", 
+                "Ethionamide", 
+                "Isoniazid", 
+                "Pyrazinamide", 
+                "Rifampin", 
+                "Amikacin", 
+                "Anti-Bacterial Agents", 
+                "Clofazimine", 
+                "Ofloxacin", 
+                "Streptomycin", 
+                "Pyridoxine", 
+                "Vitamin B 6", 
+                "Pyridoxal"
+            ]
+        }, 
+        "keyword": [
+            "Isoniazid", 
+            "Tuberculosis, Pulmonary", 
+            "Pyrazinamide", 
+            "Pyridoxine", 
+            "Ofloxacin", 
+            "Rifampin", 
+            "AIDS-Related Opportunistic Infections", 
+            "Drug Therapy, Combination", 
+            "Ethambutol", 
+            "Clofazimine", 
+            "Acquired Immunodeficiency Syndrome", 
+            "Amikacin", 
+            "Drug Resistance, Microbial", 
+            "Cycloserine", 
+            "Capreomycin Sulfate", 
+            "Ethionamide", 
+            "Aminosalicylic Acids", 
+            "Streptomycin", 
+            "p-Aminosalicylic Acid"
+        ], 
+        "lastchanged_date": "March 30, 2012", 
+        "link": [
+            {
+                "description": "Click here for more information about Rifampin", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=109"
+            }, 
+            {
+                "description": "Click here for more information about Isoniazid", 
+                "url": "http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=123"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Montefiore Drug Treatment Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Montefiore Family Health Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Samaritan Village Inc / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "Montefiore Med Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10465"
+                    }, 
+                    "name": "Jack Weiler Hosp / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Bronx Municipal Hosp Ctr/Jacobi Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10456"
+                    }, 
+                    "name": "Bronx Lebanon Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Comprehensive Health Care Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "North Central Bronx Hosp / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "112032098"
+                    }, 
+                    "name": "SUNY / Health Sciences Ctr at Brooklyn"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "112032098"
+                    }, 
+                    "name": "Interfaith Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10016"
+                    }, 
+                    "name": "Bellevue Hosp / New York Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10003"
+                    }, 
+                    "name": "Beth Israel Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Cornell Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10019"
+                    }, 
+                    "name": "Saint Clare's Hosp and Health Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10037"
+                    }, 
+                    "name": "Harlem AIDS Treatment Group / Harlem Hosp Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "100323784"
+                    }, 
+                    "name": "Columbia Presbyterian Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "Clinical Directors Network of Region II"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Prospective Study of Multidrug Resistance and a Pilot Study of the Safety of and Clinical and Microbiologic Response to Levofloxacin in Combination With Other Antimycobacterial Drugs for Treatment of Multidrug-Resistant Pulmonary Tuberculosis (MDRTB) in HIV-Infected Patients.", 
+        "overall_official": [
+            {
+                "last_name": "Telzak E", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "Benson C", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "Chirgwin K", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "Sepkowitz K", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "N/A", 
+        "reference": [
+            {
+                "citation": "Telzak EE, Chirgwin K, Nelson E, Matts J, Benson C, Sepkowitz K, Perlman D, El-Sadr W. Predictors for multidrug-resistant tuberculosis (MDRTB) among HIV-infected patients and response to specific MDRTB drug regimens. Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:184 (abstract no 647)"
+            }, 
+            {
+                "PMID": "10206505", 
+                "citation": "Telzak EE, Chirgwin KD, Nelson ET, Matts JP, Sepkowitz KA, Benson CA, Perlman DC, El-Sadr WM. Predictors for multidrug-resistant tuberculosis among HIV-infected patients and response to specific drug regimens. Terry Beirn Community Programs for Clinical Research on AIDS (CPCRA) and the AIDS Clinical Trials Group (ACTG), National Institutes for Health. Int J Tuberc Lung Dis. 1999 Apr;3(4):337-43."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000796"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Safety Study, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2012"
+    }, 
+    "geocoordinates": {
+        "Bellevue Hosp / New York Univ Med Ctr": "40.714 -74.006", 
+        "Beth Israel Med Ctr": "40.714 -74.006", 
+        "Bronx Lebanon Hosp Ctr": "40.85 -73.867", 
+        "Bronx Municipal Hosp Ctr/Jacobi Med Ctr": "40.85 -73.867", 
+        "Clinical Directors Network of Region II": "40.714 -74.006", 
+        "Columbia Presbyterian Med Ctr": "40.714 -74.006", 
+        "Comprehensive Health Care Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Cook County Hosp": "41.878 -87.63", 
+        "Cornell Univ Med Ctr": "40.714 -74.006", 
+        "Harlem AIDS Treatment Group / Harlem Hosp Ctr": "40.714 -74.006", 
+        "Henry Ford Hosp": "42.331 -83.046", 
+        "Interfaith Med Ctr": "40.653 -73.959", 
+        "Jack Weiler Hosp / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Montefiore Drug Treatment Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Montefiore Family Health Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Montefiore Med Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Mount Sinai Med Ctr": "40.714 -74.006", 
+        "North Central Bronx Hosp / Bronx Municipal Hosp": "40.85 -73.867", 
+        "SUNY / Health Sciences Ctr at Brooklyn": "40.653 -73.959", 
+        "Saint Clare's Hosp and Health Ctr": "40.714 -74.006", 
+        "Samaritan Village Inc / Bronx Municipal Hosp": "40.85 -73.867"
+    }
+}

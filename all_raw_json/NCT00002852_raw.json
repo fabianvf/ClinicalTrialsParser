@@ -1,0 +1,195 @@
+{
+    "clinical_study": {
+        "@rank": "87567", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I (surgery, observation)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients receive no further therapy."
+            }, 
+            {
+                "arm_group_label": "Arm II (surgery, chemotherapy)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive adjuvant therapy comprising paclitaxel IV over 3 hours followed by carboplatin IV over 1-2 hours on day 1. Treatment continues every 3 weeks for 4 courses."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Randomized phase III trial to compare the effectiveness of surgery with or without\n      combination chemotherapy in treating patients who have stage I non-small cell lung cancer.\n      Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop\n      growing or die. Combining more than one drug may kill more tumor cells. It is not yet known\n      whether surgery is more effective with or without chemotherapy for non-small cell lung\n      cancer."
+        }, 
+        "brief_title": "Surgery With or Without Chemotherapy in Treating Patients With Stage I Non-small Cell Lung Cancer", 
+        "condition": [
+            "Adenocarcinoma of the Lung", 
+            "Adenosquamous Cell Lung Cancer", 
+            "Bronchoalveolar Cell Lung Cancer", 
+            "Large Cell Lung Cancer", 
+            "Squamous Cell Lung Cancer", 
+            "Stage IB Non-small Cell Lung Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Adenocarcinoma", 
+                "Adenocarcinoma, Bronchiolo-Alveolar", 
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To determine if adjuvant chemotherapy can favorably alter the prognosis of the subgroup\n      of resected stage I patients who, following complete surgical resection of their disease,\n      are defined as \"high risk\" based on the presence of a T2N0 tumor (according to the criteria\n      of the International Staging System for lung cancer).\n\n      SECONDARY OBJECTIVES:\n\n      I To compare failure-free survival of patients with T2N0 stage I NSCLC who have and have not\n      been treated with adjuvant chemotherapy.\n\n      II. To determine the toxicities associated with adjuvant chemotherapy. III. To describe the\n      pattern of disease recurrence.\n\n      OUTLINE: This is a randomized, multicenter study. Patients are stratified according to tumor\n      histology (squamous cell vs nonsquamous cell), degree of differentiation (poorly\n      differentiated vs other), and mediastinal node sampling at surgery (yes vs no). Within 4-8\n      weeks after surgery, patients are randomized to 1 of 2 treatment arms.\n\n      Arm I:Patients receive no further therapy.\n\n      Arm II: Patients receive adjuvant therapy comprising paclitaxel IV over 3 hours followed by\n      carboplatin IV over 1-2 hours on day 1. Treatment continues every 3 weeks for 4 courses.\n\n      Patients are followed every 4 months for 2 years and then every 6 months thereafter."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically documented non-small cell carcinoma\n\n          -  Completely resected T2N0M0 Stage I NSCLC as defined by the International Staging\n             System\n\n          -  Surgery shall consist of a lobectomy or pneumonectomy with resection of associated N1\n             lymph nodes (either by thoracotomy or thoracoscopy)\n\n          -  Patients must be randomized within 4 to 8 weeks from the date of complete surgical\n             resection\n\n          -  No prior chemotherapy or radiation for non-small cell lung cancer\n\n          -  Performance status of 0 or 1\n\n          -  Women must be non-pregnant and non-lactating; patients of childbearing potential must\n             agree to use an effective form of contraception while on study\n\n          -  Patients must have no history of previous or concomitant malignancy, other than\n             curatively treated carcinoma in situ of the cervix, or basal cell or squamous cell\n             carcinoma of the skin, or surgically treated in situ carcinoma of the breast, or\n             other cancer for which the patient has bee disease free for five years\n\n          -  Granulocytes >= 1,800/ul\n\n          -  Platelets >= 100,000/ul\n\n          -  Bilirubin < 1.5 mg/dl\n\n          -  SGOT (AST) < 2.0 x ULN"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "500", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 1, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00002852", 
+            "org_study_id": "NCI-2012-02967", 
+            "secondary_id": [
+                "CALGB-9633", 
+                "CDR0000065095", 
+                "CLB-C9633", 
+                "U10CA031946"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm II (surgery, chemotherapy)", 
+                "description": "Given IV", 
+                "intervention_name": "paclitaxel", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Anzatax", 
+                    "Asotax", 
+                    "TAX", 
+                    "Taxol"
+                ]
+            }, 
+            {
+                "arm_group_label": "Arm II (surgery, chemotherapy)", 
+                "description": "Given IV", 
+                "intervention_name": "carboplatin", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Carboplat", 
+                    "CBDCA", 
+                    "JM-8", 
+                    "Paraplat", 
+                    "Paraplatin"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (surgery, observation)", 
+                    "Arm II (surgery, chemotherapy)"
+                ], 
+                "description": "Undergo surgery", 
+                "intervention_name": "therapeutic conventional surgery", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Carboplatin", 
+                "Paclitaxel"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "July 2, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Chicago", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60606"
+                }, 
+                "name": "Cancer and Leukemia Group B"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A PHASE III STUDY OF ADJUVANT CHEMOTHERAPY AFTER RESECTION FOR PATIENTS WITH T2N0 STAGE I NON-SMALL CELL CARCINOMA OF THE LUNG", 
+        "overall_official": {
+            "affiliation": "Cancer and Leukemia Group B", 
+            "last_name": "Gary Strauss", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "July 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "OS curves will be calculated using the Kaplan-Meier life-table method. Comparison of the survival curve for the two treatment regimens will be performed using the log-rank test for censored data.", 
+                "measure": "Overall survival (OS)", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2.4 years"
+            }, 
+            {
+                "description": "Failure-free survival curves will be calculated using the Kaplan-Meier life-table method.", 
+                "measure": "Failure-free survival", 
+                "safety_issue": "No", 
+                "time_frame": "Time between randomization and disease relapse or death, assessed up to 2.4 years"
+            }
+        ], 
+        "removed_countries": {
+            "country": [
+                "Canada", 
+                "Puerto Rico"
+            ]
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00002852"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Toxicity as assessed by Common Toxicity Criteria version 2.0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 1 year after completion of treatment"
+            }, 
+            {
+                "description": "The frequency of local and distant relapse and the incidence of a second primary lung cancer will be tabulated by treatment.", 
+                "measure": "Pattern of disease recurrence.", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 years"
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "October 1996", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }, 
+    "geocoordinates": {
+        "Cancer and Leukemia Group B": "41.878 -87.63"
+    }
+}

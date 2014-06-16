@@ -1,0 +1,845 @@
+{
+    "clinical_study": {
+        "@rank": "47186", 
+        "brief_summary": {
+            "textblock": "STAR*D focuses on non-psychotic major depressive disorder in adults who are seen in\n      outpatient settings. The primary purpose of this research study is to determine which\n      treatments work best if the first treatment with medication does not produce an acceptable\n      response. Participants will first receive citalopram, an SSRI medication; if symptoms remain\n      after 8-12 weeks of treatment, up to four other levels of treatment will be offered,\n      including cognitive therapy and other medications. There are no placebo treatments. Some\n      patients may require a combination of two or more treatments to obtain full benefit.\n      Participation could last from 15 to 27 months and involve up to 30 clinic visits.\n      Participants will be interviewed by telephone throughout the study about their symptoms,\n      daily functioning, treatment side effects, use of the health care system, and satisfaction\n      with treatment. There will be a one-year follow up for participants once their depression\n      has been successfully treated"
+        }, 
+        "brief_title": "Sequenced Treatment Alternatives to Relieve Depression (STAR*D)", 
+        "completion_date": "September 2006", 
+        "condition": "Depression", 
+        "condition_browse": {
+            "mesh_term": [
+                "Depression", 
+                "Depressive Disorder"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The STAR*D project will enroll 4,000 outpatients (ages 18 -75) diagnosed with nonpsychotic\n      Major Depressive Disorder. Participants will be initially treated (open label) with\n      citalopram, the Level 1 treatment, for a minimum of 8 weeks. Patients who experience minimal\n      benefit will be strongly encouraged to complete 12 weeks of treatment in order to maximize\n      the chances of symptom remission (unless no benefit at all is seen after 8 weeks).  All\n      participants will also receive a brief depression educational program.\n\n      At each level change, participants will be asked to indicate the unacceptability of the\n      potential treatment strategies (e.g, to augment or to switch medications).  Participants\n      will then be eligible for random assignment to one of the acceptable and medically safe\n      treatment options.\n\n      Level 2:  Participants who either did not have an adequate response to or could not tolerate\n      citalopram are eligible for Level 2.  The Level 2 treatment strategies are:\n\n      i) Medication and Psychotherapy Switch: switch to sertraline, venlafaxineXR, bupropionSR, or\n      cognitive therapy (CT).\n\n      ii) Medication and Psychotherapy Augmentation: add to citalopram either a) buspirone, b)\n      bupropionSR, or c) CT.\n\n      iii) Medication Only Switch or Medication Only Augmentation options are available for\n      participants for whom CT is unacceptable.\n\n      iv)Psychotherapy Only Switch or Psychotherapy Only Augmentation options are available for\n      participants for whom additional medication is unacceptable at this point in the study\n      (participants must be willing to continue citalopram)\n\n      Level 2A:  Participants without a satisfactory response to their Level 2 treatment are\n      eligible for random assignment to additional treatment at Level 2A (if medically safe and\n      acceptable).  Level 2A is included so that all participants entering Level 3 have had an\n      opportunity to respond to at least 2 medications.  Level 2A consists of Medication Switch to\n      one of two antidepressant medications (venlafaxineXR or bupropion SR).\n\n      Level 3: Participants without satisfactory response to Level 2 and,if appropriate Level 2A,\n      are eligible for random assignment to one of the following treatments (if acceptable and\n      medically safe):\n\n      i)  Medication Switch to: a) mirtazapine or b) nortriptyline, a tricyclic antidepressant.\n\n      ii)  Medication Augmentation:  Add (to current Level 2 or Level 2A medication) either: a)\n      lithium or b) thyroid hormone (T3).\n\n      Level 4:  Participants without an adequate response to Level 3 are eligible for random\n      assignment to Level 4 treatment (if acceptable and medically safe).  Level 4 includes two\n      Medication Switch options:  to tranylcypromine [a monoamine oxidase inhibitor (MAOI)], or to\n      mirtazapine plus venlafaxineXR.\n\n      After Level 4, participants without an adequate response will discuss other acceptable\n      treatment options with their physician.\n\n      Once an adequate response is achieved at Levels 2, 2A, 3 or 4, participants are eligible to\n      enter the 12-month follow-up, during which  time they will remain on their current\n      treatment(s) and will be asked about their symptoms and other relevant information monthly\n      by telephone.  ONLY PATIENTS BEING TREATED AT THE PARTICIPATING CLINICS ARE ELIGIBLE FOR\n      THIS STUDY."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "- Outpatients aged 18 to 75 years old with nonpsychotic major depressive disorder (HAMD\n        score 14 or greater)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": "4000", 
+        "firstreceived_date": "July 20, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00021528", 
+            "org_study_id": "N01 MH90003", 
+            "secondary_id": "DSIR AT"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "citalopram", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "BuproprionSR", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "buspirone", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Lithium", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "mirtazapine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "nortriptyline", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "sertraline", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "tranylcypromine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "VenlafaxineXR", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Cognitive Therapy", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "intervention_name": "T3 (Triiodothyronine)", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Citalopram", 
+                "Sertraline", 
+                "Nortriptyline", 
+                "Tranylcypromine", 
+                "Mirtazapine", 
+                "Dexetimide", 
+                "Buspirone", 
+                "Lithium"
+            ]
+        }, 
+        "keyword": [
+            "Sequential Treatment", 
+            "Major Depression", 
+            "Treatment Resistant Depression"
+        ], 
+        "lastchanged_date": "September 24, 2009", 
+        "link": [
+            {
+                "description": "Click here for more information about this study", 
+                "url": "http://www.star-d.org"
+            }, 
+            {
+                "description": "More information on depression", 
+                "url": "http://www.nimh.nih.gov/health/topics/depression/index.shtml"
+            }, 
+            {
+                "description": "NIMH STAR*D Study Results", 
+                "url": "http://www.nimh.nih.gov/health/trials/practical/stard/index.shtml"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35223"
+                    }, 
+                    "name": "Birmingham VA Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tuscaloosa", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35404"
+                    }, 
+                    "name": "Tuscaloosa VA Mental Health Clinic - Veterans Only"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tuscaloosa", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35404"
+                    }, 
+                    "name": "Tuscaloosa VA Primary Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chula Vista", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91910"
+                    }, 
+                    "name": "Psychiatric Centers at San Diego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Harbor City", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90710"
+                    }, 
+                    "name": "Harbor UCLA Family Health Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90024"
+                    }, 
+                    "name": "UCLA General Outpatient Psychiatry Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90024"
+                    }, 
+                    "name": "UCLA Internal Medicine Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92161"
+                    }, 
+                    "name": "Veterans Affairs Medical Center/FIRM Primary Care Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103"
+                    }, 
+                    "name": "UCSD Outpatient Psychiatric Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90509"
+                    }, 
+                    "name": "Harbor UCLA Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern Outpatient Treatment Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "University of Illinois at Chicago Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evanston", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60201"
+                    }, 
+                    "name": "Evanston Outpatient Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67203"
+                    }, 
+                    "name": "COMCARE of Sedgwick County"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214-2878"
+                    }, 
+                    "name": "Psychiatric Outpatient Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Internal Medicine Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01907"
+                    }, 
+                    "name": "Swampscott Family Doctors"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlestown", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02129"
+                    }, 
+                    "name": "MGH/Charlestown Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salem", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01970"
+                    }, 
+                    "name": "MGH/Salem Professional"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0708"
+                    }, 
+                    "name": "Briarwood Family Practice Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48105-0722"
+                    }, 
+                    "name": "General Psychiatric Ambulatory Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glen Oaks", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11004"
+                    }, 
+                    "name": "LIJ/Zucker Hillside Adult Ambulatory Care Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lake Success", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11040"
+                    }, 
+                    "name": "LIJ North Shore Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599-7160"
+                    }, 
+                    "name": "UNC Chapel Hill Adult Diagnostic & Treatment Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599-7110"
+                    }, 
+                    "name": "UNC Chapel Hill General Medicine Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27955"
+                    }, 
+                    "name": "UNC Chapel Hill Family Practice Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74135"
+                    }, 
+                    "name": "Springer Family Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74136"
+                    }, 
+                    "name": "Warren Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74136"
+                    }, 
+                    "name": "Laureate Psychiatric Clinic & Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15213"
+                    }, 
+                    "name": "Bellefield Clinic of WPIC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15062"
+                    }, 
+                    "name": "Diversified Human Services Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15132"
+                    }, 
+                    "name": "Latterman Family Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Upper St. Clair", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15317"
+                    }, 
+                    "name": "AMPN Corkery, Heise & Dainesi"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }, 
+                    "name": "Psychiatric Consultants, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37212"
+                    }, 
+                    "name": "Vanderbilt University Medical Center-Mental Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37212"
+                    }, 
+                    "name": "Vine Hill Community Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37217"
+                    }, 
+                    "name": "Centerstone/Luton Mental Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390"
+                    }, 
+                    "name": "UT Southwestern Family Medicine Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75230"
+                    }, 
+                    "name": "The Holiner Psychiatric Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298-0268"
+                    }, 
+                    "name": "MCV Family Counseling"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23220"
+                    }, 
+                    "name": "MCV Primary Care Clinic"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "Sequenced Treatment Alternatives to Relieve Depression", 
+        "overall_official": {
+            "affiliation": "University of Texas Southwestern Medical Center Department of Psychiatry", 
+            "last_name": "A. John Rush, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 4", 
+        "reference": [
+            {
+                "PMID": "14677083", 
+                "citation": "Adli M, Rush AJ, Moller HJ, Bauer M. Algorithms for optimizing the treatment of depression: making the right decision at the right time. Pharmacopsychiatry. 2003 Dec;36 Suppl 3:222-9."
+            }, 
+            {
+                "PMID": "12778843", 
+                "citation": "Fava M, Rush AJ, Trivedi MH, Nierenberg AA, Thase ME, Sackeim HA, Quitkin FM, Wisniewski S, Lavori PW, Rosenbaum JF, Kupfer DJ. Background and rationale for the sequenced treatment alternatives to relieve depression (STAR*D) study. Psychiatr Clin North Am. 2003 Jun;26(2):457-94, x. Review."
+            }, 
+            {
+                "PMID": "12562566", 
+                "citation": "Rush AJ, Trivedi M, Fava M. Depression, IV: STAR*D treatment trial for depression. Am J Psychiatry. 2003 Feb;160(2):237. No abstract available."
+            }, 
+            {
+                "PMID": "11720698", 
+                "citation": "Lavori PW, Rush AJ, Wisniewski SR, Alpert J, Fava M, Kupfer DJ, Nierenberg A, Quitkin FM, Sackeim HA, Thase ME, Trivedi M. Strengthening clinical effectiveness trials: equipoise-stratified randomization. Biol Psychiatry. 2001 Nov 15;50(10):792-801."
+            }, 
+            {
+                "PMID": "15061154", 
+                "citation": "Rush AJ, Fava M, Wisniewski SR, Lavori PW, Trivedi MH, Sackeim HA, Thase ME, Nierenberg AA, Quitkin FM, Kashner TM, Kupfer DJ, Rosenbaum JF, Alpert J, Stewart JW, McGrath PJ, Biggs MM, Shores-Wilson K, Lebowitz BD, Ritz L, Niederehe G; STAR*D Investigators Group. Sequenced treatment alternatives to relieve depression (STAR*D): rationale and design. Control Clin Trials. 2004 Feb;25(1):119-42."
+            }, 
+            {
+                "PMID": "15003429", 
+                "citation": "Wisniewski SR, Stegman D, Trivedi M, Husain MM, Eng H, Shores-Wilson K, Luther J, Biggs MM, Burroughs D, Ritz AL, Fava M, Quitkin F, Rush AJ; STAR*D Investigators. Methods of testing feasibility for sequenced treatment alternatives to relieve depression (STAR*D). J Psychiatr Res. 2004 May-Jun;38(3):241-8."
+            }, 
+            {
+                "PMID": "16279277", 
+                "citation": "Wisniewski SR, Eng H, Meloro L, Gatt R, Ritz L, Stegman D, Trivedi M, Biggs MM, Friedman E, Shores-Wilson K, Warden D, Bartolowits D, Martin JP, Rush AJ. Web-based communications and management of a multi-center clinical trial: the Sequenced Treatment Alternatives to Relieve Depression (STAR*D) project. Clin Trials. 2004;1(4):387-98."
+            }, 
+            {
+                "PMID": "15458854", 
+                "citation": "Nierenberg AA, Trivedi MH, Ritz L, Burroughs D, Greist J, Sackeim H, Kornstein S, Schwartz T, Stegman D, Fava M, Wisniewski SR. Suicide risk management for the sequenced treatment alternatives to relieve depression study: applied NIMH guidelines. J Psychiatr Res. 2004 Nov-Dec;38(6):583-9."
+            }, 
+            {
+                "PMID": "15567207", 
+                "citation": "Yates WR, Mitchell J, Rush AJ, Trivedi MH, Wisniewski SR, Warden D, Hauger RB, Fava M, Gaynes BN, Husain MM, Bryan C. Clinical features of depressed outpatients with and without co-occurring general medical conditions in STAR*D. Gen Hosp Psychiatry. 2004 Nov-Dec;26(6):421-9."
+            }, 
+            {
+                "PMID": "15697056", 
+                "citation": "Fava M, Alpert JE, Carmin CN, Wisniewski SR, Trivedi MH, Biggs MM, Shores-Wilson K, Morgan D, Schwartz T, Balasubramani GK, Rush AJ. Clinical correlates and symptom patterns of anxious depression among patients with major depressive disorder in STAR*D. Psychol Med. 2004 Oct;34(7):1299-308."
+            }, 
+            {
+                "citation": "Friedman EF, Thase ME, Biggs MM, Carmin C, Hollon SD, Kornblith SJ, Petersen T, Veenstra G, Wisniewski SR, and Rush AJ. The implementation of cognitive therapy in STAR*D. Cognitive Therapy and Research, 28:819-833, 2004."
+            }, 
+            {
+                "PMID": "15590040", 
+                "citation": "Zisook S, Rush AJ, Albala A, Alpert J, Balasubramani GK, Fava M, Husain M, Sackeim H, Trivedi M, Wisniewski S. Factors that differentiate early vs. later onset of major depression disorder. Psychiatry Res. 2004 Dec 15;129(2):127-40."
+            }, 
+            {
+                "PMID": "15723023", 
+                "citation": "Davis LL, Rush JA, Wisniewski SR, Rice K, Cassano P, Jewell ME, Biggs MM, Shores-Wilson K, Balasubramani GK, Husain MM, Quitkin FM, McGrath PJ. Substance use disorder comorbidity in major depressive disorder: an exploratory analysis of the Sequenced Treatment Alternatives to Relieve Depression cohort. Compr Psychiatry. 2005 Mar-Apr;46(2):81-9."
+            }, 
+            {
+                "PMID": "15705000", 
+                "citation": "Perlis RH, Fraguas R, Fava M, Trivedi MH, Luther JF, Wisniewski SR, Rush AJ. Prevalence and clinical correlates of irritability in major depressive disorder: a preliminary report from the Sequenced Treatment Alternatives to Relieve Depression study. J Clin Psychiatry. 2005 Feb;66(2):159-66; quiz 147, 273-4."
+            }, 
+            {
+                "PMID": "15837455", 
+                "citation": "Warden D, Rush AJ, Trivedi M, Ritz L, Stegman D, Wisniewski SR. Quality improvement methods as applied to a multicenter effectiveness trial--STAR*D. Contemp Clin Trials. 2005 Feb;26(1):95-112. Epub 2005 Jan 27."
+            }, 
+            {
+                "PMID": "15763119", 
+                "citation": "Gaynes BN, Rush AJ, Trivedi M, Wisniewski SR, Balasubramani GK, Spencer DC, Petersen T, Klinkman M, Warden D, Schneider RK, Castro DB, Golden RN. A direct comparison of presenting characteristics of depressed outpatients from primary vs. specialty care settings: preliminary findings from the STAR*D clinical trial. Gen Hosp Psychiatry. 2005 Mar-Apr;27(2):87-96."
+            }, 
+            {
+                "PMID": "15918345", 
+                "citation": "Kornstein SG, Harvey AT, Rush AJ, Wisniewski SR, Trivedi MH, Svikis DS, McKenzie ND, Bryan C, Harley R. Self-reported premenstrual exacerbation of depressive symptoms in patients seeking treatment for major depression. Psychol Med. 2005 May;35(5):683-92."
+            }, 
+            {
+                "PMID": "15894381", 
+                "citation": "Rush AJ, Zimmerman M, Wisniewski SR, Fava M, Hollon SD, Warden D, Biggs MM, Shores-Wilson K, Shelton RC, Luther JF, Thomas B, Trivedi MH. Comorbid psychiatric disorders in depressed outpatients: demographic and clinical features. J Affect Disord. 2005 Jul;87(1):43-55."
+            }, 
+            {
+                "PMID": "15982748", 
+                "citation": "Marcus SM, Young EA, Kerber KB, Kornstein S, Farabaugh AH, Mitchell J, Wisniewski SR, Balasubramani GK, Trivedi MH, Rush AJ. Gender differences in depression: findings from the STAR*D study. J Affect Disord. 2005 Aug;87(2-3):141-50."
+            }, 
+            {
+                "PMID": "16088018", 
+                "citation": "Lesser IM, Leuchter AF, Trivedi MH, Davis LL, Wisniewski SR, Balasubramani GK, Petersen T, Stegman D, Rush AJ. Characteristics of insured and noninsured outpatients with depression in STAR(*)D. Psychiatr Serv. 2005 Aug;56(8):995-1004."
+            }, 
+            {
+                "PMID": "16086615", 
+                "citation": "Novick JS, Stewart JW, Wisniewski SR, Cook IA, Manev R, Nierenberg AA, Rosenbaum JF, Shores-Wilson K, Balasubramani GK, Biggs MM, Zisook S, Rush AJ; STAR*D investigators. Clinical and demographic features of atypical depression in outpatients with major depressive disorder: preliminary findings from STAR*D. J Clin Psychiatry. 2005 Aug;66(8):1002-11."
+            }, 
+            {
+                "PMID": "16223963", 
+                "citation": "Husain MM, Rush AJ, Sackeim HA, Wisniewski SR, McClintock SM, Craven N, Holiner J, Mitchell JR, Balasubramani GK, Hauger R. Age-Related Characteristics of Depression: A Preliminary STAR*D Report. Am J Geriatr Psychiatry. 2005 Oct;13(10):852-60."
+            }, 
+            {
+                "citation": "Gaynes, B.N., Davis, L., Rush A.J., Trivedi, M., Fava, M., Wisniewski, S.R. The aims and design of the Sequenced Treatment Alternatives to Relieve Depression (STAR*D) study. Primary Psychiatry, 12(2):36-41, 2005."
+            }, 
+            {
+                "citation": "Friedman EF, Thase ME, Biggs MM, Carmin C, Hollon SD, Kornblith SJ, Petersen T, Veenstra G, Wisniewski SR, Rush AJ. The implementation of cognitive therapy in STAR*D. Cognit Ther Res 2004;28:819-33."
+            }, 
+            {
+                "PMID": "16279871", 
+                "citation": "Gilmer WS, Trivedi MH, Rush AJ, Wisniewski SR, Luther J, Howland RH, Yohanna D, Khan A, Alpert J. Factors associated with chronic depressive episodes: a preliminary report from the STAR-D project. Acta Psychiatr Scand. 2005 Dec;112(6):425-33."
+            }, 
+            {
+                "PMID": "16243357", 
+                "citation": "Hollon SD, Shelton RC, Wisniewski S, Warden D, Biggs MM, Friedman ES, Husain M, Kupfer DJ, Nierenberg AA, Petersen TJ, Shores-Wilson K, Rush AJ. Presenting characteristics of depressed outpatients as a function of recurrence: Preliminary findings from the STAR*D clinical trial. J Psychiatr Res. 2005 Oct 20; [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "16199008", 
+                "citation": "Rush AJ, Bernstein IH, Trivedi MH, Carmody TJ, Wisniewski S, Mundt JC, Shores-Wilson K, Biggs MM, Woo A, Nierenberg AA, Fava M. An Evaluation of the Quick Inventory of Depressive Symptomatology and the Hamilton Rating Scale for Depression: A Sequenced Treatment Alternatives to Relieve Depression Trial Report. Biol Psychiatry. 2005 Sep 28; [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "16867922", 
+                "citation": "Davis LL, Frazier E, Husain MM, Warden D, Trivedi M, Fava M, Cassano P, McGrath PJ, Balasubramani GK, Wisniewski SR, Rush AJ. Substance Use Disorder Comorbidity in Major Depressive Disorder: A Confirmatory Analysis of the STAR*D Cohort. Am J Addict. 2006 Jul-Aug;15(4):278-85."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00021528"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "16390886", 
+                "citation": "Trivedi MH, Rush AJ, Wisniewski SR, Nierenberg AA, Warden D, Ritz L, Norquist G, Howland RH, Lebowitz B, McGrath PJ, Shores-Wilson K, Biggs MM, Balasubramani GK, Fava M. Evaluation of Outcomes With Citalopram for Depression Using Measurement-Based Care in STAR*D: Implications for Clinical Practice. Am J Psychiatry. 2006 Jan;163(1):28-40."
+            }, 
+            {
+                "PMID": "16243357", 
+                "citation": "Hollon SD, Shelton RC, Wisniewski S, Warden D, Biggs MM, Friedman ES, Husain M, Kupfer DJ, Nierenberg AA, Petersen TJ, Shores-Wilson K, Rush AJ. Presenting characteristics of depressed outpatients as a function of recurrence: Preliminary findings from the STAR*D clinical trial. J Psychiatr Res. 2005 Oct 20; [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "16426099", 
+                "citation": "Pilowsky DJ, Wickramaratne PJ, John Rush A, Hughes CW, Garber J, Malloy E, King CA, Cerda G, Sood AB, Alpert JE, Wisniewski SR, Trivedi MH, Talati A, Carlson MM, Liu HH, Fava M, Weissman MM. Children of Currently Depressed Mothers: A STAR*D Ancillary Study. J Clin Psychiatry. 2006 Jan;67(1):126-136."
+            }, 
+            {
+                "PMID": "16566612", 
+                "citation": "Trivedi MH, Rush AJ, Wisniewski SR, Warden D, McKinney W, Downing M, Berman SR, Farabaugh A, Luther JF, Nierenberg AA, Callan JA, Sackeim HA. Factors associated with health-related quality of life among outpatients with major depressive disorder: a STAR*D report. J Clin Psychiatry. 2006 Feb;67(2):185-95."
+            }, 
+            {
+                "PMID": "16554525", 
+                "citation": "Rush AJ, Trivedi MH, Wisniewski SR, Stewart JW, Nierenberg AA, Thase ME, Ritz L, Biggs MM, Warden D, Luther JF, Shores-Wilson K, Niederehe G, Fava M; STAR*D Study Team. Bupropion-SR, sertraline, or venlafaxine-XR after failure of SSRIs for depression. N Engl J Med. 2006 Mar 23;354(12):1231-42."
+            }, 
+            {
+                "PMID": "16551710", 
+                "citation": "Weissman MM, Pilowsky DJ, Wickramaratne PJ, Talati A, Wisniewski SR, Fava M, Hughes CW, Garber J, Malloy E, King CA, Cerda G, Sood AB, Alpert JE, Trivedi MH, Rush AJ; STAR*D-Child Team. Remissions in maternal depression and child psychopathology: a STAR*D-child report. JAMA. 2006 Mar 22;295(12):1389-98."
+            }, 
+            {
+                "PMID": "16554526", 
+                "citation": "Trivedi MH, Fava M, Wisniewski SR, Thase ME, Quitkin F, Warden D, Ritz L, Nierenberg AA, Lebowitz BD, Biggs MM, Luther JF, Shores-Wilson K, Rush AJ; STAR*D Study Team. Medication augmentation after the failure of SSRIs for depression. N Engl J Med. 2006 Mar 23;354(12):1243-52."
+            }, 
+            {
+                "PMID": "16816220", 
+                "citation": "Fava M, Rush AJ, Wisniewski SR, Nierenberg AA, Alpert JE, McGrath PJ, Thase ME, Warden D, Biggs M, Luther JF, Niederehe G, Ritz L, Trivedi MH. A comparison of mirtazapine and nortriptyline following two consecutive failed medication treatments for depressed outpatients: a STAR*D report. Am J Psychiatry. 2006 Jul;163(7):1161-72."
+            }, 
+            {
+                "PMID": "16867922", 
+                "citation": "Davis LL, Frazier E, Husain MM, Warden D, Trivedi M, Fava M, Cassano P, McGrath PJ, Balasubramani GK, Wisniewski SR, Rush AJ. Substance Use Disorder Comorbidity in Major Depressive Disorder: A Confirmatory Analysis of the STAR*D Cohort. Am J Addict. 2006 Jul-Aug;15(4):278-85."
+            }, 
+            {
+                "PMID": "16946177", 
+                "citation": "McGrath PJ, Stewart JW, Fava M, Trivedi MH, Wisniewski SR, Nierenberg AA, Thase ME, Davis L, Biggs MM, Shores-Wilson K, Luther JF, Niederehe G, Warden D, Rush AJ. Tranylcypromine Versus Venlafaxine Plus Mirtazapine Following Three Failed Antidepressant Medication Trials for Depression: A STAR*D Report. Am J Psychiatry. 2006 Sep;163(9):1531-41."
+            }, 
+            {
+                "PMID": "16946176", 
+                "citation": "Nierenberg AA, Fava M, Trivedi MH, Wisniewski SR, Thase ME, McGrath PJ, Alpert JE, Warden D, Luther JF, Niederehe G, Lebowitz B, Shores-Wilson K, Rush AJ. A Comparison of Lithium and T3 Augmentation Following Two Failed Medication Treatments for Depression: A STAR*D Report. Am J Psychiatry. 2006 Sep;163(9):1519-30."
+            }, 
+            {
+                "PMID": "17074942", 
+                "citation": "Rush AJ, Trivedi MH, Wisniewski SR, Nierenberg AA, Stewart JW, Warden D, Niederehe G, Thase ME, Lavori PW, Lebowitz BD, McGrath PJ, Rosenbaum JF, Sackeim HA, Kupfer DJ, Luther J, Fava M. Acute and Longer-Term Outcomes in Depressed Outpatients Requiring One or Several Treatment Steps: A STAR*D Report. Am J Psychiatry. 2006 Nov;163(11):1905-17."
+            }, 
+            {
+                "PMID": "16642436", 
+                "citation": "McMahon FJ, Buervenich S, Charney D, Lipsky R, Rush AJ, Wilson AF, Sorant AJ, Papanicolaou GJ, Laje G, Fava M, Trivedi MH, Wisniewski SR, Manji H. Variation in the Gene Encoding the Serotonin 2A Receptor Is Associated with Outcome of Antidepressant Treatment. Am J Hum Genet. 2006 May;78(5):804-14. Epub 2006 Mar 20."
+            }, 
+            {
+                "PMID": "16457894", 
+                "citation": "Alpert JE, Biggs MM, Davis L, Shores-Wilson K, Harlan WR, Schneider GW, Ford AL, Farabaugh A, Stegman D, Ritz AL, Husain MM, Macleod L, Wisniewski SR, Rush AJ; STAR*D Investigators. Enrolling research subjects from clinical practice: ethical and procedural issues in the Sequenced Treatment Alternatives to Relieve Depression (STAR*D) trial. Psychiatry Res. 2006 Feb 28;141(2):193-200. Epub 2006 Feb 2."
+            }, 
+            {
+                "PMID": "16754414", 
+                "citation": "Khan AY, Carrithers J, Preskorn SH, Lear R, Wisniewski SR, John Rush A, Stegman D, Kelley C, Kreiner K, Nierenberg AA, Fava M. Clinical and demographic factors associated with DSM-IV melancholic depression. Ann Clin Psychiatry. 2006 Apr-Jun;18(2):91-8."
+            }, 
+            {
+                "PMID": "16566901", 
+                "citation": "Wisniewski SR, Leon AC, Otto MW, Trivedi MH. Prevention of missing data in clinical research studies. Biol Psychiatry. 2006 Jun 1;59(11):997-1000. Epub 2006 Mar 29. Review."
+            }, 
+            {
+                "PMID": "16636629", 
+                "citation": "Fava M, Rush AJ. Current status of augmentation and combination treatments for major depressive disorder: a literature review and a proposal for a novel approach to improve practice. Psychother Psychosom. 2006;75(3):139-53. Review."
+            }, 
+            {
+                "PMID": "16690084", 
+                "citation": "Nierenberg AA, Trivedi MH, Fava M, Biggs MM, Shores-Wilson K, Wisniewski SR, Balasubramani GK, Rush AJ. Family history of mood disorder and characteristics of major depressive disorder: a STAR*D (sequenced treatment alternatives to relieve depression) study. J Psychiatr Res. 2007 Apr-Jun;41(3-4):214-21. Epub 2006 May 11."
+            }, 
+            {
+                "PMID": "16824617", 
+                "citation": "Claassen CA, Trivedi MH, Rush AJ, Husain MM, Zisook S, Young E, Leuchter A, Wisniewski SR, Balasubramani GK, Alpert J. Clinical differences among depressed patients with and without a history of suicide attempts: findings from the STAR*D trial. J Affect Disord. 2007 Jan;97(1-3):77-84. Epub 2006 Jul 7."
+            }, 
+            {
+                "citation": "Gilmer WS, Kemp DE. STAR*D: What Have We Learned Thus Far? International Drug Therapy Newsletter 41:75-82, 2006."
+            }, 
+            {
+                "PMID": "17195602", 
+                "citation": "Fava M, Rush AJ, Alpert JE, Carmin CN, Balasubramani GK, Wisniewski SR, Trivedi MH, Biggs MM, Shores-Wilson K. What clinical and symptom features and comorbid disorders characterize outpatients with anxious major depressive disorder: a replication and extension. Can J Psychiatry. 2006 Nov;51(13):823-35."
+            }, 
+            {
+                "PMID": "17091129", 
+                "citation": "Murphy SA, Oslin DW, Rush AJ, Zhu J; MCATS. Methodological challenges in constructing effective treatment sequences for chronic psychiatric disorders. Neuropsychopharmacology. 2007 Feb;32(2):257-62. Epub 2006 Nov 8."
+            }, 
+            {
+                "PMID": "17302619", 
+                "citation": "Zisook S, Rush AJ, Lesser I, Wisniewski SR, Trivedi M, Husain MM, Balasubramani GK, Alpert JE, Fava M. Preadult onset vs. adult onset of major depressive disorder: a replication study. Acta Psychiatr Scand. 2007 Mar;115(3):196-205."
+            }
+        ], 
+        "source": "National Institute of Mental Health (NIMH)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Mental Health (NIMH)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "July 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2006"
+    }, 
+    "geocoordinates": {
+        "AMPN Corkery, Heise & Dainesi": "40.321 -80.087", 
+        "Bellefield Clinic of WPIC": "40.441 -79.996", 
+        "Birmingham VA Medical Center": "33.521 -86.802", 
+        "Briarwood Family Practice Clinic": "42.281 -83.743", 
+        "COMCARE of Sedgwick County": "37.692 -97.337", 
+        "Centerstone/Luton Mental Health Services": "36.166 -86.784", 
+        "Diversified Human Services Clinic": "40.441 -79.996", 
+        "Evanston Outpatient Clinic": "42.041 -87.69", 
+        "General Psychiatric Ambulatory Clinic": "42.281 -83.743", 
+        "Harbor UCLA Family Health Care Center": "33.791 -118.297", 
+        "Harbor UCLA Medical Center": "33.836 -118.341", 
+        "Internal Medicine Associates": "42.358 -71.06", 
+        "LIJ North Shore Medical Group": "40.771 -73.718", 
+        "LIJ/Zucker Hillside Adult Ambulatory Care Center": "40.747 -73.712", 
+        "Latterman Family Health Center": "40.441 -79.996", 
+        "Laureate Psychiatric Clinic & Hospital": "36.154 -95.993", 
+        "MCV Family Counseling": "37.541 -77.436", 
+        "MCV Primary Care Clinic": "37.541 -77.436", 
+        "MGH/Charlestown Clinic": "42.38 -71.065", 
+        "MGH/Salem Professional": "42.52 -70.897", 
+        "Northwestern Outpatient Treatment Care Center": "41.878 -87.63", 
+        "Psychiatric Centers at San Diego": "32.64 -117.084", 
+        "Psychiatric Consultants, P.C.": "36.166 -86.784", 
+        "Psychiatric Outpatient Clinic": "37.692 -97.337", 
+        "Springer Family Medicine": "36.154 -95.993", 
+        "Swampscott Family Doctors": "42.358 -71.06", 
+        "The Holiner Psychiatric Group": "32.803 -96.77", 
+        "Tuscaloosa VA Mental Health Clinic - Veterans Only": "33.21 -87.569", 
+        "Tuscaloosa VA Primary Care Center": "33.21 -87.569", 
+        "UCLA General Outpatient Psychiatry Clinic": "34.052 -118.244", 
+        "UCLA Internal Medicine Clinic": "34.052 -118.244", 
+        "UCSD Outpatient Psychiatric Services": "32.715 -117.157", 
+        "UNC Chapel Hill Adult Diagnostic & Treatment Clinic": "35.913 -79.056", 
+        "UNC Chapel Hill Family Practice Clinic": "35.913 -79.056", 
+        "UNC Chapel Hill General Medicine Clinic": "35.913 -79.056", 
+        "UT Southwestern Family Medicine Clinic": "32.803 -96.77", 
+        "University of Illinois at Chicago Clinic": "41.878 -87.63", 
+        "Vanderbilt University Medical Center-Mental Health Center": "36.166 -86.784", 
+        "Veterans Affairs Medical Center/FIRM Primary Care Clinic": "32.715 -117.157", 
+        "Vine Hill Community Clinic": "36.166 -86.784", 
+        "Warren Clinic": "36.154 -95.993"
+    }
+}

@@ -1,5 +1,4 @@
 __author__ = 'faye'
-
 from bs4 import BeautifulSoup
 import sys
 

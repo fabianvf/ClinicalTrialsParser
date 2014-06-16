@@ -1,0 +1,701 @@
+{
+    "clinical_study": {
+        "@rank": "117864", 
+        "brief_summary": {
+            "textblock": "To assess the safety and toxicity of zidovudine (AZT)/didanosine (ddI) versus AZT/ddI\n      combined with nevirapine in HIV-infected patients, and to obtain preliminary anti-HIV\n      activity data using immunologic and virologic markers.\n\n      Previous in vitro studies suggest that HIV that has already developed resistance to AZT and\n      ddI is less able to develop resistance to nevirapine, a non-nucleoside reverse transcriptase\n      inhibitor. Thus, convergent combination therapy with these three drugs in HIV-infected\n      patients may prove more effective."
+        }, 
+        "brief_title": "A Comparative Study of a Combination of Zidovudine, Didanosine, and Double-Blinded Nevirapine Versus a Combination of Zidovudine and Didanosine", 
+        "completion_date": {
+            "#text": "November 1994", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Previous in vitro studies suggest that HIV that has already developed resistance to AZT and\n      ddI is less able to develop resistance to nevirapine, a non-nucleoside reverse transcriptase\n      inhibitor. Thus, convergent combination therapy with these three drugs in HIV-infected\n      patients may prove more effective.\n\n      Patients are randomized to receive AZT/ddI plus either nevirapine or placebo daily for 48\n      weeks, with possible extension for at least 12 weeks.  At eight participating sites, ACTG\n      808 and 809 will be conducted as virologic and pharmacokinetic substudies."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Concurrent Medication:\n\n        Required:\n\n          -  PCP prophylaxis for patients with CD4 count < 200 cells/mm3 or a prior history of\n             PCP.\n\n        Allowed:\n\n          -  Trimethoprim with sulfamethoxazole or dapsone, intravenous pentamidine, atovaquone,\n             primaquine-clindamycin or trimetrexate for acute PCP.\n\n          -  Topical antifungals, clotrimazole, ketoconazole, fluconazole, and amphotericin B for\n             treatment of mucosal and esophageal candidiasis.\n\n          -  Prophylaxis or therapy for opportunistic infections, as indicated, with other\n             medications such as itraconazole, isoniazid, pyrazinamide, clofazimine,\n             clarithromycin, azithromycin, ethambutol, amikacin, ciprofloxacin, ofloxacin,\n             pyrimethamine, sulfadiazine, and clindamycin.\n\n          -  Maintenance therapy for opportunistic infections as long as patients have been on a\n             stable dosage regimen for 1 month prior to study entry.\n\n          -  Ganciclovir for CMV retinitis or gastrointestinal disease as long as patients have\n             been on a stable dose for at least 1 month prior to study entry with no grade 3 or 4\n             neutropenia or dependence on G-CSF.\n\n          -  Acyclovir (<= 1000 mg/day) for maintenance of herpes simplex virus infections.\n\n          -  Erythropoietin or G-CSF if clinically indicated.\n\n          -  Antibiotics for bacterial infections unless specifically excluded.\n\n          -  Rifampin or rifabutin.\n\n          -  Symptomatic treatments such as antipyretics, analgesics, and antiemetics.\n\n        Concurrent Treatment:\n\n        Allowed:\n\n          -  Local radiation therapy.\n\n        Prior Medication: Required:\n\n          -  At least 6 months of prior cumulative nucleoside therapy with AZT, ddI, or ddC, given\n             as monotherapy or in combination.\n\n        Patients must have:\n\n          -  Prior or current documentation of HIV seropositivity by ELISA confirmed by Western\n             blot, positive HIV antigen, or positive HIV culture, or a second antibody test by a\n             method other than ELISA.\n\n          -  CD4 count <= 350 cells/mm3.\n\n          -  Prior cumulative nucleoside therapy of >= 6 months.\n\n          -  Consent of parent or guardian if less than 18 years of age.\n\n        Exclusion Criteria\n\n        Concurrent Medication:\n\n        Excluded:\n\n          -  Antiretroviral therapies other than study medications.\n\n          -  Systemic corticosteroids given consecutively for > 21 days.\n\n          -  Induction or maintenance with foscarnet.\n\n          -  Systemic cytotoxic chemotherapy for a malignancy.\n\n          -  Erythromycin.\n\n          -  Coumadin/warfarin.\n\n          -  Phenytoin or phenobarbital.\n\n          -  Amoxicillin/clavulanate acid (Augmentin) or ticarcillin/clavulanate acid (Timentin).\n\n        Patients with the following prior conditions are excluded:\n\n          -  History of pancreatitis.\n\n          -  History of intolerance to 500 or 600 mg/day AZT or to 400 mg/day ddI tablets or 500\n             mg/day ddI sachets.\n\n          -  History of grade 2 or worse peripheral neuropathy.\n\n        Prior Medication:\n\n        Excluded at any time:\n\n        Prior non-nucleoside reverse transcriptase inhibitors (NVP; L697,611; TIBO; atevirdine).\n\n        Excluded within 14 days prior to study entry:\n\n          -  Acute treatment for a serious infection or any opportunistic infection.\n\n          -  Biologic response modifiers such as interferon and IL-2.\n\n          -  Erythromycin.\n\n          -  Coumadin/warfarin.\n\n          -  Phenytoin or phenobarbital.\n\n          -  Ticarcillin/clavulanate acid (Timentin) or amoxicillin/clavulanate acid (Augmentin)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "13 Years"
+        }, 
+        "enrollment": "400", 
+        "firstreceived_date": "November 2, 1999", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00000770", 
+            "org_study_id": "ACTG 241", 
+            "secondary_id": "11218"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Nevirapine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Zidovudine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Didanosine", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Didanosine", 
+                "Zidovudine", 
+                "Nevirapine"
+            ]
+        }, 
+        "keyword": [
+            "Didanosine", 
+            "Drug Therapy, Combination", 
+            "Acquired Immunodeficiency Syndrome", 
+            "AIDS-Related Complex", 
+            "Zidovudine", 
+            "Nevirapine"
+        ], 
+        "lastchanged_date": "March 30, 2012", 
+        "link": [
+            {
+                "description": "Click here for more information about Zidovudine", 
+                "url": "http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=4"
+            }, 
+            {
+                "description": "Click here for more information about Didanosine", 
+                "url": "http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=16"
+            }, 
+            {
+                "description": "Click here for more information about Nevirapine", 
+                "url": "http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&Search=On&int_id=116"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "Univ of Alabama at Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "900331079"
+                    }, 
+                    "name": "Univ of Southern California / LA County USC Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609"
+                    }, 
+                    "name": "Summitt Med Ctr / San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "946021018"
+                    }, 
+                    "name": "Highland Gen Hosp / San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "921036325"
+                    }, 
+                    "name": "Univ of California / San Diego Treatment Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941102859"
+                    }, 
+                    "name": "San Francisco AIDS Clinic / San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "941102859"
+                    }, 
+                    "name": "San Francisco Gen Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80262"
+                    }, 
+                    "name": "Univ of Colorado Health Sciences Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "331361013"
+                    }, 
+                    "name": "Univ of Miami School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern Univ Med School"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Presbyterian - Saint Luke's Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Cook County Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "462025250"
+                    }, 
+                    "name": "Indiana Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "Univ of Iowa Hosp and Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Harvard (Massachusetts Gen Hosp)"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess - West Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02118"
+                    }, 
+                    "name": "Boston Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "Univ of Minnesota"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55415"
+                    }, 
+                    "name": "Hennepin County Med Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Paul", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55101"
+                    }, 
+                    "name": "St Paul Ramsey Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "681985130"
+                    }, 
+                    "name": "Univ of Nebraska Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Montefiore Drug Treatment Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Montefiore Family Health Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Samaritan Village Inc / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10465"
+                    }, 
+                    "name": "Jack Weiler Hosp / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Bronx Municipal Hosp Ctr/Jacobi Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "Montefiore Med Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Comprehensive Health Care Ctr / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "North Central Bronx Hosp / Bronx Municipal Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Elmhurst", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11373"
+                    }, 
+                    "name": "City Hosp Ctr at Elmhurst / Mount Sinai Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Mem Sloan - Kettering Cancer Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10003"
+                    }, 
+                    "name": "Beth Israel Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10019"
+                    }, 
+                    "name": "Saint Clare's Hosp and Health Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Cornell Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "275997215"
+                    }, 
+                    "name": "Univ of North Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28203"
+                    }, 
+                    "name": "Carolinas Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greensboro", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27401"
+                    }, 
+                    "name": "Moses H Cone Memorial Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Raleigh", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27610"
+                    }, 
+                    "name": "Wake County Dept of Health"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "452670405"
+                    }, 
+                    "name": "Univ of Cincinnati"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "191046073"
+                    }, 
+                    "name": "Girard Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "191075098"
+                    }, 
+                    "name": "Thomas Jefferson Univ Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Univ of Pennsylvania at Philadelphia"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "official_title": "A Comparative Study of a Combination of Zidovudine, Didanosine, and Double-Blinded Nevirapine Versus a Combination of Zidovudine and Didanosine", 
+        "overall_official": [
+            {
+                "last_name": "D'Aquila R", 
+                "role": "Study Chair"
+            }, 
+            {
+                "last_name": "Hirsch M", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government"
+        }, 
+        "phase": "Phase 2", 
+        "reference": [
+            {
+                "PMID": "8633815", 
+                "citation": "D'Aquila RT, Hughes MD, Johnson VA, Fischl MA, Sommadossi JP, Liou SH, Timpone J, Myers M, Basgoz N, Niu M, Hirsch MS. Nevirapine, zidovudine, and didanosine compared with zidovudine and didanosine in patients with HIV-1 infection. A randomized, double-blind, placebo-controlled trial. National Institute of Allergy and Infectious Diseases AIDS Clinical Trials Group Protocol 241 Investigators. Ann Intern Med. 1996 Jun 15;124(12):1019-30."
+            }, 
+            {
+                "citation": "Dusek A, Hall D, Lamson M, Myers M. Once-daily dosing of nevirapine: a retrospective, cross-study analysis. Int Conf AIDS. 1998;12:85 (abstract no 12360)"
+            }, 
+            {
+                "citation": "Leigh Brown AJ, D'Aquila RT, Johnson VA, Kuritzkes DR, Richman DD. Baseline sequence clusters predict response to combination therapy in ACTG 241. Conf Retroviruses Opportunistic Infect. 1998 Feb 1-5;5th:211 (abstract no 704)"
+            }, 
+            {
+                "PMID": "7699053", 
+                "citation": "Fiscus SA, Welles SL, Spector SA, Lathey JL. Length of incubation time for human immunodeficiency virus cultures. J Clin Microbiol. 1995 Jan;33(1):246-7."
+            }, 
+            {
+                "PMID": "9607832", 
+                "citation": "D'Aquila RT, Sutton L, Savara A, Hughes MD, Johnson VA. CCR5/delta(ccr5) heterozygosity: a selective pressure for the syncytium-inducing human immunodeficiency virus type 1 phenotype. NIAID AIDS Clinical Trials Group Protocol 241 Virology Team. J Infect Dis. 1998 Jun;177(6):1549-53."
+            }, 
+            {
+                "PMID": "11367380", 
+                "citation": "[No authors listed] Virus sidesteps convergent therapy. GMHC Treat Issues. 1995 Jan;9(1):6. No abstract available."
+            }, 
+            {
+                "citation": "Precious H, Leigh Brown AJ, Gunthard HF, Wong JK, D'Aquila RT, Johnson VA, Kuritzkes DR, Richman DD. A multiple regression model predicting response to combination therapy from baseline sequence data identifies amino acid sites not previously associated with resistance. Conf Retroviruses Opportunistic Infect. 1999 Jan 31-Feb 4;6th:69 (abstract no 14)"
+            }, 
+            {
+                "PMID": "9869576", 
+                "citation": "Zhou XJ, Sheiner LB, D'Aquila RT, Hughes MD, Hirsch MS, Fischl MA, Johnson VA, Myers M, Sommadossi JP. Population pharmacokinetics of nevirapine, zidovudine, and didanosine in human immunodeficiency virus-infected patients. The National Institute of Allergy and Infectious Diseases AIDS Clinical Trials Group Protocol 241 Investigators. Antimicrob Agents Chemother. 1999 Jan;43(1):121-8."
+            }, 
+            {
+                "citation": "Hall D, Robinson P, Cort S, Kohlbrenner V, Leitz G, Myers M. Duration of effect of nevirapine (NVP), a cross-trial analysis of three controlled studies. Conf Retroviruses Opportunistic Infect. 1996 Jan 28-Feb 1;3rd:79"
+            }, 
+            {
+                "PMID": "9182469", 
+                "citation": "Hughes MD, Johnson VA, Hirsch MS, Bremer JW, Elbeik T, Erice A, Kuritzkes DR, Scott WA, Spector SA, Basgoz N, Fischl MA, D'Aquila RT. Monitoring plasma HIV-1 RNA levels in addition to CD4+ lymphocyte count improves assessment of antiretroviral therapeutic response. ACTG 241 Protocol Virology Substudy Team. Ann Intern Med. 1997 Jun 15;126(12):929-38."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00000770"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Bristol-Myers Squibb", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "Glaxo Wellcome", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "study_design": "Endpoint Classification: Pharmacokinetics Study, Masking: Double-Blind, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2012"
+    }, 
+    "geocoordinates": {
+        "Beth Israel Deaconess - West Campus": "42.358 -71.06", 
+        "Beth Israel Deaconess Med Ctr": "42.358 -71.06", 
+        "Beth Israel Med Ctr": "40.714 -74.006", 
+        "Boston Med Ctr": "42.358 -71.06", 
+        "Bronx Municipal Hosp Ctr/Jacobi Med Ctr": "40.85 -73.867", 
+        "Carolinas Med Ctr": "35.227 -80.843", 
+        "City Hosp Ctr at Elmhurst / Mount Sinai Hosp": "40.738 -73.88", 
+        "Comprehensive Health Care Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Cook County Hosp": "41.878 -87.63", 
+        "Cornell Univ Med Ctr": "40.714 -74.006", 
+        "Girard Med Ctr": "39.952 -75.164", 
+        "Harvard (Massachusetts Gen Hosp)": "42.358 -71.06", 
+        "Hennepin County Med Clinic": "44.98 -93.264", 
+        "Highland Gen Hosp / San Francisco Gen Hosp": "37.804 -122.271", 
+        "Indiana Univ Hosp": "39.769 -86.158", 
+        "Jack Weiler Hosp / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Mem Sloan - Kettering Cancer Ctr": "40.714 -74.006", 
+        "Montefiore Drug Treatment Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Montefiore Family Health Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Montefiore Med Ctr / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Moses H Cone Memorial Hosp": "36.073 -79.792", 
+        "Mount Sinai Med Ctr": "40.714 -74.006", 
+        "North Central Bronx Hosp / Bronx Municipal Hosp": "40.85 -73.867", 
+        "Northwestern Univ Med School": "41.878 -87.63", 
+        "Rush Presbyterian - Saint Luke's Med Ctr": "41.878 -87.63", 
+        "Saint Clare's Hosp and Health Ctr": "40.714 -74.006", 
+        "Samaritan Village Inc / Bronx Municipal Hosp": "40.85 -73.867", 
+        "San Francisco AIDS Clinic / San Francisco Gen Hosp": "37.775 -122.419", 
+        "San Francisco Gen Hosp": "37.775 -122.419", 
+        "St Paul Ramsey Med Ctr": "44.954 -93.114", 
+        "Summitt Med Ctr / San Francisco Gen Hosp": "37.804 -122.271", 
+        "Thomas Jefferson Univ Hosp": "39.952 -75.164", 
+        "Univ of Alabama at Birmingham": "33.521 -86.802", 
+        "Univ of California / San Diego Treatment Ctr": "32.715 -117.157", 
+        "Univ of Cincinnati": "39.103 -84.512", 
+        "Univ of Colorado Health Sciences Ctr": "39.739 -104.985", 
+        "Univ of Iowa Hosp and Clinic": "41.661 -91.53", 
+        "Univ of Miami School of Medicine": "25.789 -80.226", 
+        "Univ of Minnesota": "44.98 -93.264", 
+        "Univ of Nebraska Med Ctr": "41.252 -95.998", 
+        "Univ of North Carolina": "35.913 -79.056", 
+        "Univ of Pennsylvania at Philadelphia": "39.952 -75.164", 
+        "Univ of Southern California / LA County USC Med Ctr": "34.052 -118.244", 
+        "Wake County Dept of Health": "35.772 -78.639"
+    }
+}

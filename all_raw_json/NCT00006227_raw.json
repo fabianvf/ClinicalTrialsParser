@@ -1,0 +1,927 @@
+{
+    "clinical_study": {
+        "@rank": "45484", 
+        "arm_group": {
+            "arm_group_label": "Treatment (paclitaxel)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive paclitaxel IV over 3 hours on day 1. Treatment continues every 21 days in the absence of disease progression or unacceptable toxicity."
+        }, 
+        "brief_summary": {
+            "textblock": "This phase II trial studies the effectiveness of paclitaxel in treating patients who have\n      ovarian stromal cancer. Drugs used in chemotherapy use different ways to stop tumor cells\n      from dividing so they stop growing or die."
+        }, 
+        "brief_title": "Paclitaxel in Treating Patients With Ovarian Stromal Cancer", 
+        "condition": "Ovarian Stromal Cancer", 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n      I. To estimate the probability of clinical response and toxicity of paclitaxel as\n      second-line chemotherapy in measurable disease patients with malignant tumors of the ovarian\n      stroma.\n\n      II. To evaluate the value of inhibin for predicting response.\n\n      OUTLINE:\n\n      Patients receive paclitaxel IV over 3 hours on day 1. Treatment continues every 21 days in\n      the absence of disease progression or unacceptable toxicity.\n\n      Patients are followed every 3 months for 2 years, then every 6 months for three years, and\n      then annually thereafter."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically confirmed ovarian stromal cancer not amenable to surgery\n\n               -  Granulosa cell tumor\n\n               -  Granulosa cell theca cell tumor\n\n               -  Sertoli-Leydig cell tumor (androblastoma)\n\n               -  Gynandroblastoma\n\n               -  Unclassified sex cord stromal tumor\n\n               -  Sex cord tumor with annular tubules\n\n               -  Steroid (lipid) cell tumor\n\n          -  Recurrent disease after no more than 1 prior chemotherapy regimen\n\n          -  Measurable disease\n\n               -  At least 1 cm in diameter\n\n          -  Performance status - GOG 0-2\n\n          -  WBC at least 3,000/mm^3\n\n          -  Granulocyte count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n          -  Bilirubin no greater than 1.5 times normal\n\n          -  SGOT no greater than 3 times normal\n\n          -  Creatinine no greater than 2.0 mg/dL\n\n          -  Not pregnant\n\n          -  Negative pregnancy test\n\n          -  Patients must have signed an approved informed consent and Health Insurance\n             Portability and Accountability Act (HIPAA) authorization\n\n          -  Fertile patients must use effective contraception\n\n          -  No other prior invasive malignancy in past 5 years except nonmelanoma skin cancer\n\n          -  No prior radiotherapy to study lesion"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "42", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 11, 2000", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00006227", 
+            "org_study_id": "GOG-0187", 
+            "secondary_id": [
+                "NCI-2011-02054", 
+                "CDR0000068149", 
+                "GOG-0187", 
+                "GOG-0187", 
+                "U10CA027469"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": "Treatment (paclitaxel)", 
+            "description": "Given IV", 
+            "intervention_name": "paclitaxel", 
+            "intervention_type": "Drug", 
+            "other_name": [
+                "Anzatax", 
+                "Asotax", 
+                "TAX", 
+                "Taxol"
+            ]
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Paclitaxel"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "September 19, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "University of Alabama at Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90806"
+                    }, 
+                    "name": "Long Beach Memorial Medical Center-Todd Cancer Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095"
+                    }, 
+                    "name": "Jonsson Comprehensive Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mountain View", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94040"
+                    }, 
+                    "name": "Palo Alto Medical Foundation-Gynecologic Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868"
+                    }, 
+                    "name": "University of California Medical Center At Irvine-Orange Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }, 
+                    "name": "UCSF-Mount Zion"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hartford", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06102"
+                    }, 
+                    "name": "Hartford Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Britain", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06050"
+                    }, 
+                    "name": "The Hospital of Central Connecticut"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lewes", 
+                        "country": "United States", 
+                        "state": "Delaware", 
+                        "zip": "19958"
+                    }, 
+                    "name": "Beebe Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "Delaware", 
+                        "zip": "19718"
+                    }, 
+                    "name": "Christiana Care Health System-Christiana Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Savannah", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31403"
+                    }, 
+                    "name": "Memorial Health University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Honolulu", 
+                        "country": "United States", 
+                        "state": "Hawaii", 
+                        "zip": "96813"
+                    }, 
+                    "name": "Hawaii Minority Based CCOP"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hinsdale", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60521"
+                    }, 
+                    "name": "Sudarshan K Sharma MD Limted-Gynecologic Oncology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Indiana University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "University of Iowa Hospitals and Clinics"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536"
+                    }, 
+                    "name": "University of Kentucky"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40202"
+                    }, 
+                    "name": "Norton Health Care Pavilion - Downtown"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Elkton MD", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21921"
+                    }, 
+                    "name": "Union Hospital of Cecil County"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49001"
+                    }, 
+                    "name": "Borgess Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007"
+                    }, 
+                    "name": "Bronson Methodist Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007"
+                    }, 
+                    "name": "West Michigan Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kessler AFB", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39534"
+                    }, 
+                    "name": "Keesler Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89169"
+                    }, 
+                    "name": "Women's Cancer Center of Nevada"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Camden", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08103"
+                    }, 
+                    "name": "Cooper Hospital University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Neptune", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07753"
+                    }, 
+                    "name": "Jersey Shore Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10461"
+                    }, 
+                    "name": "Montefiore Medical Center-Weiler Division"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brooklyn", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11203"
+                    }, 
+                    "name": "State University of New York Downstate Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599"
+                    }, 
+                    "name": "University of North Carolina"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28203"
+                    }, 
+                    "name": "Carolinas Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest University Health Sciences"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44710"
+                    }, 
+                    "name": "Aultman Health Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45267"
+                    }, 
+                    "name": "University of Cincinnati"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109"
+                    }, 
+                    "name": "MetroHealth Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44111"
+                    }, 
+                    "name": "Cleveland Clinic Cancer Center/Fairview Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Case Western Reserve University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43214"
+                    }, 
+                    "name": "Riverside Methodist Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Arthur G. James Cancer Hospital and Solove Research Institute at Ohio State University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kettering", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45429"
+                    }, 
+                    "name": "Kettering Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mayfield Heights", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44124"
+                    }, 
+                    "name": "Hillcrest Hospital Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mentor", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44060"
+                    }, 
+                    "name": "Lake University Ireland Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "University of Oklahoma Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tulsa", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "74136-1929"
+                    }, 
+                    "name": "Cancer Care Associates-Yale"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Abington", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19001"
+                    }, 
+                    "name": "Abington Memorial Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Allentown", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "18105"
+                    }, 
+                    "name": "Lehigh Valley Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033-0850"
+                    }, 
+                    "name": "Penn State Milton S Hershey Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19103"
+                    }, 
+                    "name": "Gynecologic Oncology Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19140"
+                    }, 
+                    "name": "Temple University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29210"
+                    }, 
+                    "name": "South Carolina Oncology Associates PA"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Sam Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78234"
+                    }, 
+                    "name": "Brooke Army Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlottesville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22908"
+                    }, 
+                    "name": "University of Virginia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yakima", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98902"
+                    }, 
+                    "name": "Cancer Institutes of Washington PLLC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sendai", 
+                        "country": "Japan", 
+                        "state": "Aoba-ku", 
+                        "zip": "980-8574"
+                    }, 
+                    "name": "Tohoku University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kure", 
+                        "country": "Japan", 
+                        "state": "Hiroshima", 
+                        "zip": "737"
+                    }, 
+                    "name": "Kure National Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sapporo", 
+                        "country": "Japan", 
+                        "state": "Hokkaido", 
+                        "zip": "060-8648"
+                    }, 
+                    "name": "Hokkaido University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Morioka", 
+                        "country": "Japan", 
+                        "state": "Iwate", 
+                        "zip": "020-8505"
+                    }, 
+                    "name": "Iwate Medical University School of Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shinjuku-ku", 
+                        "country": "Japan", 
+                        "state": "Tokyo", 
+                        "zip": "160-8582"
+                    }, 
+                    "name": "Keio University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kagoshima City, Kagoshima", 
+                        "country": "Japan", 
+                        "zip": "892-8580"
+                    }, 
+                    "name": "Kagoshima City Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Matsuyama", 
+                        "country": "Japan", 
+                        "zip": "791-0280"
+                    }, 
+                    "name": "Shikoku Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minami-ku", 
+                        "country": "Japan", 
+                        "zip": "811 1395"
+                    }, 
+                    "name": "National Kyushu Cancer Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Osaka, Osaka", 
+                        "country": "Japan", 
+                        "zip": "589 8511"
+                    }, 
+                    "name": "Kinki University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tottori", 
+                        "country": "Japan", 
+                        "zip": "680-8550"
+                    }, 
+                    "name": "Tottori University"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Japan"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase II Study of Paclitaxel for Ovarian Stromal Tumors as Second-Line Therapy", 
+        "overall_official": {
+            "affiliation": "Gynecologic Oncology Group", 
+            "last_name": "Linda Van Le", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Frequency of complete clinical response, assessed using GOG RECIST criteria", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 5 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00006227"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Duration of progression-free survival", 
+                "safety_issue": "No", 
+                "time_frame": "The period from study entry until disease progression, death or date of last contact, assessed up to 5 years"
+            }, 
+            {
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "The observed length of life from entry into the study to death or the date of last contact, assessed up to 5 years"
+            }
+        ], 
+        "source": "Gynecologic Oncology Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Gynecologic Oncology Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2000", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }, 
+    "geocoordinates": {
+        "Abington Memorial Hospital": "40.12 -75.125", 
+        "Arthur G. James Cancer Hospital and Solove Research Institute at Ohio State University Medical Center": "39.961 -82.999", 
+        "Aultman Health Foundation": "40.799 -81.378", 
+        "Beebe Medical Center": "38.775 -75.139", 
+        "Borgess Medical Center": "42.292 -85.587", 
+        "Bronson Methodist Hospital": "42.292 -85.587", 
+        "Brooke Army Medical Center": "29.47 -98.424", 
+        "Cancer Care Associates-Yale": "36.154 -95.993", 
+        "Cancer Institutes of Washington PLLC": "46.602 -120.506", 
+        "Carolinas Medical Center": "35.227 -80.843", 
+        "Case Western Reserve University": "41.499 -81.695", 
+        "Christiana Care Health System-Christiana Hospital": "39.684 -75.75", 
+        "Cleveland Clinic Cancer Center/Fairview Hospital": "41.499 -81.695", 
+        "Cleveland Clinic Foundation": "41.499 -81.695", 
+        "Cooper Hospital University Medical Center": "39.926 -75.12", 
+        "Duke University Medical Center": "35.994 -78.899", 
+        "Gynecologic Oncology Group": "39.952 -75.164", 
+        "Hartford Hospital": "41.764 -72.685", 
+        "Hawaii Minority Based CCOP": "21.307 -157.858", 
+        "Hillcrest Hospital Cancer Center": "41.519 -81.458", 
+        "Hokkaido University Hospital": "43.062 141.354", 
+        "Indiana University Medical Center": "39.769 -86.158", 
+        "Iwate Medical University School of Medicine": "39.702 141.154", 
+        "Jersey Shore Medical Center": "40.209 -74.039", 
+        "Jonsson Comprehensive Cancer Center": "34.052 -118.244", 
+        "Kagoshima City Hospital": "31.597 130.557", 
+        "Keesler Medical Center": "30.411 -88.924", 
+        "Keio University": "35.694 139.704", 
+        "Kettering Medical Center": "39.69 -84.169", 
+        "Kinki University": "34.694 135.502", 
+        "Kure National Hospital": "34.249 132.566", 
+        "Lake University Ireland Cancer Center": "41.666 -81.34", 
+        "Lehigh Valley Hospital": "40.608 -75.49", 
+        "Long Beach Memorial Medical Center-Todd Cancer Institute": "33.804 -118.158", 
+        "Memorial Health University Medical Center": "32.084 -81.1", 
+        "MetroHealth Medical Center": "41.499 -81.695", 
+        "Montefiore Medical Center-Weiler Division": "40.85 -73.867", 
+        "National Kyushu Cancer Center": "34.977 135.746", 
+        "Norton Health Care Pavilion - Downtown": "38.253 -85.758", 
+        "Palo Alto Medical Foundation-Gynecologic Oncology": "37.386 -122.084", 
+        "Penn State Milton S Hershey Medical Center": "40.286 -76.65", 
+        "Riverside Methodist Hospital": "39.961 -82.999", 
+        "Rush University Medical Center": "41.878 -87.63", 
+        "Shikoku Cancer Center": "33.839 132.766", 
+        "South Carolina Oncology Associates PA": "34.001 -81.035", 
+        "State University of New York Downstate Medical Center": "40.653 -73.959", 
+        "Sudarshan K Sharma MD Limted-Gynecologic Oncology": "41.801 -87.937", 
+        "Temple University Hospital": "39.952 -75.164", 
+        "The Hospital of Central Connecticut": "41.661 -72.78", 
+        "Tohoku University School of Medicine": "38.2690761 140.8704029", 
+        "Tottori University": "35.501 134.235", 
+        "UCSF-Mount Zion": "37.775 -122.419", 
+        "Union Hospital of Cecil County": "39.607 -75.833", 
+        "University of Alabama at Birmingham": "33.521 -86.802", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California Medical Center At Irvine-Orange Campus": "33.788 -117.853", 
+        "University of Cincinnati": "39.103 -84.512", 
+        "University of Iowa Hospitals and Clinics": "41.661 -91.53", 
+        "University of Kentucky": "38.041 -84.504", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of North Carolina": "35.913 -79.056", 
+        "University of Oklahoma Health Sciences Center": "35.468 -97.516", 
+        "University of Virginia": "38.029 -78.477", 
+        "Wake Forest University Health Sciences": "36.1 -80.244", 
+        "Washington University School of Medicine": "38.627 -90.199", 
+        "West Michigan Cancer Center": "42.292 -85.587", 
+        "Women's Cancer Center of Nevada": "36.115 -115.173"
+    }
+}

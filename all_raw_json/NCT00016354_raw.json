@@ -1,0 +1,775 @@
+{
+    "clinical_study": {
+        "@rank": "90981", 
+        "arm_group": {
+            "arm_group_label": "benzoylphenylurea", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing\n      so they stop growing or die.\n\n      PURPOSE: Phase I trial to study the effectiveness of benzoylphenylurea in treating patients\n      who have advanced solid tumors."
+        }, 
+        "brief_title": "Benzoylphenylurea in Treating Patients With Advanced Solid Tumors", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "BPU, administered over a dose range of 5\u2013320 mg", 
+                        "title": "Benzoylphenylurea"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "19"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "11"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "8"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "8"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "11"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Toxicity was assessed weekly during the first 2 cycles, and monthly thereafter, using the National Cancer Institute Common Toxicity Criteria (NCI CTCv2). Dose limiting toxicity (DLT) was defined as dose delays >2 weeks, grade 4 haematologic toxicity (except grade 4 neutropenia lasting <5 days), or grade 3 nonhaematologic toxicity. The maximum tolerated dose (MTD) is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience a dose-limiting toxicity.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "BPU, administered over a dose range of 5-320 mg", 
+                                "title": "Benzoylphenylurea"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "19"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "150"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Toxicity was assessed weekly during the first 2 cycles, and monthly thereafter, using the National Cancer Institute Common Toxicity Criteria (NCI CTCv2). Dose limiting toxicity (DLT) was defined as dose delays >2 weeks, grade 4 haematologic toxicity (except grade 4 neutropenia lasting <5 days), or grade 3 nonhaematologic toxicity. The maximum tolerated dose (MTD) is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience a dose-limiting toxicity.", 
+                                    "param": "Number", 
+                                    "title": "Determine Maximum Tolerated Dose of BPU", 
+                                    "units": "milligrams (mg)"
+                                }
+                            ]
+                        }, 
+                        "population": "Participants that completed at least 1 cycle of BPU.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "4 weeks (1 course of treatment for each subject)", 
+                        "title": "Determine Maximum Tolerated Dose of BPU", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "safety_issue": "Yes", 
+                        "time_frame": "every 4 weeks", 
+                        "title": "Number of Patients With Adverse Events", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "8 weeks", 
+                        "title": "Area Under the Plasma Concentration Versus Time Curve (AUC) of BPU", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "baseline", 
+                        "title": "Test for Antitumor Activity in Blood and Tissue", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Benzoylphenylurea dose level of 5 mg; Dose level 1", 
+                            "title": "Benzoylphenylurea 5 mg"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Benzoylphenylurea dose level of 10 mg; Dose level 2", 
+                            "title": "Benzoylphenylurea 10 mg"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Benzoylphenylurea dose level of 20 mg; Dose level 3", 
+                            "title": "Benzoylphenylurea 20 mg"
+                        }, 
+                        {
+                            "@group_id": "P4", 
+                            "description": "Benzoylphenylurea dose level of 40 mg; Dose level 4", 
+                            "title": "Benzoylphenylurea 40 mg"
+                        }, 
+                        {
+                            "@group_id": "P5", 
+                            "description": "Benzoylphenylurea dose level of 80 mg; Dose level 5", 
+                            "title": "Benzoylphenylurea 80 mg"
+                        }, 
+                        {
+                            "@group_id": "P6", 
+                            "description": "Benzoylphenylurea dose level of 160 mg; Dose level 6", 
+                            "title": "Benzoylphenylurea 160 mg"
+                        }, 
+                        {
+                            "@group_id": "P7", 
+                            "description": "Benzoylphenylurea dose level of 320 mg; Dose level 7", 
+                            "title": "Benzoylphenylurea 320 mg"
+                        }, 
+                        {
+                            "@group_id": "P8", 
+                            "description": "Benzoylphenylurea dose level of 150 mg; Dose level 8 (for this dose level, a 25 mg capsule was used. At all previous dose levels, a 5 mg capsule was administered.)", 
+                            "title": "Benzoylphenylurea Dose Level of 150 mg"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P2"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P3"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P4"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P5"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P6"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P7"
+                                        }, 
+                                        {
+                                            "@count": "1", 
+                                            "@group_id": "P8"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Lack of Efficacy"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P6"
+                                            }, 
+                                            {
+                                                "@count": "6", 
+                                                "@group_id": "P7"
+                                            }, 
+                                            {
+                                                "@count": "7", 
+                                                "@group_id": "P8"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P6"
+                                            }, 
+                                            {
+                                                "@count": "6", 
+                                                "@group_id": "P7"
+                                            }, 
+                                            {
+                                                "@count": "6", 
+                                                "@group_id": "P8"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P6"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P7"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P8"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Patients were excluded if they had known brain metastases, active infections, chronic diarrhoea, malabsorption, peripheral neuropathy >grade 1 (NCI CTC v2), pregnancy, HIV infection, or serious concurrent medical conditions.", 
+                "recruitment_details": "Nineteen patients were enrolled between August 2001 and July 2004 at Johns Hopkins."
+            }, 
+            "point_of_contact": {
+                "email": "awolff@jhmi.edu", 
+                "name_or_title": "Dr. Antonio Wolff", 
+                "organization": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins", 
+                "phone": "410-614-4192"
+            }, 
+            "reported_events": {
+                "desc": "Toxicity was assessed weekly during the first 2 cycles, and monthly thereafter, using the NCI CTCv2.", 
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "BPU, administered over a dose range of 5-320 mg", 
+                        "title": "Benzoylphenylurea"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "19", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Anemia (Hemoglobin)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Thrombocytopenia (Platelets)"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "3", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Myalgia"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Arthralgia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Syncope"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Rhinitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "19"
+                                            }, 
+                                            "sub_title": "Cough"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Alopecia"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "NCI CTCv2", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "19"
+                                        }, 
+                                        "sub_title": "Neutropenic fever"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "NCI CTCv2"
+                }, 
+                "time_frame": "every 4 weeks"
+            }
+        }, 
+        "completion_date": {
+            "#text": "September 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": "Unspecified Adult Solid Tumor, Protocol Specific", 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n        -  Determine the maximum tolerated dose of benzoylphenylurea in patients with advanced\n           solid tumors.\n\n        -  Evaluate the acute and chronic toxicity profile of this regimen in these patients.\n\n        -  Evaluate the pharmacokinetics and metabolites of this regimen and any potential\n           correlation with pharmacodynamic effects in these patients.\n\n        -  Determine the antitumor activity of this regimen in these patients.\n\n      OUTLINE: This is a dose-escalation study.\n\n      Patients receive oral benzoylphenylurea (BPU) once weekly. Courses repeat every 4 weeks in\n      the absence of disease progression or unacceptable toxicity.\n\n      Cohorts of 3-6 patients receive escalating doses of BPU until the maximum tolerated dose\n      (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6\n      patients experience a dose-limiting toxicity. Once the MTD is determined, 12 additional\n      patients are accrued and treated with BPU as above to confirm the MTD.\n\n      Patients are followed for 30 days.\n\n      PROJECTED ACCRUAL: Approximately 18-24 patients will be accrued for this study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "DISEASE CHARACTERISTICS:\n\n          -  Histologically confirmed malignancy\n\n               -  Metastatic or unresectable\n\n               -  No effective standard curative or palliative measures exist\n\n          -  No known CNS or brain metastasis\n\n        PATIENT CHARACTERISTICS:\n\n        Age:\n\n          -  18 and over\n\n        Performance status:\n\n          -  ECOG 0-1\n\n        Life expectancy:\n\n          -  Not specified\n\n        Hematopoietic:\n\n          -  Absolute neutrophil count at least 1,500/mm^3\n\n          -  Platelet count at least 100,000/mm^3\n\n        Hepatic:\n\n          -  Bilirubin normal\n\n          -  SGOT/SGPT normal\n\n        Renal:\n\n          -  Creatinine normal\n\n          -  Creatinine clearance at least 60 mL/min\n\n        Cardiovascular:\n\n          -  No symptomatic congestive heart failure\n\n          -  No unstable angina pectoris\n\n          -  No cardiac arrhythmia\n\n          -  No uncontrolled ventricular arrhythmia\n\n          -  No myocardial infarction within the past 3 months\n\n          -  No superior vena cava syndrome\n\n        Neurologic:\n\n          -  No grade 1 or greater peripheral neuropathy\n\n          -  No uncontrolled major seizure disorder\n\n          -  No spinal cord compression\n\n        Other:\n\n          -  No active serious infection requiring IV antibiotics\n\n          -  No concurrent uncontrolled illness\n\n          -  No concurrent unstable or serious medical condition\n\n          -  No chronic diarrhea or malabsorption\n\n          -  No history of allergic reactions to compounds similar in chemical or biological\n             composition to benzoylphenylurea\n\n          -  No psychiatric illness or social situation that would preclude study compliance\n\n          -  Not pregnant or nursing\n\n          -  Fertile patients must use effective contraception\n\n        PRIOR CONCURRENT THERAPY:\n\n        Biologic therapy:\n\n          -  No concurrent immunotherapy\n\n          -  No concurrent growth factors during first 2 courses of study\n\n          -  Concurrent epoetin alfa allowed\n\n        Chemotherapy:\n\n          -  At least 28 days since prior chemotherapy (6 weeks for nitrosoureas or mitomycin)\n\n          -  No other concurrent chemotherapy\n\n        Endocrine therapy:\n\n          -  No concurrent hormonal therapy\n\n        Radiotherapy:\n\n          -  At least 28 days since prior large-field radiotherapy\n\n          -  Prior palliative radiotherapy for painful bone metastases allowed\n\n          -  No concurrent radiotherapy, including palliative or whole-brain radiotherapy for CNS\n             disease\n\n        Surgery:\n\n          -  At least 28 days since prior major surgery\n\n        Other:\n\n          -  No concurrent combination antiretroviral therapy for HIV-positive patients\n\n          -  No other concurrent investigational or commercial agents or therapies for the\n             malignancy\n\n          -  No other concurrent investigational agents\n\n          -  Concurrent bisphosphonates allowed if bone metastases are not only site of measurable\n             or evaluable disease"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "19", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 6, 2001", 
+        "firstreceived_results_date": "June 11, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00016354", 
+            "org_study_id": "J0072  CDR0000068625", 
+            "secondary_id": [
+                "U01CA070095", 
+                "P30CA006973", 
+                "JHOC-J0072", 
+                "NCI-1351"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": "benzoylphenylurea", 
+            "intervention_name": "benzoylphenylurea", 
+            "intervention_type": "Drug"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "unspecified adult solid tumor, protocol specific", 
+        "lastchanged_date": "March 18, 2013", 
+        "link": {
+            "description": "Clinical trial summary from the National Cancer Institute's PDQ\u00ae database", 
+            "url": "http://cancer.gov/clinicaltrials/JHOC-J0072"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Baltimore", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "21231"
+                }, 
+                "name": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase I Study of Continuous Weekly Dosing of Dimethyl Benzoylphenylurea (BPU) in Patients With Solid Tumors Not Responding to Conventional Therapy", 
+        "overall_official": {
+            "affiliation": "Sidney Kimmel Comprehensive Cancer Center", 
+            "last_name": "Antonio C. Wolff, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "August 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Toxicity was assessed weekly during the first 2 cycles, and monthly thereafter, using the National Cancer Institute Common Toxicity Criteria (NCI CTCv2). Dose limiting toxicity (DLT) was defined as dose delays >2 weeks, grade 4 haematologic toxicity (except grade 4 neutropenia lasting <5 days), or grade 3 nonhaematologic toxicity. The maximum tolerated dose (MTD) is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience a dose-limiting toxicity.", 
+            "measure": "Determine Maximum Tolerated Dose of BPU", 
+            "safety_issue": "Yes", 
+            "time_frame": "4 weeks (1 course of treatment for each subject)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00016354"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": [
+            {
+                "PMID": "17084620", 
+                "citation": "Messersmith WA, Rudek MA, Baker SD, Zhao M, Collins C, Colevas AD, Donehower RC, Carducci MA, Wolff AC. Phase I study of continuous weekly dosing of dimethylamino benzoylphenylurea (BPU) in patients with solid tumours. Eur J Cancer. 2006 Nov 2; [Epub ahead of print]"
+            }, 
+            {
+                "citation": "Messersmith WA, Baker SD, Donehower RC, et al.: Phase I study of continuous weekly dosing of dimethyl benzoylphenylurea (BPU) in patients with solid tumors. [Abstract] Proceedings of the American Society of Clinical Oncology 22: A-815, 2003."
+            }
+        ], 
+        "secondary_outcome": [
+            {
+                "measure": "Number of Patients With Adverse Events", 
+                "safety_issue": "Yes", 
+                "time_frame": "every 4 weeks"
+            }, 
+            {
+                "measure": "Area Under the Plasma Concentration Versus Time Curve (AUC) of BPU", 
+                "safety_issue": "No", 
+                "time_frame": "8 weeks"
+            }, 
+            {
+                "measure": "Test for Antitumor Activity in Blood and Tissue", 
+                "safety_issue": "No", 
+                "time_frame": "baseline"
+            }
+        ], 
+        "source": "Sidney Kimmel Comprehensive Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Sidney Kimmel Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2001", 
+        "study_design": "Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }, 
+    "geocoordinates": {
+        "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins": "39.29 -76.612"
+    }
+}

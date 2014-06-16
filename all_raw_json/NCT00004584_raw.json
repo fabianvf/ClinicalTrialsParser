@@ -1,0 +1,554 @@
+{
+    "clinical_study": {
+        "@rank": "141469", 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to look at the safety and effectiveness of an experimental\n      protease inhibitor (a type of anti-HIV drug) called BMS-232632. Doctors will compare an\n      anti-HIV drug combination that includes BMS-232632 to a drug combination that includes\n      ritonavir."
+        }, 
+        "brief_title": "Safety and Effectiveness of a New Protease Inhibitor, BMS-232632, in HIV-Positive Patients Who Have Received Previous Treatment", 
+        "completion_date": {
+            "#text": "January 2002", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infections", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This is a three-arm study; patients are randomized to receive BMS-232632 at two different\n      doses or RTV in combination with SQV and two nucleoside analogues over 48 weeks.\n      Randomization is stratified for baseline phenotypic sensitivity."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n        Patients may be eligible for this study if they:\n\n          -  Are HIV-positive.\n\n          -  Have a viral load (level of HIV in the blood) of at least 2,000 copies/ml.\n\n          -  Have a CD4 count of at least 100 cells/mm3 (or at least 75 cells/mm3 in patients who\n             have never had an AIDS-defining illness).\n\n          -  Are currently receiving an anti-HIV drug combination that includes a protease\n             inhibitor or nonnucleoside reverse transcriptase inhibitor (NNRTI), and they have\n             been taking this drug combination for at least 24 weeks. They must have responded\n             well to this treatment at first (their viral load decreased) but are currently\n             experiencing an increase in viral load.\n\n          -  Will most likely respond well to the study drugs, as shown by the results of a lab\n             test.\n\n          -  Are at least 18 years old.\n\n          -  Agree to use effective barrier methods of birth control (such as condoms).\n\n          -  Are available for follow-up for at least 48 weeks.\n\n        Exclusion Criteria\n\n        Patients will not be eligible for this study if they:\n\n          -  Have a newly diagnosed opportunistic (HIV-related) infection requiring treatment.\n\n          -  Have only recently become HIV positive.\n\n          -  Abuse alcohol or drugs.\n\n          -  Have severe diarrhea within 30 days of study entry.\n\n          -  Have hemophilia.\n\n          -  Have a history of pancreatitis.\n\n          -  Have hepatitis within 30 days of study entry.\n\n          -  Have peripheral neuropathy (a painful condition affecting the nervous system).\n\n          -  Are unable to take medications by mouth.\n\n          -  Are pregnant or breast-feeding."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "firstreceived_date": "February 10, 2000", 
+        "id_info": {
+            "nct_id": "NCT00004584", 
+            "org_study_id": "302B", 
+            "secondary_id": "AI424-009"
+        }, 
+        "intervention": [
+            {
+                "intervention_name": "Atazanavir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Ritonavir", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "intervention_name": "Saquinavir", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Protease Inhibitors", 
+                "Saquinavir", 
+                "Ritonavir", 
+                "Atazanavir", 
+                "HIV Protease Inhibitors", 
+                "Reverse Transcriptase Inhibitors"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Dose-Response Relationship, Drug", 
+            "Drug Therapy, Combination", 
+            "HIV Protease Inhibitors", 
+            "Ritonavir", 
+            "Saquinavir", 
+            "Reverse Transcriptase Inhibitors", 
+            "Anti-HIV Agents"
+        ], 
+        "lastchanged_date": "April 28, 2011", 
+        "link": [
+            {
+                "description": "BMS Clinical Trials Disclosure", 
+                "url": "http://ctr.bms.com/ctd/start.do"
+            }, 
+            {
+                "description": "For FDA Safety Alerts and Recalls refer to the following link www.fda.gov/MEDWATCH/safety.htm", 
+                "url": "http://www.fda.gov/MEDWATCH/safety.htm"
+            }
+        ], 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35203"
+                    }, 
+                    "name": "Sorra Research Ctr / Med Forum"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }, 
+                    "name": "AIDS Healthcare Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609"
+                    }, 
+                    "name": "Robert Scott MD"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "Univ of California - Davis Med Ctr / CARES"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tarzana", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91356"
+                    }, 
+                    "name": "Avalar Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06510"
+                    }, 
+                    "name": "Yale Univ School of Medicine / AIDS Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coral Gables", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33146"
+                    }, 
+                    "name": "Community Research Initiative of South Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "HIV Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Infectious Disease Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Decatur", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30033"
+                    }, 
+                    "name": "Infectious Disease Specialists of Atlanta"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70112"
+                    }, 
+                    "name": "Louisiana State Univ Med Ctr / HIV Outpatient Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Albany Med College"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10011"
+                    }, 
+                    "name": "St Vincents Hosp / Clinical Research Program"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Univ Hosps of Cleveland"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97210"
+                    }, 
+                    "name": "The Research and Education Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29169"
+                    }, 
+                    "name": "Julio Arroyo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37212"
+                    }, 
+                    "name": "Vanderbilt Univ Med Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "Univ of Texas Southwestern Med Ctr of Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "El Paso", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "79905"
+                    }, 
+                    "name": "Texas Tech Health Sciences Ctr"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77006"
+                    }, 
+                    "name": "Houston Clinical Research Network / Div of Montrose Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ottawa", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Ottawa General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Toronto Hosp"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Montreal Chest Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Pellegrin Tripode"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital De L'Hotel Dieu"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital De L'Archet 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 13", 
+                        "country": "France"
+                    }, 
+                    "name": "Srev Du Pr Gentilini"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pessac", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital De Haut Leveque"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tourcoing", 
+                        "country": "France"
+                    }, 
+                    "name": "Hospital Gustave Dron"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Paul Brousse"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany"
+                    }, 
+                    "name": "Brennerstr 71"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hanover", 
+                        "country": "Germany"
+                    }, 
+                    "name": "Georg-Str 46"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Munich", 
+                        "country": "Germany"
+                    }, 
+                    "name": "Praxisgemeinschaft"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Antella", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Reparto Malattie Infettive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale Luigi Cacco Moroni"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Clinical Malattie Infettive"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Modena", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Clinical Malattie Infettive / Univ Modena"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rimini", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Ospedale degli Infermi"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada", 
+                "France", 
+                "Germany", 
+                "Italy"
+            ]
+        }, 
+        "official_title": "Safety and Antiviral Efficacy of a Novel HIV-1 Protease Inhibitor, BMS-232632, in Combination Regimen(s) as Compared to a Reference Combination Regimen(s) in Antiretroviral-Experienced HIV-Infected Subjects", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2002", 
+            "@type": "Actual"
+        }, 
+        "reference": [
+            {
+                "citation": "Haas DW, Zala C, Schrader S,Thiry A, McGovern R, Schnittman S. AI424009: Atazanavir plus Saquinavir once daily favorably affects total cholesterol (TC), fasting triglyceride (TG), and fasting LDL cholesterol (LDL) profiles in patients failing prior therapy week 48. 9th Conf on Retroviruses and Opportunistic Infect. 2002 Feb 24-28 (abstract no 42)"
+            }, 
+            {
+                "citation": "Haas DW, Zala C, Schrader S,Thiry A, McGovern R, Schnittman S. AI424-009: Once-Daily Atazanavir plus Saquinavir favorably affects total cholesterol and fasting triglycerides in patients failing prior PI therapy study BMS-009,week 24. 41st Annual Conf on Antimicrobial Agents and Chemotherapy. 2001 Feb 16-19 (abstract no LB-16)"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00004584"
+        }, 
+        "source": "Bristol-Myers Squibb", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bristol-Myers Squibb", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 1999", 
+        "study_design": "Endpoint Classification: Safety Study, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2011"
+    }, 
+    "geocoordinates": {
+        "AIDS Healthcare Foundation": "34.052 -118.244", 
+        "Albany Med College": "42.653 -73.756", 
+        "Avalar Medical Group": "34.149 -118.551", 
+        "Brennerstr 71": "53.557 9.995", 
+        "Clinical Malattie Infettive": "45.464 9.188", 
+        "Clinical Malattie Infettive / Univ Modena": "44.647 10.925", 
+        "Community Research Initiative of South Florida": "25.721 -80.268", 
+        "Georg-Str 46": "52.384 9.727", 
+        "HIV Clinical Research": "26.122 -80.143", 
+        "Hopital De Haut Leveque": "44.806 -0.63", 
+        "Hopital De L'Archet 1": "43.696 7.266", 
+        "Hopital De L'Hotel Dieu": "47.218 -1.554", 
+        "Hopital Paul Brousse": "48.793 2.359", 
+        "Hopital Pellegrin Tripode": "44.838 -0.579", 
+        "Hospital Gustave Dron": "50.725 3.162", 
+        "Houston Clinical Research Network / Div of Montrose Clinic": "29.76 -95.369", 
+        "Infectious Disease Research Institute": "27.951 -82.457", 
+        "Infectious Disease Specialists of Atlanta": "33.775 -84.296", 
+        "Julio Arroyo": "33.993 -81.074", 
+        "Louisiana State Univ Med Ctr / HIV Outpatient Clinic": "29.951 -90.072", 
+        "Montreal Chest Institute": "45.509 -73.554", 
+        "Ospedale Luigi Cacco Moroni": "45.464 9.188", 
+        "Ospedale degli Infermi": "44.061 12.566", 
+        "Ottawa General Hospital": "45.422 -75.697", 
+        "Praxisgemeinschaft": "48.145 11.558", 
+        "Reparto Malattie Infettive": "43.728 11.324", 
+        "Robert Scott MD": "37.804 -122.271", 
+        "Sorra Research Ctr / Med Forum": "33.521 -86.802", 
+        "Srev Du Pr Gentilini": "48.857 2.352", 
+        "St Vincents Hosp / Clinical Research Program": "40.714 -74.006", 
+        "Texas Tech Health Sciences Ctr": "31.759 -106.487", 
+        "The Research and Education Group": "45.523 -122.676", 
+        "Toronto Hosp": "43.653 -79.383", 
+        "Univ Hosps of Cleveland": "41.499 -81.695", 
+        "Univ of California - Davis Med Ctr / CARES": "38.582 -121.494", 
+        "Univ of Texas Southwestern Med Ctr of Dallas": "32.803 -96.77", 
+        "Vanderbilt Univ Med Ctr": "36.166 -86.784", 
+        "Yale Univ School of Medicine / AIDS Program": "41.308 -72.928"
+    }
+}

@@ -1,0 +1,764 @@
+{
+    "clinical_study": {
+        "@rank": "10194", 
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator"
+            }, 
+            {
+                "arm_group_label": "HuMax-CD4  80 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "80 mg"
+            }, 
+            {
+                "arm_group_label": "HuMax-CD4 160 mg", 
+                "arm_group_type": "Experimental", 
+                "description": "160 mg"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine whether HuMax-CD4 is effective in the treatment of\n      active rheumatoid arthritis in patients who have failed treatment with Methotrexate and at\n      least one TNF-alpha blocking agent."
+        }, 
+        "brief_title": "Trial With HuMax-CD4 in Patients With Rheumatoid Arthritis Failing Treatment With Methotrexate and a TNF-alpha Blocker", 
+        "condition": "Rheumatoid Arthritis", 
+        "condition_browse": {
+            "mesh_term": [
+                "Arthritis", 
+                "Arthritis, Rheumatoid"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This is a multi-center, double-blind, placebo-controlled, parallel-group, randomized trial\n      of HuMax-CD4 in the treatment of patients with active rheumatoid arthritis (RA) who have\n      failed treatment with Methotrexate (MTX) and at least one TNF-alpha blocking agent. Patients\n      are randomized to receive one of two doses of HuMax-CD4 or placebo. The drug will be\n      administered as a subcutaneous infusion (given just under the skin), more often in the\n      beginning and then followed by a maintenance dose. There is a 4 week follow up period, and\n      the final evaluation of the clinical endpoints takes place 26 weeks after treatment start.\n      The trial lasts about 28 weeks in all."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  A diagnosis of rheumatoid arthritis according to the American College of Rheumatology\n             1987 revised criteria (ACR) of at least 6 months duration.\n\n          -  Active disease at the time of screening.\n\n          -  Unable to tolerate Methotrexate, or lack of efficacy after a minimum of 6 months\n             treatment.\n\n          -  Failure to tolerate treatment with either Enbrel or Remicade, or lack of efficacy\n             after at least 3 months treatment with one of these agents.\n\n        Exclusion Criteria:\n\n          -  Active autoimmune disease requiring therapy (other than rheumatoid arthritis and\n             secondary Sj\u00f6gren's disease).\n\n          -  The use of certain treatments or drugs for treatment of rheumatoid arthritis within 4\n             weeks of participation in the trial.\n\n          -  Syndromes such as Fibromyalgia which require chronic pain treatment.\n\n          -  Most past or current cancers.\n\n          -  Chronic or current infectious disease such as, but not limited to, chronic renal\n             infection, chronic chest, nasal or throat infections, tuberculosis, hepatitis B and\n             C.\n\n          -  History of infected joint prosthesis within 5 years.\n\n          -  Most active medical conditions such as heart disease, kidney disease, liver disease,\n             blood diseases, hormonal disturbances, lung disease, psychiatric disease.\n\n          -  Drug or alcohol abuse.\n\n          -  Pregnant or breast-feeding women may not participate. Women of childbearing potential\n             must use either contraceptive pills or an intra-uterine device for the entire study\n             period."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "75", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 29, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00042406", 
+            "org_study_id": "Hx-CD4-004"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "HuMax-CD4  80 mg", 
+                "HuMax-CD4 160 mg"
+            ], 
+            "intervention_name": "HuMax-CD4", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Methotrexate"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "December 5, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montgomery", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36111-2654"
+                    }, 
+                    "name": "Rheumatology Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90813-3412"
+                    }, 
+                    "name": "Pro Health Partners, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rancho Cucamonga", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91730"
+                    }, 
+                    "name": "Rheumatology & Internal Medicine, Boling Clinical Trials"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rancho Mirage", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92270"
+                    }, 
+                    "name": "Advances in Medicine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92108"
+                    }, 
+                    "name": "Radiant Research, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Van Nuys", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91405"
+                    }, 
+                    "name": "West Coast Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Waterbury", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06708"
+                    }, 
+                    "name": "Arthritis Center of CT"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Delray Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33484"
+                    }, 
+                    "name": "Arthritis Associates of South Florida"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ocala", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34474"
+                    }, 
+                    "name": "Ocala Rheumatology Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Petersburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33707"
+                    }, 
+                    "name": "nTouch Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stuart", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34996"
+                    }, 
+                    "name": "Radiant Research, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33614"
+                    }, 
+                    "name": "Tampa Medical Group Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Decatur", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30033"
+                    }, 
+                    "name": "nTouch Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "North Western Center for Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rheumatology Associates, P.C."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Park Ridge", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60068"
+                    }, 
+                    "name": "Advocate Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "62704"
+                    }, 
+                    "name": "The Arthritis Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vernon Hills", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60061"
+                    }, 
+                    "name": "Deerbrook Medical Associates"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evansville", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "47714"
+                    }, 
+                    "name": "West Pharmaceutical Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meridian", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "83642"
+                    }, 
+                    "name": "Idaho Arthritis & Osteoporosis Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50322"
+                    }, 
+                    "name": "Mercy Arthritis Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40202"
+                    }, 
+                    "name": "University of Louisville Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hagerstown", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21740"
+                    }, 
+                    "name": "Osteoporosis and Clinical Trials Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Rapids", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49503"
+                    }, 
+                    "name": "Arthritis Education and Treatment Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49001"
+                    }, 
+                    "name": "Midwest Arthritis Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lansing", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48910"
+                    }, 
+                    "name": "Fiechtner Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68114"
+                    }, 
+                    "name": "Westroads Medical Group"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reno", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89502"
+                    }, 
+                    "name": "Arthritis Center of Reno"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "One Crouse Medical Plaza"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Raleigh", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27609"
+                    }, 
+                    "name": "C.A.R.E. Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canfield", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44406"
+                    }, 
+                    "name": "DataPharm, Inc."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45219"
+                    }, 
+                    "name": "Disease Study Group / Deaconess Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73112"
+                    }, 
+                    "name": "Lynn Health Science"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bend", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97701"
+                    }, 
+                    "name": "Bend Memorial Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Medford", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97504"
+                    }, 
+                    "name": "Rheumatology Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97213"
+                    }, 
+                    "name": "Providence Arthritis Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97225"
+                    }, 
+                    "name": "Northwest Rheumatology Associates, PC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bethlehem", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "18015"
+                    }, 
+                    "name": "East Pennsylvania Rheumatology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duncansville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "16635-0909"
+                    }, 
+                    "name": "Altoona Arthritis & Osteoporosis Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Reading", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19611"
+                    }, 
+                    "name": "Clinical Research Center of Reading"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75231"
+                    }, 
+                    "name": "Presbyterian Hospital of Dallas"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84102"
+                    }, 
+                    "name": "IHC Clinical Research Foundation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298-0647"
+                    }, 
+                    "name": "Medical College of Virginia, Div. of Rheum."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salem", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "24153"
+                    }, 
+                    "name": "Lewis Gayle Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kirkland", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98034"
+                    }, 
+                    "name": "Evergreen Medical & Dental Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olympia", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98502"
+                    }, 
+                    "name": "South Puget Sound Clinical Research Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98104"
+                    }, 
+                    "name": "Minor & James Med., First Hill Medical Building"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yakima", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98902"
+                    }, 
+                    "name": "Internal Medicine Association of Yakima, Inc., P.S."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53211"
+                    }, 
+                    "name": "Medical Arts Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winnipeg", 
+                        "country": "Canada", 
+                        "state": "Manitoba", 
+                        "zip": "R3C 3J5"
+                    }, 
+                    "name": "CIADS, Medical Arts Building"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ottawa", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "K1H 8L6"
+                    }, 
+                    "name": "Ottawa Hospital-General Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M4N 3M5"
+                    }, 
+                    "name": "Sunnybrook/Women's College Research Health Science Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2L 1S6"
+                    }, 
+                    "name": "Institute de Rhumtologie de Montreal"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Double-Blind, Placebo-Controlled, Randomized, Parallel Group Clinical Trial of Anti-CD4 Receptor Human Monoclonal Antibody (HuMax-CD4) in Patients With Active RA Failing Treatment With Methotrexate and TNF-alpha Blocking Agents", 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2/Phase 3", 
+        "primary_completion_date": {
+            "#text": "September 2002", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "ACR20", 
+            "safety_issue": "No", 
+            "time_frame": "26 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00042406"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Adverse Events", 
+            "safety_issue": "Yes", 
+            "time_frame": "26 weeks"
+        }, 
+        "source": "Emergent Product Development Seattle LLC", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Emergent Product Development Seattle LLC", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2012"
+    }, 
+    "geocoordinates": {
+        "Advances in Medicine": "33.74 -116.413", 
+        "Advocate Medical Group": "42.011 -87.841", 
+        "Altoona Arthritis & Osteoporosis Center": "40.423 -78.434", 
+        "Arthritis Associates of South Florida": "26.461 -80.073", 
+        "Arthritis Center of CT": "41.558 -73.051", 
+        "Arthritis Center of Reno": "39.53 -119.814", 
+        "Arthritis Education and Treatment Center": "42.963 -85.668", 
+        "Bend Memorial Clinic": "44.058 -121.315", 
+        "Beth Israel Deaconess Medical Center": "42.358 -71.06", 
+        "C.A.R.E. Center": "35.772 -78.639", 
+        "CIADS, Medical Arts Building": "49.9 -97.137", 
+        "Clinical Research Center of Reading": "40.334 -75.947", 
+        "DataPharm, Inc.": "41.025 -80.761", 
+        "Deerbrook Medical Associates": "42.219 -87.98", 
+        "Disease Study Group / Deaconess Hospital": "39.103 -84.512", 
+        "East Pennsylvania Rheumatology": "40.626 -75.37", 
+        "Evergreen Medical & Dental Center": "47.681 -122.209", 
+        "Fiechtner Research": "42.733 -84.556", 
+        "IHC Clinical Research Foundation": "40.761 -111.891", 
+        "Idaho Arthritis & Osteoporosis Center": "39.843 -86.147", 
+        "Institute de Rhumtologie de Montreal": "45.509 -73.554", 
+        "Internal Medicine Association of Yakima, Inc., P.S.": "46.602 -120.506", 
+        "Lewis Gayle Clinic": "37.293 -80.055", 
+        "Lynn Health Science": "35.468 -97.516", 
+        "Medical Arts Center": "43.039 -87.906", 
+        "Medical College of Virginia, Div. of Rheum.": "37.541 -77.436", 
+        "Mercy Arthritis Center": "41.601 -93.609", 
+        "Midwest Arthritis Center": "42.292 -85.587", 
+        "Minor & James Med., First Hill Medical Building": "47.606 -122.332", 
+        "North Western Center for Clinical Research": "41.878 -87.63", 
+        "Northwest Rheumatology Associates, PC": "45.523 -122.676", 
+        "Ocala Rheumatology Research Center": "29.187 -82.14", 
+        "One Crouse Medical Plaza": "43.048 -76.147", 
+        "Osteoporosis and Clinical Trials Center": "39.642 -77.72", 
+        "Ottawa Hospital-General Campus": "45.422 -75.697", 
+        "Presbyterian Hospital of Dallas": "32.803 -96.77", 
+        "Pro Health Partners, Inc.": "33.804 -118.158", 
+        "Providence Arthritis Center": "45.523 -122.676", 
+        "Radiant Research, Inc.": "27.198 -80.253", 
+        "Rheumatology & Internal Medicine, Boling Clinical Trials": "34.106 -117.593", 
+        "Rheumatology Associates": "32.367 -86.3", 
+        "Rheumatology Associates, P.C.": "41.878 -87.63", 
+        "Rheumatology Clinic": "42.327 -122.876", 
+        "South Puget Sound Clinical Research Center": "47.038 -122.901", 
+        "Sunnybrook/Women's College Research Health Science Center": "43.653 -79.383", 
+        "Tampa Medical Group Research": "27.951 -82.457", 
+        "The Arthritis Center": "39.782 -89.65", 
+        "University of Louisville Hospital": "38.253 -85.758", 
+        "West Coast Clinical Research": "34.19 -118.451", 
+        "West Pharmaceutical Services": "37.972 -87.571", 
+        "Westroads Medical Group": "41.252 -95.998", 
+        "nTouch Research": "33.775 -84.296"
+    }
+}

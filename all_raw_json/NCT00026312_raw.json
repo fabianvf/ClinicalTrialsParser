@@ -1,0 +1,3715 @@
+{
+    "clinical_study": {
+        "@rank": "20367", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I (isotretinoin) (closed to accrual as of 4/16/2009)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Beginning on day 67 post-ASCT, patients receive isotretinoin PO BID for 14 days. Treatment repeats every 28 days for 6 courses in the absence of disease progression or unacceptable toxicity. Patients may cross over to Arm II provided they have not experienced disease progression and have not received any further anti-neuroblastoma therapy following completion of isotretinoin therapy."
+            }, 
+            {
+                "arm_group_label": "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)", 
+                "arm_group_type": "Experimental", 
+                "description": "Beginning on day 56 post-ASCT, patients receive immunotherapy comprising GM-CSF SC or IV over 2 hours on days 0-13 during courses 1, 3, and 5 and monoclonal antibody Ch14.18 IV over 10-20 hours on days 3-6 of courses 1-5. Patients also receive aldesleukin IV continuously on days 0-3 and 7-10 during courses 2 and 4. Immunotherapy repeats every 28 days for 5 courses in the absence of disease progression or unacceptable toxicity. Patients also receive isotretinoin as in Arm I beginning on day 11 of immunotherapy."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This partially randomized phase III trial studies isotretinoin with monoclonal antibody\n      Ch14.18, aldesleukin, and sargramostim to see how well it works compared to isotretinoin\n      alone following stem cell transplant in treating patients with neuroblastoma. Drugs used in\n      chemotherapy, such as isotretinoin, work in different ways to stop the growth of tumor\n      cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies,\n      such as monoclonal antibody Ch14.18, can block tumor growth in different ways. Some block\n      the ability of tumors to grow and spread. Others find tumor cells and help kill them or\n      deliver tumor-killing substances to them. Aldesleukin and sargramostim may stimulate a\n      person's white blood cells to kill cancer cells. It is not yet known if chemotherapy is more\n      effective with or without monoclonal antibody Ch14.18, aldesleukin, and sargramostim\n      following stem cell transplant in treating neuroblastoma."
+        }, 
+        "brief_title": "Isotretinoin With or Without Monoclonal Antibody Ch14.18, Aldesleukin, and Sargramostim Following Stem Cell Transplant in Treating Patients With Neuroblastoma", 
+        "condition": [
+            "Disseminated Neuroblastoma", 
+            "Localized Resectable Neuroblastoma", 
+            "Localized Unresectable Neuroblastoma", 
+            "Regional Neuroblastoma", 
+            "Stage 4S Neuroblastoma"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Neuroblastoma"
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. Determine if monoclonal antibody Chl4.18 + cytokines + isotretinoin (13-cis-retinoic\n      acid, or RA) improves event free survival after myeloablative therapy and stem cell rescue\n      as compared to RA alone, in high risk neuroblastoma patients who have achieved a\n      pre-autologous stem cell transplant (ASCT) response of complete response (CR), very good\n      partial response (VGPR), or partial response (PR).\n\n      SECONDARY OBJECTIVES:\n\n      I. Determine if monoclonal antibody Chl4.18 + cytokines + isotretinoin (13-cis-retinoic\n      acid, or RA) improves overall survival after myeloablative therapy and stem cell rescue as\n      compared to RA alone, in high risk neuroblastoma patients who have achieved a pre-ASCT\n      response of CR, VGPR, or PR.\n\n      II. Determine if immunotherapy + RA improves event free survival and overall survival as\n      compared to RA alone, in the subgroup of high risk International Neuroblastoma Staging\n      System (INSS) stage 4 neuroblastoma patients who have achieved a pre-ASCT response of CR,\n      VGPR, or PR.\n\n      III. In the subgroup of neuroblastoma patients who have achieved a pre-ASCT response of CR,\n      VGPR, or PR, determine if there is a difference between the two randomized regimens in\n      reducing the minimal residual disease (MRD) burden as detected by the following parameters:\n      meta-iodobenylguanidine (MIBG) scan, immunocytology (IC) of blood and bone marrow samples,\n      reverse transcriptase-polymerase chain reaction (RT-PCR) for tyrosine hydroxylase,\n      phosphoglycolate phosphatase (PGP) 9.5, and melanoma antigen family A, 1 (MAGE-1) in blood\n      and bone marrow.\n\n      IV. Determine if change from baseline of MRD is associated with event free and overall\n      survival V. Determine whether tumor biology at diagnosis correlates with event-free and\n      overall survival, for either of the randomized regimens.\n\n      VI. Determine the toxicities of the combination of monoclonal antibody Ch14.18 with\n      cytokines.\n\n      VII. To explore the relationship between antibody-dependent cellular cytoxicity (ADCC) and\n      event free survival (EFS).\n\n      VIII. To determine a descriptive profile of human anti-chimeric antibody (HACA) during\n      immunotherapy.\n\n      IX. To compare the outcome data of the patients with persistent disease documented by biopsy\n      (Stratum 07) to the historical data for the analogous patients from Children's Cancer Group\n      (CCG)-3981.\n\n      X. To determine the variability of 13-cis-retinoic-acid pharmacokinetics and relationship to\n      pharmacogenomic parameters and determine if these levels and/or genetic variations correlate\n      with EFS or systemic toxicity.\n\n      XI. To further describe and refine the EFS and overall survival (OS) estimates and baseline\n      characteristics for subjects receiving Chl4.18 (monoclonal antibody Ch14.18) + cytokines +\n      RA, following cessation of the randomized portion of the study.\n\n      XII. To further describe the safety and toxicity of Chl4.18 + cytokines + RA under the new\n      administration guidelines implemented following cessation of the randomized portion of the\n      study with focus on: a) number of courses delivered per subject; b) number of dose\n      reductions or stoppage (ch14.18 and/or interleukin [IL]-2 [aldesleukin]); and c) number of\n      toxic deaths.\n\n      XIII. To determine the potential effect of ch14.18 on cardiac repolarization and to evaluate\n      ch14.18 plasma levels.\n\n      XIV. To determine if the presence of naturally occurring anti-glycan antibodies correlates\n      with allergic reactions and blood levels of ch14.18.\n\n      XV. To determine if the genotype of Fc receptor (FcR) and killer cell immunoglobulin-like\n      receptor (Kir)/Kir-Ligand correlate with EFS.\n\n      OUTLINE: Patients stratified with biopsy-confirmed post-ASCT persistent disease who are also\n      enrolled on Children's Oncology Group (COG)-A3973 or COG-ANBL0532 are assigned to treatment\n      arm II. Patients in the first set of strata are randomized to 1 of 2 treatment arms.\n\n      ARM I: Beginning on day 67 post-ASCT, patients receive isotretinoin orally (PO) twice daily\n      (BID) for 14 days. Treatment repeats every 28 days for 6 courses in the absence of disease\n      progression or unacceptable toxicity. Patients may cross over to Arm II provided they have\n      not experienced disease progression and have not received any further anti-neuroblastoma\n      therapy following completion of isotretinoin therapy.\n\n      ARM II: Beginning on day 56 post-ASCT, patients receive immunotherapy comprising\n      sargramostim (GM-CSF) subcutaneously (SC) or intravenously (IV) over 2 hours on days 0-13\n      during courses 1, 3, and 5 and monoclonal antibody Ch14.18 IV over 10-20 hours on days 3-6\n      of courses 1-5. Patients also receive aldesleukin IV continuously on days 0-3 and 7-10\n      during courses 2 and 4. Immunotherapy repeats every 28 days for 5 courses in the absence of\n      disease progression or unacceptable toxicity. Patients also receive isotretinoin as in Arm I\n      beginning on day 11 of immunotherapy.\n\n      After completion of study treatment, patients are followed up periodically for 10 years."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients must be diagnosed with neuroblastoma, and categorized as high risk at\n             the time of diagnosis; exception: patients who are initially diagnosed as\n             non-high-risk neuroblastoma, but later converted (and/or relapsed) to high risk\n             neuroblastoma are also eligible\n\n          -  All patients must have completed therapy including intensive induction followed by\n             ASCT and radiotherapy to be eligible for ANBL0032; radiotherapy may be waived for\n             patients who either have small adrenal masses which are completely resected up front,\n             or who never have an identifiable primary tumor; examples of such therapies include:\n\n               -  Following treatment per A3973 protocol\n\n               -  Following treatment per POG-9341/9342 protocol\n\n               -  Following treatment per CCG3891\n\n               -  Following treatment on New Approaches to Neuroblastoma Therapy (NANT) 2001-02\n\n               -  Enrollment on or following treatment per ANBL02P1\n\n               -  Enrollment on or following treatment per ANBL07P1\n\n               -  Tandem transplant patients are eligible:\n\n                    -  Following treatment on or per ANBL0532\n\n                    -  Following treatment per Pediatric Oncology Group (POG) 9640\n\n                    -  Following treatment per COG ANBL00P1\n\n                    -  Following treatment per CHP 594/Dana-Farber Cancer Institute (DFCI) 34-DAT\n\n          -  No more than 12 months from the date of starting the first induction chemotherapy\n             after diagnosis to the date of ASCT except for the rare occasions as noted below; for\n             tandem ASCT patients, this will be the date of the FIRST stem cell infusion;\n             exception: for those who are initially diagnosed as non-high risk neuroblastoma, but\n             later converted (and/or relapsed) to high risk neuroblastoma, the 12 months\n             restriction should start from the date of induction therapy for high risk\n             neuroblastoma (not from the initial induction therapy for non-high risk disease), to\n             the date of ASCT\n\n          -  At pre-ASCT evaluation patients must meet the International Neuroblastoma Response\n             Criteria (INRC) for CR, VGPR, or PR for primary site, soft tissue metastases and bone\n             metastases; patients who meet those criteria must also meet the protocol specified\n             criteria for bone marrow response as outlined below:\n\n               -  =< 10% tumor (of total nucleated cellular content) seen on any specimen from a\n                  bilateral bone marrow aspirate/biopsy\n\n               -  Patient who have no tumor seen on the prior bone marrow, and then have =< 10%\n                  tumor on any of the bilateral marrow aspirate/biopsy specimens done at pre-ASCT\n                  and/or pre-enrollment evaluation will also be eligible (note that per INRC this\n                  would have been defined as \"overall\" response of progressive disease [PD])\n\n          -  Prior to enrollment on ANBL0032, a determination of mandatory disease staging must be\n             performed (tumor imaging studies including computed tomography [CT] or magnetic\n             resonance imaging [MRI], MIBG scan, and vanillylmandelic acid [VMA]/homovanillic acid\n             [HVA]; bone marrow aspirates are required but biopsy may be omitted if negative prior\n             to ASCT); this disease assessment is required for eligibility and should be done\n             preferably within 2 weeks, but must be done within a maximum of 4 weeks before\n             enrollment\n\n               -  For those with residual disease before radiotherapy, re-evaluation of irradiated\n                  residual tumors is preferably performed at the earliest 5 days after completing\n                  radiotherapy; patients with residual disease are eligible; biopsy is not\n                  required; patients who have biopsy proven residual disease after ASCT will be\n                  enrolled on Stratum 07\n\n               -  Patients must not have progressive disease at the time of study enrollment\n                  except for protocol specified bone marrow response and except for elevations of\n                  catecholamines as the only sign of disease in a patient who had normal\n                  catecholamines at pre-ASCT evaluation\n\n          -  Patients must be enrolled before treatment begins; the date protocol therapy is\n             projected to start must be no later than ten (10) calendar days after the date of\n             study enrollment; patients should be enrolled preferably between day 56 and day 85\n             after peripheral blood stem cell (PBSC) infusion (day from 2nd stem cell infusion for\n             tandem transplant); patients must be enrolled no later than day 200 after PBSC\n             infusion; enrollment must occur after completion of radiotherapy, and after\n             completion of tumor assessment post-ASCT and radiotherapy; informed consent should be\n             obtained within 3 weeks pre-ASCT up to the time of registration\n\n          -  Patients must not have received prior anti-disialoganglioside (GD2) antibody therapy\n\n          -  Patients must have a Lansky or Karnofsky performance scale score of >= 50% and\n             patients must have a life expectancy of >= 2 months\n\n          -  Total absolute phagocyte count (APC = %neutrophils + %monocytes) X white blood cell\n             (WBC) is at least 1000/uL\n\n          -  Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70\n             mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\n\n               -  No greater than 0.4 mg/dL (1 month to < 6 months)\n\n               -  No greater than 0.5 mg/dL (6 months to < 1 year)\n\n               -  No greater than 0.6 mg/dL (1 to < 2 years)\n\n               -  No greater than 0.8 mg/dL (2 to < 6 years)\n\n               -  No greater than 1.0 mg/dL (6 to < 10 years)\n\n               -  No greater than 1.2 mg/dL (10 to < 13 years)\n\n               -  No greater than 1.4 mg/dL (>= 13 years [female])\n\n               -  No greater than 1.5 mg/dL (13 to < 16 years [male])\n\n               -  No greater than 1.7 mg/dL (>= 16 years [male])\n\n          -  Total bilirubin =< 1.5 x normal\n\n          -  Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =< 5 x\n             normal\n\n          -  Veno-occlusive disease, if present, should be stable or improving\n\n          -  Shortening fraction of >= 27% by echocardiogram, or if shortening fraction abnormal,\n             ejection fraction of >= 55% by gated radionuclide study or echocardiogram; note: the\n             echocardiogram or gated radionuclide study must be performed within 4 weeks prior to\n             enrollment\n\n          -  Forced expiratory volume in one second (FEV1) and forced vital capacity (FVC) > 60%\n             predicted by pulmonary function test; for children who are unable to do pulmonary\n             function tests (PFTs), no evidence of dyspnea at rest and no exercise intolerance\n             should be documented; note: the pulmonary function test must be performed within 4\n             weeks prior to enrollment\n\n          -  Patients with seizure disorder may be enrolled if on anticonvulsants and\n             well-controlled; central nervous system (CNS) toxicity < grade 2\n\n          -  Written informed consent in accordance with institutional and Food and Drug\n             Administration (FDA) guidelines must be obtained from parent or legal guardian\n\n          -  Females of childbearing potential must have a negative pregnancy test; patients of\n             childbearing potential must agree to use an effective birth control method; female\n             patients who are lactating must agree to stop breast-feeding"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "30 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "1660", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 9, 2001", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00026312", 
+            "org_study_id": "NCI-2009-01064", 
+            "secondary_id": [
+                "NCI-2009-01064", 
+                "CDR0000069018", 
+                "COG-ANBL0032", 
+                "ANBL0032", 
+                "ANBL0032", 
+                "U10CA098543"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm I (isotretinoin) (closed to accrual as of 4/16/2009)", 
+                    "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)"
+                ], 
+                "description": "Given PO", 
+                "intervention_name": "isotretinoin", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "13-CRA", 
+                    "Amnesteem", 
+                    "Cistane", 
+                    "Claravis", 
+                    "Sotret"
+                ]
+            }, 
+            {
+                "arm_group_label": "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)", 
+                "description": "Given IV or SC", 
+                "intervention_name": "sargramostim", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "GM-CSF", 
+                    "Leukine", 
+                    "Prokine"
+                ]
+            }, 
+            {
+                "arm_group_label": "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)", 
+                "description": "Given IV", 
+                "intervention_name": "monoclonal antibody Ch14.18", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "Ch14.18", 
+                    "MOAB Ch14.18"
+                ]
+            }, 
+            {
+                "arm_group_label": "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)", 
+                "description": "Given IV", 
+                "intervention_name": "aldesleukin", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "IL-2", 
+                    "Proleukin", 
+                    "recombinant human interleukin-2", 
+                    "recombinant interleukin-2"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (isotretinoin) (closed to accrual as of 4/16/2009)", 
+                    "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)"
+                ], 
+                "description": "Correlative studies", 
+                "intervention_name": "laboratory biomarker analysis", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (isotretinoin) (closed to accrual as of 4/16/2009)", 
+                    "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)"
+                ], 
+                "description": "Ancillary studies", 
+                "intervention_name": "quality-of-life assessment", 
+                "intervention_type": "Procedure", 
+                "other_name": "quality of life assessment"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (isotretinoin) (closed to accrual as of 4/16/2009)", 
+                    "Arm II (GM-CSF, Ch14.18, aldesleukin, isotretinoin)"
+                ], 
+                "description": "Correlative studies", 
+                "intervention_name": "pharmacological study", 
+                "intervention_type": "Other", 
+                "other_name": "pharmacological studies"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Antibodies", 
+                "Immunoglobulins", 
+                "Antibodies, Monoclonal", 
+                "Aldesleukin", 
+                "Interleukin-2", 
+                "Isotretinoin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "May 27, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "last_name": "Alyssa T. Reddy", 
+                    "phone": "205-934-0309"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35233"
+                    }, 
+                    "name": "Children's Hospital of Alabama"
+                }, 
+                "investigator": {
+                    "last_name": "Alyssa T. Reddy", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Alyssa T. Reddy", 
+                    "phone": "205-934-0309"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "University of Alabama at Birmingham"
+                }, 
+                "investigator": {
+                    "last_name": "Alyssa T. Reddy", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jessica Boklan", 
+                    "phone": "602-546-0920"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85016"
+                    }, 
+                    "name": "Phoenix Childrens Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Jessica Boklan", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Brenda J. Wittman", 
+                    "phone": "520-626-9008"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85724"
+                    }, 
+                    "name": "University of Arizona Health Sciences Center"
+                }, 
+                "investigator": {
+                    "last_name": "Brenda J. Wittman", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "David L. Becton", 
+                    "phone": "501-364-7373"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72202-3591"
+                    }, 
+                    "name": "Arkansas Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "David L. Becton", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72205"
+                    }, 
+                    "name": "University of Arkansas for Medical Sciences"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Downey", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90242"
+                    }, 
+                    "name": "Southern California Permanente Medical Group"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "becomingapatient@coh.org", 
+                    "last_name": "Anna B. Pawlowska", 
+                    "phone": "800-826-4673"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }, 
+                    "name": "City of Hope Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Anna B. Pawlowska", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Antranik A. Bedros", 
+                    "phone": "909-558-3375"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Loma Linda", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92354"
+                    }, 
+                    "name": "Loma Linda University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Antranik A. Bedros", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Amanda M. Termuhlen", 
+                    "phone": "562-933-5437"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90806"
+                    }, 
+                    "name": "Miller Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Amanda M. Termuhlen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Araz Marachelian", 
+                    "phone": "323-361-4110"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }, 
+                    "name": "Children's Hospital Los Angeles"
+                }, 
+                "investigator": {
+                    "last_name": "Araz Marachelian", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Vonda L. Crouse", 
+                    "phone": "866-353-5437"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Madera", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93636-8762"
+                    }, 
+                    "name": "Children's Hospital Central California"
+                }, 
+                "investigator": {
+                    "last_name": "Vonda L. Crouse", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Carla B. Golden", 
+                    "phone": "510-450-7600"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94609-1809"
+                    }, 
+                    "name": "Children's Hospital and Research Center at Oakland"
+                }, 
+                "investigator": {
+                    "last_name": "Carla B. Golden", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Vincent A. Kiley", 
+                    "phone": "626-564-3455"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oakland", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94611"
+                    }, 
+                    "name": "Kaiser Permanente-Oakland"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent A. Kiley", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Violet Shen", 
+                    "phone": "714-997-3000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868-3874"
+                    }, 
+                    "name": "Childrens Hospital of Orange County"
+                }, 
+                "investigator": {
+                    "last_name": "Violet Shen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "clinicaltrials@med.stanford.edu", 
+                    "last_name": "Neyssa M. Marina", 
+                    "phone": "650-498-7061"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Palo Alto", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94304"
+                    }, 
+                    "name": "Lucile Packard Children's Hospital Stanford University"
+                }, 
+                "investigator": {
+                    "last_name": "Neyssa M. Marina", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jay Michael S. Balagtas", 
+                    "phone": "916-734-3089"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "University of California at Davis Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Jay Michael S. Balagtas", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "William D. Roberts", 
+                    "phone": "858-966-5934"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92123"
+                    }, 
+                    "name": "Rady Children's Hospital - San Diego"
+                }, 
+                "investigator": {
+                    "last_name": "William D. Roberts", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Robert E. Goldsby", 
+                    "phone": "877-827-3222"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94143"
+                    }, 
+                    "name": "University of California San Francisco Medical Center-Parnassus"
+                }, 
+                "investigator": {
+                    "last_name": "Robert E. Goldsby", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Brian S. Greffe", 
+                    "phone": "720-777-6672"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "Children's Hospital Colorado"
+                }, 
+                "investigator": {
+                    "last_name": "Brian S. Greffe", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }, 
+                    "name": "Rocky Mountain Hospital for Children-Presbyterian Saint Luke's Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Michael S. Isakoff", 
+                    "phone": "860-545-9981"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hartford", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06106"
+                    }, 
+                    "name": "Connecticut Children's Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Michael S. Isakoff", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Nina S. Kadan-Lottick", 
+                    "phone": "203-785-5702"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06520"
+                    }, 
+                    "name": "Yale University"
+                }, 
+                "investigator": {
+                    "last_name": "Nina S. Kadan-Lottick", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Christopher N. Frantz", 
+                    "phone": "302-651-5755"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Wilmington", 
+                        "country": "United States", 
+                        "state": "Delaware", 
+                        "zip": "19803"
+                    }, 
+                    "name": "Alfred I duPont Hospital for Children"
+                }, 
+                "investigator": {
+                    "last_name": "Christopher N. Frantz", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jeffrey S. Dome", 
+                    "phone": "202-884-2549"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20010"
+                    }, 
+                    "name": "Children's National Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Jeffrey S. Dome", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Hector M. Rodriguez-Cortes", 
+                    "phone": "954-355-5346"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33316"
+                    }, 
+                    "name": "Broward Health Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Hector M. Rodriguez-Cortes", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Myers", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33901"
+                    }, 
+                    "name": "Lee Memorial Health System"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Emad K. Salman", 
+                    "phone": "239-343-5333"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Myers", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33908"
+                    }, 
+                    "name": "Golisano Children's Hospital of Southwest Florida"
+                }, 
+                "investigator": {
+                    "last_name": "Emad K. Salman", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32610"
+                    }, 
+                    "name": "University of Florida"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Iftikhar Hanif", 
+                    "phone": "954-265-2234"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hollywood", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33021"
+                    }, 
+                    "name": "Memorial Healthcare System - Joe DiMaggio Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Iftikhar Hanif", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Eric S. Sandler", 
+                    "phone": "904-697-3529"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32207-8426"
+                    }, 
+                    "name": "Nemours Children's Clinic - Jacksonville"
+                }, 
+                "investigator": {
+                    "last_name": "Eric S. Sandler", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33176"
+                    }, 
+                    "name": "Baptist Hospital of Miami"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Sylvester@emergingmed.com", 
+                    "last_name": "Julio C. Barredo", 
+                    "phone": "866-574-5124"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "University of Miami Miller School of Medicine-Sylvester Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Julio C. Barredo", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33155"
+                    }, 
+                    "name": "Miami Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32806"
+                    }, 
+                    "name": "UF Cancer Center at Orlando Health"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Fouad M. Hajjar", 
+                    "phone": "407-303-5623"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32803"
+                    }, 
+                    "name": "Florida Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Fouad M. Hajjar", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32827"
+                    }, 
+                    "name": "Nemours Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32806"
+                    }, 
+                    "name": "Nemours Childrens Clinic - Orlando"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Vincent F. Giusti", 
+                    "phone": "321-841-7246"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32806"
+                    }, 
+                    "name": "Arnold Palmer Hospital for Children and Women"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent F. Giusti", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pensacola", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32504"
+                    }, 
+                    "name": "Nemours Children's Clinic - Pensacola"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33701"
+                    }, 
+                    "name": "All Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33607"
+                    }, 
+                    "name": "Saint Joseph Children's Hospital of Tampa"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Howard M. Katzenstein", 
+                    "phone": "800-811-8480"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }, 
+                    "name": "Children's Healthcare of Atlanta - Egleston"
+                }, 
+                "investigator": {
+                    "last_name": "Howard M. Katzenstein", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "J. M. Johnston", 
+                    "phone": "912-350-8568"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Savannah", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31403"
+                    }, 
+                    "name": "Memorial Health University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "J. M. Johnston", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mary L. Schmidt", 
+                    "phone": "312-355-3046"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "University of Illinois"
+                }, 
+                "investigator": {
+                    "last_name": "Mary L. Schmidt", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "David O. Walterhouse", 
+                    "phone": "773-880-4562"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60614"
+                    }, 
+                    "name": "Lurie Children's Hospital-Chicago"
+                }, 
+                "investigator": {
+                    "last_name": "David O. Walterhouse", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Susan L. Cohn", 
+                    "phone": "773-834-7424"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }, 
+                    "name": "University of Chicago"
+                }, 
+                "investigator": {
+                    "last_name": "Susan L. Cohn", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ammar Hayani", 
+                    "phone": "800-323-8622"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oak Lawn", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60453"
+                    }, 
+                    "name": "Advocate Children's Hospital-Oak Lawn"
+                }, 
+                "investigator": {
+                    "last_name": "Ammar Hayani", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Karen S. Fernandez", 
+                    "phone": "309-655-3258"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Peoria", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61602"
+                    }, 
+                    "name": "Saint Jude Midwest Affiliate"
+                }, 
+                "investigator": {
+                    "last_name": "Karen S. Fernandez", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "62702"
+                    }, 
+                    "name": "Southern Illinois University"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Riley Hospital for Children"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46260"
+                    }, 
+                    "name": "Saint Vincent Hospital and Health Services"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Wendy L. Woods-Swafford", 
+                    "phone": "515-241-6729"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Des Moines", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "50309"
+                    }, 
+                    "name": "Blank Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Wendy L. Woods-Swafford", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ayman A. El-Sheikh", 
+                    "phone": "800-237-1225"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "University of Iowa Hospitals and Clinics"
+                }, 
+                "investigator": {
+                    "last_name": "Ayman A. El-Sheikh", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536"
+                    }, 
+                    "name": "University of Kentucky"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "CTO@hmc.psu.edu", 
+                    "last_name": "Kenneth G. Lucas", 
+                    "phone": "866-530-5516"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Louisville", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40202"
+                    }, 
+                    "name": "Kosair Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Kenneth G. Lucas", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70118"
+                    }, 
+                    "name": "Children's Hospital-Main Campus"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "wrighd@mmc.org", 
+                    "last_name": "Eric C. Larsen", 
+                    "phone": "207-396-8090"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Scarborough", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04074"
+                    }, 
+                    "name": "Maine Children's Cancer Program"
+                }, 
+                "investigator": {
+                    "last_name": "Eric C. Larsen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jhcccro@jhmi.edu", 
+                    "last_name": "Allen R. Chen", 
+                    "phone": "410-955-8804"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21287"
+                    }, 
+                    "name": "Johns Hopkins University/Sidney Kimmel Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Allen R. Chen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21215"
+                    }, 
+                    "name": "Sinai Hospital of Baltimore"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "University of Maryland/Greenebaum Cancer Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bethesda", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20889-5600"
+                    }, 
+                    "name": "Walter Reed National Military Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Massachusetts General Hospital Cancer Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Carlos Rodriguez-Galindo", 
+                    "phone": "866-790-4500"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Dana-Farber Cancer Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Carlos Rodriguez-Galindo", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ContactUsCancerCenter@TuftsMedicalCenter.org", 
+                    "last_name": "Michael J. Kelly", 
+                    "phone": "617-636-5000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }, 
+                    "name": "Floating Hospital for Children at Tufts Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Michael J. Kelly", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01199"
+                    }, 
+                    "name": "Baystate Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Raymond J. Hutchinson", 
+                    "phone": "800-865-1125"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109"
+                    }, 
+                    "name": "C S Mott Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Raymond J. Hutchinson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Hadi Sawaf", 
+                    "phone": "313-343-3166"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48236"
+                    }, 
+                    "name": "Saint John Hospital and Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Hadi Sawaf", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Zhihong J. Wang", 
+                    "phone": "313-576-9363"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State University/Karmanos Cancer Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Zhihong J. Wang", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Flint", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48502"
+                    }, 
+                    "name": "Hurley Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grand Rapids", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49503"
+                    }, 
+                    "name": "Helen DeVos Children's Hospital at Spectrum Health"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jeffrey S. Lobel", 
+                    "phone": "800-227-2345"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kalamazoo", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49007"
+                    }, 
+                    "name": "Bronson Methodist Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Jeffrey S. Lobel", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lansing", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48910"
+                    }, 
+                    "name": "Michigan State University - Breslin Cancer Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Bruce C. Bostrom", 
+                    "phone": "612-813-5193"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55404"
+                    }, 
+                    "name": "Children's Hospitals and Clinics of Minnesota - Minneapolis"
+                }, 
+                "investigator": {
+                    "last_name": "Bruce C. Bostrom", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Emily G. Greengard", 
+                    "phone": "612-624-2620"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55455"
+                    }, 
+                    "name": "University of Minnesota Medical Center-Fairview"
+                }, 
+                "investigator": {
+                    "last_name": "Emily G. Greengard", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Carola A. Arndt", 
+                    "phone": "507-538-7623"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic"
+                }, 
+                "investigator": {
+                    "last_name": "Carola A. Arndt", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Gail C. Megason", 
+                    "phone": "601-815-6700"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39216"
+                    }, 
+                    "name": "University of Mississippi Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Gail C. Megason", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Thomas W. Loew", 
+                    "phone": "573-882-7440"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65201"
+                    }, 
+                    "name": "Columbia Regional"
+                }, 
+                "investigator": {
+                    "last_name": "Thomas W. Loew", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "65212"
+                    }, 
+                    "name": "University of Missouri - Ellis Fischel"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Maxine L. Hetherington", 
+                    "phone": "816-234-3265"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64108"
+                    }, 
+                    "name": "The Childrens Mercy Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Maxine L. Hetherington", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "William S. Ferguson", 
+                    "phone": "314-268-4000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63104"
+                    }, 
+                    "name": "Cardinal Glennon Children's Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "William S. Ferguson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "Saint John's Mercy Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School of Medicine"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Minnie Abromowitch", 
+                    "phone": "402-955-3949"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68114"
+                    }, 
+                    "name": "Children's Hospital and Medical Center of Omaha"
+                }, 
+                "investigator": {
+                    "last_name": "Minnie Abromowitch", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Peter F. Coccia", 
+                    "phone": "800-999-5465"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198"
+                    }, 
+                    "name": "University of Nebraska Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Peter F. Coccia", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jonathan Bernstein", 
+                    "phone": "702-384-0013"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89106"
+                    }, 
+                    "name": "Nevada Cancer Research Foundation CCOP"
+                }, 
+                "investigator": {
+                    "last_name": "Jonathan Bernstein", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cancer.research.nurse@dartmouth.edu", 
+                    "last_name": "Sara Chaffee", 
+                    "phone": "800-639-6918"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }, 
+                    "name": "Dartmouth Hitchcock Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Sara Chaffee", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Burton E. Appel", 
+                    "phone": "201-996-2879"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hackensack", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07601"
+                    }, 
+                    "name": "Hackensack University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Burton E. Appel", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Steven L. Halpern", 
+                    "phone": "973-971-5900"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Morristown", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07962"
+                    }, 
+                    "name": "Morristown Memorial Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Steven L. Halpern", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08903"
+                    }, 
+                    "name": "UMDNJ - Robert Wood Johnson University Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08901"
+                    }, 
+                    "name": "Saint Peter's University Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Peri Kamalakar", 
+                    "phone": "973-926-7230"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Newark", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07112"
+                    }, 
+                    "name": "Newark Beth Israel Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Peri Kamalakar", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Steven L. Halpern", 
+                    "phone": "973-971-5900"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Summit", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07902"
+                    }, 
+                    "name": "Overlook Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Steven L. Halpern", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Koh B. Boayue", 
+                    "phone": "505-272-6972"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87106"
+                    }, 
+                    "name": "University of New Mexico Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Koh B. Boayue", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Vikramjit S. Kanwar", 
+                    "phone": "518-262-3368"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Albany Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Vikramjit S. Kanwar", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467-2490"
+                    }, 
+                    "name": "Montefiore Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263"
+                    }, 
+                    "name": "Roswell Park Cancer Institute"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mark E. Weinblatt", 
+                    "phone": "866-946-8476"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mineola", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11501"
+                    }, 
+                    "name": "Winthrop University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Mark E. Weinblatt", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Arlene S. Redner", 
+                    "phone": "718-470-3470"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New Hyde Park", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11040"
+                    }, 
+                    "name": "The Steven and Alexandra Cohen Children's Medical Center of New York"
+                }, 
+                "investigator": {
+                    "last_name": "Arlene S. Redner", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Alice Lee", 
+                    "phone": "212-305-8615"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10032"
+                    }, 
+                    "name": "Columbia University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Alice Lee", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jeffrey R. Andolina", 
+                    "phone": "585-275-5830"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14642"
+                    }, 
+                    "name": "University of Rochester"
+                }, 
+                "investigator": {
+                    "last_name": "Jeffrey R. Andolina", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Karol H. Kerr", 
+                    "phone": "315-464-5476"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York Upstate Medical University"
+                }, 
+                "investigator": {
+                    "last_name": "Karol H. Kerr", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valhalla", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10595"
+                    }, 
+                    "name": "New York Medical College"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Krystal S. Bottom", 
+                    "phone": "828-213-4150"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Asheville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28801"
+                    }, 
+                    "name": "Mission Hospital-Memorial Campus"
+                }, 
+                "investigator": {
+                    "last_name": "Krystal S. Bottom", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cancerclinicaltrials@med.unc.edu", 
+                    "last_name": "Stuart H. Gold", 
+                    "phone": "877-668-0683"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599"
+                    }, 
+                    "name": "University of North Carolina"
+                }, 
+                "investigator": {
+                    "last_name": "Stuart H. Gold", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28204"
+                    }, 
+                    "name": "Novant Health Presbyterian Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28203"
+                    }, 
+                    "name": "Carolinas Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Susan G. Kreissman", 
+                    "phone": "888-275-3853"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Susan G. Kreissman", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest University Health Sciences"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fargo", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58122"
+                    }, 
+                    "name": "Sanford Medical Center-Fargo"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Steven J. Kuerbitz", 
+                    "phone": "330-543-3193"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44308"
+                    }, 
+                    "name": "Children's Hospital Medical Center of Akron"
+                }, 
+                "investigator": {
+                    "last_name": "Steven J. Kuerbitz", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "John P. Perentesis", 
+                    "phone": "513-636-2799"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45229"
+                    }, 
+                    "name": "Cincinnati Children's Hospital Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "John P. Perentesis", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Cleveland Clinic Foundation"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Yousif (Joe) H. Matloub", 
+                    "phone": "216-844-5437"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }, 
+                    "name": "Rainbow Babies and Childrens Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Yousif (Joe) H. Matloub", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mark A. Ranalli", 
+                    "phone": "614-722-2708"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43205"
+                    }, 
+                    "name": "Nationwide Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Mark A. Ranalli", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Emmett H. Broxson", 
+                    "phone": "800-228-4055"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dayton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45404"
+                    }, 
+                    "name": "Dayton Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Emmett H. Broxson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Dagmar T. Stein", 
+                    "phone": "419-824-1842"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toledo", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43606"
+                    }, 
+                    "name": "The Toledo Hospital/Toledo Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Dagmar T. Stein", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "julie-traylor@ouhsc.edu", 
+                    "last_name": "Rene Y. McNall-Knapp", 
+                    "phone": "405-271-4272"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "University of Oklahoma Health Sciences Center"
+                }, 
+                "investigator": {
+                    "last_name": "Rene Y. McNall-Knapp", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97227"
+                    }, 
+                    "name": "Legacy Emanuel Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Janice F. Olson", 
+                    "phone": "503-413-2560"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97227"
+                    }, 
+                    "name": "Legacy Emanuel Hospital and Health Center"
+                }, 
+                "investigator": {
+                    "last_name": "Janice F. Olson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "trials@ohsu.edu", 
+                    "last_name": "Susan J. Lindemulder", 
+                    "phone": "503-494-1080"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97239"
+                    }, 
+                    "name": "Oregon Health and Science University"
+                }, 
+                "investigator": {
+                    "last_name": "Susan J. Lindemulder", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Philip M. Monteleone", 
+                    "phone": "484-884-2201"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bethlehem", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "18017"
+                    }, 
+                    "name": "Lehigh Valley Hospital - Muhlenberg"
+                }, 
+                "investigator": {
+                    "last_name": "Philip M. Monteleone", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Danville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17822-2001"
+                    }, 
+                    "name": "Geisinger Medical Center"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Lisa M. McGregor", 
+                    "phone": "717-531-6012"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033"
+                    }, 
+                    "name": "Penn State Hershey Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Lisa M. McGregor", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "John M. Maris", 
+                    "phone": "215-590-2810"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Children's Hospital of Philadelphia"
+                }, 
+                "investigator": {
+                    "last_name": "John M. Maris", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19134"
+                    }, 
+                    "name": "Saint Christopher's Hospital for Children"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jean M. Tersak", 
+                    "phone": "412-692-5573"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15224"
+                    }, 
+                    "name": "Children's Hospital of Pittsburgh of UPMC"
+                }, 
+                "investigator": {
+                    "last_name": "Jean M. Tersak", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Providence", 
+                        "country": "United States", 
+                        "state": "Rhode Island", 
+                        "zip": "02903"
+                    }, 
+                    "name": "Rhode Island Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jacqueline M. Kraveka", 
+                    "phone": "843-792-9321"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }, 
+                "investigator": {
+                    "last_name": "Jacqueline M. Kraveka", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ronnie W. Neuberg", 
+                    "phone": "803-434-3680"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29203"
+                    }, 
+                    "name": "Palmetto Health Richland"
+                }, 
+                "investigator": {
+                    "last_name": "Ronnie W. Neuberg", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Nichole L. Bryant", 
+                    "phone": "864-241-6251"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29605"
+                    }, 
+                    "name": "BI-LO Charities Children's Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Nichole L. Bryant", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Cary E. Stroud", 
+                    "phone": "864-241-6251"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29605"
+                    }, 
+                    "name": "Greenville Cancer Treatment Center"
+                }, 
+                "investigator": {
+                    "last_name": "Cary E. Stroud", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Kayelyn J. Wagner", 
+                    "phone": "605-328-1367"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57117-5134"
+                    }, 
+                    "name": "Sanford USD Medical Center - Sioux Falls"
+                }, 
+                "investigator": {
+                    "last_name": "Kayelyn J. Wagner", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chattanooga", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37403"
+                    }, 
+                    "name": "T C Thompson Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ray C. Pais", 
+                    "phone": "865-541-8266"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Knoxville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37916"
+                    }, 
+                    "name": "East Tennessee Childrens Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Ray C. Pais", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Wayne L. Furman", 
+                    "phone": "901-595-4644"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38105"
+                    }, 
+                    "name": "St. Jude Children's Research Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Wayne L. Furman", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Haydar A. Frangoul", 
+                    "phone": "800-811-8480"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232"
+                    }, 
+                    "name": "Vanderbilt-Ingram Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Haydar A. Frangoul", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Sharon K. Lockhart", 
+                    "phone": "512-324-8022"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Austin", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78723"
+                    }, 
+                    "name": "Dell Children's Medical Center of Central Texas"
+                }, 
+                "investigator": {
+                    "last_name": "Sharon K. Lockhart", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Corpus Christi", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78411"
+                    }, 
+                    "name": "Driscoll Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Carl Lenarsky", 
+                    "phone": "972-566-5588"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75230"
+                    }, 
+                    "name": "Medical City Dallas Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Carl Lenarsky", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Naomi J. Winick", 
+                    "phone": "214-648-7097"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390"
+                    }, 
+                    "name": "University of Texas Southwestern Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Naomi J. Winick", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mary Meaghan P. Granger", 
+                    "phone": "682-885-2103"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Cook Children's Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Mary Meaghan P. Granger", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "burton@bcm.edu", 
+                    "last_name": "Lisa R. Bomgaars", 
+                    "phone": "713-798-1354"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }, 
+                "investigator": {
+                    "last_name": "Lisa R. Bomgaars", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jaime Estrada", 
+                    "phone": "210-575-7000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Methodist Children's Hospital of South Texas"
+                }, 
+                "investigator": {
+                    "last_name": "Jaime Estrada", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "University of Texas Health Science Center at San Antonio"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Phillip E. Barnette", 
+                    "phone": "801-585-5270"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84113"
+                    }, 
+                    "name": "Primary Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Phillip E. Barnette", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burlington", 
+                        "country": "United States", 
+                        "state": "Vermont", 
+                        "zip": "05401"
+                    }, 
+                    "name": "University of Vermont"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Kimberly P. Dunsmore", 
+                    "phone": "434-243-6143"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Charlottesville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22908"
+                    }, 
+                    "name": "University of Virginia"
+                }, 
+                "investigator": {
+                    "last_name": "Kimberly P. Dunsmore", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Falls Church", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22042"
+                    }, 
+                    "name": "Inova Fairfax Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Eric J. Lowe", 
+                    "phone": "757-668-7243"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Norfolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23507"
+                    }, 
+                    "name": "Childrens Hospital-King's Daughters"
+                }, 
+                "investigator": {
+                    "last_name": "Eric J. Lowe", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Brian L. Feldman", 
+                    "phone": "757-953-5939"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Portsmouth", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23708-2197"
+                    }, 
+                    "name": "Naval Medical Center - Portsmouth"
+                }, 
+                "investigator": {
+                    "last_name": "Brian L. Feldman", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Gita V. Massey", 
+                    "phone": "804-628-1939"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298"
+                    }, 
+                    "name": "Virginia Commonwealth University"
+                }, 
+                "investigator": {
+                    "last_name": "Gita V. Massey", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Roanoke", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "24014"
+                    }, 
+                    "name": "Carilion Clinic Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Douglas S. Hawkins", 
+                    "phone": "866-987-2000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98105"
+                    }, 
+                    "name": "Seattle Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Douglas S. Hawkins", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99204"
+                    }, 
+                    "name": "Providence Sacred Heart Medical Center and Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "John R. Hill", 
+                    "phone": "920-433-8889"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54301"
+                    }, 
+                    "name": "Saint Vincent Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "John R. Hill", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Kenneth B. DeSantes", 
+                    "phone": "608-262-5223"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Madison", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53792"
+                    }, 
+                    "name": "University of Wisconsin Hospital and Clinics"
+                }, 
+                "investigator": {
+                    "last_name": "Kenneth B. DeSantes", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marshfield", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54449"
+                    }, 
+                    "name": "Marshfield Clinic"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Michael E. Kelly", 
+                    "phone": "414-805-4380"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Midwest Children's Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Michael E. Kelly", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Randwick", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2031"
+                    }, 
+                    "name": "Sydney Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Geoffrey B. McCowage", 
+                    "phone": "61-2-9845 1400"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Westmead", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2145"
+                    }, 
+                    "name": "The Children's Hospital at Westmead"
+                }, 
+                "investigator": {
+                    "last_name": "Geoffrey B. McCowage", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ctsucontact@westat.com", 
+                    "last_name": "Helen Irving", 
+                    "phone": "888-823-5923"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Herston", 
+                        "country": "Australia", 
+                        "state": "Queensland", 
+                        "zip": "4029"
+                    }, 
+                    "name": "Royal Brisbane and Women's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Helen Irving", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ctsucontact@westat.com", 
+                    "last_name": "Helen Irving", 
+                    "phone": "888-823-5923"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Herston", 
+                        "country": "Australia", 
+                        "state": "Queensland", 
+                        "zip": "4029"
+                    }, 
+                    "name": "Royal Childrens Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Helen Irving", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cywhs.oncsec@health.sa.gov.au", 
+                    "last_name": "Maria L. Kirby", 
+                    "phone": "(08) 8161 7327"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "North Adelaide", 
+                        "country": "Australia", 
+                        "state": "South Australia", 
+                        "zip": "5006"
+                    }, 
+                    "name": "Women's and Children's Hospital-Adelaide"
+                }, 
+                "investigator": {
+                    "last_name": "Maria L. Kirby", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "crdo.info@mcri.edu.au", 
+                    "last_name": "Francoise M. Mechinaud"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3052"
+                    }, 
+                    "name": "Royal Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Francoise M. Mechinaud", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "admin@childcancerresearch.com.au", 
+                    "last_name": "Catherine H. Cole", 
+                    "phone": "(08) 9340 8330"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Perth", 
+                        "country": "Australia", 
+                        "state": "Western Australia", 
+                        "zip": "6008"
+                    }, 
+                    "name": "Princess Margaret Hospital for Children"
+                }, 
+                "investigator": {
+                    "last_name": "Catherine H. Cole", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "research4kids@ucalgary.ca", 
+                    "last_name": "Douglas R. Strother", 
+                    "phone": "403-220-6898"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Calgary", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T3B 6A8"
+                    }, 
+                    "name": "Alberta Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Douglas R. Strother", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T6G 2B7"
+                    }, 
+                    "name": "University of Alberta Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Caron Strahlendorf", 
+                    "phone": "604-875-2345ext6477"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V6H 3V4"
+                    }, 
+                    "name": "British Columbia Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Caron Strahlendorf", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winnipeg", 
+                        "country": "Canada", 
+                        "state": "Manitoba", 
+                        "zip": "R3E 0V9"
+                    }, 
+                    "name": "CancerCare Manitoba"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint John's", 
+                        "country": "Canada", 
+                        "state": "Newfoundland and Labrador", 
+                        "zip": "A1B 3V6"
+                    }, 
+                    "name": "Janeway Child Health Centre"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "Canada", 
+                        "state": "Nova Scotia", 
+                        "zip": "B3J 3G9"
+                    }, 
+                    "name": "IWK Health Centre"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Carol Portwine", 
+                    "phone": "905-521-2100ext74595"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8S 4L8"
+                    }, 
+                    "name": "Chedoke-McMaster Hospitals"
+                }, 
+                "investigator": {
+                    "last_name": "Carol Portwine", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Carol Portwine", 
+                    "phone": "905-521-2100ext74595"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8N 3Z5"
+                    }, 
+                    "name": "McMaster Children's Hospital at Hamilton Health Sciences"
+                }, 
+                "investigator": {
+                    "last_name": "Carol Portwine", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Anne E. Cairney", 
+                    "phone": "519-685-8306"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N6A 5W9"
+                    }, 
+                    "name": "Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Anne E. Cairney", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ottawa", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "K1H 8L1"
+                    }, 
+                    "name": "Children's Hospital of Eastern Ontario"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jason.mcguire@sickkids.ca", 
+                    "last_name": "Ronald M. Grant", 
+                    "phone": "416-813-7654ext2027"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 1X8"
+                    }, 
+                    "name": "Hospital for Sick Children"
+                }, 
+                "investigator": {
+                    "last_name": "Ronald M. Grant", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Yvan Samson", 
+                    "phone": "514-345-4931"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3T 1C5"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire Sainte-Justine"
+                }, 
+                "investigator": {
+                    "last_name": "Yvan Samson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "info@thechildren.com", 
+                    "last_name": "Sharon B. Abish", 
+                    "phone": "514-412-4445"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3H 1P3"
+                    }, 
+                    "name": "The Montreal Children's Hospital of the MUHC"
+                }, 
+                "investigator": {
+                    "last_name": "Sharon B. Abish", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Bruno Michon", 
+                    "phone": "418-525-4444"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ste-Foy", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "G1V 4G2"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire de Quebec"
+                }, 
+                "investigator": {
+                    "last_name": "Bruno Michon", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mark A. Winstanley", 
+                    "phone": "0800 728 436"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Grafton", 
+                        "country": "New Zealand", 
+                        "state": "Auckland", 
+                        "zip": "1145"
+                    }, 
+                    "name": "Starship Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Mark A. Winstanley", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mark A. Winstanley", 
+                    "phone": "0800 728 436"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Christchurch", 
+                        "country": "New Zealand", 
+                        "zip": "8011"
+                    }, 
+                    "name": "Christchurch Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Mark A. Winstanley", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00912"
+                    }, 
+                    "name": "San Jorge Children's Hospital"
+                }, 
+                "status": "Active, not recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Canada", 
+                "New Zealand"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Phase III Randomized Study of Chimeric Antibody 14.18 (Ch14.18) in High Risk Neuroblastoma Following Myeloablative Therapy and Autologous Stem Cell Rescue", 
+        "overall_official": {
+            "affiliation": "Children's Oncology Group", 
+            "last_name": "Alice Yu", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Kaplan-Meier curves will be generated and log rank tests will be performed.", 
+            "measure": "EFS", 
+            "safety_issue": "No", 
+            "time_frame": "From study enrollment until the first occurrence of an event or until last contact with the patient if no event occurs, assessed up to 3 years"
+        }, 
+        "removed_countries": {
+            "country": [
+                "Puerto Rico", 
+                "Netherlands", 
+                "Switzerland"
+            ]
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00026312"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Kaplan-Meier curves will be generated and log rank tests will be performed.", 
+                "measure": "OS", 
+                "safety_issue": "No", 
+                "time_frame": "From study enrollment until death or until last contact with the patient if the patient dose not die, assessed up to 3 years"
+            }, 
+            {
+                "description": "A descriptive analysis of the change from baseline of MRD will be performed. Also, a Wilcoxon rank-sum test will be performed to compare the median change from baseline of MRD between the two treatment arms. A multivariate Cox proportional hazards regression model will test to see if the change in MRD burden is associated with EFS or OS.", 
+                "measure": "Change in MRD", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to up to 10 years"
+            }, 
+            {
+                "description": "A multivariate Cox proportional hazards regression model will test to see if the Ch14.18 serum level, HACA titer, effector cell function, or serum marker for effector cell activation are associated with EFS or OS.", 
+                "measure": "Change in tumor biology", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to up to 10 years"
+            }, 
+            {
+                "description": "Descriptive analyses of toxicity will be performed over all patients.", 
+                "measure": "Incidence of toxicities assessed using Common Terminology Criteria for Adverse Events version 4.0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "Will be descriptively compared.", 
+                "measure": "Levels of ADCC", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "The average level of HACA at each collection time point during immunotherapy will be calculated.", 
+                "measure": "Average level of HACA", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "A historical comparison will be made. This comparison will be a descriptive one only.", 
+                "measure": "Historical data for the analogous patients", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "To determine if there is a relationship of the peak serum concentration level with EFS, the term for this level will be tested in a Cox proportional hazards model. To determine if there is a relationship of the peak serum concentration level with toxicity rates, Kendall's Tau statistic will be calculated.", 
+                "measure": "13-cis-retinoic-acid pharmacokinetic parameters", 
+                "safety_issue": "No", 
+                "time_frame": "At 4 hours after administration on day 14 of course 1"
+            }, 
+            {
+                "description": "A Fisher's exact test will be performed to determine if the presence of naturally occurring anti-glycan antibodies correlates with allergic reactions. A Wilcoxon test will be performed to determine if the presence of naturally occurring anti-glycan antibodies correlates with blood levels of ch14.18.", 
+                "measure": "Presence of naturally occurring anti-glycan antibodies", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "Kaplan-Meier plots of EFS will be generated for the three genotype subgroups of FcR as well as for the three genotype subgroups of Kir/Kir-Ligand. In addition, a log rank test comparison will be made in a pairwise fashion of each of the genotypes within FcR and within Kir/Kir-Ligand.", 
+                "measure": "Genotype of Kir/Kir-Ligand", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "Kaplan-Meier curves of EFS and OS will be generated, including 95% confidence intervals on the curves.", 
+                "measure": "EFS of patients from the non-randomized portion of the trial", 
+                "safety_issue": "No", 
+                "time_frame": "From study enrollment until the first occurrence of an event or until last contact with the patient if no event occurs, assessed up to 3 years"
+            }, 
+            {
+                "description": "Kaplan-Meier curves of EFS and OS will be generated, including 95% confidence intervals on the curves.", 
+                "measure": "OS of patients from the non-randomized portion of the trial", 
+                "safety_issue": "No", 
+                "time_frame": "From study enrollment until death or until last contact with the patient if the patient dose not die, assessed up to 3 years"
+            }, 
+            {
+                "description": "In general, descriptive summaries will include n, mean, standard deviation, median, minimum, maximum and 90% confidence intervals for continuous variables, and n and percent for categorical variables. Summaries will present data by assessment time when appropriate.", 
+                "measure": "Cardiac repolarization", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "Kaplan-Meier plots of EFS will be generated for the three genotype subgroups of FcR as well as for the three genotype subgroups of Kir/Kir-Ligand. In addition, a log rank test comparison will be made in a pairwise fashion of each of the genotypes within FcR and within Kir/Kir-Ligand.", 
+                "measure": "Genotype of FcR", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }, 
+            {
+                "description": "A Wilcoxon test will be used to compare the number of courses of therapy delivered.", 
+                "measure": "Number of courses of therapy delivered", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 10 years"
+            }
+        ], 
+        "source": "National Cancer Institute (NCI)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "October 2001", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }, 
+    "geocoordinates": {
+        "Advocate Children's Hospital-Oak Lawn": "41.711 -87.758", 
+        "Albany Medical Center": "42.653 -73.756", 
+        "Alberta Children's Hospital": "51.045 -114.057", 
+        "Alfred I duPont Hospital for Children": "39.746 -75.547", 
+        "All Children's Hospital": "27.773 -82.64", 
+        "Arkansas Children's Hospital": "34.746 -92.29", 
+        "Arnold Palmer Hospital for Children and Women": "28.538 -81.379", 
+        "BI-LO Charities Children's Cancer Center": "34.853 -82.394", 
+        "Baptist Hospital of Miami": "25.789 -80.226", 
+        "Baylor College of Medicine": "29.76 -95.369", 
+        "Baystate Medical Center": "42.101 -72.59", 
+        "Blank Children's Hospital": "41.601 -93.609", 
+        "British Columbia Children's Hospital": "49.261 -123.114", 
+        "Bronson Methodist Hospital": "42.292 -85.587", 
+        "Broward Health Medical Center": "26.122 -80.143", 
+        "C S Mott Children's Hospital": "42.281 -83.743", 
+        "CancerCare Manitoba": "49.9 -97.137", 
+        "Cardinal Glennon Children's Medical Center": "38.627 -90.199", 
+        "Carilion Clinic Children's Hospital": "37.271 -79.941", 
+        "Carolinas Medical Center": "35.227 -80.843", 
+        "Centre Hospitalier Universitaire Sainte-Justine": "45.509 -73.554", 
+        "Centre Hospitalier Universitaire de Quebec": "46.773 -71.276", 
+        "Chedoke-McMaster Hospitals": "43.244 -79.889", 
+        "Children's Healthcare of Atlanta - Egleston": "33.749 -84.388", 
+        "Children's Hospital": "42.979 -81.246", 
+        "Children's Hospital Central California": "36.961 -120.061", 
+        "Children's Hospital Colorado": "39.729 -104.832", 
+        "Children's Hospital Los Angeles": "34.052 -118.244", 
+        "Children's Hospital Medical Center of Akron": "41.081 -81.519", 
+        "Children's Hospital and Medical Center of Omaha": "41.252 -95.998", 
+        "Children's Hospital and Research Center at Oakland": "37.804 -122.271", 
+        "Children's Hospital of Alabama": "33.521 -86.802", 
+        "Children's Hospital of Eastern Ontario": "45.422 -75.697", 
+        "Children's Hospital of Philadelphia": "39.952 -75.164", 
+        "Children's Hospital of Pittsburgh of UPMC": "40.441 -79.996", 
+        "Children's Hospital-Main Campus": "29.951 -90.072", 
+        "Children's Hospitals and Clinics of Minnesota - Minneapolis": "44.98 -93.264", 
+        "Children's National Medical Center": "38.895 -77.036", 
+        "Childrens Hospital of Orange County": "33.788 -117.853", 
+        "Childrens Hospital-King's Daughters": "36.851 -76.286", 
+        "Christchurch Hospital": "-43.532 172.636", 
+        "Cincinnati Children's Hospital Medical Center": "39.103 -84.512", 
+        "City of Hope Medical Center": "34.139 -117.977", 
+        "Cleveland Clinic Foundation": "41.499 -81.695", 
+        "Columbia Regional": "38.952 -92.334", 
+        "Columbia University Medical Center": "40.714 -74.006", 
+        "Connecticut Children's Medical Center": "41.764 -72.685", 
+        "Cook Children's Medical Center": "32.725 -97.321", 
+        "Dana-Farber Cancer Institute": "42.358 -71.06", 
+        "Dartmouth Hitchcock Medical Center": "43.642 -72.252", 
+        "Dayton Children's Hospital": "39.759 -84.192", 
+        "Dell Children's Medical Center of Central Texas": "30.267 -97.743", 
+        "Driscoll Children's Hospital": "27.801 -97.396", 
+        "Duke University Medical Center": "35.994 -78.899", 
+        "East Tennessee Childrens Hospital": "35.961 -83.921", 
+        "Floating Hospital for Children at Tufts Medical Center": "42.358 -71.06", 
+        "Florida Hospital": "28.538 -81.379", 
+        "Geisinger Medical Center": "40.963 -76.613", 
+        "Golisano Children's Hospital of Southwest Florida": "26.641 -81.872", 
+        "Greenville Cancer Treatment Center": "34.853 -82.394", 
+        "Hackensack University Medical Center": "40.886 -74.043", 
+        "Helen DeVos Children's Hospital at Spectrum Health": "42.963 -85.668", 
+        "Hospital for Sick Children": "43.653 -79.383", 
+        "Hurley Medical Center": "43.013 -83.687", 
+        "IWK Health Centre": "44.649 -63.575", 
+        "Inova Fairfax Hospital": "38.882 -77.171", 
+        "Janeway Child Health Centre": "47.561 -52.713", 
+        "Johns Hopkins University/Sidney Kimmel Cancer Center": "39.29 -76.612", 
+        "Kaiser Permanente-Oakland": "37.804 -122.271", 
+        "Kosair Children's Hospital": "38.253 -85.758", 
+        "Lee Memorial Health System": "26.641 -81.872", 
+        "Legacy Emanuel Children's Hospital": "45.523 -122.676", 
+        "Legacy Emanuel Hospital and Health Center": "45.523 -122.676", 
+        "Lehigh Valley Hospital - Muhlenberg": "40.626 -75.37", 
+        "Loma Linda University Medical Center": "34.048 -117.261", 
+        "Lucile Packard Children's Hospital Stanford University": "37.442 -122.143", 
+        "Lurie Children's Hospital-Chicago": "41.878 -87.63", 
+        "Maine Children's Cancer Program": "43.59 -70.334", 
+        "Marshfield Clinic": "44.669 -90.172", 
+        "Massachusetts General Hospital Cancer Center": "42.358 -71.06", 
+        "Mayo Clinic": "44.022 -92.47", 
+        "McMaster Children's Hospital at Hamilton Health Sciences": "43.244 -79.889", 
+        "Medical City Dallas Hospital": "32.803 -96.77", 
+        "Medical University of South Carolina": "32.777 -79.931", 
+        "Memorial Health University Medical Center": "32.084 -81.1", 
+        "Memorial Healthcare System - Joe DiMaggio Children's Hospital": "26.011 -80.149", 
+        "Methodist Children's Hospital of South Texas": "29.424 -98.494", 
+        "Miami Children's Hospital": "25.789 -80.226", 
+        "Michigan State University - Breslin Cancer Center": "42.733 -84.556", 
+        "Midwest Children's Cancer Center": "43.039 -87.906", 
+        "Miller Children's Hospital": "33.804 -118.158", 
+        "Mission Hospital-Memorial Campus": "35.601 -82.554", 
+        "Montefiore Medical Center": "40.85 -73.867", 
+        "Morristown Memorial Hospital": "40.797 -74.482", 
+        "Mount Sinai Medical Center": "40.714 -74.006", 
+        "Nationwide Children's Hospital": "39.961 -82.999", 
+        "Naval Medical Center - Portsmouth": "36.835 -76.298", 
+        "Nemours Children's Clinic - Jacksonville": "30.332 -81.656", 
+        "Nemours Children's Clinic - Pensacola": "30.421 -87.217", 
+        "Nemours Children's Hospital": "28.538 -81.379", 
+        "Nemours Childrens Clinic - Orlando": "28.538 -81.379", 
+        "Nevada Cancer Research Foundation CCOP": "36.115 -115.173", 
+        "New York Medical College": "41.075 -73.775", 
+        "Newark Beth Israel Medical Center": "40.736 -74.172", 
+        "Novant Health Presbyterian Medical Center": "35.227 -80.843", 
+        "Oregon Health and Science University": "45.523 -122.676", 
+        "Overlook Hospital": "40.716 -74.362", 
+        "Palmetto Health Richland": "34.001 -81.035", 
+        "Penn State Hershey Children's Hospital": "40.286 -76.65", 
+        "Phoenix Childrens Hospital": "33.448 -112.074", 
+        "Primary Children's Hospital": "40.761 -111.891", 
+        "Princess Margaret Hospital for Children": "-31.953 115.857", 
+        "Providence Sacred Heart Medical Center and Children's Hospital": "47.659 -117.426", 
+        "Rady Children's Hospital - San Diego": "32.715 -117.157", 
+        "Rainbow Babies and Childrens Hospital": "41.499 -81.695", 
+        "Rhode Island Hospital": "41.824 -71.413", 
+        "Riley Hospital for Children": "39.769 -86.158", 
+        "Rocky Mountain Hospital for Children-Presbyterian Saint Luke's Medical Center": "39.739 -104.985", 
+        "Roswell Park Cancer Institute": "42.886 -78.878", 
+        "Royal Brisbane and Women's Hospital": "-27.448 153.029", 
+        "Royal Children's Hospital": "-37.795 144.957", 
+        "Royal Childrens Hospital": "-27.448 153.029", 
+        "Saint Christopher's Hospital for Children": "39.952 -75.164", 
+        "Saint John Hospital and Medical Center": "42.331 -83.046", 
+        "Saint John's Mercy Medical Center": "38.627 -90.199", 
+        "Saint Joseph Children's Hospital of Tampa": "27.951 -82.457", 
+        "Saint Jude Midwest Affiliate": "40.694 -89.589", 
+        "Saint Peter's University Hospital": "40.486 -74.452", 
+        "Saint Vincent Hospital": "44.519 -88.02", 
+        "Saint Vincent Hospital and Health Services": "39.769 -86.158", 
+        "San Jorge Children's Hospital": "18.466 -66.106", 
+        "Sanford Medical Center-Fargo": "46.877 -96.79", 
+        "Sanford USD Medical Center - Sioux Falls": "43.55 -96.7", 
+        "Seattle Children's Hospital": "47.606 -122.332", 
+        "Sinai Hospital of Baltimore": "39.29 -76.612", 
+        "Southern California Permanente Medical Group": "33.94 -118.133", 
+        "Southern Illinois University": "39.782 -89.65", 
+        "St. Jude Children's Research Hospital": "35.15 -90.049", 
+        "Starship Children's Hospital": "-36.86 174.767", 
+        "State University of New York Upstate Medical University": "43.048 -76.147", 
+        "Sydney Children's Hospital": "-33.914 151.242", 
+        "T C Thompson Children's Hospital": "35.046 -85.31", 
+        "The Children's Hospital at Westmead": "-33.808 150.987", 
+        "The Childrens Mercy Hospital": "39.1 -94.579", 
+        "The Montreal Children's Hospital of the MUHC": "45.509 -73.554", 
+        "The Steven and Alexandra Cohen Children's Medical Center of New York": "40.735 -73.688", 
+        "The Toledo Hospital/Toledo Children's Hospital": "41.664 -83.555", 
+        "UF Cancer Center at Orlando Health": "28.538 -81.379", 
+        "UMDNJ - Robert Wood Johnson University Hospital": "40.486 -74.452", 
+        "University of Alabama at Birmingham": "33.521 -86.802", 
+        "University of Alberta Hospital": "53.544 -113.49", 
+        "University of Arizona Health Sciences Center": "32.222 -110.926", 
+        "University of Arkansas for Medical Sciences": "34.746 -92.29", 
+        "University of California San Francisco Medical Center-Parnassus": "37.775 -122.419", 
+        "University of California at Davis Cancer Center": "38.582 -121.494", 
+        "University of Chicago": "41.878 -87.63", 
+        "University of Florida": "29.652 -82.325", 
+        "University of Illinois": "41.878 -87.63", 
+        "University of Iowa Hospitals and Clinics": "41.661 -91.53", 
+        "University of Kentucky": "38.041 -84.504", 
+        "University of Maryland/Greenebaum Cancer Center": "39.29 -76.612", 
+        "University of Miami Miller School of Medicine-Sylvester Cancer Center": "25.789 -80.226", 
+        "University of Minnesota Medical Center-Fairview": "44.98 -93.264", 
+        "University of Mississippi Medical Center": "32.299 -90.185", 
+        "University of Missouri - Ellis Fischel": "38.952 -92.334", 
+        "University of Nebraska Medical Center": "41.252 -95.998", 
+        "University of New Mexico Cancer Center": "35.084 -106.651", 
+        "University of North Carolina": "35.913 -79.056", 
+        "University of Oklahoma Health Sciences Center": "35.468 -97.516", 
+        "University of Rochester": "43.161 -77.611", 
+        "University of Texas Health Science Center at San Antonio": "29.424 -98.494", 
+        "University of Texas Southwestern Medical Center": "32.803 -96.77", 
+        "University of Vermont": "44.476 -73.212", 
+        "University of Virginia": "38.029 -78.477", 
+        "University of Wisconsin Hospital and Clinics": "43.073 -89.401", 
+        "Vanderbilt-Ingram Cancer Center": "36.166 -86.784", 
+        "Virginia Commonwealth University": "37.541 -77.436", 
+        "Wake Forest University Health Sciences": "36.1 -80.244", 
+        "Walter Reed National Military Medical Center": "38.985 -77.095", 
+        "Washington University School of Medicine": "38.627 -90.199", 
+        "Wayne State University/Karmanos Cancer Institute": "42.331 -83.046", 
+        "Winthrop University Hospital": "40.749 -73.641", 
+        "Women's and Children's Hospital-Adelaide": "-34.906 138.594", 
+        "Yale University": "41.308 -72.928"
+    }
+}

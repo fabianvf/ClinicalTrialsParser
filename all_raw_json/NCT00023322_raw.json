@@ -1,0 +1,772 @@
+{
+    "clinical_study": {
+        "@rank": "37086", 
+        "arm_group": {
+            "arm_group_label": "Peginterferon Alpha-2a", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients with hepatitis D virus (HDV) infection are treated with pegylated alpha interferon therapy for 3 years. The dose of the drug is 180 mcg/week."
+        }, 
+        "brief_summary": {
+            "textblock": "This study will evaluate the safety and effectiveness of a long-acting form of alpha\n      interferon called pegylated interferon in treating hepatitis D virus (HDV) infection.  HDV\n      only infects people who already have hepatitis B infection.  HDV is often severe and\n      progressive.  Alpha interferon is the standard treatment for HDV, given by injection once a\n      day or three times a week for up to 12 months.  However, this treatment does not work for\n      everyone, and those who respond usually relapse when the drug is stopped.  The\n      sustained-release form of the drug, pegylated interferon, is given just once a week.\n      Pegylated interferon is more effective than standard interferon in hepatitis C patients,\n      with patients experiencing longer-term improvement.  This study will evaluate the effects of\n      pegylated interferon on hepatitis D and hepatitis B.  It will determine whether long-term\n      therapy with this drug improves inflammation and scarring of the liver, thereby delaying or\n      reversing cirrhosis, and whether the improvement can be maintained.\n\n      Patients with chronic hepatitis D over 6 years old may be eligible for this study.\n      Participants will have a medical evaluation, including a history and physical examination,\n      blood tests, routine urinalysis and 24-hour urine collection.  Chest X-ray,\n      electrocardiogram, abdominal ultrasound and liver biopsy will be done if these tests have\n      not been done within the last year.  In addition, depending on their age and individual\n      health status, some patients may have exercise stress testing, an eye examination, hearing\n      test, and psychiatric consultation.  All patients will fill out a health-related quality of\n      life questionnaire.\n\n      Patients will receive pegylated interferon by injection once a week and have blood tests to\n      measure the effects of treatment on the liver and on HBV and HDV levels.  The medical\n      examination and liver biopsy will be repeated at the end of 12 months.  Patients who\n      improved with treatment may continue therapy long-term.  Medical evaluations and liver\n      biopsies will be repeated at 3 years and at 5 years."
+        }, 
+        "brief_title": "Pegylated Interferon to Treat Chronic Hepatitis D", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Patients with hepatitis D virus (HDV) infection are treated with pegylated alpha interferon therapy for 3 years. The dose of the drug is 180 mcg/week.", 
+                        "title": "Peginterferon Alpha-2a"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "13"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "18", 
+                                            "@upper_limit": "58", 
+                                            "@value": "42"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "11"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": "American Indian or Alaska Native"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Native Hawaiian or Other Pacific Islander"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Black or African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "11"
+                                            }
+                                        }, 
+                                        "sub_title": "White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "More than one race"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race (NIH/OMB)", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "13"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "7", 
+                                            "@upper_limit": "35", 
+                                            "@value": "25"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "Estimated duration of the HDV infection", 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Estimated duration of the disease", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "31", 
+                                            "@upper_limit": "506", 
+                                            "@value": "141"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "alanine aminotransferase", 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "ALT", 
+                            "units": "IU/L"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "6"
+                                            }
+                                        }, 
+                                        "sub_title": "IV Drug Abuse"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": "Sexual"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "2"
+                                            }
+                                        }, 
+                                        "sub_title": "Transfusion"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "5"
+                                            }
+                                        }, 
+                                        "sub_title": "Endemic Region"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Infection source", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "1.2", 
+                                            "@value": "6.7"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "hepatitis D virus RNA", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "HDV-RNA", 
+                            "units": "Log10 Genome Equivalent/ml"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "0.6", 
+                                            "@value": "3.7"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "HBsAg", 
+                            "units": "Log10 IU/ml"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "2", 
+                                            "@upper_limit": "49", 
+                                            "@value": "2.9"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "hepatitis B virus DNA", 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "HBV-DNA", 
+                            "units": "Log10 IU/ml"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "3", 
+                                            "@upper_limit": "6", 
+                                            "@value": "3"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "description": "Possible range of Ishak score is 0 to 6. Higher values indicate worse outcome.", 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Fibrosis (Ishak score)", 
+                            "units": "Scores on a scale"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Histological response is defined as at least 3 point improvement in inflammatory score or 1 point improvement in fibrosis score of the HAI at each liver biopsy.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Patients with hepatitis D virus (HDV) infection are treated with pegylated alpha interferon therapy for 3 years. The dose of the drug is 180 mcg/week.", 
+                                "title": "Peginterferon Alpha-2a"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "12"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "6"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Histological response is defined as at least 3 point improvement in inflammatory score or 1 point improvement in fibrosis score of the HAI at each liver biopsy.", 
+                                    "param": "Number", 
+                                    "title": "Histological Response at 3 Years", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Intention to treat", 
+                        "safety_issue": "No", 
+                        "time_frame": "3 years", 
+                        "title": "Histological Response at 3 Years", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Histological response is defined as at least 3 point improvement in inflammatory score or 1 point improvement in fibrosis score of the HAI at each liver biopsy.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Patients with hepatitis D virus (HDV) infection are treated with pegylated alpha interferon therapy for 3 years. The dose of the drug is 180 mcg/week.", 
+                                "title": "Peginterferon Alpha-2a"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "12"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "6"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Histological response is defined as at least 3 point improvement in inflammatory score or 1 point improvement in fibrosis score of the HAI at each liver biopsy.", 
+                                    "param": "Number", 
+                                    "title": "Histological Response at 5 Years", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "5 years", 
+                        "title": "Histological Response at 5 Years", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Patients with hepatitis D virus (HDV) infection are treated with pegylated alpha interferon therapy for 3 years. The dose of the drug is 180 mcg/week.", 
+                        "title": "Peginterferon Alpha-2a"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": {
+                                        "@count": "1", 
+                                        "@group_id": "P1"
+                                    }
+                                }, 
+                                "title": "Lost to Follow-up"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "13", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Between October 2002 and June 2006, 13 patients were recruited into the study. The location is NIH clinical center."
+            }, 
+            "point_of_contact": {
+                "email": "Theoh@mail.nih.gov", 
+                "name_or_title": "Theo Heller, M.D.", 
+                "organization": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                "phone": "(301) 402-7147"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "Patients with hepatitis D virus (HDV) infection are treated with pegylated alpha interferon therapy for 3 years. The dose of the drug is 180 mcg/week.", 
+                        "title": "Peginterferon Alpha-2a"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "3", 
+                                            "@subjects_at_risk": "12"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "12"
+                                        }, 
+                                        "description": "subarachnoid hemorrhage from an arteriovenous malformation", 
+                                        "sub_title": "subarachnoid hemorrhage"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "12"
+                                        }, 
+                                        "sub_title": "autoinflammatory syndrome"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@events": "1", 
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "12"
+                                        }, 
+                                        "sub_title": "soft tissue infection"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "frequency_threshold": "5"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "12"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            "description": "hepatocellular carcinoma", 
+                                            "sub_title": "Death"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            "description": "hepatic decompensation secondary to herpes colitis", 
+                                            "sub_title": "Death"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "October 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Hepatitis D", 
+        "condition_browse": {
+            "mesh_term": [
+                "Hepatitis D", 
+                "Hepatitis", 
+                "Hepatitis A", 
+                "Hepatitis, Chronic", 
+                "Hepatitis D, Chronic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "We propose to treat between 10 and 20 patients with chronic delta hepatitis with pegylated\n      alpha interferon for up to five years.  Patients with chronic delta hepatitis with raised\n      serum aminotransferases, HBsAg and HDV RNA in serum, and moderate-to-severe chronic\n      hepatitis on liver biopsy with HDV antigen will be enrolled.  Patients will be monitored for\n      at least three months with regular testing for ALT levels and will undergo admission for a\n      thorough medical evaluation, portal pressure measurement and percutaneous liver biopsy\n      before treatment.  Pegylated interferon will then be started in a dose of 180 mcg weekly.\n      At each clinic visit, patients will be questioned about side effects and symptoms and have\n      blood taken for complete blood counts and routine liver tests (ALT, AST, alkaline\n      phosphatase, direct and total bilirubin, and albumin).  At 12-24 week intervals patients\n      will undergo a physical examination and be tested for HBsAg, anti-HBs, HDV RNA, and\n      prothrombin time.  The dose of pegylated interferon will be adjusted based upon side effects\n      and changes in ALT levels, aiming for optimal suppression of ALT elevations with acceptable\n      tolerance.  At 48 weeks (one year) and every 96 weeks (two years) thereafter,  patients will\n      be readmitted to the NIH Clinical Center for repeat thorough medical evaluation, portal\n      pressure measurement and liver biopsy.  The primary endpoint of therapy will be improvements\n      in hepatic histology on liver biopsy done after 3 years of pegylated alpha interferon\n      therapy.  Several secondary endpoints will be measured, including changes in HDV RNA, loss\n      of HBsAg, HDV staining in the liver biopsy, ALT levels, changes in portal pressures, quality\n      of life, all at 1.3 and 5 years, and hepatic histology at 1 and 5 years.  Patients will be\n      maintained on pegylated interferon if it is adequately tolerated and there is an adequate\n      \"histological response,\" as defined by at least 3 point improvement in inflammatory score or\n      1 point improvement in fibrosis score of the HAI at each liver biopsy.  Therapy will be\n      stopped for: (1) intolerance to alpha interferon (which will be carefully defined), (2) lack\n      of improvement in hepatic histology after 1, 3, or 5 years of therapy (histological\n      nonresponse), or (3) a \"complete response,\" i.e. loss of HDV RNA and HBsAg and development\n      of anti-HBs."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        Age greater than or equal to 18 years, male or female\n\n        Serum alanine or aspartate aminotransferase activities that are above the upper limit of\n        normal (ALT greater than 41 or AST greater than 31 U/L) on an average of three\n        determinations taken during the previous 6 months.  The mean of the three determinations\n        will be defined as 'baseline' levels.\n\n        Presence of anti-HDV in serum.\n\n        Evidence of chronic hepatitis on liver biopsy done within the previous 12 months with a\n        necroinflammatory score in histology activity index of at least 5 (out of a maximum of 18)\n        and at least 1 for hepatic fibrosis (out of a maximum of 6).\n\n        Presence of HDV antigen in liver tissue.\n\n        Written informed consent.\n\n        Previous standard alpha interferon or other antiviral activity will not exclude patients.\n\n        Active HBV replication will not exclude patients.\n\n        All ethnicities.\n\n        Patients will need to meet the first six entry criteria to enroll.\n\n        EXCLUSION CRITERIA:\n\n        Decompensated liver disease, as marked by bilirubin greater than 4 mg%, albumin less than\n        3.0 gm%, prothrombin time greater than 2 sec prolonged, or history of bleeding esophageal\n        varices, ascites or hepatic encephalopathy.  Patients with ALT levels greater than 1000\n        U/L (greater than 25 times ULN) will not be enrolled but may be followed until three\n        determinations are below this level.\n\n        Pregnancy or, in women of child-bearing potential or in spouses of such women, inability\n        to practice adequate contraception defined as vasectomy in men, tubal ligation in women,\n        or use of condoms and spermicide, or birth control pills, or an intrauterine device, or\n        Depo-Provera, or Norplant.\n\n        Significant systemic or major illnesses other than liver disease, including, but not\n        limited to, congestive heart failure, renal failure (creatinine clearance less than 50\n        ml/min), organ transplantation, serious psychiatric disease or depression (only if felt to\n        be at high risk by the NIH psychiatric consultation service), and angina pectoris.\n\n        Immunosuppressive therapy within the last 6 months.\n\n        Evidence of another form of liver disease in addition to viral hepatitis (for example\n        autoimmune liver disease, Wilson's disease, alcoholic liver disease, hemochromatosis, and\n        alpha-1-antitrypsin deficiency).\n\n        Any evidence of coronary artery disease or cerebral vascular disease, including\n        abnormalities on exercise stress testing in patients with defined risk factors who will be\n        screened for evidence of underlying coronary artery disease.\n\n        Active substance abuse, such as alcohol, inhaled or injection drugs within the previous\n        year.\n\n        Evidence of hepatocellular carcinoma; either alphafetoprotein (AFP) levels greater than\n        200 ng/ml (normal less than 9 ng/ml) and/or ultrasound (or other imaging study)\n        demonstrating a mass suggestive of liver cancer."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "13", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 3, 2001", 
+        "firstreceived_results_date": "April 15, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00023322", 
+            "org_study_id": "010247", 
+            "secondary_id": "01-DK-0247"
+        }, 
+        "intervention": {
+            "arm_group_label": "Peginterferon Alpha-2a", 
+            "description": "Treatment", 
+            "intervention_name": "Peginterferon Alpha-2a", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Interferon-alpha", 
+                "Interferons", 
+                "Peginterferon alfa-2a"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Cirrhosis", 
+            "Chronic Hepatitis", 
+            "Alpha Interferon", 
+            "Hepatitis D Virus", 
+            "Delta Hepatitis", 
+            "Viral Hepatitis", 
+            "Antiviral Agents", 
+            "Hepatitis D", 
+            "HDV", 
+            "Liver", 
+            "Hepatitis"
+        ], 
+        "lastchanged_date": "July 9, 2013", 
+        "link": {
+            "description": "NIH Clinical Center Detailed Web Page", 
+            "url": "http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2001-DK-0247.html"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bethesda", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "20892"
+                }, 
+                "name": "National Institutes of Health Clinical Center, 9000 Rockville Pike"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Treatment of Chronic Delta Hepatitis With Pegylated Interferon", 
+        "overall_official": {
+            "affiliation": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+            "last_name": "Theo Heller, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Histological response is defined as at least 3 point improvement in inflammatory score or 1 point improvement in fibrosis score of the HAI at each liver biopsy.", 
+            "measure": "Histological Response at 3 Years", 
+            "safety_issue": "No", 
+            "time_frame": "3 years"
+        }, 
+        "reference": [
+            {
+                "PMID": "1650690", 
+                "citation": "Verme G, Brunetto MR, Oliveri F, Baldi M, Forzani B, Piantino P, Ponzetto A, Bonino F. Role of hepatitis delta virus infection in hepatocellular carcinoma. Dig Dis Sci. 1991 Aug;36(8):1134-6."
+            }, 
+            {
+                "PMID": "2183511", 
+                "citation": "Rizzetto M, Ponzetto A, Forzani I. Hepatitis delta virus as a global health problem. Vaccine. 1990 Mar;8 Suppl:S10-4; discussion S21-3. Review."
+            }, 
+            {
+                "PMID": "6340574", 
+                "citation": "Rizzetto M, Verme G, Recchia S, Bonino F, Farci P, Arico S, Calzia R, Picciotto A, Colombo M, Popper H. Chronic hepatitis in carriers of hepatitis B surface antigen, with intrahepatic expression of the delta antigen. An active and progressive disease unresponsive to immunosuppressive treatment. Ann Intern Med. 1983 Apr;98(4):437-41."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00023322"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Histological response is defined as at least 3 point improvement in inflammatory score or 1 point improvement in fibrosis score of the HAI at each liver biopsy.", 
+            "measure": "Histological Response at 5 Years", 
+            "safety_issue": "No", 
+            "time_frame": "5 years"
+        }, 
+        "source": "National Institutes of Health Clinical Center (CC)", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                "agency_class": "NIH"
+            }
+        }, 
+        "start_date": "August 2001", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }, 
+    "geocoordinates": {
+        "National Institutes of Health Clinical Center, 9000 Rockville Pike": "38.985 -77.095"
+    }
+}

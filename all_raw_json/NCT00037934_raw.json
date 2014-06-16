@@ -1,0 +1,137 @@
+{
+    "clinical_study": {
+        "@rank": "57286", 
+        "arm_group": [
+            {
+                "arm_group_label": "1", 
+                "arm_group_type": "Experimental", 
+                "description": "Robot exercise group"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Traditional exercise group"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "We have established the feasibility and effectiveness of robot-aided rehabilitation in\n      stroke patients using a robot for neurological rehabilitation designed and built by MIT.\n      Results of a pilot study of 20 patients were promising and showed that robot therapy is\n      safe, tolerated by patients and produces a significant, measurable benefit.  We propose to\n      test that the robotic upper extremity trainer is an acceptable cost effective adjunct to\n      standard occupational therapy for patients with dysfunction of the shoulder and elbow due to\n      hemiparetic stroke in a VA rehabilitation program."
+        }, 
+        "brief_title": "Robotic Upper-Limb Neurorehabilitation in Chronic Stroke Patient", 
+        "completion_date": {
+            "#text": "December 2004", 
+            "@type": "Actual"
+        }, 
+        "condition": "Stroke", 
+        "condition_browse": {
+            "mesh_term": [
+                "Stroke", 
+                "Cerebral Infarction"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Chronic Stroke\n\n          -  Manual Muscle Score of Grade 3 or lower in at least one muscle of the affected arm\n\n        Exclusion Criteria:\n\n          -  Acute Stroke\n\n          -  Contracture or orthopedic problems limiting the movement of the affected arm\n\n          -  Visual deficit such that the participant cannot see the test pattern on the robot\n             trainer\n\n          -  Serious complicating medical illness\n\n          -  Botox treatment to the involved arm within three months of enrollment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 24, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00037934", 
+            "org_study_id": "B2436"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "1", 
+                    "2"
+                ], 
+                "description": "Robotic upper extremity neuro-rehabilitation", 
+                "intervention_name": "Upper extremity robot", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "2", 
+                "description": "Arm ergometer, reaching, and stretching exercises", 
+                "intervention_name": "Traditional Supervised Upper Extremity Exercises", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Robot", 
+            "Stroke", 
+            "Upper Extremity"
+        ], 
+        "lastchanged_date": "October 6, 2011", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Baltimore", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "21201"
+                }, 
+                "name": "VA Maryland Health Care System, Baltimore"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Evaluation of Robotic Upper Extremity Neuro-Rehabilitation", 
+        "overall_official": {
+            "affiliation": "VA Maryland Health Care System, Baltimore", 
+            "last_name": "Christopher Bever, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "September 2004", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Upper limb Motor Status Score, Wolf Motor Function Test, Motor Power Assessment, and Fugl-Meyer Upper Extremity Motor Performance Test", 
+            "safety_issue": "No", 
+            "time_frame": "The Primary Outcome measures were performed at baseline, after completion of 18 sessions of intervention and at 3 months follow-up."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00037934"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Department of Veterans Affairs", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Massachusetts Institute of Technology", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Department of Veterans Affairs", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "April 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2011"
+    }, 
+    "geocoordinates": {
+        "VA Maryland Health Care System, Baltimore": "39.29 -76.612"
+    }
+}

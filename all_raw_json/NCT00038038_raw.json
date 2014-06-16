@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "64049", 
+        "arm_group": {
+            "arm_group_label": "PET + 18F-fluoromisonidazole", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this clinical research study is to answer the following questions using\n      18F-fluoromisonidazole as an imaging agent:\n\n        1. Do cells exist in human tumors that are at very low oxygen levels (hypoxic cells)?\n\n        2. If hypoxic cells exist in human tumors, do they effect the ability of radiotherapy to\n           control human tumors?\n\n        3. Can Positron Emission Tomography (PET scanning) detect hypoxic cells in human tumors?"
+        }, 
+        "brief_title": "Assessment of Head and Neck Tumor Hypoxia Using 18F-Fluoromisonidazole", 
+        "completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Squamous Cell Carcinoma", 
+            "Head and Neck Neoplasms", 
+            "Metastases, Neoplasm"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Neoplasms", 
+                "Carcinoma", 
+                "Carcinoma, Squamous Cell", 
+                "Head and Neck Neoplasms", 
+                "Neoplasm Metastasis", 
+                "Anoxia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Hypoxic (low oxygen) cells have long been known to exist in animal tumors.  It is also known\n      that hypoxic cells are more difficult to eliminate with radiotherapy than tumor cells at\n      normal levels of oxygen (normoxic cells).  However, the extent to which hypoxic cells limit\n      the curability of human tumors is uncertain.  To determine if hypoxic cells exist in human\n      tumors and how hypoxic cells might influence the efficacy of radiotherapy, this study\n      involves direct measurements of oxygen levels in human tumors compared to the tumor uptake\n      of the experimental drug, 18F-fluoromisonidazole (18F-FMISO), visualized with PET scanning.\n      18F-fluoromisonidazole has been used with PET imaging to tell the difference between growing\n      tumors which have high and low oxygen content.\n\n      Before beginning radiotherapy, a PET scan (series of pictures, 20 min. scan) will be\n      performed at 2 hours after an intravenous injection of a small amount of radioactive traces\n      drug, 18F-fluoromisonidazole (18F-FMISO) to observe the active hypoxia tumors areas.  Upon\n      completion of the 18F-FMISO PET scan, direct oxygen measurements will be obtained by placing\n      a small needle into the tumor under computer tomographic (CT) guidance.  The PET scan and\n      needle measurements will be repeated every 4 weeks into the course of radiotherapy and again\n      after the completion of radiotherapy.  The measurement obtained by 18F-FMISO PET scanning\n      (non-invasive technique) and by direct needle measurements (invasive technique) will be\n      correlated with the eventual treatment outcome for future use."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically proven squamous cell carcinoma of head and neck wth metastatic neck\n             nodes greater than or equal to 2cm\n\n          -  Karnofsky performance status greater or equal to 60%\n\n        Exclusion Criteria:\n\n          -  No prior irradiation or surgery to head/neck area\n\n          -  No prior chemotherapy within 1 month of participation and have recovered from\n             associated related effects\n\n          -  Not pregnant\n\n          -  Any intercurrent medical or physiologic disorder which would prevent informed consent\n\n          -  Underlying medical problems which would compromise technical ability to deliver a\n             \"standard course\" of radiation therapy\n\n          -  Patients with PT or PTT over 1.5 times normal"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "0", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 24, 2002", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT00038038", 
+            "org_study_id": "ID93-028"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "PET + 18F-fluoromisonidazole", 
+                "description": "Small amount of radioactive traces drug given by intravenous injection prior to PET Scan", 
+                "intervention_name": "18F-fluoromisonidazole", 
+                "intervention_type": "Drug", 
+                "other_name": "18F-FMISO"
+            }, 
+            {
+                "arm_group_label": "PET + 18F-fluoromisonidazole", 
+                "description": "Series of pictures using 20 minute scan performed 2 hours after an 18F-fluoromisonidazole injection", 
+                "intervention_name": "PET scan", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Fluoromisonidazole"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "Squamous cell carcinoma of head and neck", 
+        "lastchanged_date": "July 31, 2012", 
+        "link": {
+            "description": "UT MD Anderson Cancer Center website", 
+            "url": "http://www.mdanderson.org"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Houston", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "77030"
+                }, 
+                "name": "University of Texas M. D. Anderson Cancer Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Assessment of Head and Neck Tumor Hypoxia Using 18F-Fluoromisonidazole", 
+        "overall_official": {
+            "affiliation": "UT MD Anderson Cancer Center", 
+            "last_name": "Donald A Podoloff, M.D.", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Withdrawn", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2003", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Direct Oxygen Measurements", 
+            "safety_issue": "No", 
+            "time_frame": "PET scan and needle measurements will be repeated every 4 weeks into the course of radiotherapy and again after the completion of radiotherapy."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT00038038"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "M.D. Anderson Cancer Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "M.D. Anderson Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1994", 
+        "study_design": "Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2012", 
+        "why_stopped": "No participants enrolled, study terminated."
+    }, 
+    "geocoordinates": {
+        "University of Texas M. D. Anderson Cancer Center": "29.76 -95.369"
+    }
+}
