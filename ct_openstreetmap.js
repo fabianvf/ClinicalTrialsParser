@@ -18,8 +18,8 @@ function ctMap(){
     this.map = L.map('map',{
         worldCopyJump:true
     }).setView(L.latLng(38.0299,-78.4790), 8);
-    
-    this.tileLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+
+    this.tileLayer = L.tileLayer('http://otile1.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
     });
     this.tileLayer.addTo(this.map);
@@ -71,4 +71,7 @@ x.updateMap(jsonOSF);
 
 
 
-
+//The tile layer below is for the OSM tile layer. Swap it out with this.tileLayer in ctMap() to switch to using the OSM tile layer.
+//    this.tileLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+//        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+//    });
