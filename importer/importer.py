@@ -2,8 +2,6 @@ import json
 import hmac
 import hashlib
 import requests
-from collections import OrderedDict
-
 
 API_URL='http://localhost:5000/api/v1/'
 API_KEY='secret'
@@ -47,19 +45,12 @@ for id in fCt:
 
     #print response[projectTitle]['components']['Introduction']['id']
 
-<<<<<<< HEAD
-    project = json.loads(raw)
-    #for project in projects:
-    if project.get('files'):
-        for f in project['files']: # TODO better file uploading
-=======
     fileName = []
     project = json.loads(raw)
     #for project in projects:
     if project.get('files'):
         fileName.append(project['files'])
         for f in fileName: # TODO better file uploading
->>>>>>> a78758cf97002a4a2277f812dd682cce64bb8e1c
             files = {'file': (f, open(f, 'rb'))}
             signature = get_file_signature(f)
             headers = {'Authorization': 'OSF {0}'.format(signature)}

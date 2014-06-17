@@ -1,6 +1,4 @@
 import requests
-import json
-from bs4 import BeautifulSoup
 
 class CT_App(object):
 	def __init__(self,id):
