@@ -1,44 +1,45 @@
 {
-    "components": [
-        {
-            "description": null, 
-            "title": "MetaData"
-        }
-    ], 
     "contributors": [], 
     "current_status": "Completed", 
     "date_processed": "June 09, 2014", 
     "description": "\n      To determine whether postoperative subconjunctival injections of 5-fluorouracil (5-FU)\n      increase the success rate of filtering surgery in patients at high risk for failure after\n      standard glaucoma filtering surgery.\n    ", 
     "files": [
         "../ct_xml/NCT00000122.xml", 
-        "../ct_raw_json/NCT00000122_raw.json"
+        "../ct_raw_json/NCT00000122_raw.json", 
+        "../ct_archive/ct_changes/NCT00000122/2005_06_30.html", 
+        "../ct_archive/ct_changes/NCT00000122/2005_12_08.html", 
+        "../ct_archive/ct_changes/NCT00000122/2014_03_14.html", 
+        "../ct_archive/ct_changes/NCT00000122/2009_09_16.html", 
+        "../ct_archive/ct_changes/NCT00000122/2006_06_01.html", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2005_06_30-before.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2014_03_14-before.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2005_12_08-before.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2005_06_30-after.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2009_09_16-after.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2009_09_16-before.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2005_12_08-after.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2006_06_01-after.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2006_06_01-before.xml", 
+        "../ct_archive/ct_changes_xml/NCT00000122/2014_03_14-after.xml"
     ], 
-    "geo_data": [], 
-    "id": "NCT00000122", 
     "imported_from": "clinicaltrials.gov", 
-    "phase": "Phase 3", 
-    "references": [
-        {
-            "PMID": "2688428", 
-            "citation": "Fluorouracil Filtering Surgery Study one-year follow-up. The Fluorouracil Filtering Surgery Study Group. Am J Ophthalmol. 1989 Dec 15;108(6):625-35."
-        }, 
-        {
-            "PMID": "1575223", 
-            "citation": "Risk factors for suprachoroidal hemorrhage after filtering surgery. The Fluorouracil Filtering Surgery Study Group. Am J Ophthalmol. 1992 May 15;113(5):501-7."
-        }, 
-        {
-            "PMID": "8420383", 
-            "citation": "Three-year follow-up of the Fluorouracil Filtering Surgery Study. Am J Ophthalmol. 1993 Jan;115(1):82-92."
-        }, 
-        {
-            "PMID": "8604728", 
-            "citation": "Five-year follow-up of the Fluorouracil Filtering Surgery Study. The Fluorouracil Filtering Surgery Study Group. Am J Ophthalmol. 1996 Apr;121(4):349-66."
-        }
-    ], 
+    "raw": "{\n    \"clinical_study\": {\n        \"@rank\": \"1\", \n        \"brief_summary\": {\n            \"textblock\": \"To determine whether postoperative subconjunctival injections of 5-fluorouracil (5-FU)\\n      increase the success rate of filtering surgery in patients at high risk for failure after\\n      standard glaucoma filtering surgery.\"\n        }, \n        \"brief_title\": \"Fluorouracil Filtering Surgery Study (FFSS)\", \n        \"completion_date\": {\n            \"#text\": \"June 1988\", \n            \"@type\": \"Actual\"\n        }, \n        \"condition\": \"Glaucoma\", \n        \"condition_browse\": {\n            \"mesh_term\": \"Glaucoma\"\n        }, \n        \"detailed_description\": {\n            \"textblock\": \"Filtering surgery adequately lowers intraocular pressure in most glaucoma patients.\\n      However, the prognosis is less favorable for aphakic patients with glaucoma or glaucoma in\\n      phakic eyes following unsuccessful filtering operations.  Failure of filtering surgery is\\n      usually attributed to the proliferation of fibroblasts at the filtering site. The use of\\n      5-FU, an antimetabolite, has been shown to inhibit the proliferation of fibroblasts in\\n      tissue culture, and in preliminary studies it has increased the success of filtering surgery\\n      in a nonhuman primate model.\\n\\n      The Fluorouracil Filtering Surgery Study (FFSS) was a randomized, controlled clinical trial\\n      comparing the success rate of standard glaucoma filtering surgery to the success rate of\\n      standard surgery with adjunctive 5-FU treatment.\\n\\n      Another element of this study was to evaluate the frequency and severity of possible adverse\\n      effects related to 5-FU injections.  Detailed preoperative and postoperative examinations of\\n      the cornea, lens, and retina were performed.  Systemic toxicity was assessed by preoperative\\n      and postoperative hematologic studies.\\n\\n      After the investigators performed the filtering surgery and determined that the new outlet\\n      channel was working, patients were randomized to receive either 5-FU injections or standard\\n      postsurgical care without 5-FU. The patients treated with 5-FU received subconjunctival\\n      injections of 5 mg of 5-FU twice daily on postoperative days 1 through 7 and once daily on\\n      postoperative days 8 through 14.  There were 213 patients recruited into the study, 162 with\\n      previous cataract extraction and 51 with previous filtering surgery.\\n\\n      All patients were examined at 1 month, 3 months, 6 months, 1 year, 18 months, and 2 years\\n      postoperatively and at yearly intervals thereafter until 5 years postoperatively.  Possible\\n      concomitant risks of 5-FU treatment, such as toxic effects to the cornea, lens, or retina,\\n      were monitored.\"\n        }, \n        \"eligibility\": {\n            \"criteria\": {\n                \"textblock\": \"Men and women with uncontrolled intraocular pressure greater than 21 mm Hg in one or both\\n        eyes despite maximal tolerated therapy and who were aphakic or had undergone previous\\n        filtering surgery were eligible to participate.\"\n            }, \n            \"gender\": \"Both\", \n            \"healthy_volunteers\": \"No\", \n            \"maximum_age\": \"N/A\", \n            \"minimum_age\": \"N/A\"\n        }, \n        \"firstreceived_date\": \"September 23, 1999\", \n        \"has_expanded_access\": \"No\", \n        \"id_info\": {\n            \"nct_id\": \"NCT00000122\", \n            \"org_study_id\": \"NEI-21\"\n        }, \n        \"intervention\": {\n            \"intervention_name\": \"5-Fluorouracil\", \n            \"intervention_type\": \"Drug\"\n        }, \n        \"intervention_browse\": {\n            \"mesh_term\": \"Fluorouracil\"\n        }, \n        \"lastchanged_date\": \"September 16, 2009\", \n        \"link\": {\n            \"description\": \"NEI Press Release-Fluorouracil Improves Glaucoma Surgery Outcome\", \n            \"url\": \"http://www.nei.nih.gov/news/pressreleases/ffsspressrelease.asp\"\n        }, \n        \"overall_status\": \"Completed\", \n        \"oversight_info\": {\n            \"authority\": \"United States: Federal Government\"\n        }, \n        \"phase\": \"Phase 3\", \n        \"reference\": [\n            {\n                \"PMID\": \"2688428\", \n                \"citation\": \"Fluorouracil Filtering Surgery Study one-year follow-up. The Fluorouracil Filtering Surgery Study Group. Am J Ophthalmol. 1989 Dec 15;108(6):625-35.\"\n            }, \n            {\n                \"PMID\": \"1575223\", \n                \"citation\": \"Risk factors for suprachoroidal hemorrhage after filtering surgery. The Fluorouracil Filtering Surgery Study Group. Am J Ophthalmol. 1992 May 15;113(5):501-7.\"\n            }, \n            {\n                \"PMID\": \"8420383\", \n                \"citation\": \"Three-year follow-up of the Fluorouracil Filtering Surgery Study. Am J Ophthalmol. 1993 Jan;115(1):82-92.\"\n            }, \n            {\n                \"PMID\": \"8604728\", \n                \"citation\": \"Five-year follow-up of the Fluorouracil Filtering Surgery Study. The Fluorouracil Filtering Surgery Study Group. Am J Ophthalmol. 1996 Apr;121(4):349-66.\"\n            }\n        ], \n        \"required_header\": {\n            \"download_date\": \"ClinicalTrials.gov processed this data on June 09, 2014\", \n            \"link_text\": \"Link to the current ClinicalTrials.gov record.\", \n            \"url\": \"http://clinicaltrials.gov/show/NCT00000122\"\n        }, \n        \"source\": \"National Eye Institute (NEI)\", \n        \"sponsors\": {\n            \"lead_sponsor\": {\n                \"agency\": \"National Eye Institute (NEI)\", \n                \"agency_class\": \"NIH\"\n            }\n        }, \n        \"start_date\": \"September 1985\", \n        \"study_design\": \"Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment\", \n        \"study_type\": \"Interventional\", \n        \"verification_date\": \"September 2009\"\n    }\n}", 
     "tags": [
         "clinicaltrials.gov", 
         "clinical trial"
     ], 
     "title": "Fluorouracil Filtering Surgery Study (FFSS)", 
-    "url": "http://clinicaltrials.gov/show/NCT00000122"
+    "url": "http://clinicaltrials.gov/show/NCT00000122", 
+    "versions": [
+        "../ct_archive/ct_changes_json/NCT00000122/2009_09_16-after.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2009_09_16-before.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2005_12_08-after.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2014_03_14-after.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2006_06_01-before.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2005_12_08-before.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2005_06_30-before.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2014_03_14-before.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2006_06_01-after.json", 
+        "../ct_archive/ct_changes_json/NCT00000122/2005_06_30-after.json"
+    ]
 }

@@ -1,4 +1,5 @@
 import json
+from glob import glob
 from lxml import etree
 
 from xml_to_json import xml_to_json
