@@ -1,5 +1,4 @@
-var jsonOSF = JSON.parse('{"geo_data":[{"city": "Charlottesville", "country": "United States", "name": "Center for Research in Reproduction, University of Virginia", "state": "Virginia", "zip": "22908","latitude": 40.029306,"longitude": -80.4766781},{"city": "Ljubljana","country": "Slovenia","name": "UMC Ljubljana, Department of Infectious Diseases","zip":"1525","state": null,"latitude": 46.049865,"longitude": 14.5068921},{"city": "Baltimore","country": "United States","name": "Johns Hopkins University (BPRU) Bayview Campus","zip": "21224 6823","state": "Maryland","latitude": 39.2908608,"longitude": -76.6108073},{"city": "New Haven","country": "United States","name": "VA Connecticut Healthcare System","zip": "06519","state": "Connecticut","latitude": 41.3082138,"longitude": -72.9250518}]}');
-
+var jsonOSF = JSON.parse('{"geo_data":[{"city": "Charlottesville", "country": "United States", "name": "Center for Research in Reproduction, University of Virginia", "state": "Virginia", "zip": "22908","latitude": 38.029306, "longitude": -78.4766781},{"city": "Ljubljana","country": "Slovenia","name": "UMC Ljubljana, Department of Infectious Diseases","zip":"1525","state": null,"latitude": 46.049865,"longitude": 14.5068921},{"city": "Baltimore","country": "United States","name": "Johns Hopkins University (BPRU) Bayview Campus","zip": "21224 6823","state": "Maryland","latitude": 39.2908608,"longitude": -76.6108073},{"city": "New Haven","country": "United States","name": "VA Connecticut Healthcare System","zip": "06519","state": "Connecticut","latitude": 41.3082138,"longitude": -72.9250518}]}');
 
 function ctLocation(locationJson){
     this.json = locationJson;
@@ -14,30 +13,64 @@ function ctLocation(locationJson){
     this.marker.bindPopup(this.popup);
 };
 
-var coordinateList = new Array();
-for (var x in jsonOSF["geo_data"]){
-    coordinateList.push(L.latLng(jsonOSF["geo_data"][x]["latitude"],jsonOSF["geo_data"][x]["longitude"]));
-};
+function ctMap(){
+    this.map = L.map('map',{
+        worldCopyJump:true
+    }).setView(L.latLng(38.0299,-78.4790), 8);
 
+    this.tileLayer = L.tileLayer('http://otile1.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+    });
+    this.tileLayer.addTo(this.map);
+    this.ctLocationList = null;
 
-var map = L.map('map',{
-    worldCopyJump:true
-}).setView(coordinateList[0], 8);
+    var generateLocationList = function(jsonOSF){
+        var ctLocationList = new Array();
+        for (var x in jsonOSF["geo_data"]){
+            ctLocationList.push(new ctLocation(jsonOSF["geo_data"][x]));
+        };
+        return ctLocationList;
+    };
 
-map.fitBounds(coordinateList);
+    var zoomFitPoints = function(ctLocationList, map){
+        var coordinateList = new Array();
+        for (var x in ctLocationList){
+            coordinateList.push(ctLocationList[x].coordinates);
+        };
+        map.fitBounds(coordinateList);
+    };
+    
+    var addMarkers = function(ctLocationList, map){
+        for (var x in ctLocationList){
+            ctLocationList[x].marker.addTo(map);
+        };
+    };
 
+    var removeMarkers = function(ctLocationList, map){
+        for (var x in ctLocationList){
+           map.removeLayer(ctLocationList[x].marker);
+        };
+    };
 
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-}).addTo(map);
-
-
-for (var y in coordinateList){
-    studyLocation = L.marker(coordinateList[y]).addTo(map);
-    if (jsonOSF["geo_data"][y]["state"] !== null){
-        studyLocation.bindPopup("<b>"+ jsonOSF["geo_data"][y]["name"] +"</b><br>"+jsonOSF["geo_data"][y]["city"]+", "+jsonOSF["geo_data"][y]["state"]+"<br>"+jsonOSF["geo_data"][y]["country"]);
-    } 
-    else {
-        studyLocation.bindPopup("<b>"+ jsonOSF["geo_data"][y]["name"] +"</b><br>"+jsonOSF["geo_data"][y]["city"]+"<br>"+jsonOSF["geo_data"][y]["country"]);
+    this.updateMap = function(jsonOSF){
+        if (this.ctLocationList!==null){
+            removeMarkers(this.ctLocationList, this.map);
+        };
+        this.ctLocationList = generateLocationList(jsonOSF);
+        zoomFitPoints(this.ctLocationList, this.map);
+        addMarkers(this.ctLocationList, this.map);
     };
 };
+
+
+
+x = new ctMap();
+x.updateMap(jsonOSF);
+
+
+
+
+//The tile layer below is for the OSM tile layer. Swap it out with this.tileLayer in ctMap() to switch to using the OSM tile layer.
+//    this.tileLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+//        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+//    });
