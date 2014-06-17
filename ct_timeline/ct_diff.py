@@ -22,21 +22,21 @@ def ct_diff(soupA, soupB):
     dmp.diff_cleanupSemantic(diffs)
     htmlSnippet = dmp.diff_prettyHtml(diffs)
     htmlSnippet = htmlSnippet.replace("&para;", "")
-    htmlSnippet = htmlSnippet.replace("<br>", "")
+    #htmlSnippet = htmlSnippet.replace("<br>", "")
     #htmlSnippet = unicode(htmlSnippet, "UTF-8")
     #htmlSoup = BeautifulSoup(htmlSnippet)
     #finalHtml = htmlSoup.prettify(formatter="html")
     finalHtml = BeautifulSoup(htmlSnippet)
     finalHtmlUpdate = finalHtml.find_all("del")
 
-    for deletedText in finalHtmlUpdate:
-        if "&lt;td&gt;" in str(deletedText.get_text):
-            updatedDeletedText = str(deletedText).replace("&gt;",'&gt;<del style="background:#ffe6e6">')
-            updatedDeletedText = str(updatedDeletedText).replace("&lt;", '</del>&lt;')
-            finalHtml = str(finalHtml).replace(str(deletedText), str(updatedDeletedText))
+    #for deletedText in finalHtmlUpdate:
+    #    if "&lt;td&gt;" in str(deletedText.get_text):
+    #        updatedDeletedText = str(deletedText).replace("&gt;",'&gt;<del style="background:#ffe6e6">')
+    #        updatedDeletedText = str(updatedDeletedText).replace("&lt;", '</del>&lt;')
+    #        finalHtml = str(finalHtml).replace(str(deletedText), str(updatedDeletedText))
     #finalHtml = finalHtml.find(class_="info")
-    finalHtml = str(finalHtml).replace("&lt;", "<")
-    finalHtml = str(finalHtml).replace("&gt;", ">")
+    #finalHtml = str(finalHtml).replace("&lt;", "<")
+    #finalHtml = str(finalHtml).replace("&gt;", ">")
     return finalHtml
 
 def ct_diff_generator(key_list):
