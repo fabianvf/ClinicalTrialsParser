@@ -64,7 +64,18 @@
   1972-01
 </date>
 </start_date>
-
+<end_date>
+<date>
+</date>
+</end_date>
+<last_follow_up_date>
+<date>
+</date>
+</last_follow_up_date>
+<last_data_entry_date>
+<date>
+</date>
+</last_data_entry_date>
 <phase_block>
 <phase>
   Phase 3
@@ -79,10 +90,6 @@
 <design>
   Randomized
 </design>
-
-<enrollment>
-</enrollment>
-
 <condition>
   Diabetic Retinopathy
 </condition>
@@ -91,51 +98,27 @@
 </condition>
 <intervention>
 <intervent_type>
-
-Procedure/Surgery 
-
+  Procedure
 </intervent_type>
 <primary_name>
   Xenon Photocoagulation
 </primary_name>
-
-<description>
-<textblock>
-</textblock>
-</description>
-
 </intervention>
 <intervention>
 <intervent_type>
-
-Procedure/Surgery 
-
+  Procedure
 </intervent_type>
 <primary_name>
   Argon Photocoagulation
 </primary_name>
-
-<description>
-<textblock>
-</textblock>
-</description>
-
 </intervention>
 <intervention>
 <intervent_type>
-
-Procedure/Surgery 
-
+  Procedure
 </intervent_type>
 <primary_name>
   Photocoagulation
 </primary_name>
-
-<description>
-<textblock>
-</textblock>
-</description>
-
 </intervention>
 <eligibility>
 <criteria>
@@ -146,12 +129,16 @@ Procedure/Surgery
 <healthy_volunteers>
   No
 </healthy_volunteers>
-
+<patients>
+  Yes
+</patients>
+<expected_enrollment>
+</expected_enrollment>
 <gender>
   Both
 </gender>
 <minimum_age>
-
+  N/A
 </minimum_age>
 <maximum_age>
   70 Years
@@ -164,7 +151,7 @@ Procedure/Surgery
 </textblock>
 </annotation>
 <url>
-  http://www.nei.nih.gov/NEWS/clinicalalerts/alert-etdrs.asp
+  http://www.nei.nih.gov/NEWS/clinicalalerts/alert-etdrs.htm
 </url>
 </see_also>
 <see_also>
@@ -174,7 +161,7 @@ Procedure/Surgery
 </textblock>
 </annotation>
 <url>
-  http://www.nei.nih.gov/news/pressreleases/drspressrelease.asp
+  http://www.nei.nih.gov/news/pressreleases/drspressrelease.htm
 </url>
 </see_also>
 <background>
@@ -199,9 +186,7 @@ Procedure/Surgery
   The Diabetic Retinopathy Study Research Group; Four risk factors for severe visual loss in diabetic retinopathy: The third report from the Diabetic Retinopathy Study., Arch Ophthalmol 1979;97:654-655
 </citation>
 <medline_ui>
-
-426679 
-
+  79144261
 </medline_ui>
 </reference>
 <reference>
@@ -216,9 +201,7 @@ Procedure/Surgery
   The Diabetic Retinopathy Study Research Group; Photocoagulation treatment of proliferative diabetic retinopathy: Relationship of adverse treatment effects to retinopathy severity.  Diabetic Retinopathy Study (DRS) Report Number 5., Dev Ophthalmol 1981;2:248-261
 </citation>
 <medline_ui>
-
-7262408 
-
+  81261561
 </medline_ui>
 </reference>
 <reference>
@@ -226,9 +209,7 @@ Procedure/Surgery
   The Diabetic Retinopathy Study Research Group; Photocoagulation treatment of proliferative diabetic retinopathy: Clinical application of Diabetic Retinopathy Study (DRS) findings.  Diabetic Retinopathy Study (DRS) Report Number 8., Ophthalmol 1981;88:583-600
 </citation>
 <medline_ui>
-
-7196564 
-
+  81271665
 </medline_ui>
 </reference>
 <reference>
@@ -236,9 +217,7 @@ Procedure/Surgery
   Ederer F; Podgor MJ; The Diabetic Retinopathy Study Research Group; Assessing possible late treatment effects in stopping a clinical trial early: A case study.  Diabetic Retinopathy Study (DRS) Report Number 9., Controlled Clinical Trials 1984;5:373-381
 </citation>
 <medline_ui>
-
-6394209 
-
+  85100334
 </medline_ui>
 </reference>
 <reference>
@@ -246,9 +225,7 @@ Procedure/Surgery
   Rand LI; Prud&apos;homme GJ; Ederer F; Canner PL; The Diabetic Retinopathy Study Research Group; Factors influencing the development of visual loss in advanced diabetic retinopathy.  Diabetic Retinopathy Study (DRS) Report Number 10., Invest Ophthalmol Vis Sci 1985;26:983-991
 </citation>
 <medline_ui>
-
-2409053 
-
+  85233792
 </medline_ui>
 </reference>
 <reference>
@@ -256,9 +233,7 @@ Procedure/Surgery
   The Diabetic Retinopathy Study Research Group; Preliminary report on the effect of photocoagulation therapy., Am J Ophthalmol 1976;81:383-396
 </citation>
 <medline_ui>
-
-944535 
-
+  76181969
 </medline_ui>
 </reference>
 <reference>
@@ -266,9 +241,7 @@ Procedure/Surgery
   Ferris FL; Podgor MJ; Davis MD; The Diabetic Retinopathy Study Research Group; Macular edema in Diabetic Retinopathy Study Patients.  Diabetic Retinopathy Study (DRS) Report Number 12., Ophthalmol 1987;94:754-760
 </citation>
 <medline_ui>
-
-3658347 
-
+  88014959
 </medline_ui>
 </reference>
 <reference>
@@ -276,9 +249,7 @@ Procedure/Surgery
   Kaufman SC; Ferris FL; Swartz M; The Diabetic Retinopathy Study Research Group; Intraocular pressure following panretinal photocoagulation for diabetic retinopathy.  Diabetic Retinopathy Study (DRS) Report Number 11., Arch Ophthalmol 1987;97:807-809
 </citation>
 <medline_ui>
-
-3555429 
-
+  87212748
 </medline_ui>
 </reference>
 <reference>
@@ -286,9 +257,7 @@ Procedure/Surgery
   Kaufman SC; Ferris FL; Siegel DG; Davis MD; The Diabetic Retinopathy Study Research Group; Factors associated with visual outcome after photocoagulation for diabetic retinopathy.  Diabetic Retinopathy Study (DRS) Report Number 13., Invest Ophthalmol Vis Sci 1989;30:23-28
 </citation>
 <medline_ui>
-
-2912911 
-
+  89108733
 </medline_ui>
 </reference>
 <reference>
@@ -313,13 +282,6 @@ Procedure/Surgery
   1999-09-23
 </initial_release_date>
 <last_release_date>
-  2006-06-01
+  2005-06-23
 </last_release_date>
-
-<init_disposition_release_date>
-</init_disposition_release_date>
-<init_results_release_date>
-</init_results_release_date>
-
 </clinical_study>
-

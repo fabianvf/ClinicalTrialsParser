@@ -66,7 +66,18 @@
   1977-07
 </date>
 </start_date>
-
+<end_date>
+<date>
+</date>
+</end_date>
+<last_follow_up_date>
+<date>
+</date>
+</last_follow_up_date>
+<last_data_entry_date>
+<date>
+</date>
+</last_data_entry_date>
 <phase_block>
 <phase>
   Phase 3
@@ -81,10 +92,6 @@
 <design>
   Randomized
 </design>
-
-<enrollment>
-</enrollment>
-
 <condition>
   Macular Degeneration
 </condition>
@@ -96,51 +103,27 @@
 </condition>
 <intervention>
 <intervent_type>
-
-Procedure/Surgery 
-
+  Procedure
 </intervent_type>
 <primary_name>
   Macular Argon Laser Photocoagulation
 </primary_name>
-
-<description>
-<textblock>
-</textblock>
-</description>
-
 </intervention>
 <intervention>
 <intervent_type>
-
-Procedure/Surgery 
-
+  Procedure
 </intervent_type>
 <primary_name>
   Peripheral Scatter Argon Laser Photocoagulation
 </primary_name>
-
-<description>
-<textblock>
-</textblock>
-</description>
-
 </intervention>
 <intervention>
 <intervent_type>
-
-Procedure/Surgery 
-
+  Procedure
 </intervent_type>
 <primary_name>
   Scatter Argon Laser Photocoagulation
 </primary_name>
-
-<description>
-<textblock>
-</textblock>
-</description>
-
 </intervention>
 <eligibility>
 <criteria>
@@ -155,15 +138,19 @@ Procedure/Surgery
 <healthy_volunteers>
   No
 </healthy_volunteers>
-
+<patients>
+  Yes
+</patients>
+<expected_enrollment>
+</expected_enrollment>
 <gender>
   Both
 </gender>
 <minimum_age>
-
+  N/A
 </minimum_age>
 <maximum_age>
-
+  N/A
 </maximum_age>
 </eligibility>
 <background>
@@ -172,9 +159,7 @@ Procedure/Surgery
   Branch Vein Occlusion Study Group; Argon laser photocoagulation for macular edema in branch vein occlusion., Am J Ophthalmol 1984;98:271-282
 </citation>
 <medline_ui>
-
-6383055 
-
+  84304395
 </medline_ui>
 </reference>
 <reference>
@@ -182,9 +167,7 @@ Procedure/Surgery
   Branch Vein Occlusion Study Group; Argon laser scatter photocoagulation for prevention of neovascularization and vitreous hemorrhage in branch vein occlusion, Arch Ophthalmol 1986;104
 </citation>
 <medline_ui>
-
-2417579 
-
+  86102749
 </medline_ui>
 </reference>
 </background>
@@ -194,11 +177,4 @@ Procedure/Surgery
 <last_release_date>
   2005-06-23
 </last_release_date>
-
-<init_disposition_release_date>
-</init_disposition_release_date>
-<init_results_release_date>
-</init_results_release_date>
-
 </clinical_study>
-

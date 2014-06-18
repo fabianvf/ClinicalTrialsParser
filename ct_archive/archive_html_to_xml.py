@@ -1,71 +1,103 @@
-## parsing HTML files to pull out the xml data
+## archive xml to HTML ##
 
+# function that takes in an HTML page and returns a dictionary with
+# before xml, after xml, id name, and file_date
 
 from bs4 import BeautifulSoup
 import glob
+import re
 import os
 
-''' turns an HTML file from the study archive into XML '''
-def archive_html_to_xml(input_file, output_directory):
+''' takes an html file, outputs a dictionary '''
+def archive_to_xml(html_file):
 
-    xml_name = str(input_file).replace('.html','')
-    xml_name = xml_name.replace('./ct_changes/', '')
+    xml_name = str(html_file).replace('.html','').replace('./ct_changes/', '')
+    id_name = re.search('NCT[0-9]{8}', xml_name).group(0)
+    file_date = re.search('[0-9]{4}_[0-9]{2}_[0-9]{2}', xml_name).group(0).replace('_', '')
 
-    # testing on the first change file for NCT00000122
-    soup = BeautifulSoup(open(input_file)) 
+    # get the content of the html input file
+    soup = BeautifulSoup(open(html_file))
 
-    # this is a bs4 Tag object of just the sdiff-full stuff
+    # the id that contains all xml
     sdiff_full = soup.find(id="sdiff-full")
 
     # and these are the <tr> tags in that object with the xml we want
     sdiff_xml = sdiff_full.find_all("tr", {"class" : 
                                     ["sdiff-unc", "sdiff-add","sdiff-chg"]})
 
+    before_changed_date = sdiff_full.find("a").text.replace('(Updated ', '').replace(')', '').replace('_','')
+
     ### td class sdiff-a: all of the "before" xml ###
     all_before = []
     for result in sdiff_xml:
         all_before.append(result.find("td", {"class" : "sdiff-a"}))
 
-    before_file = open(output_directory + xml_name + '-before.xml', 'w')
-    for item in all_before:
-        before_file.write("%s\n" % item.text)
-
-    # td class sdiff-b: all of the "after" xml
+     # td class sdiff-b: all of the "after" xml
     all_after = []
     for result in sdiff_xml:
         all_after.append(result.find("td", {"class" : "sdiff-b"}))
 
-    after_file = open(output_directory + xml_name + '-after.xml', 'w')
-    for item in all_after:
-        after_file.write("%s\n" % item.text)
+    before_after_xml  = {}
+    before_after_xml['before_xml'] = all_before[0].text
+    before_after_xml['after_xml'] = all_after[0].text
+    before_after_xml['id_name'] = id_name
+    before_after_xml['file_date'] = file_date
+    before_after_xml['before_changed_date'] = before_changed_date
+
+    return before_after_xml
+
+def write_after_xml_file(output_directory, xml_dict):
+    file_name = xml_dict['id_name'] + '_' + xml_dict['file_date'] 
+
+    print "ID name is: " + xml_dict['id_name']
+    print "date is: " + xml_dict['file_date']
+    with open(output_directory + file_name + '.xml', 'w') as filepath:
+        filepath.write('{0}'.format(xml_dict['after_xml']))
+
+def write_before_xml_file(output_directory, xml_dict):
+    file_name = xml_dict['id_name'] + '_' + xml_dict['before_changed_date'] 
+
+    with open(output_directory + file_name + '.xml', 'w') as filepath:
+        filepath.write('{0}'.format(xml_dict['before_xml']))
+
+    file_name2 = xml_dict['id_name'] + '_' + xml_dict['file_date']
+
+    with open(output_directory + file_name2 + '.xml', 'w') as filepath:
+        filepath.write('{0}'.format(xml_dict['after_xml']))
 
 ''' returns a list of directories in the archive -> changes directory '''
-def get_directory_list():
-    archive_directory = './ct_changes/'
-    directory_names = os.walk(archive_directory).next()[1]
+def get_directory_list(html_location):
+    directory_names = os.walk(html_location).next()[1]
     return directory_names
 
 ''' saves XML files for each archive HTML change file '''
 def get_archive_xml():
-    archive_directories = get_directory_list()
+    archive_directories = get_directory_list('./ct_changes/')
     directory_of_html = './ct_changes/'
     directory_for_xml = './ct_changes_xml/'
 
-    # create new directory to store the arcive xml if it dosen't exist
-    # directory: 'NCT00000122'
     for directory in archive_directories:
+        print "directory: " + directory
         if not os.path.exists(directory_for_xml + '/' + directory):
             os.makedirs(directory_for_xml + directory)
 
         # get a list of all HTML files in each HTML study directory
         html_files = glob.glob(directory_of_html + directory + '/*.html')
-        
-        # iterate through filenames in html_files and write XML in right folder
-        for filename in html_files:
-            xml_filename = filename.replace('./ct_changes/' + directory + '/', '')
-            archive_html_to_xml(directory_of_html + directory + '/' +
-                                xml_filename , directory_for_xml)
 
+        before_dict = archive_to_xml(html_files[0])
+        write_before_xml_file(directory_for_xml + before_dict['id_name'] + '/', before_dict)
+
+        print len(html_files)
+        # run get archive xml on each html file
+        for html_file in html_files[1:]:
+            after_dict = archive_to_xml(html_file)
+            output_directory = directory_for_xml
+            # takes a 
+            write_after_xml_file(output_directory + 
+                        after_dict['id_name'] + '/', after_dict)
+
+# archive_to_xml('./ct_changes/NCT00000122/2005_06_30.html')
 get_archive_xml()
+
 
 
