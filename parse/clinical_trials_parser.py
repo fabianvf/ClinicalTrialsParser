@@ -76,6 +76,7 @@ def json_osf_format(nct_id):
         version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
         v, locations = xml_to_json(f)
         #v['geodata'] = l2c(locations)
+        # v['references'] = add_pubmed_to_refereces(v['references'])
         versions[version] = v
 
     json_osf = {
