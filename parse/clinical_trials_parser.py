@@ -5,6 +5,9 @@ import time
 
 from location_to_coordinates import LocationToCoord as l2c
 
+#TODO: Should we remove the phase and locations finding code from the parse function? That information should be version specific? I already
+#removed the phase and location entries from the json that's produced by the json_osf_format() function.
+
 def get_locations(root):
     locations = []
     for entry in root.findall('location'):
@@ -75,7 +78,7 @@ def json_osf_format(nct_id):
     for f in files:
         version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
         v, locations = xml_to_json(f)
-        #v['geodata'] = l2c(locations)
+        v['geo_data'] = l2c(locations)
         # v['references'] = add_pubmed_to_refereces(v['references'])
         versions[version] = v
 
@@ -91,8 +94,6 @@ def json_osf_format(nct_id):
             "clinical trial"
         ],
         "versions": versions,
-        "phase": trial['phase'],
-        "geo_data": trial['locations'],
         "keywords": trial['keywords']
     }
         
