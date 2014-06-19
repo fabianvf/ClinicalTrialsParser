@@ -4,8 +4,6 @@ from lxml import etree
 
 from xml_to_json import xml_to_json
 
-#TODO: Write test code.
-
 
 
 class ClinicalTrialData(object):
