@@ -30,16 +30,16 @@ def archive_to_xml(html_file):
     ### td class sdiff-a: all of the "before" xml ###
     all_before = []
     for result in sdiff_xml:
-        all_before.append(result.find("td", {"class" : "sdiff-a"}))
+        all_before.append(result.find("td", {"class" : "sdiff-a"}).text)
 
      # td class sdiff-b: all of the "after" xml
     all_after = []
     for result in sdiff_xml:
-        all_after.append(result.find("td", {"class" : "sdiff-b"}))
+        all_after.append(result.find("td", {"class" : "sdiff-b"}).text)
 
     before_after_xml  = {}
-    before_after_xml['before_xml'] = all_before[0].text
-    before_after_xml['after_xml'] = all_after[0].text
+    before_after_xml['before_xml'] = ''.join(all_before)
+    before_after_xml['after_xml'] = ''.join(all_after)
     before_after_xml['id_name'] = id_name
     before_after_xml['file_date'] = file_date
     before_after_xml['before_changed_date'] = before_changed_date
@@ -49,8 +49,6 @@ def archive_to_xml(html_file):
 def write_after_xml_file(output_directory, xml_dict):
     file_name = xml_dict['id_name'] + '_' + xml_dict['file_date'] 
 
-    print "ID name is: " + xml_dict['id_name']
-    print "date is: " + xml_dict['file_date']
     with open(output_directory + file_name + '.xml', 'w') as filepath:
         filepath.write('{0}'.format(xml_dict['after_xml']))
 
@@ -60,10 +58,10 @@ def write_before_xml_file(output_directory, xml_dict):
     with open(output_directory + file_name + '.xml', 'w') as filepath:
         filepath.write('{0}'.format(xml_dict['before_xml']))
 
-    file_name2 = xml_dict['id_name'] + '_' + xml_dict['file_date']
+    # file_name2 = xml_dict['id_name'] + '_' + xml_dict['file_date']
 
-    with open(output_directory + file_name2 + '.xml', 'w') as filepath:
-        filepath.write('{0}'.format(xml_dict['after_xml']))
+    # with open(output_directory + file_name2 + '.xml', 'w') as filepath:
+    #     filepath.write('{0}'.format(xml_dict['after_xml']))
 
 ''' returns a list of directories in the archive -> changes directory '''
 def get_directory_list(html_location):
@@ -77,7 +75,6 @@ def get_archive_xml():
     directory_for_xml = './ct_changes_xml/'
 
     for directory in archive_directories:
-        print "directory: " + directory
         if not os.path.exists(directory_for_xml + '/' + directory):
             os.makedirs(directory_for_xml + directory)
 
@@ -87,17 +84,21 @@ def get_archive_xml():
         before_dict = archive_to_xml(html_files[0])
         write_before_xml_file(directory_for_xml + before_dict['id_name'] + '/', before_dict)
 
-        print len(html_files)
         # run get archive xml on each html file
-        for html_file in html_files[1:]:
+        for html_file in html_files:
             after_dict = archive_to_xml(html_file)
             output_directory = directory_for_xml
             # takes a 
             write_after_xml_file(output_directory + 
                         after_dict['id_name'] + '/', after_dict)
 
+# archive_to_xml('ct_changes/NCT00077454/2005_09_09.html')
 # archive_to_xml('./ct_changes/NCT00000122/2005_06_30.html')
+
 get_archive_xml()
+
+
+
 
 
 
