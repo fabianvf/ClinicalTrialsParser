@@ -21,7 +21,6 @@ def get_locations(root):
             location_dict['state'] = entry.find('facility').find('address').find('state').text
         locations.append(location_dict)
     return locations
-
  
 def parse(file_name):
     trial = {}
@@ -61,22 +60,23 @@ def xml_to_json(xml_file):
     xml_string = etree.tostring(tree)
     blob = xmltodict.parse(xml_string)
     locations = get_locations(tree.getroot())
-    blob['geodata'] = l2c(locations)
-    return blob
+    return blob, locations
 
 def json_osf_format(nct_id):
     files = set([f.rstrip('-before').rstrip('-after') for f in glob('files/{0}/*.xml'.format(nct_id))])
-    files = sorted(files, key=lambda v: time.mktime(time.strptime(v.split('/')[-1].rstrip('.xml').rstrip('-before').rstrip('-after').split('_')[-1], '%m%d%Y')))
+    files = sorted(files, key=lambda v: time.mktime(time.strptime(v.split('/')[-1].rstrip('.xml').rstrip('-before').rstrip('-after').split('_')[-1], '%Y%m%d')))
 
     if len(files) == 0:
         return None
-    versions = {'original': xml_to_json(files[0])}
-    for f in files:
-        if 'after' in f:
-            version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
-            versions[version] = xml_to_json(f)
-            
+    
     trial = parse('xml/{0}.xml'.format(nct_id))
+
+    versions = {}
+    for f in files:
+        version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
+        v, locations = xml_to_json(f)
+        #v['geodata'] = l2c(locations)
+        versions[version] = v
 
     json_osf = {
         "imported_from": "clinicaltrials.gov",
@@ -94,5 +94,6 @@ def json_osf_format(nct_id):
         "geo_data": trial['locations'],
         "keywords": trial['keywords']
     }
+        
     return json_osf
 

@@ -37,12 +37,14 @@ for trial in trials:
     if not project:
         continue
     raw = json.dumps(project)
-        
+
+    print "Sending request"
     signature = get_project_signature(raw)
     headers = {'Content-type': 'application/json', 'Accept': 'text/plain', 'Authorization': 'OSF {0}'.format(signature)}
     r = requests.post(API_URL+'project/import/', data=raw, headers=headers)
-    
-    response = json.loads(r.text)    
+    print "Request recieved"
+    response = json.loads(r.text)
+    print response
     projectTitle = project['title']
 
     files = project.get('files')
