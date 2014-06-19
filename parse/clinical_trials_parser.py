@@ -2,6 +2,8 @@ from glob import glob
 from lxml import etree
 import xmltodict
 import time
+from bs4 import BeautifulSoup
+import requests
 
 from location_to_coordinates import LocationToCoord as l2c
 
@@ -62,6 +64,18 @@ def xml_to_json(xml_file):
     locations = get_locations(tree.getroot())
     return blob, locations
 
+def get_pubmed_info(pmid):
+    BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
+    pmid_info = {}
+
+    html = requests.get(BASE + pmid)
+    soup = BeautifulSoup(html.text)
+
+    abstract_div = soup.find("div", {"class": "rprt abstract"})
+
+    pmid_info['title'] = abstract_div.find("h1").text
+
+
 def add_pubmed_to_references(nct_json):
     references = []
     for key in nct_json:
@@ -71,9 +85,15 @@ def add_pubmed_to_references(nct_json):
                     reference = {}
                     reference['citation'] = element['citation']
                     reference['PMID'] = element['PMID']
+
                     references.append(reference)
 
+
     return references
+
+#     2688428
+# 1575223
+# 8420383
 
 
 def json_osf_format(nct_id):
