@@ -24,7 +24,7 @@ def save_key_zipfiles(id_file):
         key_xml = requests.get(url)
 
         # save that xml to a zip file
-        with open(key_id_folder + item + ".zip", "wb") as results:
+        with open(key_id_folder + url_id + ".zip", "wb") as results:
             results.write(key_xml.content)
 
         # wait 3 seconds between requests to be nice :)

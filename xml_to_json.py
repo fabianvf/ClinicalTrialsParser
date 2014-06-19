@@ -6,6 +6,7 @@ import xmltodict
 import glob
 from open_map_gps import get_coordinate
 from clinical_trials_parser import ClinicalTrialData
+
 def xml_to_json(xml_file, nct_id):
 
     tree = etree.parse(xml_file)
@@ -23,8 +24,8 @@ def xml_to_json(xml_file, nct_id):
 
 def key_files_to_json():
 
-    key_xml_folder = 'all_studies/'
-    key_json_folder = 'all_raw_json/'
+    key_xml_folder = 'ct_xml/'
+    key_json_folder = 'ct_raw_json/'
 
     xmlfiles = glob.glob(key_xml_folder + '*.xml')
 
