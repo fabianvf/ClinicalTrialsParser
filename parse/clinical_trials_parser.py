@@ -2,7 +2,7 @@ from glob import glob
 from lxml import etree
 import xmltodict
 import time
-
+from Bio import Entrez
 from bs4 import BeautifulSoup
 import requests
 
@@ -87,8 +87,7 @@ def scrape_pubmed_info(pmid):
 def get_pubmed_info(pmid):
     pmid_info = {}
     BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
-    handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline",
-        retmode="text")
+    handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline", retmode="text")
     records = Medline.parse(handle)
     for record in records:
         pmid_info['title'] = record.get("TI", "?")
@@ -100,15 +99,14 @@ def get_pubmed_info(pmid):
 
 def add_pubmed_to_references(nct_json):
     references = []
-    for key in nct_json:
-        for item in nct_json:
-            if nct_json[item]['reference']:
-                for element in nct_json[item]['reference']:
-                    reference = {}
-                    reference['citation'] = element['citation']
-                    reference['PMID'] = element['PMID']
-                    reference['info'] = get_pubmed_info(reference['PMID'])
-                    references.append(reference)
+    for item in nct_json['clinical_study']:
+        if item == 'reference':
+            for element in nct_json['clincial_study']['reference']:
+                reference = {}
+                reference['citation'] = element['citation']
+                reference['PMID'] = element['PMID']
+                reference['info'] = get_pubmed_info(reference['PMID'])
+                references.append(reference)
 
     return references
 
@@ -126,7 +124,8 @@ def json_osf_format(nct_id):
         version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
         v, locations = xml_to_json(f)
         v['geo_data'] = l2c(locations)
-        v['references'] = add_pubmed_to_refereces(v)
+        v['references'] = add_pubmed_to_references(v)
+        # print v
         versions[version] = v
 
     json_osf = {
@@ -143,6 +142,8 @@ def json_osf_format(nct_id):
         "versions": versions,
         "keywords": trial['keywords']
     }
-        
+    
     return json_osf
+
+print json_osf_format('NCT00000122')['versions']['20090916']['references']
 
