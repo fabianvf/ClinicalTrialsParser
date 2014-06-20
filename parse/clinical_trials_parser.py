@@ -2,6 +2,7 @@ from glob import glob
 from lxml import etree
 import xmltodict
 import time
+
 from bs4 import BeautifulSoup
 import requests
 
@@ -67,7 +68,7 @@ def xml_to_json(xml_file):
     locations = get_locations(tree.getroot())
     return blob, locations
 
-def get_pubmed_info(pmid):
+def scrape_pubmed_info(pmid):
     BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
     pmid_info = {}
 
@@ -77,7 +78,25 @@ def get_pubmed_info(pmid):
     abstract_div = soup.find("div", {"class": "rprt abstract"})
 
     pmid_info['title'] = abstract_div.find("h1").text
+    pmid_info['authors'] = abstract_div.find("div", {"class":"auths"}).text
+    pmid_info['abstract'] =  abstract_div.find("div", {"class":"abstr"}).text
+    pmid_info['link'] = BASE + pmid
 
+    return pmid_info
+
+def get_pubmed_info(pmid):
+    pmid_info = {}
+    BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
+    handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline",
+        retmode="text")
+    records = Medline.parse(handle)
+    for record in records:
+        pmid_info['title'] = record.get("TI", "?")
+        pmid_info['authors'] = record.get("AU", "?")
+        pmid_info['abstract'] =  record.get("AB", "?")
+        pmid_info['link'] = BASE + pmid
+
+    return pmid_info
 
 def add_pubmed_to_references(nct_json):
     references = []
@@ -88,16 +107,10 @@ def add_pubmed_to_references(nct_json):
                     reference = {}
                     reference['citation'] = element['citation']
                     reference['PMID'] = element['PMID']
-
+                    reference['info'] = get_pubmed_info(reference['PMID'])
                     references.append(reference)
 
-
     return references
-
-#     2688428
-# 1575223
-# 8420383
-
 
 def json_osf_format(nct_id):
     files = set([f.rstrip('-before').rstrip('-after') for f in glob('files/{0}/*.xml'.format(nct_id))])
@@ -113,7 +126,6 @@ def json_osf_format(nct_id):
         version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
         v, locations = xml_to_json(f)
         v['geo_data'] = l2c(locations)
-        # v['references'] = add_pubmed_to_refereces(v['references'])    
         v['references'] = add_pubmed_to_refereces(v)
         versions[version] = v
 

@@ -1,4 +1,4 @@
-#you need biopython to access this libary easily
+#you need biopython to access this library easily
 from Bio import Entrez
 from Bio import Medline
 from bs4 import BeautifulSoup
@@ -25,6 +25,9 @@ def get_info(pmid):
     handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline",
         retmode="text")
     records = Medline.parse(handle)
+
+    print "records ARE: " + str(records)
+
     for record in records:
         print("title:", record.get("TI", "?"))
         print("authors:", record.get("AU", "?"))
@@ -32,6 +35,22 @@ def get_info(pmid):
         print("abstract:", record.get("AB", "?"))
         print("publication type", record.get("PT", "?"))
         print("")
+
+def dict_pubmed_info(pmid):
+    pmid_info = {}
+    BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
+    handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline",
+        retmode="text")
+    records = Medline.parse(handle)
+    for record in records:
+        pmid_info['title'] = record.get("TI", "?")
+        pmid_info['authors'] = record.get("AU", "?")
+        pmid_info['abstract'] =  record.get("AB", "?")
+        pmid_info['link'] = BASE + pmid
+
+    print "title is: " + pmid_info['link']
+
+    return pmid_info
 
 def get_page(pmid):
     return BASE + pmid
@@ -51,5 +70,5 @@ def get_full_text(page):
 
 #Mini Tests
 #print(get_articles("organ"))
-#get_info('12657584')
-get_full_text(get_page('1896168'))
+dict_pubmed_info('12657584')
+# print get_full_text(get_page('1896168'))
