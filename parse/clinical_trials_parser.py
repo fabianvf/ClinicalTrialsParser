@@ -2,7 +2,9 @@ from glob import glob
 from lxml import etree
 import xmltodict
 import time
+import json
 from Bio import Entrez
+from Bio import Medline
 from bs4 import BeautifulSoup
 import requests
 
@@ -87,6 +89,7 @@ def scrape_pubmed_info(pmid):
 def get_pubmed_info(pmid):
     pmid_info = {}
     BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
+    Entrez.email = 'pjfan@live.unc.edu'
     handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline", retmode="text")
     records = Medline.parse(handle)
     for record in records:
@@ -100,13 +103,13 @@ def get_pubmed_info(pmid):
 def add_pubmed_to_references(nct_json):
     references = []
     for item in nct_json['clinical_study']:
-        if item == 'reference':
-            for element in nct_json['clincial_study']['reference']:
-                reference = {}
-                reference['citation'] = element['citation']
-                reference['PMID'] = element['PMID']
-                reference['info'] = get_pubmed_info(reference['PMID'])
-                references.append(reference)
+        if item == 'background':
+            for element in nct_json['clinical_study']['background']['reference']:
+           #     reference = {}
+           #     reference['citation'] = element['citation']
+           #     reference['PMID'] = element['PMID']
+           #     reference['info'] = get_pubmed_info(reference['PMID'])
+           #     references.append(reference)
 
     return references
 
@@ -145,5 +148,8 @@ def json_osf_format(nct_id):
     
     return json_osf
 
-print json_osf_format('NCT00000122')['versions']['20090916']['references']
+with open('test_json','w') as json_text:
+    json.dump(json_osf_format('NCT00000122'), json_text, indent=4, sort_keys=True)
 
+
+print get_pubmed_info('90086934')
