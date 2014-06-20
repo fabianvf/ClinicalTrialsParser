@@ -100,15 +100,20 @@ def get_pubmed_info(pmid):
 
 def add_pubmed_to_references(nct_json):
     references = []
-    for key in nct_json:
-        for item in nct_json:
-            if nct_json[item]['reference']:
-                for element in nct_json[item]['reference']:
-                    reference = {}
-                    reference['citation'] = element['citation']
-                    reference['PMID'] = element['PMID']
-                    reference['info'] = get_pubmed_info(reference['PMID'])
-                    references.append(reference)
+    refs = None
+    bg = nct_json.get('clinical_study').get('background')
+    if bg: 
+        refs = bg.get('reference')
+    if refs:
+        if not isinstance(refs, list):
+            refs = [refs]
+        for element in refs:
+            reference = {}
+            reference['citation'] = element.get('citation')
+            reference['PMID'] = element.get('PMID')
+            if reference['PMID']:
+                reference['info']  = get_pubmed_info(reference['PMID'])
+            references.append(reference)
 
     return references
 
@@ -126,7 +131,7 @@ def json_osf_format(nct_id):
         version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
         v, locations = xml_to_json(f)
         v['geo_data'] = l2c(locations)
-        v['references'] = add_pubmed_to_refereces(v)
+        v['references'] = add_pubmed_to_references(v)
         versions[version] = v
 
     json_osf = {

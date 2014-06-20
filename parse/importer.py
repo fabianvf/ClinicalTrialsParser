@@ -38,9 +38,9 @@ for trial in trials:
         continue
     raw = json.dumps(project)
 
-    print "Sending request"
     signature = get_project_signature(raw)
     headers = {'Content-type': 'application/json', 'Accept': 'text/plain', 'Authorization': 'OSF {0}'.format(signature)}
+    print "Sending request"
     r = requests.post(API_URL+'project/import/', data=raw, headers=headers)
     print "Request recieved"
     response = json.loads(r.text)
