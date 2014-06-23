@@ -48,5 +48,5 @@ def unzip_key_files():
     for zip_file in ziplist:
         os.remove(zip_file)
 # 
-save_key_zipfiles('key_studies.txt')
+save_key_zipfiles('key_ids.txt')
 unzip_key_files()
