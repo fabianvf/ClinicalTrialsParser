@@ -159,7 +159,7 @@ def json_osf_format(nct_id):
         v, locations = xml_to_json(f)
         v['clinical_study']['location'] = l2c(locations)
         v['clinical_study']['references'] = add_pubmed_to_references(v)
-        v['keyword'] = (v['clinical_study'].get('keyword') or []) + trial['keywords']
+        v['clinical_study']['keyword'] = ([v['clinical_study'].get('keyword')] or [])+trial['keywords']
         add_pubmed_to_references(v)
         versions[version] = v
 
