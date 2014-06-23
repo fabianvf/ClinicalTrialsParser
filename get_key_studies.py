@@ -13,7 +13,8 @@ def save_key_zipfiles(id_file):
     key_id_folder = 'ct_xml/'
 
     with open (id_file) as key_ids:
-            key_id_list = [line.strip() for line in key_ids]
+            key_id_list = [line.strip().replace('\xe2\x80\xa8', '' ) for line in key_ids]
+            print key_id_list
 
     base_url = 'http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=results&down_flds=shown&down_fmt=plain&id='
 
@@ -37,12 +38,15 @@ def unzip_key_files():
 
     # loop over all of the zip files in the updated catalog
     for filename in ziplist:
-        with zipfile.ZipFile(filename) as zf:
-            zf.extractall(key_zip_folder)
+        try:
+            with zipfile.ZipFile(filename) as zf:
+                zf.extractall(key_zip_folder)
+        except BadZipfile:
+            pass
 
     # now delete all the zip files! 
     for zip_file in ziplist:
         os.remove(zip_file)
-
+# 
 save_key_zipfiles('key_studies.txt')
 unzip_key_files()
