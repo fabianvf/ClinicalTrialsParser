@@ -2,16 +2,19 @@ from glob import glob
 from lxml import etree
 import xmltodict
 import time
-
+import json
+from Bio import Entrez
+from Bio import Medline
 from bs4 import BeautifulSoup
 import requests
 
 from location_to_coordinates import LocationToCoord as l2c
 
-#TODO: Should we remove the phase and locations finding code from the parse function? That information should be version specific? I already
-#removed the phase and location entries from the json that's produced by the json_osf_format() function.
+
 
 def get_locations(root):
+    """After opening an XML file with etree.parse(file_name).getroot(), the root is passed to this function 
+    and the location info is extracted from the XML."""    
     locations = []
     for entry in root.findall('location'):
         location_dict = {'name': None, 'zip': None, 'city': None, 'state': None, 'country': None}
@@ -29,8 +32,9 @@ def get_locations(root):
     return locations
  
 def parse(file_name):
+    """Used to extract information from an XML document from clinicaltrials.gov and to return Json.
+    (which is essentially the same format as a python dictionary.)"""
     trial = {}
-
     root = etree.parse(file_name).getroot()
     trial['id'] = root.find('id_info').find('nct_id').text
     trial['phase'] = root.find('phase').text
@@ -58,10 +62,21 @@ def parse(file_name):
     trial['date_processed'] = date_string.replace('ClinicalTrials.gov processed this data on ', '')
 
     trial['locations'] = get_locations(root)
+
+    trial['references'] = []
+    for entry in root.findall('reference'):
+        reference_dict = {}
+        reference_dict['citation'] = entry.find('citation').text
+        if entry.find('PMID') != None:
+            reference_dict['PMID'] = entry.find('PMID').text
+            reference_dict['article_info'] = get_pubmed_info(reference_dict['PMID'])
+        trial['references'].append(reference_dict)
     return trial
     
 
 def xml_to_json(xml_file):
+    """Converts xml to Json and returns a tuple containing the the Json object created from the XML 
+    and location data returned from processing the XML using get_locations."""
     tree = etree.parse(xml_file)
     xml_string = etree.tostring(tree)
     blob = xmltodict.parse(xml_string)
@@ -69,6 +84,7 @@ def xml_to_json(xml_file):
     return blob, locations
 
 def scrape_pubmed_info(pmid):
+    """Scrapes pumbed, SHOULD NOT BE USED."""
     BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
     pmid_info = {}
 
@@ -85,39 +101,46 @@ def scrape_pubmed_info(pmid):
     return pmid_info
 
 def get_pubmed_info(pmid):
+    """Retrieves article info from pubmed using Biopython's Entrez module. Need to insert a real email for the "Entrez.email" variable below."""
     pmid_info = {}
     BASE = 'http://www.ncbi.nlm.nih.gov/pubmed/'
-    handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline",
-        retmode="text")
+    Entrez.email = 'insert_email_here@email.com'
+    handle = Entrez.efetch(db="pubmed", id=pmid, rettype="medline", retmode="text")
     records = Medline.parse(handle)
     for record in records:
+        if record.get("id:"):
+            pmid_info['info'] = 'Outdated PMID: No article information could be retrieved at this time.'
+            continue
         pmid_info['title'] = record.get("TI", "?")
         pmid_info['authors'] = record.get("AU", "?")
         pmid_info['abstract'] =  record.get("AB", "?")
         pmid_info['link'] = BASE + pmid
-
     return pmid_info
 
 def add_pubmed_to_references(nct_json):
-    references = []
+    """Adds additional pubmed info to the references section of the version Json."""
     refs = None
     bg = nct_json.get('clinical_study').get('background')
     if bg: 
         refs = bg.get('reference')
+    if not bg:
+        bg = nct_json.get('clinical_study').get('results')
+        if bg:
+            refs = bg.get('reference')
     if refs:
         if not isinstance(refs, list):
             refs = [refs]
         for element in refs:
-            reference = {}
-            reference['citation'] = element.get('citation')
-            reference['PMID'] = element.get('PMID')
-            if reference['PMID']:
-                reference['info']  = get_pubmed_info(reference['PMID'])
-            references.append(reference)
+            PMID = element.get('medline_ui')
+            if PMID:
+                info  = get_pubmed_info(PMID)
+                element['article_info'] = info
 
-    return references
+
 
 def json_osf_format(nct_id):
+    """Takes a clinicaltrials.gov nct_id and returns json in a format containing info about the trial in a format
+    that can be imported by the OSF."""
     files = set([f.rstrip('-before').rstrip('-after') for f in glob('files/{0}/*.xml'.format(nct_id))])
     files = sorted(files, key=lambda v: time.mktime(time.strptime(v.split('/')[-1].rstrip('.xml').rstrip('-before').rstrip('-after').split('_')[-1], '%Y%m%d')))
 
@@ -133,6 +156,7 @@ def json_osf_format(nct_id):
         v['clinical_study']['location'] = l2c(locations)
         v['clinical_study']['references'] = add_pubmed_to_references(v)
         v['keyword'] = (v['clinical_study'].get('keyword') or [])+trial['keywords']
+        add_pubmed_to_references(v)
         versions[version] = v
 
     json_osf = {        
@@ -145,8 +169,13 @@ def json_osf_format(nct_id):
         "files": glob('files/{0}/*'.format(str(trial['id']))),
         "tags": ["clinicaltrial.gov"]+(trial.get('keywords') or []),
         "versions": versions,
-        "keywords": trial['keywords']
+        "keywords": trial['keywords'],
+        "references": trial['references']
     }
-
+        
     return json_osf
+
+
+
+
 
