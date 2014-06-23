@@ -4,6 +4,9 @@ html, body {
     min-height: 100%;
     margin:0px;
     padding: 0px;
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
 }
 body{
     background-color: rgb(233, 229, 212);

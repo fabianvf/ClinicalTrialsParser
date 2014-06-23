@@ -13,8 +13,8 @@ from location_to_coordinates import LocationToCoord as l2c
 
 
 def get_locations(root):
-   """After opening an XML file with etree.parse(file_name).getroot(), the root is passed to this function 
-   and the location info is extracted from the XML."""    
+    """After opening an XML file with etree.parse(file_name).getroot(), the root is passed to this function 
+    and the location info is extracted from the XML."""    
     locations = []
     for entry in root.findall('location'):
         location_dict = {'name': None, 'zip': None, 'city': None, 'state': None, 'country': None}
@@ -136,7 +136,6 @@ def json_osf_format(nct_id):
     files = set([f.rstrip('-before').rstrip('-after') for f in glob('files/{0}/*.xml'.format(nct_id))])
     files = sorted(files, key=lambda v: time.mktime(time.strptime(v.split('/')[-1].rstrip('.xml').split('_')[-1], '%Y%m%d')))
 
-    print files
 
     if len(files) == 0:
         return None
@@ -166,7 +165,6 @@ def json_osf_format(nct_id):
         "keywords": trial['keywords']
     }
         
-    # print 'json_osf version is: ' + str(json_osf['versions'])
     return json_osf
 
 
