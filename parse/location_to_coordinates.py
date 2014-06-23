@@ -14,9 +14,13 @@ def GetCoordinates(city, country, zip=None, state=None):
 
 
 def LocationToCoord(locations):
-    for location in locations:
+    if not isinstance(locations, list):
+        locations = [locations]
+    for location in locations:        
         coordinates = GetCoordinates(location['city'], location['country'], zip=str(location['zip']), state=location['state'])
-        location['latitude'] = coordinates['latitude']
-        location['longitude'] = coordinates['longitude']
+        location['geodata'] = {
+            'latitude': coordinates['latitude'],            
+            'longitude': coordinates['longitude']
+        }
     return locations
 

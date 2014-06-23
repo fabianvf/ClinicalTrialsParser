@@ -157,11 +157,13 @@ def json_osf_format(nct_id):
     for f in files:
         version = f.split('/')[-1].rstrip('.xml').split('_')[-1]
         v, locations = xml_to_json(f)
-        v['geo_data'] = l2c(locations)
+        v['clinical_study']['location'] = l2c(locations)
+        v['clinical_study']['references'] = add_pubmed_to_references(v)
+        v['keyword'] = (v['clinical_study'].get('keyword') or [])+trial['keywords']
         add_pubmed_to_references(v)
         versions[version] = v
 
-    json_osf = {
+    json_osf = {        
         "imported_from": "clinicaltrials.gov",
         "date_processed": trial['date_processed'],
         "contributors": trial['contributors'],
@@ -169,9 +171,7 @@ def json_osf_format(nct_id):
         "id": trial['id'],
         "title": trial['title'],
         "files": glob('files/{0}/*'.format(str(trial['id']))),
-        "tags": [
-            "clinical trial"
-        ],
+        "tags": ["clinicaltrial.gov"]+(trial.get('keywords') or []),
         "versions": versions,
         "keywords": trial['keywords'],
         "references": trial['references']
