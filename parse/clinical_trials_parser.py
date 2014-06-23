@@ -65,6 +65,15 @@ def parse(file_name):
     trial['date_processed'] = date_string.replace('ClinicalTrials.gov processed this data on ', '')
 
     trial['locations'] = get_locations(root)
+
+    trial['references'] = []
+    for entry in root.findall('reference'):
+        reference_dict = {}
+        reference_dict['citation'] = entry.find('citation').text
+        if entry.find('PMID') != None:
+            reference_dict['PMID'] = entry.find('PMID').text
+            reference_dict['article_info'] = get_pubmed_info(reference_dict['PMID'])
+        trial['references'].append(reference_dict)
     return trial
     
 
@@ -103,7 +112,7 @@ def get_pubmed_info(pmid):
     records = Medline.parse(handle)
     for record in records:
         if record.get("id:"):
-            pmid_info['info'] = 'No article information could be retrieved at this time.'
+            pmid_info['info'] = 'Outdated PMID: No article information could be retrieved at this time.'
             continue
         pmid_info['title'] = record.get("TI", "?")
         pmid_info['authors'] = record.get("AU", "?")
@@ -129,6 +138,8 @@ def add_pubmed_to_references(nct_json):
             if PMID:
                 info  = get_pubmed_info(PMID)
                 element['article_info'] = info
+
+
 
 def json_osf_format(nct_id):
     """Takes a clinicaltrials.gov nct_id and returns json in a format containing info about the trial in a format
@@ -162,7 +173,8 @@ def json_osf_format(nct_id):
             "clinical trial"
         ],
         "versions": versions,
-        "keywords": trial['keywords']
+        "keywords": trial['keywords'],
+        "references": trial['references']
     }
         
     return json_osf
