@@ -13,8 +13,8 @@ from location_to_coordinates import LocationToCoord as l2c
 
 
 def get_locations(root):
-   """After opening an XML file with etree.parse(file_name).getroot(), the root is passed to this function 
-   and the location info is extracted from the XML."""    
+    """After opening an XML file with etree.parse(file_name).getroot(), the root is passed to this function 
+    and the location info is extracted from the XML."""    
     locations = []
     for entry in root.findall('location'):
         location_dict = {'name': None, 'zip': None, 'city': None, 'state': None, 'country': None}
