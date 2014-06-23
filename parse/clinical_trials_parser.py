@@ -33,6 +33,9 @@ def parse(file_name):
 
     root = etree.parse(file_name).getroot()
     trial['id'] = root.find('id_info').find('nct_id').text
+    # # test!!
+    # print "trial IS is: " + trial['id']
+
     trial['phase'] = root.find('phase').text
     trial['description'] = root.find('brief_summary')[0].text
    
@@ -119,7 +122,9 @@ def add_pubmed_to_references(nct_json):
 
 def json_osf_format(nct_id):
     files = set([f.rstrip('-before').rstrip('-after') for f in glob('files/{0}/*.xml'.format(nct_id))])
-    files = sorted(files, key=lambda v: time.mktime(time.strptime(v.split('/')[-1].rstrip('.xml').rstrip('-before').rstrip('-after').split('_')[-1], '%Y%m%d')))
+    files = sorted(files, key=lambda v: time.mktime(time.strptime(v.split('/')[-1].rstrip('.xml').split('_')[-1], '%Y%m%d')))
+
+    print files
 
     if len(files) == 0:
         return None
@@ -128,7 +133,7 @@ def json_osf_format(nct_id):
 
     versions = {}
     for f in files:
-        version = f.split('/')[-1].rstrip('.xml').rstrip('-after').split('_')[-1]
+        version = f.split('/')[-1].rstrip('.xml').split('_')[-1]
         v, locations = xml_to_json(f)
         v['geo_data'] = l2c(locations)
         v['references'] = add_pubmed_to_references(v)
@@ -149,5 +154,8 @@ def json_osf_format(nct_id):
         "keywords": trial['keywords']
     }
         
+    # print 'json_osf version is: ' + str(json_osf['versions'])
     return json_osf
+
+# json_osf_format()
 
