@@ -3183,7 +3183,7 @@ kshf.BarChart.prototype = {
     //        var mmm = *(totalActiveTime_ms/timeZoomDiff)/10;
 
         if(maxDots>numOfItems*3 || totalActiveTime_pixLength===0){
-            this.dom.timeDots.style("fill","#616F7A");
+            this.dom.timeDots.style("fill","000");
             this.dom.timeDots.style("stroke","#EEE");
         } else if(maxDots>numOfItems*1.5){
             this.dom.timeDots.style("fill","url(#dotGradient100)");

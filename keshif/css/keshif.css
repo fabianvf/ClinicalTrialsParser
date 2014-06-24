@@ -294,7 +294,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   pointer-events: none;
 }
 .kshf .selection_bar rect:hover {
-  stroke: orangered;
+  stroke: red;
 }
 .kshf g.x_axis line {
   opacity: 1;
@@ -318,7 +318,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   -moz-transition: all 100ms linear;
   -o-transition: all 100ms linear;
   transition: all 100ms linear;
-  fill:green;
+  fill:#AAD4F7;
 }
 .kshf .timeDot[display=false] {
   pointer-events: none;
@@ -326,7 +326,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   opacity: 0.2;
 }
 .kshf .timeDot[display=true]:hover {
-  stroke: orangered !important;
+  stroke: red !important;
   stroke-width: 2;
 }
 .kshf .timeDot[highlight=true] {
@@ -355,7 +355,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   stroke-width: 2;
 }
 .kshf g.timeAxisGroup .filter_handle path:hover {
-  stroke: orangered;
+  stroke: red;
 }
 .kshf g.timeAxisGroup .filter_handle line {
   stroke: gray;
@@ -856,7 +856,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   display: none;
 }
 .kshf g.row text.filter_add_more:hover {
-  fill: orangered;
+  fill: red;
 }
 .kshf g.row text.filter_add_more.add {
   cursor: cell;
@@ -876,14 +876,14 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 }
 .kshf g.row[noitems=false][highlight=true] rect.active {
   pointer-events: none;
-  stroke: orangered;
+  stroke: red;
   stroke-width: 2;
 }
 .kshf g.row[noitems=false][highlight=true] text:not(.filter_add_more) {
-  fill: orangered !important;
+  fill: red !important;
 }
 .kshf g.row[noitems=false][highlight=true] .row_bar_line {
-  stroke: orangered;
+  stroke: red;
 }
 .kshf g.row rect.rowBar {
   fill: #AAD4F7;
@@ -922,11 +922,11 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   position: relative;
 }
 .kshf div.listDiv div.itemLinks .captureEvents:hover .itemCount {
-  color: orangered;
+  color: red;
 }
 .kshf div.listDiv div.itemLinks .captureEvents:hover .itemBar {
   margin: 0px;
-  border: solid 2px orangered;
+  border: solid 2px red;
 }
 .kshf div.listDiv div.itemLinks .captureEvents[count="0"] {
   pointer-events: none;
