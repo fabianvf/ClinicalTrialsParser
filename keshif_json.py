@@ -4,7 +4,10 @@ import requests
 import json
 import io
 
-osf_text = requests.get("http://localhost:8000/osf_api_output.json")
+api_json_url = "http://localhost:8000/osf_api_output.json"
+ct_base_url = "http://clinicaltrials.gov/ct2/show/"
+
+osf_text = requests.get(api_json_url)
 
 osf_json = osf_text.json()
 
@@ -17,9 +20,6 @@ for item in osf_json:
 
 for item in osf_json:
     osf_urls.append((item.get('osf_url')))
-
-print osf_urls
-
 
 json_for_keshif = []
 
@@ -40,6 +40,7 @@ for index, item in enumerate(json_for_keshif):
     json_element["phase"] = json_for_keshif[index]["phase"]
     json_element["title"] = json_for_keshif[index]["title"]["textblock"]
     json_element["osf_url"] = "localhost:5000" + osf_urls[index]
+    json_element["ct_url"] = ct_base_url + str(json_for_keshif[index]["nct_id"])
 
     real_json.append(json_element)
 
