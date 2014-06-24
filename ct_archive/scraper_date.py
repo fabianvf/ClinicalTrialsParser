@@ -8,7 +8,7 @@ sys.setdefaultencoding('utf-8')
 
 def getIDs():
     allIds = []
-    fileIds = open('all_ids.txt', 'r')
+    fileIds = open('../key_ids.txt', 'r')
 
     for line in fileIds:
         lineId = line.split()

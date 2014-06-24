@@ -39,10 +39,12 @@ for id in allIds:
     for date in dates:
         reqStudy = requests.get('http://clinicaltrials.gov/archive/'+id+'/'+date)
 
-        if not os.path.exists("ct_studies/"+id):
-            os.makedirs("ct_studies/"+id)
+        formatted_date = date.replace('_', '')
 
-        f = open("ct_studies/"+id+"/"+date+".html", 'w')
+        if not os.path.exists("../parse/files/"+id):
+            os.makedirs("../parse/files/"+id)
+
+        f = open("../parse/files/"+id+"/" + id + "_" + formatted_date+".html", 'w')
         f.write(reqStudy.text)
         f.close()
         print id+" studies collected."

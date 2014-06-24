@@ -73,11 +73,11 @@ def get_directory_list(html_location):
 def get_archive_xml():
     archive_directories = get_directory_list('./ct_changes/')
     directory_of_html = './ct_changes/'
-    directory_for_xml = './ct_changes_xml/'
+    directory_for_xml = '../parse/files/'
 
     for directory in archive_directories:
-        if not os.path.exists(directory_for_xml + '/' + directory):
-            os.makedirs(directory_for_xml + directory)
+    #     if not os.path.exists(directory_for_xml + '/' + directory):
+    #         os.makedirs(directory_for_xml + directory)
 
         # get a list of all HTML files in each HTML study directory
         html_files = glob.glob(directory_of_html + directory + '/*.html')
