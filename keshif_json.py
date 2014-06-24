@@ -35,7 +35,7 @@ for index, item in enumerate(json_for_keshif):
     json_element["nct_id"] = json_for_keshif[index]["nct_id"]
     json_element["status"] = json_for_keshif[index]["status"]["type"]
     json_element["initial_release_date"] = json_for_keshif[index]["initial_release_date"]
-    json_element["description"] = json_for_keshif[index]["description"]
+    json_element["description"] = json_for_keshif[index]["summary"]["textblock"]
     json_element["condition"] = json_for_keshif[index]["condition"]
     json_element["phase"] = json_for_keshif[index]["phase"]
     json_element["title"] = json_for_keshif[index]["title"]["textblock"]

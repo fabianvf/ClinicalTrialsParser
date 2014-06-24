@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Clinical Trials Overview</title><meta charset="utf-8">
+        <script type="text/javascript" src="./js/jquery/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="./js/d3.v3/d3.v3.js" charset="utf-8"></script>
+        <script type="text/javascript" src="./js/keshif.js" charset="utf-8"></script>
+        <link rel="stylesheet" href="./css/style.css"/ type="text/css">
+        <link rel="stylesheet" href="./css/keshif.css"/ type="text/css">
+        <script type="text/javascript" src="./js/moment.min.js" charset="utf-8"></script>
+
+        <script type="text/javascript">
+
+var tableName = "trials";
+
+var trialCols = {
+    initial_release_date: 0,
+    description: 1,
+    nct_id: 2,
+    title: 3,
+    status: 4,
+    condition: 5,
+    phase: 6,
+};
+
+function loadData(browser){
+    browser.primaryTableName = tableName;
+
+    kshf.dt_ColNames[tableName] = trialCols;
+    kshf.dt[tableName] = [];
+    var arr = kshf.dt[tableName];
+    var i;
+
+    $.ajax( {
+        url: "http://localhost:8000/generated_keshif_json.json",
+        dataType: "json",
+        success: function(data){
+            var trials = data;
+            
+            // var url_base = "http://www.clinicaltrials.gov/ct2/show/";
+
+            for(i=0; i<trials.length; i++){
+                var p = trials[i];
+                var c = [];
+                c[trialCols.initial_release_date] = p.initial_release_date;
+                c[trialCols.description] = p.description;
+                c[trialCols.nct_id] = p.nct_id;
+                c[trialCols.title] = p.title;
+                c[trialCols.status] = p.status;
+                c[trialCols.condition] = p.condition;
+                c[trialCols.phase] = p.phase;
+                c[trialCols.url] = p.osf_url;
+                var item = new kshf.Item(c,trialCols.nct_id, true);
+                item.browser = browser;
+                arr.push(item);
+            }
+
+            browser.items = kshf.dt[tableName];
+            browser.itemsSelectedCt = kshf.dt[tableName].length;
+
+            var id_table = {};
+            for(j=0; j<arr.length ;j++) {
+                var r = arr[j];
+                id_table[r.id()] = r; 
+            }
+            kshf.dt_id[tableName] = id_table;
+
+            // finish loading....
+            d3.select(".kshf.layout_infobox div.status_text span").text("Creating browser");
+            d3.select(".kshf.layout_infobox div.status_text div").text("");
+            window.setTimeout(function() { browser.loadCharts(); }, 50);
+        }
+    });
+}
+
+$(document).ready( function(){
+    browser = new kshf.Browser({
+        chartTitle: "Clinical Trials Data",
+        domID : "#chart_div",
+        dirRoot: "../",
+        categoryTextWidth: 150,
+        showDataSource : false,
+        source: {
+            callback : loadData,
+            sheets : [ {name:tableName, id:"nct_id"}]
+        },
+        charts : [
+            {
+            facetTitle: "phase",
+            timeTitle: "Date",
+            timeItemMap : function(d){ return new Date(moment(d.data[trialCols['initial_release_date']])); },
+            selectType: "Single",
+            textFilter: 'about'
+            },
+            
+            { facetTitle: "condition"},
+                
+            { facetTitle: "status"}
+        ],
+
+        list: {
+            sortColWidth: 100,
+            sortingOpts : [ { name: 'nct_id' } ],
+            textSearch : "title",
+            contentFunc : function(d){
+                var str="";
+                // title
+                str+="<b>" + d.data[trialCols.title] + "</b><br>";
+                // content
+                str+=d.data[trialCols.description];
+                // link
+                str+="<a target=\"_blank\" href=\""+d.data[trialCols.url]+"\" "+
+                        "onclick=\"sendLog(CATID.ItemBased,ACTID_ITEM.FollowURL,{itemID:"+d.id()+"})\">"+
+                    "<img src=\"img/url.png\" style=\"width: 15px;height: 15px;padding-left: 5px;\"></a>";
+                return str;
+            }
+        }
+    });
+});
+
+</script>
+    <style>
+        div.listItem{
+            padding-bottom: 4px;
+        }
+        #chart_div {
+            width:800px;
+            height:700px;
+        }
+    </style>
+    </head>
+    <body>
+
+        <div class="contents"><div id="chart_div"></div></div>
+    </body>
+</html>

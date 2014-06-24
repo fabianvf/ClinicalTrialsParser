@@ -10,7 +10,7 @@ sys.setdefaultencoding('utf-8')
 
 def getIDs():
     allIds = []
-    fileIds = open('partial_ids.txt', 'r')
+    fileIds = open('../key_ids.txt', 'r')
 
     for line in fileIds:
         lineId = line.split()
@@ -55,7 +55,9 @@ for id in allIds:
         if not os.path.exists("ct_changes/"+id):
             os.makedirs("ct_changes/"+id)
 
-        f = open("ct_changes/"+id+"/"+date+".html", 'w')
+        formatted_date = date.replace('_', '')
+
+        f = open("ct_changes/"+id+"/"+id + '_' + formatted_date+".html", 'w')
         f.write(reqChanges.text)
         f.close()
         print id+" changes collected."

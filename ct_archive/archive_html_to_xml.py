@@ -13,7 +13,8 @@ def archive_to_xml(html_file):
 
     xml_name = str(html_file).replace('.html','').replace('./ct_changes/', '')
     id_name = re.search('NCT[0-9]{8}', xml_name).group(0)
-    file_date = re.search('[0-9]{4}_[0-9]{2}_[0-9]{2}', xml_name).group(0).replace('_', '')
+    # this might not be a great re...
+    file_date = re.search('[12][0-9]{3}[0-9]{2}[0-9]{2}', html_file).group(0)
 
     # get the content of the html input file
     soup = BeautifulSoup(open(html_file))
@@ -93,7 +94,7 @@ def get_archive_xml():
                         after_dict['id_name'] + '/', after_dict)
 
 # archive_to_xml('ct_changes/NCT00077454/2005_09_09.html')
-# archive_to_xml('./ct_changes/NCT00000122/2005_06_30.html')
+# archive_to_xml('./ct_changes/NCT00001300/NCT00001300_20080303.html')
 
 get_archive_xml()
 
